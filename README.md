@@ -1,4 +1,4 @@
-# ClinicalTextVis-Workshop - Clinical Text Visualisation Workshop
+# ClinicalTextVis - Clinical Text Visualisation Workshop
 
 Let's visualise and celebrate!
 
