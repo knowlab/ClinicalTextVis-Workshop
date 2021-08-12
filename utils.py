@@ -46,6 +46,19 @@ def get_umls_SemEHR(json_output_str):
             list_umls_desc.append((umls_code,umls_label))
     return list_umls_desc
     
+def get_sentences_offset_from_SemEHR(json_output_str):
+    '''get the sentence offsets from SemEHR
+    input: the JSON string of the sequence processed by *SemEHR*
+    output: the list of offsets for the sentences, each offset is a tuple of starting and ending positions'''
+    json_output = json.loads(json_output_str)
+    anns_sents = json_output['annotations'][2] # get the sentence annotations
+    list_sent_offsets = []
+    for ann in anns_sents:
+        pos_start = ann["startNode"]["offset"]
+        pos_end = ann["endNode"]["offset"]        
+        list_sent_offsets.append((pos_start,pos_end))
+    return list_sent_offsets
+    
 if __name__ == '__main__': 
     subj_id = '0'
     row_id = '0'
@@ -57,3 +70,5 @@ if __name__ == '__main__':
     print(get_umls_SemEHR(read_JSON_file('./SemEHR_processed_jsons/%s' % json_doc_file_name)))
     
     print('\nNB: there are repeated UMLS in the lists, since there are many mentions of the same disease!')
+    
+    print(get_sentences_offset_from_SemEHR(read_JSON_file('./SemEHR_processed_jsons/%s' % json_doc_file_name)))
