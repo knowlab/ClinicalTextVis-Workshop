@@ -15,6 +15,18 @@ def read_JSON_file(filename):
         print(filename, 'not found')
         json_output_str = '{}'
     return json_output_str
+
+def get_ICD10_MedCAT(json_output_str):
+    '''get the list of ICD10 and their descriptions from the JSON output
+    input: the JSON string of the sequence processed by *SemEHR*
+    output: the list of ICD10, each is a tuple of the code and its description'''
+    json_output = json.loads(json_output_str)
+    dict_ent = json_output['entities'] if json_output.get('entities', None) != None else [] # list of unique entities matched to the sequence # if there is no mentions detected, then set it as an empty list [].
+    list_icd10_desc = []
+    for ent_unique in dict_ent.values():
+        for icd10_ann in ent_unique['icd10']:
+            list_icd10_desc.append((icd10_ann['chapter'],icd10_ann['name']))
+    return list_icd10_desc
     
 def get_umls_MedCAT(json_output_str):
     '''get the list of UMLS, i.e. CUI and preferred terms from the JSON output
@@ -63,10 +75,11 @@ if __name__ == '__main__':
     subj_id = '0'
     row_id = '0'
     json_doc_file_name = 'doc-%s-%s.json' % (subj_id, row_id)
-    print('MedCAT results:')
+    print('MedCAT results (disease or syndrome) - UMLS:')
     print(get_umls_MedCAT(read_JSON_file('./MedCAT_processed_jsons/%s' % json_doc_file_name)))
-    print()
-    print('SemEHR results - with negation, experiencer, and temporality filters:')
+    print('\nMedCAT results (disease or syndrome) - ICD 10:')
+    print(get_ICD10_MedCAT(read_JSON_file('./MedCAT_processed_jsons/%s' % json_doc_file_name)))
+    print('\nSemEHR results - with semantic type (as disease or syndrome), negation (as positive), experiencer (as patient), and temporality (as recent) filters:')
     print(get_umls_SemEHR(read_JSON_file('./SemEHR_processed_jsons/%s' % json_doc_file_name)))
     
     print('\nNB: there are repeated UMLS in the lists, since there are many mentions of the same disease!')
