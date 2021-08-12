@@ -11,4 +11,4 @@ All clinical notes are in [`noteevents.csv`](https://github.com/knowlab/Clinical
 
 Some quick [preprocessing codes](https://colab.research.google.com/drive/1nQ3H7plYoOyC6MzqxECbm02oxoY6F3ZL#scrollTo=D1mjVdNzcx3L) from MedCAT.
 
-MedCAT and SemEHR annotations added, see the corresponding folders!
+MedCAT and SemEHR annotations added, with helper functions [`utils.py`](https://github.com/knowlab/ClinicalTextVis-Workshop/blob/main/utils.py) provided see the corresponding folders!
