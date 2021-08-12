@@ -1,0 +1,377 @@
+{
+  "entities": {
+    "5": {
+      "pretty_name": "Paresthesia",
+      "cui": "C0030554",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tingling",
+      "detected_name": "tingling",
+      "acc": 0.8056713764844038,
+      "context_similarity": 0.8056713764844038,
+      "start": 191,
+      "end": 199,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-158228009",
+        "S-206857001",
+        "S-91019004"
+      ],
+      "id": 5,
+      "meta_anns": {}
+    },
+    "13": {
+      "pretty_name": "Pharyngitis",
+      "cui": "C0031350",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "throat infection",
+      "detected_name": "throat~infection",
+      "acc": 0.6014595007704042,
+      "context_similarity": 0.6014595007704042,
+      "start": 444,
+      "end": 460,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-141458004",
+        "S-164261009",
+        "S-37616004",
+        "S-405737000"
+      ],
+      "id": 13,
+      "meta_anns": {}
+    },
+    "29": {
+      "pretty_name": "Lymphoid interstitial pneumonia",
+      "cui": "C0264511",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lip",
+      "detected_name": "lip",
+      "acc": 0.12893082110080895,
+      "context_similarity": 0.12893082110080895,
+      "start": 922,
+      "end": 925,
+      "icd10": [
+        {
+          "chapter": "J84.2",
+          "name": "Lymphoid interstitial pneumonia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-44274007"
+      ],
+      "id": 29,
+      "meta_anns": {}
+    },
+    "51": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disorder",
+      "detected_name": "disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1355,
+      "end": 1363,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 51,
+      "meta_anns": {}
+    },
+    "61": {
+      "pretty_name": "Trismus",
+      "cui": "C0041105",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "trismus",
+      "detected_name": "trismus",
+      "acc": 0.8519192038427517,
+      "context_similarity": 0.8519192038427517,
+      "start": 1594,
+      "end": 1601,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-163644005",
+        "S-206809007",
+        "S-235108006",
+        "S-87866006"
+      ],
+      "id": 61,
+      "meta_anns": {}
+    },
+    "100": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obese",
+      "detected_name": "obese",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2431,
+      "end": 2436,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 100,
+      "meta_anns": {}
+    },
+    "136": {
+      "pretty_name": "",
+      "cui": "C0395887",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tympanosclerosis",
+      "detected_name": "tympanosclerosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3113,
+      "end": 3129,
+      "icd10": [
+        {
+          "chapter": "H74.0",
+          "name": "Tympanosclerosis"
+        },
+        {
+          "chapter": "H74.09",
+          "name": "Tympanosclerosis, unspecified ear"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155253008",
+        "S-194328009",
+        "S-194329001",
+        "S-23606001",
+        "S-267768008"
+      ],
+      "id": 136,
+      "meta_anns": {}
+    },
+    "138": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "erythema",
+      "detected_name": "erythema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3140,
+      "end": 3148,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 138,
+      "meta_anns": {}
+    },
+    "148": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "erythema",
+      "detected_name": "erythema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3299,
+      "end": 3307,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 148,
+      "meta_anns": {}
+    },
+    "152": {
+      "pretty_name": "Dental caries",
+      "cui": "C0011334",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cavity",
+      "detected_name": "cavity",
+      "acc": 0.22652877243670222,
+      "context_similarity": 0.22652877243670222,
+      "start": 3321,
+      "end": 3327,
+      "icd10": [
+        {
+          "chapter": "K02",
+          "name": "Dental caries"
+        },
+        {
+          "chapter": "K02.9",
+          "name": "Dental caries, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155632007",
+        "S-196307002",
+        "S-80967001"
+      ],
+      "id": 152,
+      "meta_anns": {}
+    },
+    "181": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adenopathy",
+      "detected_name": "adenopathy",
+      "acc": 0.49607302113966967,
+      "context_similarity": 0.49607302113966967,
+      "start": 3874,
+      "end": 3884,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 181,
+      "meta_anns": {}
+    },
+    "204": {
+      "pretty_name": "Paresthesia",
+      "cui": "C0030554",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "paresthesia",
+      "detected_name": "paresthesia",
+      "acc": 0.38527448267381137,
+      "context_similarity": 0.38527448267381137,
+      "start": 4419,
+      "end": 4430,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-158228009",
+        "S-206857001",
+        "S-91019004"
+      ],
+      "id": 204,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

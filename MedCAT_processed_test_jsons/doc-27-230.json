@@ -1,0 +1,74 @@
+{
+  "entities": {
+    "0": {
+      "pretty_name": "Colonic Diseases",
+      "cui": "C0009373",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "colon",
+      "detected_name": "colon",
+      "acc": 0.8207821923372355,
+      "context_similarity": 0.8207821923372355,
+      "start": 86,
+      "end": 91,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-128524007"
+      ],
+      "id": 0,
+      "meta_anns": {}
+    },
+    "11": {
+      "pretty_name": "Colonic Diseases",
+      "cui": "C0009373",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "colon",
+      "detected_name": "colon",
+      "acc": 0.7431467448532928,
+      "context_similarity": 0.7431467448532928,
+      "start": 131,
+      "end": 136,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-128524007"
+      ],
+      "id": 11,
+      "meta_anns": {}
+    },
+    "26": {
+      "pretty_name": "",
+      "cui": "C0577034",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "rectal lesions",
+      "detected_name": "rectal~lesion",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 410,
+      "end": 424,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-300312006"
+      ],
+      "id": 26,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

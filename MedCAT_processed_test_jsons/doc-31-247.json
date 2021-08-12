@@ -1,0 +1,176 @@
+{
+  "entities": {
+    "20": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "DM",
+      "detected_name": "dm",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 505,
+      "end": 507,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 20,
+      "meta_anns": {}
+    },
+    "21": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "HTN",
+      "detected_name": "htn",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 509,
+      "end": 512,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 21,
+      "meta_anns": {}
+    },
+    "22": {
+      "pretty_name": "Chronic Obstructive Airway Disease",
+      "cui": "C0024117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "COPD",
+      "detected_name": "copd",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 514,
+      "end": 518,
+      "icd10": [
+        {
+          "chapter": "J44.9",
+          "name": "Chronic obstructive pulmonary disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13645005",
+        "S-155565006",
+        "S-155569000",
+        "S-155585005",
+        "S-155617000",
+        "S-195935004",
+        "S-195948000",
+        "S-196003006",
+        "S-413846005"
+      ],
+      "id": 22,
+      "meta_anns": {}
+    },
+    "23": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "CAD",
+      "detected_name": "cad",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 520,
+      "end": 523,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 23,
+      "meta_anns": {}
+    },
+    "57": {
+      "pretty_name": "Acute respiratory distress",
+      "cui": "C0748355",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "acute respiratory distress",
+      "detected_name": "acute~respiratory~distress",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1178,
+      "end": 1204,
+      "icd10": [
+        {
+          "chapter": "R06.03",
+          "name": "Acute respiratory distress"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-111281007",
+        "S-373895009"
+      ],
+      "id": 57,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

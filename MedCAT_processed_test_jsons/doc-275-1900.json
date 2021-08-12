@@ -1,0 +1,264 @@
+{
+  "entities": {
+    "4": {
+      "pretty_name": "Diabetes Mellitus, Non-Insulin-Dependent",
+      "cui": "C0011860",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "type 2 diabetes",
+      "detected_name": "type~2~diabetes",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 164,
+      "end": 179,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Non-insulin-dependent diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154672006",
+        "S-190323008",
+        "S-190384004",
+        "S-267468009",
+        "S-44054006"
+      ],
+      "id": 4,
+      "meta_anns": {}
+    },
+    "7": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "DIABETES",
+      "detected_name": "diabetes",
+      "acc": 0.7372287120586769,
+      "context_similarity": 0.7372287120586769,
+      "start": 228,
+      "end": 236,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 7,
+      "meta_anns": {}
+    },
+    "9": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.7357468347273838,
+      "context_similarity": 0.7357468347273838,
+      "start": 256,
+      "end": 264,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 9,
+      "meta_anns": {}
+    },
+    "28": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.33560453939374807,
+      "context_similarity": 0.33560453939374807,
+      "start": 565,
+      "end": 573,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 28,
+      "meta_anns": {}
+    },
+    "34": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.31847520662028106,
+      "context_similarity": 0.31847520662028106,
+      "start": 664,
+      "end": 672,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 34,
+      "meta_anns": {}
+    },
+    "41": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes mellitus",
+      "detected_name": "diabetes~mellitus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 951,
+      "end": 968,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 41,
+      "meta_anns": {}
+    },
+    "58": {
+      "pretty_name": "Skin Erosion",
+      "cui": "C3887524",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "skin breakdown",
+      "detected_name": "skin~breakdown",
+      "acc": 0.5810347228714814,
+      "context_similarity": 0.5810347228714814,
+      "start": 1543,
+      "end": 1557,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-93448009"
+      ],
+      "id": 58,
+      "meta_anns": {}
+    },
+    "86": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.2432030343706982,
+      "context_similarity": 0.2432030343706982,
+      "start": 2330,
+      "end": 2338,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 86,
+      "meta_anns": {}
+    },
+    "94": {
+      "pretty_name": "Hypoglycemia",
+      "cui": "C0020615",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "low blood sugar",
+      "detected_name": "low~blood~sugar",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2549,
+      "end": 2564,
+      "icd10": [
+        {
+          "chapter": "E16.2",
+          "name": "Hypoglycaemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154691006",
+        "S-154693009",
+        "S-190433001",
+        "S-190436009",
+        "S-237630007",
+        "S-271327008",
+        "S-302866003",
+        "S-66694000"
+      ],
+      "id": 94,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

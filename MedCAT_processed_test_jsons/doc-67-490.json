@@ -1,0 +1,260 @@
+{
+  "entities": {
+    "25": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "condition",
+      "detected_name": "condition",
+      "acc": 0.41460731957542346,
+      "context_similarity": 0.41460731957542346,
+      "start": 444,
+      "end": 453,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 25,
+      "meta_anns": {}
+    },
+    "30": {
+      "pretty_name": "Hypercholesterolemia",
+      "cui": "C0020443",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "elevated cholesterol",
+      "detected_name": "elevated~cholesterol",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 627,
+      "end": 647,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-13644009",
+        "S-154740003",
+        "S-267500001"
+      ],
+      "id": 30,
+      "meta_anns": {}
+    },
+    "31": {
+      "pretty_name": "Hypercholesterolemia",
+      "cui": "C0020443",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "elevated cholesterol",
+      "detected_name": "elevated~cholesterol",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 671,
+      "end": 691,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-13644009",
+        "S-154740003",
+        "S-267500001"
+      ],
+      "id": 31,
+      "meta_anns": {}
+    },
+    "65": {
+      "pretty_name": "Myocardial Infarction",
+      "cui": "C0027051",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "heart attack",
+      "detected_name": "heart~attack",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1104,
+      "end": 1116,
+      "icd10": [
+        {
+          "chapter": "I22",
+          "name": "Subsequent ST elevation (STEMI) and non-ST elevation (NSTEMI) myocardial infarction"
+        },
+        {
+          "chapter": "I21",
+          "name": "Acute myocardial infarction"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155304006",
+        "S-194796000",
+        "S-22298006",
+        "S-233824008",
+        "S-266288001",
+        "S-66514008"
+      ],
+      "id": 65,
+      "meta_anns": {}
+    },
+    "114": {
+      "pretty_name": "Gingival Hypertrophy",
+      "cui": "C0017567",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gingival,hypertrophy",
+      "detected_name": "gingival~hypertrophy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2112,
+      "end": 2132,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-441787004",
+        "S-54711002"
+      ],
+      "id": 114,
+      "meta_anns": {}
+    },
+    "123": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adenopathy",
+      "detected_name": "adenopathy",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2241,
+      "end": 2251,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 123,
+      "meta_anns": {}
+    },
+    "207": {
+      "pretty_name": "Varicosity",
+      "cui": "C0042345",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "varicosities",
+      "detected_name": "varicosity",
+      "acc": 0.5481463021742905,
+      "context_similarity": 0.5481463021742905,
+      "start": 4267,
+      "end": 4279,
+      "icd10": [
+        {
+          "chapter": "I83.90",
+          "name": "Asymptomatic varicose veins of unspecified lower extremity"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128060009",
+        "S-12856003",
+        "S-155468006",
+        "S-155482006",
+        "S-234053000",
+        "S-266331000",
+        "S-276504003",
+        "S-399989005"
+      ],
+      "id": 207,
+      "meta_anns": {}
+    },
+    "254": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymphadenopathy",
+      "detected_name": "lymphadenopathy",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 5046,
+      "end": 5061,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 254,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

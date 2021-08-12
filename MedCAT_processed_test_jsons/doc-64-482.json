@@ -1,0 +1,101 @@
+{
+  "entities": {
+    "1": {
+      "pretty_name": "Gestational Diabetes",
+      "cui": "C0085207",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gestational diabetes",
+      "detected_name": "gestational~diabete",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 82,
+      "end": 102,
+      "icd10": [
+        {
+          "chapter": "O24.4",
+          "name": "Diabetes mellitus arising in pregnancy"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-11687002",
+        "S-199232003",
+        "S-237629002",
+        "S-359964007",
+        "S-393568003"
+      ],
+      "id": 1,
+      "meta_anns": {}
+    },
+    "25": {
+      "pretty_name": "Gestational Diabetes",
+      "cui": "C0085207",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gestational diabetes",
+      "detected_name": "gestational~diabete",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1157,
+      "end": 1177,
+      "icd10": [
+        {
+          "chapter": "O24.4",
+          "name": "Diabetes mellitus arising in pregnancy"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-11687002",
+        "S-199232003",
+        "S-237629002",
+        "S-359964007",
+        "S-393568003"
+      ],
+      "id": 25,
+      "meta_anns": {}
+    },
+    "29": {
+      "pretty_name": "Gestational Diabetes",
+      "cui": "C0085207",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gestational diabetes",
+      "detected_name": "gestational~diabete",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1267,
+      "end": 1287,
+      "icd10": [
+        {
+          "chapter": "O24.4",
+          "name": "Diabetes mellitus arising in pregnancy"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-11687002",
+        "S-199232003",
+        "S-237629002",
+        "S-359964007",
+        "S-393568003"
+      ],
+      "id": 29,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

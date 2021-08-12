@@ -1,0 +1,110 @@
+{
+  "entities": {
+    "34": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1302,
+      "end": 1314,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 34,
+      "meta_anns": {}
+    },
+    "35": {
+      "pretty_name": "Hyperlipidemia",
+      "cui": "C0020473",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hyperlipidemia",
+      "detected_name": "hyperlipidemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1319,
+      "end": 1333,
+      "icd10": [
+        {
+          "chapter": "E78.5",
+          "name": "Hyperlipidaemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154739000",
+        "S-154743001",
+        "S-190782002",
+        "S-267499005",
+        "S-55822004"
+      ],
+      "id": 35,
+      "meta_anns": {}
+    },
+    "63": {
+      "pretty_name": "Heart Diseases",
+      "cui": "C0018799",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "heart disease",
+      "detected_name": "heart~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1682,
+      "end": 1695,
+      "icd10": [
+        {
+          "chapter": "I51.9",
+          "name": "Heart disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155263000",
+        "S-194707003",
+        "S-195152001",
+        "S-266275004",
+        "S-266311004",
+        "S-56265001"
+      ],
+      "id": 63,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,906 @@
+{
+  "entities": {
+    "27": {
+      "pretty_name": "Cardiac Arrest",
+      "cui": "C0018790",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "asystole",
+      "detected_name": "asystole",
+      "acc": 0.1951880005059657,
+      "context_similarity": 0.1951880005059657,
+      "start": 657,
+      "end": 665,
+      "icd10": [
+        {
+          "chapter": "I46",
+          "name": "Cardiac arrest"
+        },
+        {
+          "chapter": "I46.9",
+          "name": "Cardiac arrest, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155372006",
+        "S-195085006",
+        "S-195090009",
+        "S-251189000",
+        "S-30298009",
+        "S-309810002",
+        "S-397829000",
+        "S-397912004",
+        "S-410429000"
+      ],
+      "id": 27,
+      "meta_anns": {}
+    },
+    "33": {
+      "pretty_name": "Electromechanical dissociation",
+      "cui": "C0340861",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pulseless electrical activity",
+      "detected_name": "pulseless~electrical~activity",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 788,
+      "end": 817,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-195089000",
+        "S-234172002"
+      ],
+      "id": 33,
+      "meta_anns": {}
+    },
+    "48": {
+      "pretty_name": "",
+      "cui": "C0030591",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "episodes of ventricular tachycardia",
+      "detected_name": "episode~of~ventricular~tachycardia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1115,
+      "end": 1150,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155370003",
+        "S-195075005",
+        "S-66657009"
+      ],
+      "id": 48,
+      "meta_anns": {}
+    },
+    "51": {
+      "pretty_name": "",
+      "cui": "C0232197",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "fibrillation",
+      "detected_name": "fibrillation",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1151,
+      "end": 1163,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-40593004"
+      ],
+      "id": 51,
+      "meta_anns": {}
+    },
+    "52": {
+      "pretty_name": "Cardiac Arrest",
+      "cui": "C0018790",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "asystole",
+      "detected_name": "asystole",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1211,
+      "end": 1219,
+      "icd10": [
+        {
+          "chapter": "I46",
+          "name": "Cardiac arrest"
+        },
+        {
+          "chapter": "I46.9",
+          "name": "Cardiac arrest, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155372006",
+        "S-195085006",
+        "S-195090009",
+        "S-251189000",
+        "S-30298009",
+        "S-309810002",
+        "S-397829000",
+        "S-397912004",
+        "S-410429000"
+      ],
+      "id": 52,
+      "meta_anns": {}
+    },
+    "68": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "erythema",
+      "detected_name": "erythema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1555,
+      "end": 1563,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 68,
+      "meta_anns": {}
+    },
+    "112": {
+      "pretty_name": "Atherosclerosis",
+      "cui": "C0004153",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "atherosclerosis",
+      "detected_name": "atherosclerosis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2914,
+      "end": 2929,
+      "icd10": [
+        {
+          "chapter": "I70",
+          "name": "Atherosclerosis"
+        },
+        {
+          "chapter": "I25.1",
+          "name": "Atherosclerotic heart disease of native coronary artery"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155382007",
+        "S-155414001",
+        "S-194848007",
+        "S-195251000",
+        "S-266318005",
+        "S-38716007"
+      ],
+      "id": 112,
+      "meta_anns": {}
+    },
+    "116": {
+      "pretty_name": "Atherosclerosis",
+      "cui": "C0004153",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "atherosclerosis",
+      "detected_name": "atherosclerosis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3037,
+      "end": 3052,
+      "icd10": [
+        {
+          "chapter": "I70",
+          "name": "Atherosclerosis"
+        },
+        {
+          "chapter": "I25.1",
+          "name": "Atherosclerotic heart disease of native coronary artery"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155382007",
+        "S-155414001",
+        "S-194848007",
+        "S-195251000",
+        "S-266318005",
+        "S-38716007"
+      ],
+      "id": 116,
+      "meta_anns": {}
+    },
+    "142": {
+      "pretty_name": "Varicosity",
+      "cui": "C0042345",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "varices",
+      "detected_name": "varix",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4036,
+      "end": 4043,
+      "icd10": [
+        {
+          "chapter": "I83.90",
+          "name": "Asymptomatic varicose veins of unspecified lower extremity"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128060009",
+        "S-12856003",
+        "S-155468006",
+        "S-155482006",
+        "S-234053000",
+        "S-266331000",
+        "S-276504003",
+        "S-399989005"
+      ],
+      "id": 142,
+      "meta_anns": {}
+    },
+    "178": {
+      "pretty_name": "Cyst",
+      "cui": "C0010709",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cyst",
+      "detected_name": "cyst",
+      "acc": 0.8140772136826158,
+      "context_similarity": 0.8140772136826158,
+      "start": 4907,
+      "end": 4911,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-12494005",
+        "S-133846001",
+        "S-264515009",
+        "S-367643001",
+        "S-441457006"
+      ],
+      "id": 178,
+      "meta_anns": {}
+    },
+    "215": {
+      "pretty_name": "Pulmonary Embolism",
+      "cui": "C0034065",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pulmonary embolus",
+      "detected_name": "pulmonary~embolus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 5688,
+      "end": 5705,
+      "icd10": [
+        {
+          "chapter": "I26",
+          "name": "Pulmonary embolism"
+        },
+        {
+          "chapter": "I26.99",
+          "name": "Other pulmonary embolism without acute cor pulmonale"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155326007",
+        "S-194882001",
+        "S-266292008",
+        "S-59282003"
+      ],
+      "id": 215,
+      "meta_anns": {}
+    },
+    "224": {
+      "pretty_name": "Lung diseases",
+      "cui": "C0024115",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lung",
+      "detected_name": "lung",
+      "acc": 0.7443304395733881,
+      "context_similarity": 0.7443304395733881,
+      "start": 5905,
+      "end": 5909,
+      "icd10": [
+        {
+          "chapter": "J98.4",
+          "name": "Other disorders of lung"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196164004",
+        "S-19829001",
+        "S-266374002"
+      ],
+      "id": 224,
+      "meta_anns": {}
+    },
+    "227": {
+      "pretty_name": "Lung diseases",
+      "cui": "C0024115",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lung",
+      "detected_name": "lung",
+      "acc": 0.5021045033130669,
+      "context_similarity": 0.5021045033130669,
+      "start": 5974,
+      "end": 5978,
+      "icd10": [
+        {
+          "chapter": "J98.4",
+          "name": "Other disorders of lung"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196164004",
+        "S-19829001",
+        "S-266374002"
+      ],
+      "id": 227,
+      "meta_anns": {}
+    },
+    "235": {
+      "pretty_name": "Lung diseases",
+      "cui": "C0024115",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lung",
+      "detected_name": "lung",
+      "acc": 0.355372507283601,
+      "context_similarity": 0.355372507283601,
+      "start": 6290,
+      "end": 6294,
+      "icd10": [
+        {
+          "chapter": "J98.4",
+          "name": "Other disorders of lung"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196164004",
+        "S-19829001",
+        "S-266374002"
+      ],
+      "id": 235,
+      "meta_anns": {}
+    },
+    "247": {
+      "pretty_name": "Pulmonary Embolism",
+      "cui": "C0034065",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pulmonary embolism",
+      "detected_name": "pulmonary~embolism",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 6738,
+      "end": 6756,
+      "icd10": [
+        {
+          "chapter": "I26",
+          "name": "Pulmonary embolism"
+        },
+        {
+          "chapter": "I26.99",
+          "name": "Other pulmonary embolism without acute cor pulmonale"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155326007",
+        "S-194882001",
+        "S-266292008",
+        "S-59282003"
+      ],
+      "id": 247,
+      "meta_anns": {}
+    },
+    "253": {
+      "pretty_name": "Thrombophilia",
+      "cui": "C0398623",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypercoagulable state",
+      "detected_name": "hypercoagulable~state",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 6839,
+      "end": 6860,
+      "icd10": [
+        {
+          "chapter": "D68.59",
+          "name": "Other primary thrombophilia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-191302007",
+        "S-234467004",
+        "S-76612001"
+      ],
+      "id": 253,
+      "meta_anns": {}
+    },
+    "263": {
+      "pretty_name": "Thrombophilia",
+      "cui": "C0398623",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypercoagulable state",
+      "detected_name": "hypercoagulable~state",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 7182,
+      "end": 7203,
+      "icd10": [
+        {
+          "chapter": "D68.59",
+          "name": "Other primary thrombophilia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-191302007",
+        "S-234467004",
+        "S-76612001"
+      ],
+      "id": 263,
+      "meta_anns": {}
+    },
+    "264": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obesity",
+      "detected_name": "obesity",
+      "acc": 0.10254442132914901,
+      "context_similarity": 0.10254442132914901,
+      "start": 7233,
+      "end": 7240,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 264,
+      "meta_anns": {}
+    },
+    "269": {
+      "pretty_name": "",
+      "cui": "C0920099",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Factor V Leiden deficiency",
+      "detected_name": "factor~v~leiden~deficiency",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 7267,
+      "end": 7293,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 269,
+      "meta_anns": {}
+    },
+    "271": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disorders",
+      "detected_name": "disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 7322,
+      "end": 7331,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 271,
+      "meta_anns": {}
+    },
+    "273": {
+      "pretty_name": "",
+      "cui": "C1260403",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "prothrombin gene mutation",
+      "detected_name": "prothrombin~gene~mutation",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 7332,
+      "end": 7357,
+      "icd10": [
+        {
+          "chapter": "D68.52",
+          "name": "Prothrombin gene mutation"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 273,
+      "meta_anns": {}
+    },
+    "281": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disorders",
+      "detected_name": "disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 7422,
+      "end": 7431,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 281,
+      "meta_anns": {}
+    },
+    "283": {
+      "pretty_name": "Lupus Erythematosus",
+      "cui": "C0409974",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Lupus",
+      "detected_name": "lupus",
+      "acc": 0.7771520169470915,
+      "context_similarity": 0.7771520169470915,
+      "start": 7453,
+      "end": 7458,
+      "icd10": [
+        {
+          "chapter": "L93",
+          "name": "Lupus erythematosus"
+        },
+        {
+          "chapter": "L93.0",
+          "name": "Discoid lupus erythematosus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-200936003",
+        "S-200944003"
+      ],
+      "id": 283,
+      "meta_anns": {}
+    },
+    "287": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obesity",
+      "detected_name": "obesity",
+      "acc": 0.2647995100777634,
+      "context_similarity": 0.2647995100777634,
+      "start": 7499,
+      "end": 7506,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 287,
+      "meta_anns": {}
+    },
+    "293": {
+      "pretty_name": "Lupus Erythematosus, Systemic",
+      "cui": "C0024141",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "SLE",
+      "detected_name": "sle",
+      "acc": 0.48935175701725797,
+      "context_similarity": 0.48935175701725797,
+      "start": 7638,
+      "end": 7641,
+      "icd10": [
+        {
+          "chapter": "M32",
+          "name": "Systemic lupus erythematosus"
+        },
+        {
+          "chapter": "M32.9",
+          "name": "Systemic lupus erythematosus, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156450004",
+        "S-201435004",
+        "S-201439005",
+        "S-55464009"
+      ],
+      "id": 293,
+      "meta_anns": {}
+    },
+    "296": {
+      "pretty_name": "Thrombophilia",
+      "cui": "C0398623",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypercoagulable state",
+      "detected_name": "hypercoagulable~state",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 7766,
+      "end": 7787,
+      "icd10": [
+        {
+          "chapter": "D68.59",
+          "name": "Other primary thrombophilia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-191302007",
+        "S-234467004",
+        "S-76612001"
+      ],
+      "id": 296,
+      "meta_anns": {}
+    },
+    "301": {
+      "pretty_name": "Pulmonary Embolism",
+      "cui": "C0034065",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pulmonary embolism",
+      "detected_name": "pulmonary~embolism",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 7864,
+      "end": 7882,
+      "icd10": [
+        {
+          "chapter": "I26",
+          "name": "Pulmonary embolism"
+        },
+        {
+          "chapter": "I26.99",
+          "name": "Other pulmonary embolism without acute cor pulmonale"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155326007",
+        "S-194882001",
+        "S-266292008",
+        "S-59282003"
+      ],
+      "id": 301,
+      "meta_anns": {}
+    },
+    "312": {
+      "pretty_name": "Thrombophilia",
+      "cui": "C0398623",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypercoagulable state",
+      "detected_name": "hypercoagulable~state",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 8345,
+      "end": 8366,
+      "icd10": [
+        {
+          "chapter": "D68.59",
+          "name": "Other primary thrombophilia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-191302007",
+        "S-234467004",
+        "S-76612001"
+      ],
+      "id": 312,
+      "meta_anns": {}
+    },
+    "314": {
+      "pretty_name": "Thrombophilia",
+      "cui": "C0398623",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypercoagulable state",
+      "detected_name": "hypercoagulable~state",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 8429,
+      "end": 8450,
+      "icd10": [
+        {
+          "chapter": "D68.59",
+          "name": "Other primary thrombophilia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-191302007",
+        "S-234467004",
+        "S-76612001"
+      ],
+      "id": 314,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

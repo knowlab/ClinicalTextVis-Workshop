@@ -1,0 +1,409 @@
+{
+  "entities": {
+    "1": {
+      "pretty_name": "",
+      "cui": "C0151293",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "chronic headaches",
+      "detected_name": "chronic~headache",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 121,
+      "end": 138,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 1,
+      "meta_anns": {}
+    },
+    "3": {
+      "pretty_name": "",
+      "cui": "C0751559",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pulsatile tinnitus",
+      "detected_name": "pulsatile~tinnitus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 143,
+      "end": 161,
+      "icd10": [
+        {
+          "chapter": "H93.A",
+          "name": "Pulsatile tinnitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-232322006"
+      ],
+      "id": 3,
+      "meta_anns": {}
+    },
+    "5": {
+      "pretty_name": "",
+      "cui": "C3661947",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "daily headaches",
+      "detected_name": "daily~headache",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 204,
+      "end": 219,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-571000119103"
+      ],
+      "id": 5,
+      "meta_anns": {}
+    },
+    "56": {
+      "pretty_name": "Hypercholesterolemia",
+      "cui": "C0020443",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypercholesterolemia",
+      "detected_name": "hypercholesterolemia",
+      "acc": 0.23070884275936054,
+      "context_similarity": 0.23070884275936054,
+      "start": 1856,
+      "end": 1876,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-13644009",
+        "S-154740003",
+        "S-267500001"
+      ],
+      "id": 56,
+      "meta_anns": {}
+    },
+    "100": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2514,
+      "end": 2526,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 100,
+      "meta_anns": {}
+    },
+    "102": {
+      "pretty_name": "Heart Diseases",
+      "cui": "C0018799",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "heart disease",
+      "detected_name": "heart~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2532,
+      "end": 2545,
+      "icd10": [
+        {
+          "chapter": "I51.9",
+          "name": "Heart disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155263000",
+        "S-194707003",
+        "S-195152001",
+        "S-266275004",
+        "S-266311004",
+        "S-56265001"
+      ],
+      "id": 102,
+      "meta_anns": {}
+    },
+    "180": {
+      "pretty_name": "Dental caries",
+      "cui": "C0011334",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cavity",
+      "detected_name": "cavity",
+      "acc": 0.19002406405100164,
+      "context_similarity": 0.19002406405100164,
+      "start": 4171,
+      "end": 4177,
+      "icd10": [
+        {
+          "chapter": "K02",
+          "name": "Dental caries"
+        },
+        {
+          "chapter": "K02.9",
+          "name": "Dental caries, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155632007",
+        "S-196307002",
+        "S-80967001"
+      ],
+      "id": 180,
+      "meta_anns": {}
+    },
+    "209": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adenopathy",
+      "detected_name": "adenopathy",
+      "acc": 0.46036877568797935,
+      "context_similarity": 0.46036877568797935,
+      "start": 4724,
+      "end": 4734,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 209,
+      "meta_anns": {}
+    },
+    "225": {
+      "pretty_name": "",
+      "cui": "C0751559",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Pulsatile tinnitus",
+      "detected_name": "pulsatile~tinnitus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4944,
+      "end": 4962,
+      "icd10": [
+        {
+          "chapter": "H93.A",
+          "name": "Pulsatile tinnitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-232322006"
+      ],
+      "id": 225,
+      "meta_anns": {}
+    },
+    "230": {
+      "pretty_name": "",
+      "cui": "C0271468",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "eustachian tube disorder",
+      "detected_name": "eustachian~tube~disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4978,
+      "end": 5002,
+      "icd10": [
+        {
+          "chapter": "H69.9",
+          "name": "Eustachian tube disorder, unspecified"
+        },
+        {
+          "chapter": "H69.90",
+          "name": "Unspecified Eustachian tube disorder, unspecified ear"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155221004",
+        "S-194279000",
+        "S-267755000",
+        "S-56713002",
+        "S-69494008"
+      ],
+      "id": 230,
+      "meta_anns": {}
+    },
+    "234": {
+      "pretty_name": "Hydrocephalus, Normal Pressure",
+      "cui": "C0020258",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "normal pressure hydrocephalus",
+      "detected_name": "normal~pressure~hydrocephalus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 5036,
+      "end": 5065,
+      "icd10": [
+        {
+          "chapter": "G91.2",
+          "name": "Normal-pressure hydrocephalus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-30753002",
+        "S-69663004"
+      ],
+      "id": 234,
+      "meta_anns": {}
+    },
+    "243": {
+      "pretty_name": "Meniere Disease",
+      "cui": "C0025281",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Meniere disease",
+      "detected_name": "meniere~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 5163,
+      "end": 5178,
+      "icd10": [
+        {
+          "chapter": "H81.0",
+          "name": "Meniere's disease"
+        },
+        {
+          "chapter": "H81.09",
+          "name": "MÃ©niÃ¨re's disease, unspecified ear"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13445001",
+        "S-155235002",
+        "S-194346003",
+        "S-194347007",
+        "S-194352002"
+      ],
+      "id": 243,
+      "meta_anns": {}
+    },
+    "277": {
+      "pretty_name": "",
+      "cui": "C0751559",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pulsatile tinnitus",
+      "detected_name": "pulsatile~tinnitus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 6003,
+      "end": 6021,
+      "icd10": [
+        {
+          "chapter": "H93.A",
+          "name": "Pulsatile tinnitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-232322006"
+      ],
+      "id": 277,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,534 @@
+{
+  "entities": {
+    "5": {
+      "pretty_name": "Diabetes Mellitus, Non-Insulin-Dependent",
+      "cui": "C0011860",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "type II diabetes",
+      "detected_name": "type~ii~diabete",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 53,
+      "end": 69,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Non-insulin-dependent diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154672006",
+        "S-190323008",
+        "S-190384004",
+        "S-267468009",
+        "S-44054006"
+      ],
+      "id": 5,
+      "meta_anns": {}
+    },
+    "8": {
+      "pretty_name": "Coronary Arteriosclerosis",
+      "cui": "C0010054",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "atherosclerotic heart disease",
+      "detected_name": "atherosclerotic~heart~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 71,
+      "end": 100,
+      "icd10": [
+        {
+          "chapter": "I25.1",
+          "name": "Atherosclerotic heart disease"
+        },
+        {
+          "chapter": "I25.10",
+          "name": "Atherosclerotic heart disease of native coronary artery without angina pectoris"
+        },
+        {
+          "chapter": "K76.1",
+          "name": "Chronic passive congestion of liver"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155315001",
+        "S-155316000",
+        "S-194795001",
+        "S-194841001",
+        "S-266231003",
+        "S-266290000",
+        "S-41702007",
+        "S-443502000",
+        "S-53741008"
+      ],
+      "id": 8,
+      "meta_anns": {}
+    },
+    "13": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.9546665575014415,
+      "context_similarity": 0.9546665575014415,
+      "start": 102,
+      "end": 114,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 13,
+      "meta_anns": {}
+    },
+    "14": {
+      "pretty_name": "",
+      "cui": "C0007282",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "carotid stenosis",
+      "detected_name": "carotid~stenosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 116,
+      "end": 132,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-195181000",
+        "S-64586002"
+      ],
+      "id": 14,
+      "meta_anns": {}
+    },
+    "18": {
+      "pretty_name": "Cerebrovascular accident",
+      "cui": "C0038454",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "CVA",
+      "detected_name": "cva",
+      "acc": 0.524608694382123,
+      "context_similarity": 0.524608694382123,
+      "start": 273,
+      "end": 276,
+      "icd10": [
+        {
+          "chapter": "I64",
+          "name": "Stroke, not specified as haemorrhage or infarction"
+        },
+        {
+          "chapter": "I63.9",
+          "name": "Cerebral infarction, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155388006",
+        "S-155405006",
+        "S-195208004",
+        "S-230690007",
+        "S-266312006",
+        "S-266315008",
+        "S-270883006",
+        "S-313267000",
+        "S-82797006"
+      ],
+      "id": 18,
+      "meta_anns": {}
+    },
+    "68": {
+      "pretty_name": "Fish-Eye Disease",
+      "cui": "C0342895",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "fed",
+      "detected_name": "fed",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1219,
+      "end": 1222,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-238092004"
+      ],
+      "id": 68,
+      "meta_anns": {}
+    },
+    "82": {
+      "pretty_name": "",
+      "cui": "C0577718",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "heel ulcer",
+      "detected_name": "heel~ulcer",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1554,
+      "end": 1564,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-301022003"
+      ],
+      "id": 82,
+      "meta_anns": {}
+    },
+    "104": {
+      "pretty_name": "Coronary Arteriosclerosis",
+      "cui": "C0010054",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Atherosclerotic heart disease",
+      "detected_name": "atherosclerotic~heart~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2257,
+      "end": 2286,
+      "icd10": [
+        {
+          "chapter": "I25.1",
+          "name": "Atherosclerotic heart disease"
+        },
+        {
+          "chapter": "I25.10",
+          "name": "Atherosclerotic heart disease of native coronary artery without angina pectoris"
+        },
+        {
+          "chapter": "K76.1",
+          "name": "Chronic passive congestion of liver"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155315001",
+        "S-155316000",
+        "S-194795001",
+        "S-194841001",
+        "S-266231003",
+        "S-266290000",
+        "S-41702007",
+        "S-443502000",
+        "S-53741008"
+      ],
+      "id": 104,
+      "meta_anns": {}
+    },
+    "109": {
+      "pretty_name": "Heart valve disease",
+      "cui": "C0018824",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Valvular heart disease",
+      "detected_name": "valvular~heart~disease",
+      "acc": 0.9063471897074586,
+      "context_similarity": 0.9063471897074586,
+      "start": 2334,
+      "end": 2356,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-195013005",
+        "S-368009"
+      ],
+      "id": 109,
+      "meta_anns": {}
+    },
+    "117": {
+      "pretty_name": "Hypothyroidism",
+      "cui": "C0020676",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypothyroidism",
+      "detected_name": "hypothyroidism",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2475,
+      "end": 2489,
+      "icd10": [
+        {
+          "chapter": "E03.9",
+          "name": "Hypothyroidism, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154660000",
+        "S-190274003",
+        "S-190290003",
+        "S-237572004",
+        "S-267377003",
+        "S-267465007",
+        "S-40930008"
+      ],
+      "id": 117,
+      "meta_anns": {}
+    },
+    "120": {
+      "pretty_name": "Diabetes Mellitus, Non-Insulin-Dependent",
+      "cui": "C0011860",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes mellitus, type 2",
+      "detected_name": "diabetes~mellitus~type~2",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2508,
+      "end": 2533,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Non-insulin-dependent diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154672006",
+        "S-190323008",
+        "S-190384004",
+        "S-267468009",
+        "S-44054006"
+      ],
+      "id": 120,
+      "meta_anns": {}
+    },
+    "123": {
+      "pretty_name": "Urinary tract infection",
+      "cui": "C0042029",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Urinary tract infection",
+      "detected_name": "urinary~tract~infection",
+      "acc": 0.8361809682617962,
+      "context_similarity": 0.8361809682617962,
+      "start": 2539,
+      "end": 2562,
+      "icd10": [
+        {
+          "chapter": "N39.0",
+          "name": "Urinary tract infection, site not specified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155896006",
+        "S-155897002",
+        "S-197924008",
+        "S-197930008",
+        "S-266634001",
+        "S-266635000",
+        "S-274110008",
+        "S-68566005"
+      ],
+      "id": 123,
+      "meta_anns": {}
+    },
+    "127": {
+      "pretty_name": "Heparin-induced thrombocytopenia",
+      "cui": "C0272285",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Heparin-induced thrombocytopenia",
+      "detected_name": "heparin~induced~thrombocytopenia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2585,
+      "end": 2617,
+      "icd10": [
+        {
+          "chapter": "D75.82",
+          "name": "Heparin induced thrombocytopenia (HIT)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-73397007"
+      ],
+      "id": 127,
+      "meta_anns": {}
+    },
+    "131": {
+      "pretty_name": "",
+      "cui": "C0750145",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "vascular occlusive disease",
+      "detected_name": "vascular~occlusive~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2634,
+      "end": 2660,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 131,
+      "meta_anns": {}
+    },
+    "133": {
+      "pretty_name": "Paroxysmal atrial fibrillation",
+      "cui": "C0235480",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Paroxysmal atrial fibrillation",
+      "detected_name": "paroxysmal~atrial~fibrillation",
+      "acc": 0.9365891349126583,
+      "context_similarity": 0.9365891349126583,
+      "start": 2667,
+      "end": 2697,
+      "icd10": [
+        {
+          "chapter": "I48.0",
+          "name": "Paroxysmal atrial fibrillation"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-195081002",
+        "S-282825002"
+      ],
+      "id": 133,
+      "meta_anns": {}
+    },
+    "136": {
+      "pretty_name": "Hyperlipidemia",
+      "cui": "C0020473",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hyperlipidemia",
+      "detected_name": "hyperlipidemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2704,
+      "end": 2718,
+      "icd10": [
+        {
+          "chapter": "E78.5",
+          "name": "Hyperlipidaemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154739000",
+        "S-154743001",
+        "S-190782002",
+        "S-267499005",
+        "S-55822004"
+      ],
+      "id": 136,
+      "meta_anns": {}
+    },
+    "138": {
+      "pretty_name": "",
+      "cui": "C0007282",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Carotid stenosis",
+      "detected_name": "carotid~stenosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2742,
+      "end": 2758,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-195181000",
+        "S-64586002"
+      ],
+      "id": 138,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

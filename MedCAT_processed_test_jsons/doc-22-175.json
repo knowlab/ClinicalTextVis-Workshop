@@ -1,0 +1,137 @@
+{
+  "entities": {
+    "129": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymphadenopathy",
+      "detected_name": "lymphadenopathy",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2491,
+      "end": 2506,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 129,
+      "meta_anns": {}
+    },
+    "182": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymphadenopathy",
+      "detected_name": "lymphadenopathy",
+      "acc": 0.36897702052858494,
+      "context_similarity": 0.36897702052858494,
+      "start": 3377,
+      "end": 3392,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 182,
+      "meta_anns": {}
+    },
+    "193": {
+      "pretty_name": "Paresis",
+      "cui": "C0030552",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "muscle weakness",
+      "detected_name": "muscle~weakness",
+      "acc": 0.3429298459235378,
+      "context_similarity": 0.3429298459235378,
+      "start": 3493,
+      "end": 3508,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-26544005"
+      ],
+      "id": 193,
+      "meta_anns": {}
+    },
+    "203": {
+      "pretty_name": "",
+      "cui": "C0240225",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "liver masses",
+      "detected_name": "liver~masse",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3672,
+      "end": 3684,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-300332007"
+      ],
+      "id": 203,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

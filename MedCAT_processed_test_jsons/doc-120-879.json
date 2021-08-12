@@ -1,0 +1,125 @@
+{
+  "entities": {
+    "26": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 879,
+      "end": 883,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 26,
+      "meta_anns": {}
+    },
+    "43": {
+      "pretty_name": "",
+      "cui": "C0037284",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "skin lesions",
+      "detected_name": "skin~lesion",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1460,
+      "end": 1472,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-156439002",
+        "S-201342000",
+        "S-201344004",
+        "S-95324001"
+      ],
+      "id": 43,
+      "meta_anns": {}
+    },
+    "127": {
+      "pretty_name": "Secondary Infections",
+      "cui": "C0442886",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "secondary infection",
+      "detected_name": "secondary~infection",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3419,
+      "end": 3438,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-264569006"
+      ],
+      "id": 127,
+      "meta_anns": {}
+    },
+    "133": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adenopathy",
+      "detected_name": "adenopathy",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3555,
+      "end": 3565,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 133,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

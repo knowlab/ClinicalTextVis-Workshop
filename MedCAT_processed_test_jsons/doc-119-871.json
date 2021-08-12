@@ -1,0 +1,68 @@
+{
+  "entities": {
+    "14": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease",
+      "detected_name": "disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 192,
+      "end": 199,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 14,
+      "meta_anns": {}
+    },
+    "43": {
+      "pretty_name": "Thyroid Diseases",
+      "cui": "C0040128",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "thyroid",
+      "detected_name": "thyroid",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 943,
+      "end": 950,
+      "icd10": [
+        {
+          "chapter": "E00-E07.9",
+          "name": "Disorders of thyroid gland"
+        },
+        {
+          "chapter": "E07.9",
+          "name": "Disorder of thyroid, unspecified"
+        },
+        {
+          "chapter": "E00-E07",
+          "name": "Disorders of thyroid gland (E00-E07)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-14304000",
+        "S-154649009",
+        "S-190232008",
+        "S-190311002",
+        "S-191036006"
+      ],
+      "id": 43,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

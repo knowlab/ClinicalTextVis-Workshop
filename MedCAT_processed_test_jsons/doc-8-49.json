@@ -1,0 +1,782 @@
+{
+  "entities": {
+    "14": {
+      "pretty_name": "",
+      "cui": "C2317473",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "chronic kidney disease, stage 4",
+      "detected_name": "chronic~kidney~disease~stage~4",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 90,
+      "end": 121,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-431857002"
+      ],
+      "id": 14,
+      "meta_anns": {}
+    },
+    "22": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes mellitus",
+      "detected_name": "diabetes~mellitus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 134,
+      "end": 151,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 22,
+      "meta_anns": {}
+    },
+    "24": {
+      "pretty_name": "Diabetic Nephropathy",
+      "cui": "C0011881",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetic nephropathy",
+      "detected_name": "diabetic~nephropathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 153,
+      "end": 173,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-127013003",
+        "S-190338009",
+        "S-21858001",
+        "S-267470000",
+        "S-60009009"
+      ],
+      "id": 24,
+      "meta_anns": {}
+    },
+    "26": {
+      "pretty_name": "Peripheral Vascular Diseases",
+      "cui": "C0085096",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "peripheral vascular disease",
+      "detected_name": "peripheral~vascular~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 175,
+      "end": 202,
+      "icd10": [
+        {
+          "chapter": "I73.9",
+          "name": "Peripheral vascular disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155431008",
+        "S-155433006",
+        "S-195311000",
+        "S-195314008",
+        "S-266320008",
+        "S-266321007",
+        "S-399957001",
+        "S-400047006",
+        "S-91523003"
+      ],
+      "id": 26,
+      "meta_anns": {}
+    },
+    "41": {
+      "pretty_name": "Gout",
+      "cui": "C0018099",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gout",
+      "detected_name": "gout",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 550,
+      "end": 554,
+      "icd10": [
+        {
+          "chapter": "M10",
+          "name": "Gout"
+        },
+        {
+          "chapter": "M10.9",
+          "name": "Gout, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-190844004",
+        "S-90560007"
+      ],
+      "id": 41,
+      "meta_anns": {}
+    },
+    "43": {
+      "pretty_name": "Chronic Kidney Diseases",
+      "cui": "C1561643",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "chronic kidney disease",
+      "detected_name": "chronic~kidney~disease",
+      "acc": 0.8146807550096355,
+      "context_similarity": 0.8146807550096355,
+      "start": 616,
+      "end": 638,
+      "icd10": [
+        {
+          "chapter": "N18.9",
+          "name": "Chronic kidney disease, unspecified"
+        },
+        {
+          "chapter": "N18",
+          "name": "Chronic kidney disease (CKD)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-236425005",
+        "S-709044004"
+      ],
+      "id": 43,
+      "meta_anns": {}
+    },
+    "52": {
+      "pretty_name": "Diabetes Mellitus, Non-Insulin-Dependent",
+      "cui": "C0011860",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Diabetes mellitus type 2",
+      "detected_name": "diabetes~mellitus~type~2",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 666,
+      "end": 690,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Non-insulin-dependent diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154672006",
+        "S-190323008",
+        "S-190384004",
+        "S-267468009",
+        "S-44054006"
+      ],
+      "id": 52,
+      "meta_anns": {}
+    },
+    "55": {
+      "pretty_name": "Diabetic Nephropathy",
+      "cui": "C0011881",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Diabetic nephropathy",
+      "detected_name": "diabetic~nephropathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 696,
+      "end": 716,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-127013003",
+        "S-190338009",
+        "S-21858001",
+        "S-267470000",
+        "S-60009009"
+      ],
+      "id": 55,
+      "meta_anns": {}
+    },
+    "58": {
+      "pretty_name": "",
+      "cui": "C2317473",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Chronic kidney disease, stage 4",
+      "detected_name": "chronic~kidney~disease~stage~4",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 722,
+      "end": 753,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-431857002"
+      ],
+      "id": 58,
+      "meta_anns": {}
+    },
+    "62": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 759,
+      "end": 771,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 62,
+      "meta_anns": {}
+    },
+    "63": {
+      "pretty_name": "Hypercholesterolemia",
+      "cui": "C0020443",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypercholesterolemia",
+      "detected_name": "hypercholesterolemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 777,
+      "end": 797,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-13644009",
+        "S-154740003",
+        "S-267500001"
+      ],
+      "id": 63,
+      "meta_anns": {}
+    },
+    "64": {
+      "pretty_name": "Hyperlipidemia",
+      "cui": "C0020473",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hyperlipidemia",
+      "detected_name": "hyperlipidemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 802,
+      "end": 816,
+      "icd10": [
+        {
+          "chapter": "E78.5",
+          "name": "Hyperlipidaemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154739000",
+        "S-154743001",
+        "S-190782002",
+        "S-267499005",
+        "S-55822004"
+      ],
+      "id": 64,
+      "meta_anns": {}
+    },
+    "65": {
+      "pretty_name": "Peripheral Vascular Diseases",
+      "cui": "C0085096",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Peripheral vascular disease",
+      "detected_name": "peripheral~vascular~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 822,
+      "end": 849,
+      "icd10": [
+        {
+          "chapter": "I73.9",
+          "name": "Peripheral vascular disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155431008",
+        "S-155433006",
+        "S-195311000",
+        "S-195314008",
+        "S-266320008",
+        "S-266321007",
+        "S-399957001",
+        "S-400047006",
+        "S-91523003"
+      ],
+      "id": 65,
+      "meta_anns": {}
+    },
+    "101": {
+      "pretty_name": "Hematuria",
+      "cui": "C0018965",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hematuria",
+      "detected_name": "hematuria",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1665,
+      "end": 1674,
+      "icd10": [
+        {
+          "chapter": "R31",
+          "name": "Unspecified haematuria"
+        },
+        {
+          "chapter": "R31.9",
+          "name": "Hematuria, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139414003",
+        "S-139416001",
+        "S-155895005",
+        "S-162136002",
+        "S-197937006",
+        "S-266568001",
+        "S-267066000",
+        "S-267167006",
+        "S-267168001",
+        "S-307414005",
+        "S-34436003",
+        "S-53298000"
+      ],
+      "id": 101,
+      "meta_anns": {}
+    },
+    "110": {
+      "pretty_name": "Paroxysmal nocturnal dyspnea",
+      "cui": "C1956415",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "paroxysmal nocturnal dyspnea",
+      "detected_name": "paroxysmal~nocturnal~dyspnea",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1850,
+      "end": 1878,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-139198007",
+        "S-55442000"
+      ],
+      "id": 110,
+      "meta_anns": {}
+    },
+    "126": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adenopathy",
+      "detected_name": "adenopathy",
+      "acc": 0.8135042579154746,
+      "context_similarity": 0.8135042579154746,
+      "start": 2140,
+      "end": 2150,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 126,
+      "meta_anns": {}
+    },
+    "135": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Obese",
+      "detected_name": "obese",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2241,
+      "end": 2246,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 135,
+      "meta_anns": {}
+    },
+    "166": {
+      "pretty_name": "Urinary tract infection",
+      "cui": "C0042029",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Urinary tract infection",
+      "detected_name": "urinary~tract~infection",
+      "acc": 0.6353450065379445,
+      "context_similarity": 0.6353450065379445,
+      "start": 2970,
+      "end": 2993,
+      "icd10": [
+        {
+          "chapter": "N39.0",
+          "name": "Urinary tract infection, site not specified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155896006",
+        "S-155897002",
+        "S-197924008",
+        "S-197930008",
+        "S-266634001",
+        "S-266635000",
+        "S-274110008",
+        "S-68566005"
+      ],
+      "id": 166,
+      "meta_anns": {}
+    },
+    "170": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Diabetes mellitus",
+      "detected_name": "diabetes~mellitus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3023,
+      "end": 3040,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 170,
+      "meta_anns": {}
+    },
+    "172": {
+      "pretty_name": "Diabetic Nephropathy",
+      "cui": "C0011881",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetic nephropathy",
+      "detected_name": "diabetic~nephropathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3046,
+      "end": 3066,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-127013003",
+        "S-190338009",
+        "S-21858001",
+        "S-267470000",
+        "S-60009009"
+      ],
+      "id": 172,
+      "meta_anns": {}
+    },
+    "174": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3072,
+      "end": 3084,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 174,
+      "meta_anns": {}
+    },
+    "175": {
+      "pretty_name": "Hypercholesterolemia",
+      "cui": "C0020443",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypercholesterolemia",
+      "detected_name": "hypercholesterolemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3090,
+      "end": 3110,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-13644009",
+        "S-154740003",
+        "S-267500001"
+      ],
+      "id": 175,
+      "meta_anns": {}
+    },
+    "176": {
+      "pretty_name": "Peripheral Vascular Diseases",
+      "cui": "C0085096",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Peripheral vascular disease",
+      "detected_name": "peripheral~vascular~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3116,
+      "end": 3143,
+      "icd10": [
+        {
+          "chapter": "I73.9",
+          "name": "Peripheral vascular disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155431008",
+        "S-155433006",
+        "S-195311000",
+        "S-195314008",
+        "S-266320008",
+        "S-266321007",
+        "S-399957001",
+        "S-400047006",
+        "S-91523003"
+      ],
+      "id": 176,
+      "meta_anns": {}
+    },
+    "182": {
+      "pretty_name": "",
+      "cui": "C2317473",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Chronic kidney disease, stage 4",
+      "detected_name": "chronic~kidney~disease~stage~4",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3191,
+      "end": 3222,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-431857002"
+      ],
+      "id": 182,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,191 @@
+{
+  "entities": {
+    "23": {
+      "pretty_name": "Incontinence",
+      "cui": "C0021167",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "incontinence",
+      "detected_name": "incontinence",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 660,
+      "end": 672,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-48340000"
+      ],
+      "id": 23,
+      "meta_anns": {}
+    },
+    "37": {
+      "pretty_name": "Hypothyroidism",
+      "cui": "C0020676",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypothyroidism",
+      "detected_name": "hypothyroidism",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 872,
+      "end": 886,
+      "icd10": [
+        {
+          "chapter": "E03.9",
+          "name": "Hypothyroidism, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154660000",
+        "S-190274003",
+        "S-190290003",
+        "S-237572004",
+        "S-267377003",
+        "S-267465007",
+        "S-40930008"
+      ],
+      "id": 37,
+      "meta_anns": {}
+    },
+    "38": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 888,
+      "end": 900,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 38,
+      "meta_anns": {}
+    },
+    "46": {
+      "pretty_name": "Polymyalgia Rheumatica",
+      "cui": "C0032533",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "polymyalgia rheumatica",
+      "detected_name": "polymyalgia~rheumatica",
+      "acc": 0.6053863513945879,
+      "context_similarity": 0.6053863513945879,
+      "start": 1101,
+      "end": 1123,
+      "icd10": [
+        {
+          "chapter": "M35.3",
+          "name": "Polymyalgia rheumatica"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156656001",
+        "S-202834009",
+        "S-267988003",
+        "S-65323003"
+      ],
+      "id": 46,
+      "meta_anns": {}
+    },
+    "98": {
+      "pretty_name": "Spondylolisthesis",
+      "cui": "C0038016",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "spondylolisthesis",
+      "detected_name": "spondylolisthesis",
+      "acc": 0.9101305238302063,
+      "context_similarity": 0.9101305238302063,
+      "start": 2248,
+      "end": 2265,
+      "icd10": [
+        {
+          "chapter": "M43.1",
+          "name": "Spondylolisthesis"
+        },
+        {
+          "chapter": "M43.10",
+          "name": "Spondylolisthesis, site unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-157003009",
+        "S-268349005",
+        "S-274152003"
+      ],
+      "id": 98,
+      "meta_anns": {}
+    },
+    "113": {
+      "pretty_name": "Paralytic stroke",
+      "cui": "C1263853",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "stroke, paralysis",
+      "detected_name": "stroke~paralysis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2777,
+      "end": 2794,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-116288000",
+        "S-29426003"
+      ],
+      "id": 113,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,308 @@
+{
+  "entities": {
+    "16": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 800,
+      "end": 804,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 16,
+      "meta_anns": {}
+    },
+    "25": {
+      "pretty_name": "Leukocytosis",
+      "cui": "C0023518",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "leukocytosis",
+      "detected_name": "leukocytosis",
+      "acc": 0.6671468881713256,
+      "context_similarity": 0.6671468881713256,
+      "start": 1106,
+      "end": 1118,
+      "icd10": [
+        {
+          "chapter": "D72.829",
+          "name": "Elevated white blood cell count, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-111583006",
+        "S-142918008",
+        "S-154832004",
+        "S-191364006",
+        "S-191368009",
+        "S-267568006"
+      ],
+      "id": 25,
+      "meta_anns": {}
+    },
+    "28": {
+      "pretty_name": "",
+      "cui": "C0028734",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "nocturia",
+      "detected_name": "nocturia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1296,
+      "end": 1304,
+      "icd10": [
+        {
+          "chapter": "R35.1",
+          "name": "Nocturia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139394000",
+        "S-158475006",
+        "S-207178007",
+        "S-6408001"
+      ],
+      "id": 28,
+      "meta_anns": {}
+    },
+    "52": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obese",
+      "detected_name": "obese",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2096,
+      "end": 2101,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 52,
+      "meta_anns": {}
+    },
+    "70": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obese",
+      "detected_name": "obese",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2361,
+      "end": 2366,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 70,
+      "meta_anns": {}
+    },
+    "87": {
+      "pretty_name": "Leukocytosis",
+      "cui": "C0023518",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "leukocytosis",
+      "detected_name": "leukocytosis",
+      "acc": 0.3475089638999755,
+      "context_similarity": 0.3475089638999755,
+      "start": 2872,
+      "end": 2884,
+      "icd10": [
+        {
+          "chapter": "D72.829",
+          "name": "Elevated white blood cell count, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-111583006",
+        "S-142918008",
+        "S-154832004",
+        "S-191364006",
+        "S-191368009",
+        "S-267568006"
+      ],
+      "id": 87,
+      "meta_anns": {}
+    },
+    "92": {
+      "pretty_name": "Rotator cuff syndrome",
+      "cui": "C0263912",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "impingement syndrome",
+      "detected_name": "impingement~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2939,
+      "end": 2959,
+      "icd10": [
+        {
+          "chapter": "M75.1",
+          "name": "Rotator cuff syndrome"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156658000",
+        "S-202839004",
+        "S-202845007",
+        "S-267991003",
+        "S-267992005",
+        "S-268087008",
+        "S-4106009"
+      ],
+      "id": 92,
+      "meta_anns": {}
+    },
+    "99": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obesity",
+      "detected_name": "obesity",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2993,
+      "end": 3000,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 99,
+      "meta_anns": {}
+    },
+    "100": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Obesity",
+      "detected_name": "obesity",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3006,
+      "end": 3013,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 100,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

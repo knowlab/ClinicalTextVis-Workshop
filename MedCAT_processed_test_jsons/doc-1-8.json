@@ -1,0 +1,956 @@
+{
+  "entities": {
+    "8": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.8989352794813368,
+      "context_similarity": 0.8989352794813368,
+      "start": 93,
+      "end": 101,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 8,
+      "meta_anns": {}
+    },
+    "9": {
+      "pretty_name": "Degenerative polyarthritis",
+      "cui": "C0029408",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "osteoarthritis",
+      "detected_name": "osteoarthritis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 103,
+      "end": 117,
+      "icd10": [
+        {
+          "chapter": "M15-M19",
+          "name": "Osteoarthritis (M15-M19)"
+        },
+        {
+          "chapter": "M19.9",
+          "name": "Osteoarthritis, unspecified site"
+        },
+        {
+          "chapter": "M19.90",
+          "name": "Unspecified osteoarthritis, unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156486003",
+        "S-156496007",
+        "S-201818008",
+        "S-201886002",
+        "S-201887006",
+        "S-201917002",
+        "S-224729007",
+        "S-225655006",
+        "S-226586002",
+        "S-227588009",
+        "S-267888004",
+        "S-267893001",
+        "S-396275006",
+        "S-80843008"
+      ],
+      "id": 9,
+      "meta_anns": {}
+    },
+    "10": {
+      "pretty_name": "Atrial Fibrillation",
+      "cui": "C0004238",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "atrial fibrillation",
+      "detected_name": "atrial~fibrillation",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 119,
+      "end": 138,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155364009",
+        "S-266306001",
+        "S-49436004"
+      ],
+      "id": 10,
+      "meta_anns": {}
+    },
+    "12": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 140,
+      "end": 152,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 12,
+      "meta_anns": {}
+    },
+    "13": {
+      "pretty_name": "Asthma",
+      "cui": "C0004096",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "asthma",
+      "detected_name": "asthma",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 154,
+      "end": 160,
+      "icd10": [
+        {
+          "chapter": "J45",
+          "name": "Asthma"
+        },
+        {
+          "chapter": "J45.9",
+          "name": "Asthma, unspecified"
+        },
+        {
+          "chapter": "J45.90",
+          "name": "Unspecified asthma"
+        },
+        {
+          "chapter": "J45.909",
+          "name": "Unspecified asthma, uncomplicated"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155574008",
+        "S-155579003",
+        "S-187687003",
+        "S-195967001",
+        "S-195979001",
+        "S-195983001",
+        "S-21341004",
+        "S-266365004",
+        "S-266398009",
+        "S-278517007"
+      ],
+      "id": 13,
+      "meta_anns": {}
+    },
+    "14": {
+      "pretty_name": "Sleep Apnea, Obstructive",
+      "cui": "C0520679",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obstructive sleep apnea",
+      "detected_name": "obstructive~sleep~apnea",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 162,
+      "end": 185,
+      "icd10": [
+        {
+          "chapter": "G47.33",
+          "name": "Obstructive sleep apnea (adult) (pediatric)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-194441007",
+        "S-196167006",
+        "S-78275009"
+      ],
+      "id": 14,
+      "meta_anns": {}
+    },
+    "20": {
+      "pretty_name": "Diabetic foot ulcer",
+      "cui": "C1456868",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetic foot ulcer",
+      "detected_name": "diabetic~foot~ulcer",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 195,
+      "end": 214,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-371087003"
+      ],
+      "id": 20,
+      "meta_anns": {}
+    },
+    "24": {
+      "pretty_name": "Anemia",
+      "cui": "C0002871",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "anemia",
+      "detected_name": "anemia",
+      "acc": 0.22421813639999916,
+      "context_similarity": 0.22421813639999916,
+      "start": 216,
+      "end": 222,
+      "icd10": [
+        {
+          "chapter": "D64.9",
+          "name": "Anemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154786001",
+        "S-154812000",
+        "S-191277004",
+        "S-267531008",
+        "S-271737000",
+        "S-64593003"
+      ],
+      "id": 24,
+      "meta_anns": {}
+    },
+    "25": {
+      "pretty_name": "Cellulitis of leg",
+      "cui": "C0343024",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lower extremity cellulitis",
+      "detected_name": "lower~extremity~cellulitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 232,
+      "end": 258,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-200743002",
+        "S-238402004",
+        "S-393598005",
+        "S-449710006"
+      ],
+      "id": 25,
+      "meta_anns": {}
+    },
+    "30": {
+      "pretty_name": "Electromechanical dissociation",
+      "cui": "C0340861",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pulseless electrical activity",
+      "detected_name": "pulseless~electrical~activity",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 336,
+      "end": 365,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-195089000",
+        "S-234172002"
+      ],
+      "id": 30,
+      "meta_anns": {}
+    },
+    "68": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.9625759884114182,
+      "context_similarity": 0.9625759884114182,
+      "start": 1250,
+      "end": 1258,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 68,
+      "meta_anns": {}
+    },
+    "69": {
+      "pretty_name": "Degenerative polyarthritis",
+      "cui": "C0029408",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "osteoarthritis",
+      "detected_name": "osteoarthritis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1260,
+      "end": 1274,
+      "icd10": [
+        {
+          "chapter": "M15-M19",
+          "name": "Osteoarthritis (M15-M19)"
+        },
+        {
+          "chapter": "M19.9",
+          "name": "Osteoarthritis, unspecified site"
+        },
+        {
+          "chapter": "M19.90",
+          "name": "Unspecified osteoarthritis, unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156486003",
+        "S-156496007",
+        "S-201818008",
+        "S-201886002",
+        "S-201887006",
+        "S-201917002",
+        "S-224729007",
+        "S-225655006",
+        "S-226586002",
+        "S-227588009",
+        "S-267888004",
+        "S-267893001",
+        "S-396275006",
+        "S-80843008"
+      ],
+      "id": 69,
+      "meta_anns": {}
+    },
+    "70": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1276,
+      "end": 1288,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 70,
+      "meta_anns": {}
+    },
+    "71": {
+      "pretty_name": "Asthma",
+      "cui": "C0004096",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "asthma",
+      "detected_name": "asthma",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1290,
+      "end": 1296,
+      "icd10": [
+        {
+          "chapter": "J45",
+          "name": "Asthma"
+        },
+        {
+          "chapter": "J45.9",
+          "name": "Asthma, unspecified"
+        },
+        {
+          "chapter": "J45.90",
+          "name": "Unspecified asthma"
+        },
+        {
+          "chapter": "J45.909",
+          "name": "Unspecified asthma, uncomplicated"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155574008",
+        "S-155579003",
+        "S-187687003",
+        "S-195967001",
+        "S-195979001",
+        "S-195983001",
+        "S-21341004",
+        "S-266365004",
+        "S-266398009",
+        "S-278517007"
+      ],
+      "id": 71,
+      "meta_anns": {}
+    },
+    "72": {
+      "pretty_name": "Atrial Fibrillation",
+      "cui": "C0004238",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "atrial fibrillation",
+      "detected_name": "atrial~fibrillation",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1298,
+      "end": 1317,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155364009",
+        "S-266306001",
+        "S-49436004"
+      ],
+      "id": 72,
+      "meta_anns": {}
+    },
+    "76": {
+      "pretty_name": "Diabetic foot ulcer",
+      "cui": "C1456868",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetic foot ulcer",
+      "detected_name": "diabetic~foot~ulcer",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1319,
+      "end": 1338,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-371087003"
+      ],
+      "id": 76,
+      "meta_anns": {}
+    },
+    "80": {
+      "pretty_name": "Anemia",
+      "cui": "C0002871",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "anemia",
+      "detected_name": "anemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1343,
+      "end": 1349,
+      "icd10": [
+        {
+          "chapter": "D64.9",
+          "name": "Anemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154786001",
+        "S-154812000",
+        "S-191277004",
+        "S-267531008",
+        "S-271737000",
+        "S-64593003"
+      ],
+      "id": 80,
+      "meta_anns": {}
+    },
+    "89": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary artery disease",
+      "detected_name": "coronary~artery~disease",
+      "acc": 0.8310900029276944,
+      "context_similarity": 0.8310900029276944,
+      "start": 1441,
+      "end": 1464,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 89,
+      "meta_anns": {}
+    },
+    "105": {
+      "pretty_name": "Influenza",
+      "cui": "C0021400",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "influenza",
+      "detected_name": "influenza",
+      "acc": 0.7552880524161749,
+      "context_similarity": 0.7552880524161749,
+      "start": 1690,
+      "end": 1699,
+      "icd10": [
+        {
+          "chapter": "J11.1",
+          "name": "Influenza due to unidentified influenza virus with other respiratory manifestations"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155559006",
+        "S-155562009",
+        "S-195931008",
+        "S-266353003",
+        "S-266393000",
+        "S-6142004"
+      ],
+      "id": 105,
+      "meta_anns": {}
+    },
+    "126": {
+      "pretty_name": "Pulmonary Edema",
+      "cui": "C0034063",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pulmonary edema",
+      "detected_name": "pulmonary~edema",
+      "acc": 0.7074337819324994,
+      "context_similarity": 0.7074337819324994,
+      "start": 1987,
+      "end": 2002,
+      "icd10": [
+        {
+          "chapter": "J81",
+          "name": "Pulmonary oedema"
+        },
+        {
+          "chapter": "J81.1",
+          "name": "Chronic pulmonary edema"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-19242006",
+        "S-196119001",
+        "S-266408001"
+      ],
+      "id": 126,
+      "meta_anns": {}
+    },
+    "141": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obese",
+      "detected_name": "obese",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2315,
+      "end": 2320,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 141,
+      "meta_anns": {}
+    },
+    "143": {
+      "pretty_name": "Diabetic Foot",
+      "cui": "C0206172",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetic foot",
+      "detected_name": "diabetic~foot",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2368,
+      "end": 2381,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-280137006"
+      ],
+      "id": 143,
+      "meta_anns": {}
+    },
+    "153": {
+      "pretty_name": "Cardiac Arrest",
+      "cui": "C0018790",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cardiac arrest",
+      "detected_name": "cardiac~arrest",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2484,
+      "end": 2498,
+      "icd10": [
+        {
+          "chapter": "I46",
+          "name": "Cardiac arrest"
+        },
+        {
+          "chapter": "I46.9",
+          "name": "Cardiac arrest, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155372006",
+        "S-195085006",
+        "S-195090009",
+        "S-251189000",
+        "S-30298009",
+        "S-309810002",
+        "S-397829000",
+        "S-397912004",
+        "S-410429000"
+      ],
+      "id": 153,
+      "meta_anns": {}
+    },
+    "156": {
+      "pretty_name": "Electromechanical dissociation",
+      "cui": "C0340861",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pulseless electrical activity",
+      "detected_name": "pulseless~electrical~activity",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2504,
+      "end": 2533,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-195089000",
+        "S-234172002"
+      ],
+      "id": 156,
+      "meta_anns": {}
+    },
+    "161": {
+      "pretty_name": "Respiratory Failure",
+      "cui": "C1145670",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "respiratory failure",
+      "detected_name": "respiratory~failure",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2561,
+      "end": 2580,
+      "icd10": [
+        {
+          "chapter": "J96.9",
+          "name": "Respiratory failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-158731006",
+        "S-158734003",
+        "S-196165003",
+        "S-207552005",
+        "S-207555007",
+        "S-409622000",
+        "S-51395007"
+      ],
+      "id": 161,
+      "meta_anns": {}
+    },
+    "166": {
+      "pretty_name": "Pulmonary Embolism",
+      "cui": "C0034065",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pulmonary embolus",
+      "detected_name": "pulmonary~embolus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2630,
+      "end": 2647,
+      "icd10": [
+        {
+          "chapter": "I26",
+          "name": "Pulmonary embolism"
+        },
+        {
+          "chapter": "I26.99",
+          "name": "Other pulmonary embolism without acute cor pulmonale"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155326007",
+        "S-194882001",
+        "S-266292008",
+        "S-59282003"
+      ],
+      "id": 166,
+      "meta_anns": {}
+    },
+    "169": {
+      "pretty_name": "Myocardial Infarction",
+      "cui": "C0027051",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "myocardial infarction",
+      "detected_name": "myocardial~infarction",
+      "acc": 0.5201770318980193,
+      "context_similarity": 0.5201770318980193,
+      "start": 2658,
+      "end": 2679,
+      "icd10": [
+        {
+          "chapter": "I22",
+          "name": "Subsequent ST elevation (STEMI) and non-ST elevation (NSTEMI) myocardial infarction"
+        },
+        {
+          "chapter": "I21",
+          "name": "Acute myocardial infarction"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155304006",
+        "S-194796000",
+        "S-22298006",
+        "S-233824008",
+        "S-266288001",
+        "S-66514008"
+      ],
+      "id": 169,
+      "meta_anns": {}
+    },
+    "178": {
+      "pretty_name": "Respiratory Distress Syndrome, Adult",
+      "cui": "C0035222",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Acute respiratory distress syndrome",
+      "detected_name": "acute~respiratory~distress~syndrome",
+      "acc": 0.12233223367182086,
+      "context_similarity": 0.12233223367182086,
+      "start": 2770,
+      "end": 2805,
+      "icd10": [
+        {
+          "chapter": "J80",
+          "name": "Adult respiratory distress syndrome"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155627006",
+        "S-196150004",
+        "S-196154008",
+        "S-206281003",
+        "S-266411000",
+        "S-67782005"
+      ],
+      "id": 178,
+      "meta_anns": {}
+    },
+    "185": {
+      "pretty_name": "Sepsis",
+      "cui": "C0243026",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "sepsis",
+      "detected_name": "sepsis",
+      "acc": 0.6708486617555981,
+      "context_similarity": 0.6708486617555981,
+      "start": 2858,
+      "end": 2864,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-186392004",
+        "S-445101001",
+        "S-91302008"
+      ],
+      "id": 185,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

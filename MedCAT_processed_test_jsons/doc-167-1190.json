@@ -1,0 +1,98 @@
+{
+  "entities": {
+    "130": {
+      "pretty_name": "Diabetes Mellitus, Non-Insulin-Dependent",
+      "cui": "C0011860",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Type II diabetes",
+      "detected_name": "type~ii~diabete",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2845,
+      "end": 2861,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Non-insulin-dependent diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154672006",
+        "S-190323008",
+        "S-190384004",
+        "S-267468009",
+        "S-44054006"
+      ],
+      "id": 130,
+      "meta_anns": {}
+    },
+    "136": {
+      "pretty_name": "Hypoglycemia",
+      "cui": "C0020615",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "low blood sugars",
+      "detected_name": "low~blood~sugar",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2927,
+      "end": 2943,
+      "icd10": [
+        {
+          "chapter": "E16.2",
+          "name": "Hypoglycaemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154691006",
+        "S-154693009",
+        "S-190433001",
+        "S-190436009",
+        "S-237630007",
+        "S-271327008",
+        "S-302866003",
+        "S-66694000"
+      ],
+      "id": 136,
+      "meta_anns": {}
+    },
+    "143": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.1769454249143417,
+      "context_similarity": 0.1769454249143417,
+      "start": 3143,
+      "end": 3151,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 143,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

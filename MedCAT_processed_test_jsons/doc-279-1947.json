@@ -1,0 +1,118 @@
+{
+  "entities": {
+    "9": {
+      "pretty_name": "Ulcerative Colitis",
+      "cui": "C0009324",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ulcerative colitis",
+      "detected_name": "ulcerative~colitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 160,
+      "end": 178,
+      "icd10": [
+        {
+          "chapter": "K51",
+          "name": "Ulcerative colitis"
+        },
+        {
+          "chapter": "K51.9",
+          "name": "Ulcerative colitis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155764007",
+        "S-196985000",
+        "S-196988003",
+        "S-196996008",
+        "S-266447004",
+        "S-27701000",
+        "S-64766004",
+        "S-68195006"
+      ],
+      "id": 9,
+      "meta_anns": {}
+    },
+    "16": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "erythema",
+      "detected_name": "erythema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 416,
+      "end": 424,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 16,
+      "meta_anns": {}
+    },
+    "56": {
+      "pretty_name": "Ulcerative Colitis",
+      "cui": "C0009324",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ulcerative colitis",
+      "detected_name": "ulcerative~colitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1496,
+      "end": 1514,
+      "icd10": [
+        {
+          "chapter": "K51",
+          "name": "Ulcerative colitis"
+        },
+        {
+          "chapter": "K51.9",
+          "name": "Ulcerative colitis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155764007",
+        "S-196985000",
+        "S-196988003",
+        "S-196996008",
+        "S-266447004",
+        "S-27701000",
+        "S-64766004",
+        "S-68195006"
+      ],
+      "id": 56,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

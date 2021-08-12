@@ -1,0 +1,39 @@
+{
+  "entities": {
+    "52": {
+      "pretty_name": "Rotator cuff syndrome",
+      "cui": "C0263912",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "rotator cuff tear",
+      "detected_name": "rotator~cuff~tear",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1783,
+      "end": 1800,
+      "icd10": [
+        {
+          "chapter": "M75.1",
+          "name": "Rotator cuff syndrome"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156658000",
+        "S-202839004",
+        "S-202845007",
+        "S-267991003",
+        "S-267992005",
+        "S-268087008",
+        "S-4106009"
+      ],
+      "id": 52,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

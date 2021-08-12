@@ -1,0 +1,193 @@
+{
+  "entities": {
+    "9": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 125,
+      "end": 137,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 9,
+      "meta_anns": {}
+    },
+    "11": {
+      "pretty_name": "Kidney Diseases",
+      "cui": "C0022658",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "renal disease",
+      "detected_name": "renal~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 151,
+      "end": 164,
+      "icd10": [
+        {
+          "chapter": "N08",
+          "name": "Glomerular disorders in diseases classified elsewhere"
+        },
+        {
+          "chapter": "N28.9",
+          "name": "Disorder of kidney and ureter, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155871008",
+        "S-266612003",
+        "S-266624005",
+        "S-266627003",
+        "S-274108006",
+        "S-90708001"
+      ],
+      "id": 11,
+      "meta_anns": {}
+    },
+    "15": {
+      "pretty_name": "Kidney Diseases",
+      "cui": "C0022658",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "renal disease",
+      "detected_name": "renal~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 204,
+      "end": 217,
+      "icd10": [
+        {
+          "chapter": "N08",
+          "name": "Glomerular disorders in diseases classified elsewhere"
+        },
+        {
+          "chapter": "N28.9",
+          "name": "Disorder of kidney and ureter, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155871008",
+        "S-266612003",
+        "S-266624005",
+        "S-266627003",
+        "S-274108006",
+        "S-90708001"
+      ],
+      "id": 15,
+      "meta_anns": {}
+    },
+    "27": {
+      "pretty_name": "Kidney Diseases",
+      "cui": "C0022658",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "renal disease",
+      "detected_name": "renal~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 557,
+      "end": 570,
+      "icd10": [
+        {
+          "chapter": "N08",
+          "name": "Glomerular disorders in diseases classified elsewhere"
+        },
+        {
+          "chapter": "N28.9",
+          "name": "Disorder of kidney and ureter, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155871008",
+        "S-266612003",
+        "S-266624005",
+        "S-266627003",
+        "S-274108006",
+        "S-90708001"
+      ],
+      "id": 27,
+      "meta_anns": {}
+    },
+    "31": {
+      "pretty_name": "Kidney Diseases",
+      "cui": "C0022658",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "renal disease",
+      "detected_name": "renal~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 608,
+      "end": 621,
+      "icd10": [
+        {
+          "chapter": "N08",
+          "name": "Glomerular disorders in diseases classified elsewhere"
+        },
+        {
+          "chapter": "N28.9",
+          "name": "Disorder of kidney and ureter, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155871008",
+        "S-266612003",
+        "S-266624005",
+        "S-266627003",
+        "S-274108006",
+        "S-90708001"
+      ],
+      "id": 31,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

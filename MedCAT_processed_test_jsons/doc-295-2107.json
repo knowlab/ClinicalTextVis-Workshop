@@ -1,0 +1,118 @@
+{
+  "entities": {
+    "89": {
+      "pretty_name": "Peripheral Neuropathy",
+      "cui": "C0031117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "peripheral neuropathy",
+      "detected_name": "peripheral~neuropathy",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2356,
+      "end": 2377,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155064004",
+        "S-155080009",
+        "S-155100008",
+        "S-193088006",
+        "S-193264002",
+        "S-264554005",
+        "S-267706009",
+        "S-302226006",
+        "S-42658009"
+      ],
+      "id": 89,
+      "meta_anns": {}
+    },
+    "94": {
+      "pretty_name": "Neuropathy",
+      "cui": "C0442874",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "neuropathy",
+      "detected_name": "neuropathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2390,
+      "end": 2400,
+      "icd10": [
+        {
+          "chapter": "G62.9",
+          "name": "Polyneuropathy, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-193167000",
+        "S-264554005",
+        "S-277317008",
+        "S-277878001",
+        "S-386033004",
+        "S-42658009"
+      ],
+      "id": 94,
+      "meta_anns": {}
+    },
+    "95": {
+      "pretty_name": "",
+      "cui": "C1335437",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "plexopathy",
+      "detected_name": "plexopathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2402,
+      "end": 2412,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 95,
+      "meta_anns": {}
+    },
+    "96": {
+      "pretty_name": "",
+      "cui": "C0154738",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lumbosacral radiculopathy",
+      "detected_name": "lumbosacral~radiculopathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2417,
+      "end": 2442,
+      "icd10": [
+        {
+          "chapter": "M54.17",
+          "name": "Radiculopathy, lumbosacral region"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-2415007"
+      ],
+      "id": 96,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

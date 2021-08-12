@@ -1,0 +1,699 @@
+{
+  "entities": {
+    "16": {
+      "pretty_name": "Cerebral Palsy",
+      "cui": "C0007789",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "CP",
+      "detected_name": "cp",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 128,
+      "end": 130,
+      "icd10": [
+        {
+          "chapter": "G80",
+          "name": "Cerebral palsy"
+        },
+        {
+          "chapter": "G80.9",
+          "name": "Cerebral palsy, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-1178005",
+        "S-128188000",
+        "S-155024003",
+        "S-267696006",
+        "S-270488006"
+      ],
+      "id": 16,
+      "meta_anns": {}
+    },
+    "19": {
+      "pretty_name": "",
+      "cui": "C0748565",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "seizure disorder, complex",
+      "detected_name": "seizure~disorder~complex",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 144,
+      "end": 169,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 19,
+      "meta_anns": {}
+    },
+    "25": {
+      "pretty_name": "",
+      "cui": "C0877017",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "partial seizure with secondary generalization",
+      "detected_name": "partial~seizure~with~secondary~generalization",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 170,
+      "end": 215,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 25,
+      "meta_anns": {}
+    },
+    "29": {
+      "pretty_name": "Epilepsy, Generalized",
+      "cui": "C0014548",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "generalized epilepsy",
+      "detected_name": "generalized~epilepsy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 230,
+      "end": 250,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155038005",
+        "S-155043003",
+        "S-192989008",
+        "S-192994008",
+        "S-19598007"
+      ],
+      "id": 29,
+      "meta_anns": {}
+    },
+    "31": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 252,
+      "end": 264,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 31,
+      "meta_anns": {}
+    },
+    "32": {
+      "pretty_name": "",
+      "cui": "C0242339",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "dyslipidemia",
+      "detected_name": "dyslipidemia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 266,
+      "end": 278,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-370992007"
+      ],
+      "id": 32,
+      "meta_anns": {}
+    },
+    "33": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obesity",
+      "detected_name": "obesity",
+      "acc": 0.7752684403795449,
+      "context_similarity": 0.7752684403795449,
+      "start": 284,
+      "end": 291,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 33,
+      "meta_anns": {}
+    },
+    "54": {
+      "pretty_name": "",
+      "cui": "C0085417",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "complex partial epilepsy",
+      "detected_name": "complex~partial~epilepsy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1099,
+      "end": 1123,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-193001003",
+        "S-307358009",
+        "S-361123003",
+        "S-407675009",
+        "S-84340007"
+      ],
+      "id": 54,
+      "meta_anns": {}
+    },
+    "58": {
+      "pretty_name": "Syndrome",
+      "cui": "C0039082",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "syndrome",
+      "detected_name": "syndrome",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1124,
+      "end": 1132,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 58,
+      "meta_anns": {}
+    },
+    "60": {
+      "pretty_name": "Syndrome",
+      "cui": "C0039082",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "syndrome",
+      "detected_name": "syndrome",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1176,
+      "end": 1184,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 60,
+      "meta_anns": {}
+    },
+    "64": {
+      "pretty_name": "",
+      "cui": "C0242339",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "dyslipidemia",
+      "detected_name": "dyslipidemia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1218,
+      "end": 1230,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-370992007"
+      ],
+      "id": 64,
+      "meta_anns": {}
+    },
+    "65": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1235,
+      "end": 1247,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 65,
+      "meta_anns": {}
+    },
+    "82": {
+      "pretty_name": "",
+      "cui": "C0242339",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "dyslipidemia",
+      "detected_name": "dyslipidemia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1413,
+      "end": 1425,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-370992007"
+      ],
+      "id": 82,
+      "meta_anns": {}
+    },
+    "93": {
+      "pretty_name": "Ehlers-Danlos Syndrome",
+      "cui": "C0013720",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "EDS",
+      "detected_name": "eds",
+      "acc": 0.2170228711267371,
+      "context_similarity": 0.2170228711267371,
+      "start": 1632,
+      "end": 1635,
+      "icd10": [
+        {
+          "chapter": "Q79.6",
+          "name": "Ehlers-Danlos syndrome"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-157008000",
+        "S-2300005",
+        "S-238848002",
+        "S-268352002",
+        "S-398114001"
+      ],
+      "id": 93,
+      "meta_anns": {}
+    },
+    "109": {
+      "pretty_name": "Papilledema",
+      "cui": "C0030353",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "papilledema",
+      "detected_name": "papilledema",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1970,
+      "end": 1981,
+      "icd10": [
+        {
+          "chapter": "H47.1",
+          "name": "Papilloedema, unspecified"
+        },
+        {
+          "chapter": "H46.0",
+          "name": "Optic papillitis"
+        },
+        {
+          "chapter": "H47.10",
+          "name": "Unspecified papilledema"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-111526001",
+        "S-155187009",
+        "S-194038006",
+        "S-194041002",
+        "S-248487006",
+        "S-423341008",
+        "S-423488006",
+        "S-73221001"
+      ],
+      "id": 109,
+      "meta_anns": {}
+    },
+    "114": {
+      "pretty_name": "Nystagmus",
+      "cui": "C0028738",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "nystagmus",
+      "detected_name": "nystagmus",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2067,
+      "end": 2076,
+      "icd10": [
+        {
+          "chapter": "H55.0",
+          "name": "Nystagmus"
+        },
+        {
+          "chapter": "H55.00",
+          "name": "Unspecified nystagmus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155205009",
+        "S-194171007",
+        "S-194172000",
+        "S-267750005",
+        "S-563001"
+      ],
+      "id": 114,
+      "meta_anns": {}
+    },
+    "139": {
+      "pretty_name": "",
+      "cui": "C0015458",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Romberg",
+      "detected_name": "romberg",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2629,
+      "end": 2636,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-29868009",
+        "S-718224004",
+        "S-95834000"
+      ],
+      "id": 139,
+      "meta_anns": {}
+    },
+    "156": {
+      "pretty_name": "Cerebral Palsy",
+      "cui": "C0007789",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Cerebral palsy",
+      "detected_name": "cerebral~palsy",
+      "acc": 0.6706772552062372,
+      "context_similarity": 0.6706772552062372,
+      "start": 2959,
+      "end": 2973,
+      "icd10": [
+        {
+          "chapter": "G80",
+          "name": "Cerebral palsy"
+        },
+        {
+          "chapter": "G80.9",
+          "name": "Cerebral palsy, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-1178005",
+        "S-128188000",
+        "S-155024003",
+        "S-267696006",
+        "S-270488006"
+      ],
+      "id": 156,
+      "meta_anns": {}
+    },
+    "160": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2999,
+      "end": 3011,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 160,
+      "meta_anns": {}
+    },
+    "161": {
+      "pretty_name": "",
+      "cui": "C0242339",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Dyslipidemia",
+      "detected_name": "dyslipidemia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3017,
+      "end": 3029,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-370992007"
+      ],
+      "id": 161,
+      "meta_anns": {}
+    },
+    "162": {
+      "pretty_name": "Sleep Apnea, Obstructive",
+      "cui": "C0520679",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Obstructive sleep apnea",
+      "detected_name": "obstructive~sleep~apnea",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3035,
+      "end": 3058,
+      "icd10": [
+        {
+          "chapter": "G47.33",
+          "name": "Obstructive sleep apnea (adult) (pediatric)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-194441007",
+        "S-196167006",
+        "S-78275009"
+      ],
+      "id": 162,
+      "meta_anns": {}
+    },
+    "166": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Obesity",
+      "detected_name": "obesity",
+      "acc": 0.13381883878273274,
+      "context_similarity": 0.13381883878273274,
+      "start": 3064,
+      "end": 3071,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 166,
+      "meta_anns": {}
+    },
+    "171": {
+      "pretty_name": "Sleep Apnea, Obstructive",
+      "cui": "C0520679",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obstructive sleep apnea",
+      "detected_name": "obstructive~sleep~apnea",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3282,
+      "end": 3305,
+      "icd10": [
+        {
+          "chapter": "G47.33",
+          "name": "Obstructive sleep apnea (adult) (pediatric)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-194441007",
+        "S-196167006",
+        "S-78275009"
+      ],
+      "id": 171,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

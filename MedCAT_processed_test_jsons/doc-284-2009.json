@@ -1,0 +1,35 @@
+{
+  "entities": {
+    "11": {
+      "pretty_name": "Sleep Apnea, Obstructive",
+      "cui": "C0520679",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obstructive sleep apnea",
+      "detected_name": "obstructive~sleep~apnea",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 243,
+      "end": 266,
+      "icd10": [
+        {
+          "chapter": "G47.33",
+          "name": "Obstructive sleep apnea (adult) (pediatric)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-194441007",
+        "S-196167006",
+        "S-78275009"
+      ],
+      "id": 11,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

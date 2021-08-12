@@ -1,0 +1,246 @@
+{
+  "entities": {
+    "7": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.7931562747759611,
+      "context_similarity": 0.7931562747759611,
+      "start": 141,
+      "end": 153,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 7,
+      "meta_anns": {}
+    },
+    "15": {
+      "pretty_name": "Morbid obesity",
+      "cui": "C0028756",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "morbid obesity",
+      "detected_name": "morbid~obesity",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 456,
+      "end": 470,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-190967003",
+        "S-238136002",
+        "S-389986000",
+        "S-83911000119104"
+      ],
+      "id": 15,
+      "meta_anns": {}
+    },
+    "18": {
+      "pretty_name": "Sleep Apnea, Obstructive",
+      "cui": "C0520679",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obstructive sleep apnea syndrome",
+      "detected_name": "obstructive~sleep~apnea~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 475,
+      "end": 507,
+      "icd10": [
+        {
+          "chapter": "G47.33",
+          "name": "Obstructive sleep apnea (adult) (pediatric)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-194441007",
+        "S-196167006",
+        "S-78275009"
+      ],
+      "id": 18,
+      "meta_anns": {}
+    },
+    "63": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1368,
+      "end": 1380,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 63,
+      "meta_anns": {}
+    },
+    "64": {
+      "pretty_name": "Morbid obesity",
+      "cui": "C0028756",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Morbid obesity",
+      "detected_name": "morbid~obesity",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1386,
+      "end": 1400,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-190967003",
+        "S-238136002",
+        "S-389986000",
+        "S-83911000119104"
+      ],
+      "id": 64,
+      "meta_anns": {}
+    },
+    "66": {
+      "pretty_name": "Degenerative polyarthritis",
+      "cui": "C0029408",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Osteoarthritis",
+      "detected_name": "osteoarthritis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1406,
+      "end": 1420,
+      "icd10": [
+        {
+          "chapter": "M15-M19",
+          "name": "Osteoarthritis (M15-M19)"
+        },
+        {
+          "chapter": "M19.9",
+          "name": "Osteoarthritis, unspecified site"
+        },
+        {
+          "chapter": "M19.90",
+          "name": "Unspecified osteoarthritis, unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156486003",
+        "S-156496007",
+        "S-201818008",
+        "S-201886002",
+        "S-201887006",
+        "S-201917002",
+        "S-224729007",
+        "S-225655006",
+        "S-226586002",
+        "S-227588009",
+        "S-267888004",
+        "S-267893001",
+        "S-396275006",
+        "S-80843008"
+      ],
+      "id": 66,
+      "meta_anns": {}
+    },
+    "68": {
+      "pretty_name": "Sleep Apnea, Obstructive",
+      "cui": "C0520679",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Obstructive sleep apnea syndrome",
+      "detected_name": "obstructive~sleep~apnea~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1426,
+      "end": 1458,
+      "icd10": [
+        {
+          "chapter": "G47.33",
+          "name": "Obstructive sleep apnea (adult) (pediatric)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-194441007",
+        "S-196167006",
+        "S-78275009"
+      ],
+      "id": 68,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

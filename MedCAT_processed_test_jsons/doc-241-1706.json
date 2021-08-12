@@ -1,0 +1,285 @@
+{
+  "entities": {
+    "16": {
+      "pretty_name": "Atrioventricular Block",
+      "cui": "C0004245",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "AV block",
+      "detected_name": "av~block",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 208,
+      "end": 216,
+      "icd10": [
+        {
+          "chapter": "I44.3",
+          "name": "Other and unspecified atrioventricular block"
+        },
+        {
+          "chapter": "I44.30",
+          "name": "Unspecified atrioventricular block"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-195040005",
+        "S-195043007",
+        "S-233917008",
+        "S-58547007"
+      ],
+      "id": 16,
+      "meta_anns": {}
+    },
+    "20": {
+      "pretty_name": "Secondary hypothyroidism",
+      "cui": "C3665349",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypothyroidism secondary",
+      "detected_name": "hypothyroidism~secondary",
+      "acc": 0.32494298721504133,
+      "context_similarity": 0.32494298721504133,
+      "start": 251,
+      "end": 275,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-55267000",
+        "S-82598004"
+      ],
+      "id": 20,
+      "meta_anns": {}
+    },
+    "22": {
+      "pretty_name": "Hyperthyroidism",
+      "cui": "C0020550",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hyperthyroidism",
+      "detected_name": "hyperthyroidism",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 279,
+      "end": 294,
+      "icd10": [
+        {
+          "chapter": "E05.9",
+          "name": "Thyrotoxicosis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154655004",
+        "S-190239004",
+        "S-267464006",
+        "S-34486009"
+      ],
+      "id": 22,
+      "meta_anns": {}
+    },
+    "63": {
+      "pretty_name": "Incontinence",
+      "cui": "C0021167",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "incontinence",
+      "detected_name": "incontinence",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1636,
+      "end": 1648,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-48340000"
+      ],
+      "id": 63,
+      "meta_anns": {}
+    },
+    "64": {
+      "pretty_name": "Immune thrombocytopenic purpura",
+      "cui": "C0398650",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "frank",
+      "detected_name": "frank",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1652,
+      "end": 1657,
+      "icd10": [
+        {
+          "chapter": "D69.3",
+          "name": "Immune thrombocytopenic purpura"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13172003",
+        "S-154825008",
+        "S-191315003",
+        "S-191316002",
+        "S-234490009",
+        "S-267567001",
+        "S-32273002"
+      ],
+      "id": 64,
+      "meta_anns": {}
+    },
+    "72": {
+      "pretty_name": "Hypothyroidism",
+      "cui": "C0020676",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypothyroidism",
+      "detected_name": "hypothyroidism",
+      "acc": 0.2612911187102528,
+      "context_similarity": 0.2612911187102528,
+      "start": 1840,
+      "end": 1854,
+      "icd10": [
+        {
+          "chapter": "E03.9",
+          "name": "Hypothyroidism, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154660000",
+        "S-190274003",
+        "S-190290003",
+        "S-237572004",
+        "S-267377003",
+        "S-267465007",
+        "S-40930008"
+      ],
+      "id": 72,
+      "meta_anns": {}
+    },
+    "164": {
+      "pretty_name": "",
+      "cui": "C0015458",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Romberg",
+      "detected_name": "romberg",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4149,
+      "end": 4156,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-29868009",
+        "S-718224004",
+        "S-95834000"
+      ],
+      "id": 164,
+      "meta_anns": {}
+    },
+    "181": {
+      "pretty_name": "Cerebrovascular accident",
+      "cui": "C0038454",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "stroke",
+      "detected_name": "stroke",
+      "acc": 0.4087547333547886,
+      "context_similarity": 0.4087547333547886,
+      "start": 4595,
+      "end": 4601,
+      "icd10": [
+        {
+          "chapter": "I64",
+          "name": "Stroke, not specified as haemorrhage or infarction"
+        },
+        {
+          "chapter": "I63.9",
+          "name": "Cerebral infarction, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155388006",
+        "S-155405006",
+        "S-195208004",
+        "S-230690007",
+        "S-266312006",
+        "S-266315008",
+        "S-270883006",
+        "S-313267000",
+        "S-82797006"
+      ],
+      "id": 181,
+      "meta_anns": {}
+    },
+    "184": {
+      "pretty_name": "Transient Ischemic Attack",
+      "cui": "C0007787",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "TIA",
+      "detected_name": "tia",
+      "acc": 0.46147978798811895,
+      "context_similarity": 0.46147978798811895,
+      "start": 4683,
+      "end": 4686,
+      "icd10": [
+        {
+          "chapter": "G45.9",
+          "name": "Transient cerebral ischaemic attack, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155404005",
+        "S-195196001",
+        "S-195207009",
+        "S-266257000",
+        "S-266314007",
+        "S-313242003",
+        "S-38609002"
+      ],
+      "id": 184,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

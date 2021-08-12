@@ -1,0 +1,346 @@
+{
+  "entities": {
+    "9": {
+      "pretty_name": "HIV Infections",
+      "cui": "C0019693",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "HIV disease",
+      "detected_name": "hiv~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 88,
+      "end": 99,
+      "icd10": [
+        {
+          "chapter": "B20-B24.9",
+          "name": "Human immunodeficiency virus [HIV] disease"
+        },
+        {
+          "chapter": "B24",
+          "name": "Unspecified human immunodeficiency virus [HIV] disease"
+        },
+        {
+          "chapter": "B20-B20",
+          "name": "Human immunodeficiency virus [HIV] disease (B20)"
+        },
+        {
+          "chapter": "B20",
+          "name": "Human immunodeficiency virus [HIV] disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-123321001",
+        "S-186705005",
+        "S-187438009",
+        "S-187453001",
+        "S-86406008"
+      ],
+      "id": 9,
+      "meta_anns": {}
+    },
+    "14": {
+      "pretty_name": "",
+      "cui": "C0263118",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gluteal abscess",
+      "detected_name": "gluteal~abscess",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 207,
+      "end": 222,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-200752006",
+        "S-64576003"
+      ],
+      "id": 14,
+      "meta_anns": {}
+    },
+    "18": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes mellitus",
+      "detected_name": "diabetes~mellitus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 278,
+      "end": 295,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 18,
+      "meta_anns": {}
+    },
+    "22": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 323,
+      "end": 335,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 22,
+      "meta_anns": {}
+    },
+    "23": {
+      "pretty_name": "Hypertriglyceridemia",
+      "cui": "C0020557",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertriglyceridemia",
+      "detected_name": "hypertriglyceridemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 340,
+      "end": 360,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-302870006"
+      ],
+      "id": 23,
+      "meta_anns": {}
+    },
+    "37": {
+      "pretty_name": "",
+      "cui": "C0263118",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gluteal abscess",
+      "detected_name": "gluteal~abscess",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 841,
+      "end": 856,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-200752006",
+        "S-64576003"
+      ],
+      "id": 37,
+      "meta_anns": {}
+    },
+    "89": {
+      "pretty_name": "HIV Infections",
+      "cui": "C0019693",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Human immunodeficiency virus disease",
+      "detected_name": "human~immunodeficiency~virus~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1901,
+      "end": 1937,
+      "icd10": [
+        {
+          "chapter": "B20-B24.9",
+          "name": "Human immunodeficiency virus [HIV] disease"
+        },
+        {
+          "chapter": "B24",
+          "name": "Unspecified human immunodeficiency virus [HIV] disease"
+        },
+        {
+          "chapter": "B20-B20",
+          "name": "Human immunodeficiency virus [HIV] disease (B20)"
+        },
+        {
+          "chapter": "B20",
+          "name": "Human immunodeficiency virus [HIV] disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-123321001",
+        "S-186705005",
+        "S-187438009",
+        "S-187453001",
+        "S-86406008"
+      ],
+      "id": 89,
+      "meta_anns": {}
+    },
+    "96": {
+      "pretty_name": "",
+      "cui": "C0263118",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gluteal abscess",
+      "detected_name": "gluteal~abscess",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1989,
+      "end": 2004,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-200752006",
+        "S-64576003"
+      ],
+      "id": 96,
+      "meta_anns": {}
+    },
+    "100": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Diabetes mellitus",
+      "detected_name": "diabetes~mellitus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2029,
+      "end": 2046,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 100,
+      "meta_anns": {}
+    },
+    "103": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.7513970342178684,
+      "context_similarity": 0.7513970342178684,
+      "start": 2079,
+      "end": 2091,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 103,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

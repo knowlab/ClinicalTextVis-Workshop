@@ -1,0 +1,161 @@
+{
+  "entities": {
+    "2": {
+      "pretty_name": "",
+      "cui": "C0020295",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hydronephrosis",
+      "detected_name": "hydronephrosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 25,
+      "end": 39,
+      "icd10": [
+        {
+          "chapter": "N13.30",
+          "name": "Unspecified hydronephrosis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155866001",
+        "S-197791000",
+        "S-43064006"
+      ],
+      "id": 2,
+      "meta_anns": {}
+    },
+    "28": {
+      "pretty_name": "",
+      "cui": "C0020295",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hydronephrosis",
+      "detected_name": "hydronephrosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 479,
+      "end": 493,
+      "icd10": [
+        {
+          "chapter": "N13.30",
+          "name": "Unspecified hydronephrosis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155866001",
+        "S-197791000",
+        "S-43064006"
+      ],
+      "id": 28,
+      "meta_anns": {}
+    },
+    "47": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.764781692277471,
+      "context_similarity": 0.764781692277471,
+      "start": 805,
+      "end": 813,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 47,
+      "meta_anns": {}
+    },
+    "48": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 815,
+      "end": 827,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 48,
+      "meta_anns": {}
+    },
+    "78": {
+      "pretty_name": "",
+      "cui": "C0020295",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hydronephrosis",
+      "detected_name": "hydronephrosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1341,
+      "end": 1355,
+      "icd10": [
+        {
+          "chapter": "N13.30",
+          "name": "Unspecified hydronephrosis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155866001",
+        "S-197791000",
+        "S-43064006"
+      ],
+      "id": 78,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

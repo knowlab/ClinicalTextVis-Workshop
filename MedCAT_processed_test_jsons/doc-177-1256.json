@@ -1,0 +1,159 @@
+{
+  "entities": {
+    "1": {
+      "pretty_name": "Rotator cuff syndrome",
+      "cui": "C0263912",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "rotator cuff tear",
+      "detected_name": "rotator~cuff~tear",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 101,
+      "end": 118,
+      "icd10": [
+        {
+          "chapter": "M75.1",
+          "name": "Rotator cuff syndrome"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156658000",
+        "S-202839004",
+        "S-202845007",
+        "S-267991003",
+        "S-267992005",
+        "S-268087008",
+        "S-4106009"
+      ],
+      "id": 1,
+      "meta_anns": {}
+    },
+    "4": {
+      "pretty_name": "Tendinosis",
+      "cui": "C1568363",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tendinosis",
+      "detected_name": "tendinosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 197,
+      "end": 207,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-430671000124105",
+        "S-724152009"
+      ],
+      "id": 4,
+      "meta_anns": {}
+    },
+    "12": {
+      "pretty_name": "Tendinosis",
+      "cui": "C1568363",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tendinosis",
+      "detected_name": "tendinosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 597,
+      "end": 607,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-430671000124105",
+        "S-724152009"
+      ],
+      "id": 12,
+      "meta_anns": {}
+    },
+    "24": {
+      "pretty_name": "Tendinosis",
+      "cui": "C1568363",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tendinosis",
+      "detected_name": "tendinosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 860,
+      "end": 870,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-430671000124105",
+        "S-724152009"
+      ],
+      "id": 24,
+      "meta_anns": {}
+    },
+    "51": {
+      "pretty_name": "",
+      "cui": "C0178703",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertrophic osteoarthropathy",
+      "detected_name": "hypertrophic~osteoarthropathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1612,
+      "end": 1641,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-156813008",
+        "S-203357004"
+      ],
+      "id": 51,
+      "meta_anns": {}
+    },
+    "61": {
+      "pretty_name": "Tendinosis",
+      "cui": "C1568363",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tendinosis",
+      "detected_name": "tendinosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2128,
+      "end": 2138,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-430671000124105",
+        "S-724152009"
+      ],
+      "id": 61,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,238 @@
+{
+  "entities": {
+    "0": {
+      "pretty_name": "Osteoarthritis, Knee",
+      "cui": "C0409959",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "knee osteoarthritis",
+      "detected_name": "knee~osteoarthritis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 18,
+      "end": 37,
+      "icd10": [
+        {
+          "chapter": "M17",
+          "name": "Osteoarthritis of knee"
+        },
+        {
+          "chapter": "M17.9",
+          "name": "Osteoarthritis of knee, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156493004",
+        "S-201893003",
+        "S-201908002",
+        "S-239856005",
+        "S-239873007"
+      ],
+      "id": 0,
+      "meta_anns": {}
+    },
+    "4": {
+      "pretty_name": "Osteoarthritis, Knee",
+      "cui": "C0409959",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "knee osteoarthritis",
+      "detected_name": "knee~osteoarthritis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 119,
+      "end": 138,
+      "icd10": [
+        {
+          "chapter": "M17",
+          "name": "Osteoarthritis of knee"
+        },
+        {
+          "chapter": "M17.9",
+          "name": "Osteoarthritis of knee, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156493004",
+        "S-201893003",
+        "S-201908002",
+        "S-239856005",
+        "S-239873007"
+      ],
+      "id": 4,
+      "meta_anns": {}
+    },
+    "25": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "High blood pressure",
+      "detected_name": "high~blood~pressure",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 714,
+      "end": 733,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 25,
+      "meta_anns": {}
+    },
+    "44": {
+      "pretty_name": "Degenerative polyarthritis",
+      "cui": "C0029408",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "osteoarthritis",
+      "detected_name": "osteoarthritis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 974,
+      "end": 988,
+      "icd10": [
+        {
+          "chapter": "M15-M19",
+          "name": "Osteoarthritis (M15-M19)"
+        },
+        {
+          "chapter": "M19.9",
+          "name": "Osteoarthritis, unspecified site"
+        },
+        {
+          "chapter": "M19.90",
+          "name": "Unspecified osteoarthritis, unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156486003",
+        "S-156496007",
+        "S-201818008",
+        "S-201886002",
+        "S-201887006",
+        "S-201917002",
+        "S-224729007",
+        "S-225655006",
+        "S-226586002",
+        "S-227588009",
+        "S-267888004",
+        "S-267893001",
+        "S-396275006",
+        "S-80843008"
+      ],
+      "id": 44,
+      "meta_anns": {}
+    },
+    "63": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obesity",
+      "detected_name": "obesity",
+      "acc": 0.6131402909339365,
+      "context_similarity": 0.6131402909339365,
+      "start": 1505,
+      "end": 1512,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 63,
+      "meta_anns": {}
+    },
+    "84": {
+      "pretty_name": "Osteoarthritis, Knee",
+      "cui": "C0409959",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "knee osteoarthritis",
+      "detected_name": "knee~osteoarthritis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2286,
+      "end": 2305,
+      "icd10": [
+        {
+          "chapter": "M17",
+          "name": "Osteoarthritis of knee"
+        },
+        {
+          "chapter": "M17.9",
+          "name": "Osteoarthritis of knee, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156493004",
+        "S-201893003",
+        "S-201908002",
+        "S-239856005",
+        "S-239873007"
+      ],
+      "id": 84,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

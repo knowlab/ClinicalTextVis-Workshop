@@ -1,0 +1,245 @@
+{
+  "entities": {
+    "30": {
+      "pretty_name": "Lymphadenitis",
+      "cui": "C0024205",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymphadenitis",
+      "detected_name": "lymphadenitis",
+      "acc": 0.20844615104224906,
+      "context_similarity": 0.20844615104224906,
+      "start": 1025,
+      "end": 1038,
+      "icd10": [
+        {
+          "chapter": "I88.1",
+          "name": "Chronic lymphadenitis, except mesenteric"
+        },
+        {
+          "chapter": "I88.9",
+          "name": "Nonspecific lymphadenitis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154838000",
+        "S-19471005",
+        "S-274737001",
+        "S-287688007"
+      ],
+      "id": 30,
+      "meta_anns": {}
+    },
+    "31": {
+      "pretty_name": "Tetanus",
+      "cui": "C0039614",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tetanus",
+      "detected_name": "tetanus",
+      "acc": 0.8146039979957773,
+      "context_similarity": 0.8146039979957773,
+      "start": 1050,
+      "end": 1057,
+      "icd10": [
+        {
+          "chapter": "A35",
+          "name": "Other tetanus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154312006",
+        "S-276202003",
+        "S-76902006"
+      ],
+      "id": 31,
+      "meta_anns": {}
+    },
+    "33": {
+      "pretty_name": "",
+      "cui": "C0264408",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "childhood asthma",
+      "detected_name": "childhood~asthma",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1094,
+      "end": 1110,
+      "icd10": [
+        {
+          "chapter": "J45.90",
+          "name": "Unspecified asthma"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-16862005",
+        "S-195968006",
+        "S-233678006"
+      ],
+      "id": 33,
+      "meta_anns": {}
+    },
+    "71": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "erythema",
+      "detected_name": "erythema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1921,
+      "end": 1929,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 71,
+      "meta_anns": {}
+    },
+    "73": {
+      "pretty_name": "Intertrigo",
+      "cui": "C0021807",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "intertrigo",
+      "detected_name": "intertrigo",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1951,
+      "end": 1961,
+      "icd10": [
+        {
+          "chapter": "L30.4",
+          "name": "Erythema intertrigo"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156366001",
+        "S-200947005",
+        "S-58759008"
+      ],
+      "id": 73,
+      "meta_anns": {}
+    },
+    "74": {
+      "pretty_name": "",
+      "cui": "C0578736",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "inguinal lymphadenopathy",
+      "detected_name": "inguinal~lymphadenopathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2060,
+      "end": 2084,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-127199000"
+      ],
+      "id": 74,
+      "meta_anns": {}
+    },
+    "92": {
+      "pretty_name": "Abscess",
+      "cui": "C0000833",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Abscess",
+      "detected_name": "abscess",
+      "acc": 0.9042688435637289,
+      "context_similarity": 0.9042688435637289,
+      "start": 2399,
+      "end": 2406,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-128477000",
+        "S-156308003",
+        "S-200694004",
+        "S-267831001",
+        "S-44132006"
+      ],
+      "id": 92,
+      "meta_anns": {}
+    },
+    "97": {
+      "pretty_name": "Tetanus",
+      "cui": "C0039614",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tetanus",
+      "detected_name": "tetanus",
+      "acc": 0.6675428666431713,
+      "context_similarity": 0.6675428666431713,
+      "start": 2708,
+      "end": 2715,
+      "icd10": [
+        {
+          "chapter": "A35",
+          "name": "Other tetanus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154312006",
+        "S-276202003",
+        "S-76902006"
+      ],
+      "id": 97,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

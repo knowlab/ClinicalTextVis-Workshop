@@ -1,0 +1,109 @@
+{
+  "entities": {
+    "42": {
+      "pretty_name": "Hyperglycemia",
+      "cui": "C0020456",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "elevated glucose",
+      "detected_name": "elevated~glucose",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1044,
+      "end": 1060,
+      "icd10": [
+        {
+          "chapter": "R73.9",
+          "name": "Hyperglycaemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-144187006",
+        "S-154719004",
+        "S-207289007",
+        "S-207643008",
+        "S-237598005",
+        "S-270004003",
+        "S-315299009",
+        "S-390730002",
+        "S-80394007"
+      ],
+      "id": 42,
+      "meta_anns": {}
+    },
+    "67": {
+      "pretty_name": "Leukocytosis",
+      "cui": "C0023518",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "leukocytosis",
+      "detected_name": "leukocytosis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1493,
+      "end": 1505,
+      "icd10": [
+        {
+          "chapter": "D72.829",
+          "name": "Elevated white blood cell count, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-111583006",
+        "S-142918008",
+        "S-154832004",
+        "S-191364006",
+        "S-191368009",
+        "S-267568006"
+      ],
+      "id": 67,
+      "meta_anns": {}
+    },
+    "70": {
+      "pretty_name": "Urinary tract infection",
+      "cui": "C0042029",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "UTI",
+      "detected_name": "uti",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1531,
+      "end": 1534,
+      "icd10": [
+        {
+          "chapter": "N39.0",
+          "name": "Urinary tract infection, site not specified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155896006",
+        "S-155897002",
+        "S-197924008",
+        "S-197930008",
+        "S-266634001",
+        "S-266635000",
+        "S-274110008",
+        "S-68566005"
+      ],
+      "id": 70,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

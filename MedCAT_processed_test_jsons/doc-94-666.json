@@ -1,0 +1,508 @@
+{
+  "entities": {
+    "23": {
+      "pretty_name": "",
+      "cui": "C0001339",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "acute pancreatitis",
+      "detected_name": "acute~pancreatitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 410,
+      "end": 428,
+      "icd10": [
+        {
+          "chapter": "K85",
+          "name": "Acute pancreatitis"
+        },
+        {
+          "chapter": "K85.9",
+          "name": "Acute pancreatitis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155834006",
+        "S-197456007",
+        "S-197457003",
+        "S-197461009",
+        "S-266476001",
+        "S-39726008"
+      ],
+      "id": 23,
+      "meta_anns": {}
+    },
+    "29": {
+      "pretty_name": "Alzheimer's Disease",
+      "cui": "C0002395",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Alzheimer",
+      "detected_name": "alzheimer",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 482,
+      "end": 491,
+      "icd10": [
+        {
+          "chapter": "G30",
+          "name": "Alzheimer's disease"
+        },
+        {
+          "chapter": "G30.9",
+          "name": "Alzheimer's disease, unspecified"
+        },
+        {
+          "chapter": "F00",
+          "name": "Dementia in Alzheimer's disease"
+        },
+        {
+          "chapter": "F00.9",
+          "name": "Dementia in Alzheimer's disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154998003",
+        "S-267688001",
+        "S-26929004",
+        "S-73768007"
+      ],
+      "id": 29,
+      "meta_anns": {}
+    },
+    "31": {
+      "pretty_name": "Degenerative polyarthritis",
+      "cui": "C0029408",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "osteoarthritis",
+      "detected_name": "osteoarthritis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 507,
+      "end": 521,
+      "icd10": [
+        {
+          "chapter": "M15-M19",
+          "name": "Osteoarthritis (M15-M19)"
+        },
+        {
+          "chapter": "M19.9",
+          "name": "Osteoarthritis, unspecified site"
+        },
+        {
+          "chapter": "M19.90",
+          "name": "Unspecified osteoarthritis, unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156486003",
+        "S-156496007",
+        "S-201818008",
+        "S-201886002",
+        "S-201887006",
+        "S-201917002",
+        "S-224729007",
+        "S-225655006",
+        "S-226586002",
+        "S-227588009",
+        "S-267888004",
+        "S-267893001",
+        "S-396275006",
+        "S-80843008"
+      ],
+      "id": 31,
+      "meta_anns": {}
+    },
+    "32": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 527,
+      "end": 539,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 32,
+      "meta_anns": {}
+    },
+    "34": {
+      "pretty_name": "Hay fever",
+      "cui": "C0018621",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ALLERGIC TO POLLENS",
+      "detected_name": "allergic~to~pollens",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 569,
+      "end": 588,
+      "icd10": [
+        {
+          "chapter": "J30.1",
+          "name": "Allergic rhinitis due to pollen"
+        },
+        {
+          "chapter": "J30",
+          "name": "Vasomotor and allergic rhinitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155536000",
+        "S-155537009",
+        "S-195818002",
+        "S-21719001",
+        "S-266386004",
+        "S-278515004",
+        "S-300910009",
+        "S-367498001",
+        "S-444316004",
+        "S-70369002"
+      ],
+      "id": 34,
+      "meta_anns": {}
+    },
+    "76": {
+      "pretty_name": "Pharyngitis",
+      "cui": "C0031350",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pharyngeal inflammation",
+      "detected_name": "pharyngeal~inflammation",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1469,
+      "end": 1492,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-141458004",
+        "S-164261009",
+        "S-37616004",
+        "S-405737000"
+      ],
+      "id": 76,
+      "meta_anns": {}
+    },
+    "103": {
+      "pretty_name": "Pressure Ulcer",
+      "cui": "C0011127",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "decubitus",
+      "detected_name": "decubitus",
+      "acc": 0.49193917413321797,
+      "context_similarity": 0.49193917413321797,
+      "start": 2106,
+      "end": 2115,
+      "icd10": [
+        {
+          "chapter": "L89",
+          "name": "Decubitus ulcer"
+        },
+        {
+          "chapter": "L89.9",
+          "name": "Pressure ulcer of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-142668003",
+        "S-156424003",
+        "S-165258002",
+        "S-201248003",
+        "S-28103007",
+        "S-399912005",
+        "S-400192002",
+        "S-418172001",
+        "S-420226006",
+        "S-90144002"
+      ],
+      "id": 103,
+      "meta_anns": {}
+    },
+    "129": {
+      "pretty_name": "",
+      "cui": "C1535984",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "splenic granulomas",
+      "detected_name": "splenic~granuloma",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2630,
+      "end": 2648,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 129,
+      "meta_anns": {}
+    },
+    "134": {
+      "pretty_name": "",
+      "cui": "C0001339",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "acute pancreatitis",
+      "detected_name": "acute~pancreatitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2709,
+      "end": 2727,
+      "icd10": [
+        {
+          "chapter": "K85",
+          "name": "Acute pancreatitis"
+        },
+        {
+          "chapter": "K85.9",
+          "name": "Acute pancreatitis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155834006",
+        "S-197456007",
+        "S-197457003",
+        "S-197461009",
+        "S-266476001",
+        "S-39726008"
+      ],
+      "id": 134,
+      "meta_anns": {}
+    },
+    "162": {
+      "pretty_name": "Premature ventricular contractions",
+      "cui": "C0151636",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ventricular premature complexes",
+      "detected_name": "ventricular~premature~complex",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3219,
+      "end": 3250,
+      "icd10": [
+        {
+          "chapter": "I49.3",
+          "name": "Ventricular premature depolarization"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155367002",
+        "S-17338001",
+        "S-195093006",
+        "S-195096003",
+        "S-251175005"
+      ],
+      "id": 162,
+      "meta_anns": {}
+    },
+    "164": {
+      "pretty_name": "",
+      "cui": "C0001339",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Acute pancreatitis",
+      "detected_name": "acute~pancreatitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3317,
+      "end": 3335,
+      "icd10": [
+        {
+          "chapter": "K85",
+          "name": "Acute pancreatitis"
+        },
+        {
+          "chapter": "K85.9",
+          "name": "Acute pancreatitis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155834006",
+        "S-197456007",
+        "S-197457003",
+        "S-197461009",
+        "S-266476001",
+        "S-39726008"
+      ],
+      "id": 164,
+      "meta_anns": {}
+    },
+    "166": {
+      "pretty_name": "Leukocytosis",
+      "cui": "C0023518",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Leukocytosis",
+      "detected_name": "leukocytosis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3341,
+      "end": 3353,
+      "icd10": [
+        {
+          "chapter": "D72.829",
+          "name": "Elevated white blood cell count, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-111583006",
+        "S-142918008",
+        "S-154832004",
+        "S-191364006",
+        "S-191368009",
+        "S-267568006"
+      ],
+      "id": 166,
+      "meta_anns": {}
+    },
+    "168": {
+      "pretty_name": "Urinary tract infection",
+      "cui": "C0042029",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Urinary tract infection",
+      "detected_name": "urinary~tract~infection",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3359,
+      "end": 3382,
+      "icd10": [
+        {
+          "chapter": "N39.0",
+          "name": "Urinary tract infection, site not specified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155896006",
+        "S-155897002",
+        "S-197924008",
+        "S-197930008",
+        "S-266634001",
+        "S-266635000",
+        "S-274110008",
+        "S-68566005"
+      ],
+      "id": 168,
+      "meta_anns": {}
+    },
+    "170": {
+      "pretty_name": "Hyponatremia",
+      "cui": "C0020625",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hyponatremia",
+      "detected_name": "hyponatremia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3388,
+      "end": 3400,
+      "icd10": [
+        {
+          "chapter": "E87.1",
+          "name": "Hypo-osmolality and hyponatremia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154756008",
+        "S-190880004",
+        "S-267507003",
+        "S-89627008"
+      ],
+      "id": 170,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

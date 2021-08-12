@@ -1,0 +1,649 @@
+{
+  "entities": {
+    "12": {
+      "pretty_name": "Sinusitis",
+      "cui": "C0037199",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "sinus infection",
+      "detected_name": "sinus~infection",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 264,
+      "end": 279,
+      "icd10": [
+        {
+          "chapter": "J32",
+          "name": "Chronic sinusitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-195649005",
+        "S-275483004",
+        "S-36971009"
+      ],
+      "id": 12,
+      "meta_anns": {}
+    },
+    "17": {
+      "pretty_name": "Sinusitis",
+      "cui": "C0037199",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "sinus infections",
+      "detected_name": "sinus~infection",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 353,
+      "end": 369,
+      "icd10": [
+        {
+          "chapter": "J32",
+          "name": "Chronic sinusitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-195649005",
+        "S-275483004",
+        "S-36971009"
+      ],
+      "id": 17,
+      "meta_anns": {}
+    },
+    "26": {
+      "pretty_name": "Infection of ear",
+      "cui": "C0699744",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ear infection",
+      "detected_name": "ear~infection",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 444,
+      "end": 457,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-129127001",
+        "S-194291009"
+      ],
+      "id": 26,
+      "meta_anns": {}
+    },
+    "75": {
+      "pretty_name": "Hay fever",
+      "cui": "C0018621",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "seasonal allergies",
+      "detected_name": "seasonal~allergy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1585,
+      "end": 1603,
+      "icd10": [
+        {
+          "chapter": "J30.1",
+          "name": "Allergic rhinitis due to pollen"
+        },
+        {
+          "chapter": "J30",
+          "name": "Vasomotor and allergic rhinitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155536000",
+        "S-155537009",
+        "S-195818002",
+        "S-21719001",
+        "S-266386004",
+        "S-278515004",
+        "S-300910009",
+        "S-367498001",
+        "S-444316004",
+        "S-70369002"
+      ],
+      "id": 75,
+      "meta_anns": {}
+    },
+    "80": {
+      "pretty_name": "",
+      "cui": "C0030824",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "allergy to penicillin",
+      "detected_name": "allergy~to~penicillin",
+      "acc": 0.390146390680325,
+      "context_similarity": 0.390146390680325,
+      "start": 1626,
+      "end": 1647,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-91936005"
+      ],
+      "id": 80,
+      "meta_anns": {}
+    },
+    "84": {
+      "pretty_name": "Hypercholesterolemia",
+      "cui": "C0020443",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypercholesterolemia",
+      "detected_name": "hypercholesterolemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1695,
+      "end": 1715,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-13644009",
+        "S-154740003",
+        "S-267500001"
+      ],
+      "id": 84,
+      "meta_anns": {}
+    },
+    "96": {
+      "pretty_name": "Transient Ischemic Attack",
+      "cui": "C0007787",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "TIAs",
+      "detected_name": "tias",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1860,
+      "end": 1864,
+      "icd10": [
+        {
+          "chapter": "G45.9",
+          "name": "Transient cerebral ischaemic attack, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155404005",
+        "S-195196001",
+        "S-195207009",
+        "S-266257000",
+        "S-266314007",
+        "S-313242003",
+        "S-38609002"
+      ],
+      "id": 96,
+      "meta_anns": {}
+    },
+    "111": {
+      "pretty_name": "Bursitis",
+      "cui": "C0006444",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "bursitis",
+      "detected_name": "bursitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2033,
+      "end": 2041,
+      "icd10": [
+        {
+          "chapter": "M71.9",
+          "name": "Bursopathy, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156677003",
+        "S-156686008",
+        "S-202935009",
+        "S-268000007",
+        "S-84017003"
+      ],
+      "id": 111,
+      "meta_anns": {}
+    },
+    "120": {
+      "pretty_name": "Cholesteatoma",
+      "cui": "C0008373",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cholesteatoma",
+      "detected_name": "cholesteatoma",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2129,
+      "end": 2142,
+      "icd10": [
+        {
+          "chapter": "H71.90",
+          "name": "Unspecified cholesteatoma, unspecified ear"
+        },
+        {
+          "chapter": "H71.9",
+          "name": "Unspecified cholesteatoma"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155244001",
+        "S-194338004",
+        "S-267766007",
+        "S-363668000",
+        "S-575006"
+      ],
+      "id": 120,
+      "meta_anns": {}
+    },
+    "148": {
+      "pretty_name": "Colonic Diseases",
+      "cui": "C0009373",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "colon",
+      "detected_name": "colon",
+      "acc": 0.7993154146011159,
+      "context_similarity": 0.7993154146011159,
+      "start": 2633,
+      "end": 2638,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-128524007"
+      ],
+      "id": 148,
+      "meta_anns": {}
+    },
+    "167": {
+      "pretty_name": "",
+      "cui": "C0438638",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "bee sting allergy",
+      "detected_name": "bee~sting~allergy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2913,
+      "end": 2930,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-213023006",
+        "S-282095007"
+      ],
+      "id": 167,
+      "meta_anns": {}
+    },
+    "228": {
+      "pretty_name": "",
+      "cui": "C0395887",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tympanosclerosis",
+      "detected_name": "tympanosclerosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3959,
+      "end": 3975,
+      "icd10": [
+        {
+          "chapter": "H74.0",
+          "name": "Tympanosclerosis"
+        },
+        {
+          "chapter": "H74.09",
+          "name": "Tympanosclerosis, unspecified ear"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155253008",
+        "S-194328009",
+        "S-194329001",
+        "S-23606001",
+        "S-267768008"
+      ],
+      "id": 228,
+      "meta_anns": {}
+    },
+    "257": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "erythema",
+      "detected_name": "erythema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4638,
+      "end": 4646,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 257,
+      "meta_anns": {}
+    },
+    "261": {
+      "pretty_name": "Dental caries",
+      "cui": "C0011334",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cavity",
+      "detected_name": "cavity",
+      "acc": 0.22652877243670222,
+      "context_similarity": 0.22652877243670222,
+      "start": 4660,
+      "end": 4666,
+      "icd10": [
+        {
+          "chapter": "K02",
+          "name": "Dental caries"
+        },
+        {
+          "chapter": "K02.9",
+          "name": "Dental caries, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155632007",
+        "S-196307002",
+        "S-80967001"
+      ],
+      "id": 261,
+      "meta_anns": {}
+    },
+    "290": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adenopathy",
+      "detected_name": "adenopathy",
+      "acc": 0.46036877568797935,
+      "context_similarity": 0.46036877568797935,
+      "start": 5213,
+      "end": 5223,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 290,
+      "meta_anns": {}
+    },
+    "307": {
+      "pretty_name": "Deglutition Disorders",
+      "cui": "C0011168",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "dysphagia",
+      "detected_name": "dysphagia",
+      "acc": 0.2937164026143405,
+      "context_similarity": 0.2937164026143405,
+      "start": 5545,
+      "end": 5554,
+      "icd10": [
+        {
+          "chapter": "R13",
+          "name": "Dysphagia"
+        },
+        {
+          "chapter": "R13.10",
+          "name": "Dysphagia, unspecified"
+        },
+        {
+          "chapter": "R13.1",
+          "name": "Dysphagia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139289002",
+        "S-158429003",
+        "S-158430008",
+        "S-158431007",
+        "S-162022009",
+        "S-207121004",
+        "S-207122006",
+        "S-207123001",
+        "S-288939007",
+        "S-40739000"
+      ],
+      "id": 307,
+      "meta_anns": {}
+    },
+    "321": {
+      "pretty_name": "Hypertrophy of tonsils",
+      "cui": "C0272386",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tonsillar hypertrophy",
+      "detected_name": "tonsillar~hypertrophy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 5841,
+      "end": 5862,
+      "icd10": [
+        {
+          "chapter": "J35.1",
+          "name": "Hypertrophy of tonsils"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155531005",
+        "S-266385000",
+        "S-46689006"
+      ],
+      "id": 321,
+      "meta_anns": {}
+    },
+    "332": {
+      "pretty_name": "",
+      "cui": "C0008711",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Chronic rhinitis",
+      "detected_name": "chronic~rhinitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 6048,
+      "end": 6064,
+      "icd10": [
+        {
+          "chapter": "J31.0",
+          "name": "Chronic rhinitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155522005",
+        "S-195764003",
+        "S-195774000",
+        "S-270532004",
+        "S-86094006"
+      ],
+      "id": 332,
+      "meta_anns": {}
+    },
+    "334": {
+      "pretty_name": "Conductive hearing loss",
+      "cui": "C0018777",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Conductive hearing loss",
+      "detected_name": "conductive~hearing~loss",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 6070,
+      "end": 6093,
+      "icd10": [
+        {
+          "chapter": "H90.2",
+          "name": "Conductive hearing loss, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155255001",
+        "S-194412003",
+        "S-194420001",
+        "S-44057004"
+      ],
+      "id": 334,
+      "meta_anns": {}
+    },
+    "342": {
+      "pretty_name": "Cholesteatoma",
+      "cui": "C0008373",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cholesteatoma",
+      "detected_name": "cholesteatoma",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 6123,
+      "end": 6136,
+      "icd10": [
+        {
+          "chapter": "H71.90",
+          "name": "Unspecified cholesteatoma, unspecified ear"
+        },
+        {
+          "chapter": "H71.9",
+          "name": "Unspecified cholesteatoma"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155244001",
+        "S-194338004",
+        "S-267766007",
+        "S-363668000",
+        "S-575006"
+      ],
+      "id": 342,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

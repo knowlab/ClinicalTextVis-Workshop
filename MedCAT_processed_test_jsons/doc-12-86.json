@@ -1,0 +1,440 @@
+{
+  "entities": {
+    "42": {
+      "pretty_name": "Heart Diseases",
+      "cui": "C0018799",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "heart disease",
+      "detected_name": "heart~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 668,
+      "end": 681,
+      "icd10": [
+        {
+          "chapter": "I51.9",
+          "name": "Heart disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155263000",
+        "S-194707003",
+        "S-195152001",
+        "S-266275004",
+        "S-266311004",
+        "S-56265001"
+      ],
+      "id": 42,
+      "meta_anns": {}
+    },
+    "48": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 765,
+      "end": 777,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 48,
+      "meta_anns": {}
+    },
+    "49": {
+      "pretty_name": "Diabetes Mellitus, Non-Insulin-Dependent",
+      "cui": "C0011860",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "type II diabetes",
+      "detected_name": "type~ii~diabete",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 782,
+      "end": 798,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Non-insulin-dependent diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154672006",
+        "S-190323008",
+        "S-190384004",
+        "S-267468009",
+        "S-44054006"
+      ],
+      "id": 49,
+      "meta_anns": {}
+    },
+    "57": {
+      "pretty_name": "Pulmonary Embolism",
+      "cui": "C0034065",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pulmonary embolism",
+      "detected_name": "pulmonary~embolism",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 874,
+      "end": 892,
+      "icd10": [
+        {
+          "chapter": "I26",
+          "name": "Pulmonary embolism"
+        },
+        {
+          "chapter": "I26.99",
+          "name": "Other pulmonary embolism without acute cor pulmonale"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155326007",
+        "S-194882001",
+        "S-266292008",
+        "S-59282003"
+      ],
+      "id": 57,
+      "meta_anns": {}
+    },
+    "59": {
+      "pretty_name": "Hyperlipidemia",
+      "cui": "C0020473",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hyperlipidemia",
+      "detected_name": "hyperlipidemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 923,
+      "end": 937,
+      "icd10": [
+        {
+          "chapter": "E78.5",
+          "name": "Hyperlipidaemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154739000",
+        "S-154743001",
+        "S-190782002",
+        "S-267499005",
+        "S-55822004"
+      ],
+      "id": 59,
+      "meta_anns": {}
+    },
+    "61": {
+      "pretty_name": "Peptic Ulcer",
+      "cui": "C0030920",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "peptic ulcer disease",
+      "detected_name": "peptic~ulcer~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 939,
+      "end": 959,
+      "icd10": [
+        {
+          "chapter": "K27",
+          "name": "Peptic ulcer, site unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13200003",
+        "S-155701001",
+        "S-155710009",
+        "S-196681007",
+        "S-196697002",
+        "S-196704007",
+        "S-196705008",
+        "S-266437002",
+        "S-266501005"
+      ],
+      "id": 61,
+      "meta_anns": {}
+    },
+    "65": {
+      "pretty_name": "Recurrent urinary tract infection",
+      "cui": "C0262655",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "recurrent urinary tract infections",
+      "detected_name": "recurrent~urinary~tract~infection",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 965,
+      "end": 999,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-139466007",
+        "S-155901008",
+        "S-162183000",
+        "S-197924008",
+        "S-197927001",
+        "S-266636004",
+        "S-315242001"
+      ],
+      "id": 65,
+      "meta_anns": {}
+    },
+    "81": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary artery disease",
+      "detected_name": "coronary~artery~disease",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1296,
+      "end": 1319,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 81,
+      "meta_anns": {}
+    },
+    "84": {
+      "pretty_name": "Cerebrovascular accident",
+      "cui": "C0038454",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "stroke",
+      "detected_name": "stroke",
+      "acc": 0.9624801881545033,
+      "context_similarity": 0.9624801881545033,
+      "start": 1321,
+      "end": 1327,
+      "icd10": [
+        {
+          "chapter": "I64",
+          "name": "Stroke, not specified as haemorrhage or infarction"
+        },
+        {
+          "chapter": "I63.9",
+          "name": "Cerebral infarction, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155388006",
+        "S-155405006",
+        "S-195208004",
+        "S-230690007",
+        "S-266312006",
+        "S-266315008",
+        "S-270883006",
+        "S-313267000",
+        "S-82797006"
+      ],
+      "id": 84,
+      "meta_anns": {}
+    },
+    "86": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "congestive heart failure",
+      "detected_name": "congestive~heart~failure",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1333,
+      "end": 1357,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 86,
+      "meta_anns": {}
+    },
+    "126": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adenopathy",
+      "detected_name": "adenopathy",
+      "acc": 0.8178186967239225,
+      "context_similarity": 0.8178186967239225,
+      "start": 1859,
+      "end": 1869,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 126,
+      "meta_anns": {}
+    },
+    "148": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary artery disease",
+      "detected_name": "coronary~artery~disease",
+      "acc": 0.37004903836918723,
+      "context_similarity": 0.37004903836918723,
+      "start": 2261,
+      "end": 2284,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 148,
+      "meta_anns": {}
+    },
+    "166": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.5202377630055447,
+      "context_similarity": 0.5202377630055447,
+      "start": 2728,
+      "end": 2736,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 166,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

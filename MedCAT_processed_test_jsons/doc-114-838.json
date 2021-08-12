@@ -1,0 +1,172 @@
+{
+  "entities": {
+    "28": {
+      "pretty_name": "Communicable Diseases",
+      "cui": "C0009450",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "infection",
+      "detected_name": "infection",
+      "acc": 0.10226135280179745,
+      "context_similarity": 0.10226135280179745,
+      "start": 842,
+      "end": 851,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-189822004",
+        "S-190563008",
+        "S-191415002",
+        "S-266171003",
+        "S-35500006",
+        "S-367443006",
+        "S-40733004"
+      ],
+      "id": 28,
+      "meta_anns": {}
+    },
+    "53": {
+      "pretty_name": "Heart Diseases",
+      "cui": "C0018799",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "heart disease",
+      "detected_name": "heart~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1256,
+      "end": 1269,
+      "icd10": [
+        {
+          "chapter": "I51.9",
+          "name": "Heart disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155263000",
+        "S-194707003",
+        "S-195152001",
+        "S-266275004",
+        "S-266311004",
+        "S-56265001"
+      ],
+      "id": 53,
+      "meta_anns": {}
+    },
+    "55": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabete",
+      "acc": 0.4706862804377451,
+      "context_similarity": 0.4706862804377451,
+      "start": 1288,
+      "end": 1296,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 55,
+      "meta_anns": {}
+    },
+    "71": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disorders",
+      "detected_name": "disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1595,
+      "end": 1604,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 71,
+      "meta_anns": {}
+    },
+    "78": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adenopathy",
+      "detected_name": "adenopathy",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1811,
+      "end": 1821,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 78,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

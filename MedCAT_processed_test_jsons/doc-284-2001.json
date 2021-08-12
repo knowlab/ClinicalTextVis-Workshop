@@ -1,0 +1,102 @@
+{
+  "entities": {
+    "42": {
+      "pretty_name": "Huntington Disease",
+      "cui": "C0020179",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Huntington disease",
+      "detected_name": "huntington~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1020,
+      "end": 1038,
+      "icd10": [
+        {
+          "chapter": "G10",
+          "name": "Huntington's disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155006000",
+        "S-58756001"
+      ],
+      "id": 42,
+      "meta_anns": {}
+    },
+    "44": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabete",
+      "acc": 0.3724834566604747,
+      "context_similarity": 0.3724834566604747,
+      "start": 1057,
+      "end": 1065,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 44,
+      "meta_anns": {}
+    },
+    "114": {
+      "pretty_name": "Cutis Laxa",
+      "cui": "C0010495",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "skin laxity",
+      "detected_name": "skin~laxity",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3201,
+      "end": 3212,
+      "icd10": [
+        {
+          "chapter": "Q82.8",
+          "name": "Other specified congenital malformations of skin"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-238825007",
+        "S-58588007"
+      ],
+      "id": 114,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

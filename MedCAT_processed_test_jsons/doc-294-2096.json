@@ -1,0 +1,119 @@
+{
+  "entities": {
+    "47": {
+      "pretty_name": "",
+      "cui": "C4543046",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "left median neuropathy",
+      "detected_name": "left~median~neuropathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1685,
+      "end": 1707,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-292801000119105"
+      ],
+      "id": 47,
+      "meta_anns": {}
+    },
+    "51": {
+      "pretty_name": "Carpal Tunnel Syndrome",
+      "cui": "C0007286",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "carpal tunnel syndrome",
+      "detected_name": "carpal~tunnel~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1737,
+      "end": 1759,
+      "icd10": [
+        {
+          "chapter": "G56.0",
+          "name": "Carpal tunnel syndrome"
+        },
+        {
+          "chapter": "G56.00",
+          "name": "Carpal tunnel syndrome, unspecified upper limb"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155073007",
+        "S-193126005",
+        "S-246611002",
+        "S-57406009"
+      ],
+      "id": 51,
+      "meta_anns": {}
+    },
+    "56": {
+      "pretty_name": "Radiculopathy",
+      "cui": "C0700594",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "radiculopathies",
+      "detected_name": "radiculopathie",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1821,
+      "end": 1836,
+      "icd10": [
+        {
+          "chapter": "M54.1",
+          "name": "Radiculopathy"
+        },
+        {
+          "chapter": "M54.10",
+          "name": "Radiculopathy, site unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-394640000",
+        "S-72274001"
+      ],
+      "id": 56,
+      "meta_anns": {}
+    },
+    "61": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "conditions",
+      "detected_name": "condition",
+      "acc": 0.4158881589761523,
+      "context_similarity": 0.4158881589761523,
+      "start": 2035,
+      "end": 2045,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 61,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

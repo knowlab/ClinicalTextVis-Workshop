@@ -1,0 +1,416 @@
+{
+  "entities": {
+    "31": {
+      "pretty_name": "Tetanus",
+      "cui": "C0039614",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tetanus",
+      "detected_name": "tetanus",
+      "acc": 0.54408608095266,
+      "context_similarity": 0.54408608095266,
+      "start": 897,
+      "end": 904,
+      "icd10": [
+        {
+          "chapter": "A35",
+          "name": "Other tetanus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154312006",
+        "S-276202003",
+        "S-76902006"
+      ],
+      "id": 31,
+      "meta_anns": {}
+    },
+    "40": {
+      "pretty_name": "Pulmonary Fibrosis",
+      "cui": "C0034069",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pulmonary fibrosis",
+      "detected_name": "pulmonary~fibrosis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1055,
+      "end": 1073,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155613001",
+        "S-196121006",
+        "S-51615001"
+      ],
+      "id": 40,
+      "meta_anns": {}
+    },
+    "42": {
+      "pretty_name": "Atrial Fibrillation",
+      "cui": "C0004238",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "atrial fibrillation",
+      "detected_name": "atrial~fibrillation",
+      "acc": 0.19793386902998922,
+      "context_similarity": 0.19793386902998922,
+      "start": 1078,
+      "end": 1097,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155364009",
+        "S-266306001",
+        "S-49436004"
+      ],
+      "id": 42,
+      "meta_anns": {}
+    },
+    "44": {
+      "pretty_name": "Lung diseases",
+      "cui": "C0024115",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lung",
+      "detected_name": "lung",
+      "acc": 0.8866363443910987,
+      "context_similarity": 0.8866363443910987,
+      "start": 1128,
+      "end": 1132,
+      "icd10": [
+        {
+          "chapter": "J98.4",
+          "name": "Other disorders of lung"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196164004",
+        "S-19829001",
+        "S-266374002"
+      ],
+      "id": 44,
+      "meta_anns": {}
+    },
+    "47": {
+      "pretty_name": "Pulmonary Fibrosis",
+      "cui": "C0034069",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pulmonary fibrosis",
+      "detected_name": "pulmonary~fibrosis",
+      "acc": 0.7592091699844061,
+      "context_similarity": 0.7592091699844061,
+      "start": 1172,
+      "end": 1190,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155613001",
+        "S-196121006",
+        "S-51615001"
+      ],
+      "id": 47,
+      "meta_anns": {}
+    },
+    "55": {
+      "pretty_name": "Lung diseases",
+      "cui": "C0024115",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lung",
+      "detected_name": "lung",
+      "acc": 0.3136845387357161,
+      "context_similarity": 0.3136845387357161,
+      "start": 1308,
+      "end": 1312,
+      "icd10": [
+        {
+          "chapter": "J98.4",
+          "name": "Other disorders of lung"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196164004",
+        "S-19829001",
+        "S-266374002"
+      ],
+      "id": 55,
+      "meta_anns": {}
+    },
+    "79": {
+      "pretty_name": "Liver diseases",
+      "cui": "C0023895",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "liver",
+      "detected_name": "liver",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1611,
+      "end": 1616,
+      "icd10": [
+        {
+          "chapter": "K70-K77.9",
+          "name": "Diseases of liver"
+        },
+        {
+          "chapter": "K76.9",
+          "name": "Liver disease, unspecified"
+        },
+        {
+          "chapter": "K70-K77",
+          "name": "Diseases of liver (K70-K77)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155807008",
+        "S-155817003",
+        "S-155822003",
+        "S-197375001",
+        "S-197551000",
+        "S-235856003",
+        "S-266535008",
+        "S-62857009"
+      ],
+      "id": 79,
+      "meta_anns": {}
+    },
+    "83": {
+      "pretty_name": "Heart Diseases",
+      "cui": "C0018799",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Heart disease",
+      "detected_name": "heart~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1626,
+      "end": 1639,
+      "icd10": [
+        {
+          "chapter": "I51.9",
+          "name": "Heart disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155263000",
+        "S-194707003",
+        "S-195152001",
+        "S-266275004",
+        "S-266311004",
+        "S-56265001"
+      ],
+      "id": 83,
+      "meta_anns": {}
+    },
+    "85": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.6235038654037672,
+      "context_similarity": 0.6235038654037672,
+      "start": 1696,
+      "end": 1704,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 85,
+      "meta_anns": {}
+    },
+    "102": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disorders",
+      "detected_name": "disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2032,
+      "end": 2041,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 102,
+      "meta_anns": {}
+    },
+    "110": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adenopathy",
+      "detected_name": "adenopathy",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2234,
+      "end": 2244,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 110,
+      "meta_anns": {}
+    },
+    "160": {
+      "pretty_name": "Pulmonary Fibrosis",
+      "cui": "C0034069",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pulmonary fibrosis",
+      "detected_name": "pulmonary~fibrosis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3656,
+      "end": 3674,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155613001",
+        "S-196121006",
+        "S-51615001"
+      ],
+      "id": 160,
+      "meta_anns": {}
+    },
+    "162": {
+      "pretty_name": "Lung diseases",
+      "cui": "C0024115",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lung",
+      "detected_name": "lung",
+      "acc": 0.856898147495515,
+      "context_similarity": 0.856898147495515,
+      "start": 3698,
+      "end": 3702,
+      "icd10": [
+        {
+          "chapter": "J98.4",
+          "name": "Other disorders of lung"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196164004",
+        "S-19829001",
+        "S-266374002"
+      ],
+      "id": 162,
+      "meta_anns": {}
+    },
+    "172": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Disease",
+      "detected_name": "disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3914,
+      "end": 3921,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 172,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

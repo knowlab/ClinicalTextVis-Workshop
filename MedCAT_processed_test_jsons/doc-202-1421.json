@@ -1,0 +1,36 @@
+{
+  "entities": {
+    "98": {
+      "pretty_name": "Hyponatremia",
+      "cui": "C0020625",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hyponatremia",
+      "detected_name": "hyponatremia",
+      "acc": 0.4887823864847278,
+      "context_similarity": 0.4887823864847278,
+      "start": 2013,
+      "end": 2025,
+      "icd10": [
+        {
+          "chapter": "E87.1",
+          "name": "Hypo-osmolality and hyponatremia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154756008",
+        "S-190880004",
+        "S-267507003",
+        "S-89627008"
+      ],
+      "id": 98,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

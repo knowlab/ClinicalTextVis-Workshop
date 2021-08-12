@@ -1,0 +1,61 @@
+{
+  "entities": {
+    "1": {
+      "pretty_name": "Acute Cholecystitis",
+      "cui": "C0149520",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "acute cholecystitis",
+      "detected_name": "acute~cholecystitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 59,
+      "end": 78,
+      "icd10": [
+        {
+          "chapter": "K81.0",
+          "name": "Acute cholecystitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155827009",
+        "S-197408001",
+        "S-197409009",
+        "S-197411000",
+        "S-65275009"
+      ],
+      "id": 1,
+      "meta_anns": {}
+    },
+    "5": {
+      "pretty_name": "Ileus",
+      "cui": "C1258215",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ileus",
+      "detected_name": "ileus",
+      "acc": 0.6992658326429484,
+      "context_similarity": 0.6992658326429484,
+      "start": 293,
+      "end": 298,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-278524008",
+        "S-81060008"
+      ],
+      "id": 5,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

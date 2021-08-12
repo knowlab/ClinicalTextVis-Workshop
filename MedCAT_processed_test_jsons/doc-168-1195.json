@@ -1,0 +1,170 @@
+{
+  "entities": {
+    "9": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.6440053170252907,
+      "context_similarity": 0.6440053170252907,
+      "start": 247,
+      "end": 259,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 9,
+      "meta_anns": {}
+    },
+    "10": {
+      "pretty_name": "",
+      "cui": "C0242339",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "dyslipidemia",
+      "detected_name": "dyslipidemia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 261,
+      "end": 273,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-370992007"
+      ],
+      "id": 10,
+      "meta_anns": {}
+    },
+    "12": {
+      "pretty_name": "Gastroesophageal reflux disease",
+      "cui": "C0017168",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gastroesophageal reflux disease",
+      "detected_name": "gastroesophageal~reflux~disease",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 279,
+      "end": 310,
+      "icd10": [
+        {
+          "chapter": "K21",
+          "name": "Gastro-oesophageal reflux disease"
+        },
+        {
+          "chapter": "K21.9",
+          "name": "Gastro-esophageal reflux disease without esophagitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-235595009",
+        "S-266498005",
+        "S-54856001"
+      ],
+      "id": 12,
+      "meta_anns": {}
+    },
+    "30": {
+      "pretty_name": "Diverticulosis",
+      "cui": "C1510475",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Diverticulosis",
+      "detected_name": "diverticulosis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 472,
+      "end": 486,
+      "icd10": [
+        {
+          "chapter": "K57",
+          "name": "Diverticular disease of intestine"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155781003",
+        "S-197094004",
+        "S-197116004",
+        "S-271365001",
+        "S-31113003",
+        "S-63532004",
+        "S-735594002"
+      ],
+      "id": 30,
+      "meta_anns": {}
+    },
+    "74": {
+      "pretty_name": "Diverticulosis",
+      "cui": "C1510475",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diverticulosis",
+      "detected_name": "diverticulosis",
+      "acc": 0.3036466142655878,
+      "context_similarity": 0.3036466142655878,
+      "start": 1683,
+      "end": 1697,
+      "icd10": [
+        {
+          "chapter": "K57",
+          "name": "Diverticular disease of intestine"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155781003",
+        "S-197094004",
+        "S-197116004",
+        "S-271365001",
+        "S-31113003",
+        "S-63532004",
+        "S-735594002"
+      ],
+      "id": 74,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

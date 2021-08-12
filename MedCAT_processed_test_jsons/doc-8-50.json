@@ -1,0 +1,640 @@
+{
+  "entities": {
+    "11": {
+      "pretty_name": "Lung diseases",
+      "cui": "C0024115",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lung",
+      "detected_name": "lung",
+      "acc": 0.6374996520961632,
+      "context_similarity": 0.6374996520961632,
+      "start": 157,
+      "end": 161,
+      "icd10": [
+        {
+          "chapter": "J98.4",
+          "name": "Other disorders of lung"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196164004",
+        "S-19829001",
+        "S-266374002"
+      ],
+      "id": 11,
+      "meta_anns": {}
+    },
+    "15": {
+      "pretty_name": "Pneumonia",
+      "cui": "C0032285",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pneumonia",
+      "detected_name": "pneumonia",
+      "acc": 0.5560014470048231,
+      "context_similarity": 0.5560014470048231,
+      "start": 242,
+      "end": 251,
+      "icd10": [
+        {
+          "chapter": "J18.9",
+          "name": "Pneumonia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155548002",
+        "S-155552002",
+        "S-155558003",
+        "S-233604007",
+        "S-266391003",
+        "S-274103002",
+        "S-60363000"
+      ],
+      "id": 15,
+      "meta_anns": {}
+    },
+    "19": {
+      "pretty_name": "Lung diseases",
+      "cui": "C0024115",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lung",
+      "detected_name": "lung",
+      "acc": 0.3534110782933213,
+      "context_similarity": 0.3534110782933213,
+      "start": 292,
+      "end": 296,
+      "icd10": [
+        {
+          "chapter": "J98.4",
+          "name": "Other disorders of lung"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196164004",
+        "S-19829001",
+        "S-266374002"
+      ],
+      "id": 19,
+      "meta_anns": {}
+    },
+    "33": {
+      "pretty_name": "Pericardial effusion",
+      "cui": "C0031039",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pericardial effusion",
+      "detected_name": "pericardial~effusion",
+      "acc": 0.49656926106599275,
+      "context_similarity": 0.49656926106599275,
+      "start": 510,
+      "end": 530,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-373945007",
+        "S-70370001"
+      ],
+      "id": 33,
+      "meta_anns": {}
+    },
+    "36": {
+      "pretty_name": "Pericardial effusion",
+      "cui": "C0031039",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pericardial effusion",
+      "detected_name": "pericardial~effusion",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 619,
+      "end": 639,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-373945007",
+        "S-70370001"
+      ],
+      "id": 36,
+      "meta_anns": {}
+    },
+    "39": {
+      "pretty_name": "Chronic Obstructive Airway Disease",
+      "cui": "C0024117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "COPD",
+      "detected_name": "copd",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 721,
+      "end": 725,
+      "icd10": [
+        {
+          "chapter": "J44.9",
+          "name": "Chronic obstructive pulmonary disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13645005",
+        "S-155565006",
+        "S-155569000",
+        "S-155585005",
+        "S-155617000",
+        "S-195935004",
+        "S-195948000",
+        "S-196003006",
+        "S-413846005"
+      ],
+      "id": 39,
+      "meta_anns": {}
+    },
+    "40": {
+      "pretty_name": "Pulmonary Emphysema",
+      "cui": "C0034067",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "emphysema",
+      "detected_name": "emphysema",
+      "acc": 0.9230307271659235,
+      "context_similarity": 0.9230307271659235,
+      "start": 727,
+      "end": 736,
+      "icd10": [
+        {
+          "chapter": "J43",
+          "name": "Emphysema"
+        },
+        {
+          "chapter": "J43.9",
+          "name": "Emphysema, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155573002",
+        "S-87433001"
+      ],
+      "id": 40,
+      "meta_anns": {}
+    },
+    "49": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary artery disease",
+      "detected_name": "coronary~artery~disease",
+      "acc": 0.2915953060357923,
+      "context_similarity": 0.2915953060357923,
+      "start": 851,
+      "end": 874,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 49,
+      "meta_anns": {}
+    },
+    "71": {
+      "pretty_name": "Chronic Obstructive Airway Disease",
+      "cui": "C0024117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "COPD",
+      "detected_name": "copd",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1097,
+      "end": 1101,
+      "icd10": [
+        {
+          "chapter": "J44.9",
+          "name": "Chronic obstructive pulmonary disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13645005",
+        "S-155565006",
+        "S-155569000",
+        "S-155585005",
+        "S-155617000",
+        "S-195935004",
+        "S-195948000",
+        "S-196003006",
+        "S-413846005"
+      ],
+      "id": 71,
+      "meta_anns": {}
+    },
+    "72": {
+      "pretty_name": "Pulmonary Emphysema",
+      "cui": "C0034067",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "emphysema",
+      "detected_name": "emphysema",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1103,
+      "end": 1112,
+      "icd10": [
+        {
+          "chapter": "J43",
+          "name": "Emphysema"
+        },
+        {
+          "chapter": "J43.9",
+          "name": "Emphysema, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155573002",
+        "S-87433001"
+      ],
+      "id": 72,
+      "meta_anns": {}
+    },
+    "73": {
+      "pretty_name": "Pneumonia",
+      "cui": "C0032285",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pneumonia",
+      "detected_name": "pneumonia",
+      "acc": 0.6357648641095435,
+      "context_similarity": 0.6357648641095435,
+      "start": 1114,
+      "end": 1123,
+      "icd10": [
+        {
+          "chapter": "J18.9",
+          "name": "Pneumonia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155548002",
+        "S-155552002",
+        "S-155558003",
+        "S-233604007",
+        "S-266391003",
+        "S-274103002",
+        "S-60363000"
+      ],
+      "id": 73,
+      "meta_anns": {}
+    },
+    "74": {
+      "pretty_name": "Lung diseases",
+      "cui": "C0024115",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lung",
+      "detected_name": "lung",
+      "acc": 0.838381099752691,
+      "context_similarity": 0.838381099752691,
+      "start": 1129,
+      "end": 1133,
+      "icd10": [
+        {
+          "chapter": "J98.4",
+          "name": "Other disorders of lung"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196164004",
+        "S-19829001",
+        "S-266374002"
+      ],
+      "id": 74,
+      "meta_anns": {}
+    },
+    "81": {
+      "pretty_name": "Lung diseases",
+      "cui": "C0024115",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lung",
+      "detected_name": "lung",
+      "acc": 0.28516503589496317,
+      "context_similarity": 0.28516503589496317,
+      "start": 1200,
+      "end": 1204,
+      "icd10": [
+        {
+          "chapter": "J98.4",
+          "name": "Other disorders of lung"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196164004",
+        "S-19829001",
+        "S-266374002"
+      ],
+      "id": 81,
+      "meta_anns": {}
+    },
+    "152": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease",
+      "detected_name": "disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2347,
+      "end": 2354,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 152,
+      "meta_anns": {}
+    },
+    "153": {
+      "pretty_name": "Pneumonia",
+      "cui": "C0032285",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pneumonia",
+      "detected_name": "pneumonia",
+      "acc": 0.8286979363325386,
+      "context_similarity": 0.8286979363325386,
+      "start": 2371,
+      "end": 2380,
+      "icd10": [
+        {
+          "chapter": "J18.9",
+          "name": "Pneumonia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155548002",
+        "S-155552002",
+        "S-155558003",
+        "S-233604007",
+        "S-266391003",
+        "S-274103002",
+        "S-60363000"
+      ],
+      "id": 153,
+      "meta_anns": {}
+    },
+    "159": {
+      "pretty_name": "Pericardial effusion",
+      "cui": "C0031039",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pericardial effusion",
+      "detected_name": "pericardial~effusion",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2500,
+      "end": 2520,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-373945007",
+        "S-70370001"
+      ],
+      "id": 159,
+      "meta_anns": {}
+    },
+    "161": {
+      "pretty_name": "",
+      "cui": "C0012818",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "sigmoid diverticulosis",
+      "detected_name": "sigmoid~diverticulosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2541,
+      "end": 2563,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-429430001"
+      ],
+      "id": 161,
+      "meta_anns": {}
+    },
+    "167": {
+      "pretty_name": "Lung diseases",
+      "cui": "C0024115",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lung",
+      "detected_name": "lung",
+      "acc": 0.9088925772221621,
+      "context_similarity": 0.9088925772221621,
+      "start": 2654,
+      "end": 2658,
+      "icd10": [
+        {
+          "chapter": "J98.4",
+          "name": "Other disorders of lung"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196164004",
+        "S-19829001",
+        "S-266374002"
+      ],
+      "id": 167,
+      "meta_anns": {}
+    },
+    "170": {
+      "pretty_name": "Lung diseases",
+      "cui": "C0024115",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Lung",
+      "detected_name": "lung",
+      "acc": 0.9881450695723755,
+      "context_similarity": 0.9881450695723755,
+      "start": 2671,
+      "end": 2675,
+      "icd10": [
+        {
+          "chapter": "J98.4",
+          "name": "Other disorders of lung"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196164004",
+        "S-19829001",
+        "S-266374002"
+      ],
+      "id": 170,
+      "meta_anns": {}
+    },
+    "175": {
+      "pretty_name": "Pneumonia",
+      "cui": "C0032285",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Pneumonia",
+      "detected_name": "pneumonia",
+      "acc": 0.753190969296465,
+      "context_similarity": 0.753190969296465,
+      "start": 2716,
+      "end": 2725,
+      "icd10": [
+        {
+          "chapter": "J18.9",
+          "name": "Pneumonia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155548002",
+        "S-155552002",
+        "S-155558003",
+        "S-233604007",
+        "S-266391003",
+        "S-274103002",
+        "S-60363000"
+      ],
+      "id": 175,
+      "meta_anns": {}
+    },
+    "176": {
+      "pretty_name": "Chronic Obstructive Airway Disease",
+      "cui": "C0024117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "COPD",
+      "detected_name": "copd",
+      "acc": 0.46910287715339716,
+      "context_similarity": 0.46910287715339716,
+      "start": 2731,
+      "end": 2735,
+      "icd10": [
+        {
+          "chapter": "J44.9",
+          "name": "Chronic obstructive pulmonary disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13645005",
+        "S-155565006",
+        "S-155569000",
+        "S-155585005",
+        "S-155617000",
+        "S-195935004",
+        "S-195948000",
+        "S-196003006",
+        "S-413846005"
+      ],
+      "id": 176,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

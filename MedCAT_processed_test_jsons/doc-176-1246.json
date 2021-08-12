@@ -1,0 +1,98 @@
+{
+  "entities": {
+    "2": {
+      "pretty_name": "Essential Hypertension",
+      "cui": "C0085580",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "essential hypertension",
+      "detected_name": "essential~hypertension",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 70,
+      "end": 92,
+      "icd10": [
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155296003",
+        "S-194757006",
+        "S-194760004",
+        "S-266228004",
+        "S-59621000"
+      ],
+      "id": 2,
+      "meta_anns": {}
+    },
+    "20": {
+      "pretty_name": "Paroxysmal nocturnal dyspnea",
+      "cui": "C1956415",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "PND",
+      "detected_name": "pnd",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 362,
+      "end": 365,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-139198007",
+        "S-55442000"
+      ],
+      "id": 20,
+      "meta_anns": {}
+    },
+    "40": {
+      "pretty_name": "Myocardial Infarction",
+      "cui": "C0027051",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "heart attack",
+      "detected_name": "heart~attack",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 719,
+      "end": 731,
+      "icd10": [
+        {
+          "chapter": "I22",
+          "name": "Subsequent ST elevation (STEMI) and non-ST elevation (NSTEMI) myocardial infarction"
+        },
+        {
+          "chapter": "I21",
+          "name": "Acute myocardial infarction"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155304006",
+        "S-194796000",
+        "S-22298006",
+        "S-233824008",
+        "S-266288001",
+        "S-66514008"
+      ],
+      "id": 40,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

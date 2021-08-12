@@ -1,0 +1,36 @@
+{
+  "entities": {
+    "0": {
+      "pretty_name": "",
+      "cui": "C0155836",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Chronic laryngitis",
+      "detected_name": "chronic~laryngitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 13,
+      "end": 31,
+      "icd10": [
+        {
+          "chapter": "J37.0",
+          "name": "Chronic laryngitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155535001",
+        "S-195815004",
+        "S-195816003",
+        "S-29951006"
+      ],
+      "id": 0,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,111 @@
+{
+  "entities": {
+    "1": {
+      "pretty_name": "Hyperlipidemia",
+      "cui": "C0020473",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hyperlipidemia",
+      "detected_name": "hyperlipidemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 87,
+      "end": 101,
+      "icd10": [
+        {
+          "chapter": "E78.5",
+          "name": "Hyperlipidaemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154739000",
+        "S-154743001",
+        "S-190782002",
+        "S-267499005",
+        "S-55822004"
+      ],
+      "id": 1,
+      "meta_anns": {}
+    },
+    "2": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 103,
+      "end": 115,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 2,
+      "meta_anns": {}
+    },
+    "4": {
+      "pretty_name": "Gastroesophageal reflux disease",
+      "cui": "C0017168",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gastroesophageal reflux disease",
+      "detected_name": "gastroesophageal~reflux~disease",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 117,
+      "end": 148,
+      "icd10": [
+        {
+          "chapter": "K21",
+          "name": "Gastro-oesophageal reflux disease"
+        },
+        {
+          "chapter": "K21.9",
+          "name": "Gastro-esophageal reflux disease without esophagitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-235595009",
+        "S-266498005",
+        "S-54856001"
+      ],
+      "id": 4,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

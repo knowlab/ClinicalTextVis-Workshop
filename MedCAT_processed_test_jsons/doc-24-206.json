@@ -1,0 +1,558 @@
+{
+  "entities": {
+    "15": {
+      "pretty_name": "Urinary tract infection",
+      "cui": "C0042029",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "UTI",
+      "detected_name": "uti",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 183,
+      "end": 186,
+      "icd10": [
+        {
+          "chapter": "N39.0",
+          "name": "Urinary tract infection, site not specified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155896006",
+        "S-155897002",
+        "S-197924008",
+        "S-197930008",
+        "S-266634001",
+        "S-266635000",
+        "S-274110008",
+        "S-68566005"
+      ],
+      "id": 15,
+      "meta_anns": {}
+    },
+    "16": {
+      "pretty_name": "Urinary tract obstruction",
+      "cui": "C0178879",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obstructive uropathy",
+      "detected_name": "obstructive~uropathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 192,
+      "end": 212,
+      "icd10": [
+        {
+          "chapter": "N13.9",
+          "name": "Obstructive and reflux uropathy, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-197936002",
+        "S-266567006",
+        "S-266636004",
+        "S-7163005"
+      ],
+      "id": 16,
+      "meta_anns": {}
+    },
+    "35": {
+      "pretty_name": "Urinary tract infection",
+      "cui": "C0042029",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "UTI",
+      "detected_name": "uti",
+      "acc": 0.8324292631278989,
+      "context_similarity": 0.8324292631278989,
+      "start": 734,
+      "end": 737,
+      "icd10": [
+        {
+          "chapter": "N39.0",
+          "name": "Urinary tract infection, site not specified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155896006",
+        "S-155897002",
+        "S-197924008",
+        "S-197930008",
+        "S-266634001",
+        "S-266635000",
+        "S-274110008",
+        "S-68566005"
+      ],
+      "id": 35,
+      "meta_anns": {}
+    },
+    "36": {
+      "pretty_name": "Anemia",
+      "cui": "C0002871",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "anemia",
+      "detected_name": "anemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 743,
+      "end": 749,
+      "icd10": [
+        {
+          "chapter": "D64.9",
+          "name": "Anemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154786001",
+        "S-154812000",
+        "S-191277004",
+        "S-267531008",
+        "S-271737000",
+        "S-64593003"
+      ],
+      "id": 36,
+      "meta_anns": {}
+    },
+    "61": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1064,
+      "end": 1076,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 61,
+      "meta_anns": {}
+    },
+    "62": {
+      "pretty_name": "Hypothyroidism",
+      "cui": "C0020676",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypothyroidism",
+      "detected_name": "hypothyroidism",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1078,
+      "end": 1092,
+      "icd10": [
+        {
+          "chapter": "E03.9",
+          "name": "Hypothyroidism, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154660000",
+        "S-190274003",
+        "S-190290003",
+        "S-237572004",
+        "S-267377003",
+        "S-267465007",
+        "S-40930008"
+      ],
+      "id": 62,
+      "meta_anns": {}
+    },
+    "63": {
+      "pretty_name": "Recurrent urinary tract infection",
+      "cui": "C0262655",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "recurrent UTI",
+      "detected_name": "recurrent~uti",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1094,
+      "end": 1107,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-139466007",
+        "S-155901008",
+        "S-162183000",
+        "S-197924008",
+        "S-197927001",
+        "S-266636004",
+        "S-315242001"
+      ],
+      "id": 63,
+      "meta_anns": {}
+    },
+    "67": {
+      "pretty_name": "Cholelithiasis",
+      "cui": "C0008350",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cholelithiasis",
+      "detected_name": "cholelithiasis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1165,
+      "end": 1179,
+      "icd10": [
+        {
+          "chapter": "K80",
+          "name": "Cholelithiasis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155823008",
+        "S-197376000",
+        "S-197403005",
+        "S-197406002",
+        "S-266474003",
+        "S-266541001",
+        "S-44900007"
+      ],
+      "id": 67,
+      "meta_anns": {}
+    },
+    "70": {
+      "pretty_name": "Renal Insufficiency",
+      "cui": "C1565489",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "renal insufficiency",
+      "detected_name": "renal~insufficiency",
+      "acc": 0.31551892436293716,
+      "context_similarity": 0.31551892436293716,
+      "start": 1189,
+      "end": 1208,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-197657007",
+        "S-236423003"
+      ],
+      "id": 70,
+      "meta_anns": {}
+    },
+    "72": {
+      "pretty_name": "",
+      "cui": "C0020295",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hydronephrosis",
+      "detected_name": "hydronephrosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1237,
+      "end": 1251,
+      "icd10": [
+        {
+          "chapter": "N13.30",
+          "name": "Unspecified hydronephrosis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155866001",
+        "S-197791000",
+        "S-43064006"
+      ],
+      "id": 72,
+      "meta_anns": {}
+    },
+    "98": {
+      "pretty_name": "Lung diseases",
+      "cui": "C0024115",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lung",
+      "detected_name": "lung",
+      "acc": 0.6658914406951671,
+      "context_similarity": 0.6658914406951671,
+      "start": 1577,
+      "end": 1581,
+      "icd10": [
+        {
+          "chapter": "J98.4",
+          "name": "Other disorders of lung"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196164004",
+        "S-19829001",
+        "S-266374002"
+      ],
+      "id": 98,
+      "meta_anns": {}
+    },
+    "106": {
+      "pretty_name": "Heart Diseases",
+      "cui": "C0018799",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cardiac disease",
+      "detected_name": "cardiac~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1607,
+      "end": 1622,
+      "icd10": [
+        {
+          "chapter": "I51.9",
+          "name": "Heart disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155263000",
+        "S-194707003",
+        "S-195152001",
+        "S-266275004",
+        "S-266311004",
+        "S-56265001"
+      ],
+      "id": 106,
+      "meta_anns": {}
+    },
+    "109": {
+      "pretty_name": "Alzheimer's Disease",
+      "cui": "C0002395",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Alzheimer disease",
+      "detected_name": "alzheimer~disease",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1628,
+      "end": 1645,
+      "icd10": [
+        {
+          "chapter": "G30",
+          "name": "Alzheimer's disease"
+        },
+        {
+          "chapter": "G30.9",
+          "name": "Alzheimer's disease, unspecified"
+        },
+        {
+          "chapter": "F00",
+          "name": "Dementia in Alzheimer's disease"
+        },
+        {
+          "chapter": "F00.9",
+          "name": "Dementia in Alzheimer's disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154998003",
+        "S-267688001",
+        "S-26929004",
+        "S-73768007"
+      ],
+      "id": 109,
+      "meta_anns": {}
+    },
+    "157": {
+      "pretty_name": "Urinary tract infection",
+      "cui": "C0042029",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "UTI",
+      "detected_name": "uti",
+      "acc": 0.46776347076647373,
+      "context_similarity": 0.46776347076647373,
+      "start": 2654,
+      "end": 2657,
+      "icd10": [
+        {
+          "chapter": "N39.0",
+          "name": "Urinary tract infection, site not specified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155896006",
+        "S-155897002",
+        "S-197924008",
+        "S-197930008",
+        "S-266634001",
+        "S-266635000",
+        "S-274110008",
+        "S-68566005"
+      ],
+      "id": 157,
+      "meta_anns": {}
+    },
+    "189": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disorder",
+      "detected_name": "disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3370,
+      "end": 3378,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 189,
+      "meta_anns": {}
+    },
+    "198": {
+      "pretty_name": "",
+      "cui": "C0020295",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hydronephrosis",
+      "detected_name": "hydronephrosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3450,
+      "end": 3464,
+      "icd10": [
+        {
+          "chapter": "N13.30",
+          "name": "Unspecified hydronephrosis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155866001",
+        "S-197791000",
+        "S-43064006"
+      ],
+      "id": 198,
+      "meta_anns": {}
+    },
+    "203": {
+      "pretty_name": "Hypothyroidism",
+      "cui": "C0020676",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypothyroidism",
+      "detected_name": "hypothyroidism",
+      "acc": 0.575938265771827,
+      "context_similarity": 0.575938265771827,
+      "start": 3548,
+      "end": 3562,
+      "icd10": [
+        {
+          "chapter": "E03.9",
+          "name": "Hypothyroidism, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154660000",
+        "S-190274003",
+        "S-190290003",
+        "S-237572004",
+        "S-267377003",
+        "S-267465007",
+        "S-40930008"
+      ],
+      "id": 203,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

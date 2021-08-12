@@ -1,0 +1,365 @@
+{
+  "entities": {
+    "33": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.5486909143331349,
+      "context_similarity": 0.5486909143331349,
+      "start": 1009,
+      "end": 1021,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 33,
+      "meta_anns": {}
+    },
+    "35": {
+      "pretty_name": "Kidney Failure",
+      "cui": "C0035078",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "renal failure",
+      "detected_name": "renal~failure",
+      "acc": 0.6360906220818501,
+      "context_similarity": 0.6360906220818501,
+      "start": 1030,
+      "end": 1043,
+      "icd10": [
+        {
+          "chapter": "N17-N19.9",
+          "name": "Renal failure"
+        },
+        {
+          "chapter": "N19",
+          "name": "Unspecified renal failure"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156092003",
+        "S-197656003",
+        "S-198524000",
+        "S-266553002",
+        "S-266616000",
+        "S-42399005",
+        "S-723188008"
+      ],
+      "id": 35,
+      "meta_anns": {}
+    },
+    "49": {
+      "pretty_name": "Myocardial Infarction",
+      "cui": "C0027051",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "heart attack",
+      "detected_name": "heart~attack",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1404,
+      "end": 1416,
+      "icd10": [
+        {
+          "chapter": "I22",
+          "name": "Subsequent ST elevation (STEMI) and non-ST elevation (NSTEMI) myocardial infarction"
+        },
+        {
+          "chapter": "I21",
+          "name": "Acute myocardial infarction"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155304006",
+        "S-194796000",
+        "S-22298006",
+        "S-233824008",
+        "S-266288001",
+        "S-66514008"
+      ],
+      "id": 49,
+      "meta_anns": {}
+    },
+    "51": {
+      "pretty_name": "Chronic Kidney Diseases",
+      "cui": "C1561643",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "chronic renal failure",
+      "detected_name": "chronic~renal~failure",
+      "acc": 0.9478071353322425,
+      "context_similarity": 0.9478071353322425,
+      "start": 1418,
+      "end": 1439,
+      "icd10": [
+        {
+          "chapter": "N18.9",
+          "name": "Chronic kidney disease, unspecified"
+        },
+        {
+          "chapter": "N18",
+          "name": "Chronic kidney disease (CKD)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-236425005",
+        "S-709044004"
+      ],
+      "id": 51,
+      "meta_anns": {}
+    },
+    "55": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "CHF",
+      "detected_name": "chf",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1455,
+      "end": 1458,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 55,
+      "meta_anns": {}
+    },
+    "56": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1460,
+      "end": 1472,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 56,
+      "meta_anns": {}
+    },
+    "126": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "erythema",
+      "detected_name": "erythema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2882,
+      "end": 2890,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 126,
+      "meta_anns": {}
+    },
+    "143": {
+      "pretty_name": "Kidney Failure, Chronic",
+      "cui": "C0022661",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "End-stage renal disease",
+      "detected_name": "end~stage~renal~disease",
+      "acc": 0.5950199743571676,
+      "context_similarity": 0.5950199743571676,
+      "start": 3215,
+      "end": 3238,
+      "icd10": [
+        {
+          "chapter": "N18",
+          "name": "Chronic renal failure"
+        },
+        {
+          "chapter": "N18.9",
+          "name": "Chronic renal failure, unspecified"
+        },
+        {
+          "chapter": "N18.0",
+          "name": "End-stage renal disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155856009",
+        "S-197654000",
+        "S-197655004",
+        "S-197755007",
+        "S-46177005",
+        "S-90688005"
+      ],
+      "id": 143,
+      "meta_anns": {}
+    },
+    "147": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3244,
+      "end": 3256,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 147,
+      "meta_anns": {}
+    },
+    "148": {
+      "pretty_name": "",
+      "cui": "C0856742",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "post MI",
+      "detected_name": "post~mi",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3269,
+      "end": 3276,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 148,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

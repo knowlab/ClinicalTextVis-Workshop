@@ -1,0 +1,141 @@
+{
+  "entities": {
+    "17": {
+      "pretty_name": "Folliculitis",
+      "cui": "C0016436",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "folliculitis",
+      "detected_name": "folliculitis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 302,
+      "end": 314,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-13600006",
+        "S-156411003",
+        "S-201177005",
+        "S-201183008",
+        "S-267863007",
+        "S-721130001"
+      ],
+      "id": 17,
+      "meta_anns": {}
+    },
+    "64": {
+      "pretty_name": "Paresthesia",
+      "cui": "C0030554",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tingling",
+      "detected_name": "tingling",
+      "acc": 0.6956209365721604,
+      "context_similarity": 0.6956209365721604,
+      "start": 1509,
+      "end": 1517,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-158228009",
+        "S-206857001",
+        "S-91019004"
+      ],
+      "id": 64,
+      "meta_anns": {}
+    },
+    "78": {
+      "pretty_name": "Folliculitis",
+      "cui": "C0016436",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "folliculitis",
+      "detected_name": "folliculitis",
+      "acc": 0.7810405396753674,
+      "context_similarity": 0.7810405396753674,
+      "start": 1953,
+      "end": 1965,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-13600006",
+        "S-156411003",
+        "S-201177005",
+        "S-201183008",
+        "S-267863007",
+        "S-721130001"
+      ],
+      "id": 78,
+      "meta_anns": {}
+    },
+    "80": {
+      "pretty_name": "Abscess",
+      "cui": "C0000833",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "abscesses",
+      "detected_name": "abscess",
+      "acc": 0.48090632594950933,
+      "context_similarity": 0.48090632594950933,
+      "start": 1975,
+      "end": 1984,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-128477000",
+        "S-156308003",
+        "S-200694004",
+        "S-267831001",
+        "S-44132006"
+      ],
+      "id": 80,
+      "meta_anns": {}
+    },
+    "82": {
+      "pretty_name": "Folliculitis",
+      "cui": "C0016436",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Folliculitis",
+      "detected_name": "folliculitis",
+      "acc": 0.2835774009277655,
+      "context_similarity": 0.2835774009277655,
+      "start": 2078,
+      "end": 2090,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-13600006",
+        "S-156411003",
+        "S-201177005",
+        "S-201183008",
+        "S-267863007",
+        "S-721130001"
+      ],
+      "id": 82,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

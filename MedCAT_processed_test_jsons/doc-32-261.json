@@ -1,0 +1,590 @@
+{
+  "entities": {
+    "6": {
+      "pretty_name": "Pleural effusion disorder",
+      "cui": "C0032227",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pleural effusion",
+      "detected_name": "pleural~effusion",
+      "acc": 0.18826890750146244,
+      "context_similarity": 0.18826890750146244,
+      "start": 169,
+      "end": 185,
+      "icd10": [
+        {
+          "chapter": "J90",
+          "name": "Pleural effusion, not elsewhere classified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155606001",
+        "S-155608000",
+        "S-196097001",
+        "S-196101005",
+        "S-266407006",
+        "S-60046008"
+      ],
+      "id": 6,
+      "meta_anns": {}
+    },
+    "11": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary artery disease",
+      "detected_name": "coronary~artery~disease",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 209,
+      "end": 232,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 11,
+      "meta_anns": {}
+    },
+    "21": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "congestive heart failure",
+      "detected_name": "congestive~heart~failure",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 264,
+      "end": 288,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 21,
+      "meta_anns": {}
+    },
+    "29": {
+      "pretty_name": "",
+      "cui": "C0003949",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "asbestos",
+      "detected_name": "asbestos",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 349,
+      "end": 357,
+      "icd10": [
+        {
+          "chapter": "J61",
+          "name": "Pneumoconiosis due to asbestos and other mineral fibers"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155589004",
+        "S-196006003",
+        "S-22607003",
+        "S-266400008"
+      ],
+      "id": 29,
+      "meta_anns": {}
+    },
+    "36": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes mellitus",
+      "detected_name": "diabetes~mellitus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 382,
+      "end": 399,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 36,
+      "meta_anns": {}
+    },
+    "38": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 422,
+      "end": 434,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 38,
+      "meta_anns": {}
+    },
+    "39": {
+      "pretty_name": "Peripheral Vascular Diseases",
+      "cui": "C0085096",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "peripheral vascular disease",
+      "detected_name": "peripheral~vascular~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 440,
+      "end": 467,
+      "icd10": [
+        {
+          "chapter": "I73.9",
+          "name": "Peripheral vascular disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155431008",
+        "S-155433006",
+        "S-195311000",
+        "S-195314008",
+        "S-266320008",
+        "S-266321007",
+        "S-399957001",
+        "S-400047006",
+        "S-91523003"
+      ],
+      "id": 39,
+      "meta_anns": {}
+    },
+    "70": {
+      "pretty_name": "Pharyngitis",
+      "cui": "C0031350",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "sore throat",
+      "detected_name": "sore~throat",
+      "acc": 0.37716917823730955,
+      "context_similarity": 0.37716917823730955,
+      "start": 917,
+      "end": 928,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-141458004",
+        "S-164261009",
+        "S-37616004",
+        "S-405737000"
+      ],
+      "id": 70,
+      "meta_anns": {}
+    },
+    "97": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1136,
+      "end": 1148,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 97,
+      "meta_anns": {}
+    },
+    "98": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.795841776130491,
+      "context_similarity": 0.795841776130491,
+      "start": 1150,
+      "end": 1158,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 98,
+      "meta_anns": {}
+    },
+    "138": {
+      "pretty_name": "Chronic Kidney Diseases",
+      "cui": "C1561643",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "chronic renal insufficiency",
+      "detected_name": "chronic~renal~insufficiency",
+      "acc": 0.6626263194260847,
+      "context_similarity": 0.6626263194260847,
+      "start": 2030,
+      "end": 2057,
+      "icd10": [
+        {
+          "chapter": "N18.9",
+          "name": "Chronic kidney disease, unspecified"
+        },
+        {
+          "chapter": "N18",
+          "name": "Chronic kidney disease (CKD)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-236425005",
+        "S-709044004"
+      ],
+      "id": 138,
+      "meta_anns": {}
+    },
+    "144": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "congestive heart failure",
+      "detected_name": "congestive~heart~failure",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2116,
+      "end": 2140,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 144,
+      "meta_anns": {}
+    },
+    "148": {
+      "pretty_name": "",
+      "cui": "C0085699",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cardiac cirrhosis",
+      "detected_name": "cardiac~cirrhosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2142,
+      "end": 2159,
+      "icd10": [
+        {
+          "chapter": "K76.1",
+          "name": "Chronic passive congestion of liver"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-197297002",
+        "S-74669004"
+      ],
+      "id": 148,
+      "meta_anns": {}
+    },
+    "158": {
+      "pretty_name": "",
+      "cui": "C0003949",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "asbestos",
+      "detected_name": "asbestos",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2270,
+      "end": 2278,
+      "icd10": [
+        {
+          "chapter": "J61",
+          "name": "Pneumoconiosis due to asbestos and other mineral fibers"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155589004",
+        "S-196006003",
+        "S-22607003",
+        "S-266400008"
+      ],
+      "id": 158,
+      "meta_anns": {}
+    },
+    "164": {
+      "pretty_name": "Diabetic Nephropathy",
+      "cui": "C0011881",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetic nephropathy",
+      "detected_name": "diabetic~nephropathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2318,
+      "end": 2338,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-127013003",
+        "S-190338009",
+        "S-21858001",
+        "S-267470000",
+        "S-60009009"
+      ],
+      "id": 164,
+      "meta_anns": {}
+    },
+    "168": {
+      "pretty_name": "",
+      "cui": "C0264657",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertensive nephrosclerosis",
+      "detected_name": "hypertensive~nephrosclerosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2361,
+      "end": 2389,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-14973001",
+        "S-473392002"
+      ],
+      "id": 168,
+      "meta_anns": {}
+    },
+    "170": {
+      "pretty_name": "Hematuria",
+      "cui": "C0018965",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hematuria",
+      "detected_name": "hematuria",
+      "acc": 0.46041482948812135,
+      "context_similarity": 0.46041482948812135,
+      "start": 2408,
+      "end": 2417,
+      "icd10": [
+        {
+          "chapter": "R31",
+          "name": "Unspecified haematuria"
+        },
+        {
+          "chapter": "R31.9",
+          "name": "Hematuria, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139414003",
+        "S-139416001",
+        "S-155895005",
+        "S-162136002",
+        "S-197937006",
+        "S-266568001",
+        "S-267066000",
+        "S-267167006",
+        "S-267168001",
+        "S-307414005",
+        "S-34436003",
+        "S-53298000"
+      ],
+      "id": 170,
+      "meta_anns": {}
+    },
+    "172": {
+      "pretty_name": "Benign Prostatic Hyperplasia",
+      "cui": "C1704272",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "benign prostatic hypertrophy",
+      "detected_name": "benign~prostatic~hypertrophy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2440,
+      "end": 2468,
+      "icd10": [
+        {
+          "chapter": "N40",
+          "name": "Benign prostatic hyperplasia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-266569009",
+        "S-367483003",
+        "S-61059009"
+      ],
+      "id": 172,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

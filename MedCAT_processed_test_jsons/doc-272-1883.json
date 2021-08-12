@@ -1,0 +1,164 @@
+{
+  "entities": {
+    "37": {
+      "pretty_name": "Asthma",
+      "cui": "C0004096",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "asthma",
+      "detected_name": "asthma",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 815,
+      "end": 821,
+      "icd10": [
+        {
+          "chapter": "J45",
+          "name": "Asthma"
+        },
+        {
+          "chapter": "J45.9",
+          "name": "Asthma, unspecified"
+        },
+        {
+          "chapter": "J45.90",
+          "name": "Unspecified asthma"
+        },
+        {
+          "chapter": "J45.909",
+          "name": "Unspecified asthma, uncomplicated"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155574008",
+        "S-155579003",
+        "S-187687003",
+        "S-195967001",
+        "S-195979001",
+        "S-195983001",
+        "S-21341004",
+        "S-266365004",
+        "S-266398009",
+        "S-278517007"
+      ],
+      "id": 37,
+      "meta_anns": {}
+    },
+    "38": {
+      "pretty_name": "Anemia",
+      "cui": "C0002871",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "anemia",
+      "detected_name": "anemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 823,
+      "end": 829,
+      "icd10": [
+        {
+          "chapter": "D64.9",
+          "name": "Anemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154786001",
+        "S-154812000",
+        "S-191277004",
+        "S-267531008",
+        "S-271737000",
+        "S-64593003"
+      ],
+      "id": 38,
+      "meta_anns": {}
+    },
+    "39": {
+      "pretty_name": "Hypothyroidism",
+      "cui": "C0020676",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypothyroidism",
+      "detected_name": "hypothyroidism",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 848,
+      "end": 862,
+      "icd10": [
+        {
+          "chapter": "E03.9",
+          "name": "Hypothyroidism, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154660000",
+        "S-190274003",
+        "S-190290003",
+        "S-237572004",
+        "S-267377003",
+        "S-267465007",
+        "S-40930008"
+      ],
+      "id": 39,
+      "meta_anns": {}
+    },
+    "70": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymphadenopathy",
+      "detected_name": "lymphadenopathy",
+      "acc": 0.8823440597992236,
+      "context_similarity": 0.8823440597992236,
+      "start": 1422,
+      "end": 1437,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 70,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

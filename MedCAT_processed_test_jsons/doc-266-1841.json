@@ -1,0 +1,395 @@
+{
+  "entities": {
+    "6": {
+      "pretty_name": "Gastroesophageal reflux disease",
+      "cui": "C0017168",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gastroesophageal reflux disease",
+      "detected_name": "gastroesophageal~reflux~disease",
+      "acc": 0.8487271741500904,
+      "context_similarity": 0.8487271741500904,
+      "start": 147,
+      "end": 178,
+      "icd10": [
+        {
+          "chapter": "K21",
+          "name": "Gastro-oesophageal reflux disease"
+        },
+        {
+          "chapter": "K21.9",
+          "name": "Gastro-esophageal reflux disease without esophagitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-235595009",
+        "S-266498005",
+        "S-54856001"
+      ],
+      "id": 6,
+      "meta_anns": {}
+    },
+    "14": {
+      "pretty_name": "",
+      "cui": "C0740905",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "allergies, chronic",
+      "detected_name": "allergy~chronic",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 194,
+      "end": 212,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 14,
+      "meta_anns": {}
+    },
+    "17": {
+      "pretty_name": "Asthma",
+      "cui": "C0004096",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "asthma",
+      "detected_name": "asthma",
+      "acc": 0.7245540394409165,
+      "context_similarity": 0.7245540394409165,
+      "start": 230,
+      "end": 236,
+      "icd10": [
+        {
+          "chapter": "J45",
+          "name": "Asthma"
+        },
+        {
+          "chapter": "J45.9",
+          "name": "Asthma, unspecified"
+        },
+        {
+          "chapter": "J45.90",
+          "name": "Unspecified asthma"
+        },
+        {
+          "chapter": "J45.909",
+          "name": "Unspecified asthma, uncomplicated"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155574008",
+        "S-155579003",
+        "S-187687003",
+        "S-195967001",
+        "S-195979001",
+        "S-195983001",
+        "S-21341004",
+        "S-266365004",
+        "S-266398009",
+        "S-278517007"
+      ],
+      "id": 17,
+      "meta_anns": {}
+    },
+    "28": {
+      "pretty_name": "",
+      "cui": "C1290801",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Chronic glossitis",
+      "detected_name": "chronic~glossitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 394,
+      "end": 411,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-109808001"
+      ],
+      "id": 28,
+      "meta_anns": {}
+    },
+    "42": {
+      "pretty_name": "Asthma",
+      "cui": "C0004096",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "asthma",
+      "detected_name": "asthma",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 500,
+      "end": 506,
+      "icd10": [
+        {
+          "chapter": "J45",
+          "name": "Asthma"
+        },
+        {
+          "chapter": "J45.9",
+          "name": "Asthma, unspecified"
+        },
+        {
+          "chapter": "J45.90",
+          "name": "Unspecified asthma"
+        },
+        {
+          "chapter": "J45.909",
+          "name": "Unspecified asthma, uncomplicated"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155574008",
+        "S-155579003",
+        "S-187687003",
+        "S-195967001",
+        "S-195979001",
+        "S-195983001",
+        "S-21341004",
+        "S-266365004",
+        "S-266398009",
+        "S-278517007"
+      ],
+      "id": 42,
+      "meta_anns": {}
+    },
+    "45": {
+      "pretty_name": "Fibromyalgia",
+      "cui": "C0016053",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "fibromyalgia",
+      "detected_name": "fibromyalgia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 523,
+      "end": 535,
+      "icd10": [
+        {
+          "chapter": "M79.7",
+          "name": "Fibromyalgia"
+        },
+        {
+          "chapter": "M79.1",
+          "name": "Myalgia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-1304004",
+        "S-13612005",
+        "S-156727006",
+        "S-203082005",
+        "S-203101004",
+        "S-203102006",
+        "S-203111006",
+        "S-203138004",
+        "S-24693007",
+        "S-247365004",
+        "S-268107007",
+        "S-56557000",
+        "S-726531007"
+      ],
+      "id": 45,
+      "meta_anns": {}
+    },
+    "50": {
+      "pretty_name": "Peptic Ulcer",
+      "cui": "C0030920",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "peptic ulcer disease",
+      "detected_name": "peptic~ulcer~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 552,
+      "end": 572,
+      "icd10": [
+        {
+          "chapter": "K27",
+          "name": "Peptic ulcer, site unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13200003",
+        "S-155701001",
+        "S-155710009",
+        "S-196681007",
+        "S-196697002",
+        "S-196704007",
+        "S-196705008",
+        "S-266437002",
+        "S-266501005"
+      ],
+      "id": 50,
+      "meta_anns": {}
+    },
+    "58": {
+      "pretty_name": "Gastritis",
+      "cui": "C0017152",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gastritis",
+      "detected_name": "gastritis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 585,
+      "end": 594,
+      "icd10": [
+        {
+          "chapter": "K29.7",
+          "name": "Gastritis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155711008",
+        "S-196743006",
+        "S-235653009",
+        "S-266503008",
+        "S-4556007"
+      ],
+      "id": 58,
+      "meta_anns": {}
+    },
+    "61": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease",
+      "detected_name": "disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 624,
+      "end": 631,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 61,
+      "meta_anns": {}
+    },
+    "69": {
+      "pretty_name": "Hypothyroidism",
+      "cui": "C0020676",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypothyroidism",
+      "detected_name": "hypothyroidism",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 680,
+      "end": 694,
+      "icd10": [
+        {
+          "chapter": "E03.9",
+          "name": "Hypothyroidism, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154660000",
+        "S-190274003",
+        "S-190290003",
+        "S-237572004",
+        "S-267377003",
+        "S-267465007",
+        "S-40930008"
+      ],
+      "id": 69,
+      "meta_anns": {}
+    },
+    "76": {
+      "pretty_name": "Deglutition Disorders",
+      "cui": "C0011168",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "dysphagia",
+      "detected_name": "dysphagia",
+      "acc": 0.3921298698554623,
+      "context_similarity": 0.3921298698554623,
+      "start": 738,
+      "end": 747,
+      "icd10": [
+        {
+          "chapter": "R13",
+          "name": "Dysphagia"
+        },
+        {
+          "chapter": "R13.10",
+          "name": "Dysphagia, unspecified"
+        },
+        {
+          "chapter": "R13.1",
+          "name": "Dysphagia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139289002",
+        "S-158429003",
+        "S-158430008",
+        "S-158431007",
+        "S-162022009",
+        "S-207121004",
+        "S-207122006",
+        "S-207123001",
+        "S-288939007",
+        "S-40739000"
+      ],
+      "id": 76,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

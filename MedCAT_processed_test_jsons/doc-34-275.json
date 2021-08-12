@@ -1,0 +1,333 @@
+{
+  "entities": {
+    "1": {
+      "pretty_name": "Down Syndrome",
+      "cui": "C0013080",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Down’s syndrome",
+      "detected_name": "down~s~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 47,
+      "end": 62,
+      "icd10": [
+        {
+          "chapter": "Q90",
+          "name": "Down's syndrome"
+        },
+        {
+          "chapter": "Q90.9",
+          "name": "Down's syndrome, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-157019002",
+        "S-205614001",
+        "S-205618003",
+        "S-254263008",
+        "S-41040004",
+        "S-737542000"
+      ],
+      "id": 1,
+      "meta_anns": {}
+    },
+    "4": {
+      "pretty_name": "Hypothyroidism",
+      "cui": "C0020676",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypothyroidism",
+      "detected_name": "hypothyroidism",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 104,
+      "end": 118,
+      "icd10": [
+        {
+          "chapter": "E03.9",
+          "name": "Hypothyroidism, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154660000",
+        "S-190274003",
+        "S-190290003",
+        "S-237572004",
+        "S-267377003",
+        "S-267465007",
+        "S-40930008"
+      ],
+      "id": 4,
+      "meta_anns": {}
+    },
+    "5": {
+      "pretty_name": "Onychomycosis",
+      "cui": "C0040261",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "onychomycosis",
+      "detected_name": "onychomycosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 131,
+      "end": 144,
+      "icd10": [
+        {
+          "chapter": "B35.1",
+          "name": "Tinea unguium"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154397004",
+        "S-186988000",
+        "S-266149008",
+        "S-266215006",
+        "S-30757001",
+        "S-414941008"
+      ],
+      "id": 5,
+      "meta_anns": {}
+    },
+    "10": {
+      "pretty_name": "Hypothyroidism",
+      "cui": "C0020676",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypothyroid",
+      "detected_name": "hypothyroid",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 300,
+      "end": 311,
+      "icd10": [
+        {
+          "chapter": "E03.9",
+          "name": "Hypothyroidism, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154660000",
+        "S-190274003",
+        "S-190290003",
+        "S-237572004",
+        "S-267377003",
+        "S-267465007",
+        "S-40930008"
+      ],
+      "id": 10,
+      "meta_anns": {}
+    },
+    "24": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adenopathy",
+      "detected_name": "adenopathy",
+      "acc": 0.726308436866232,
+      "context_similarity": 0.726308436866232,
+      "start": 744,
+      "end": 754,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 24,
+      "meta_anns": {}
+    },
+    "32": {
+      "pretty_name": "Down Syndrome",
+      "cui": "C0013080",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Down’s syndrome",
+      "detected_name": "down~s~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 975,
+      "end": 990,
+      "icd10": [
+        {
+          "chapter": "Q90",
+          "name": "Down's syndrome"
+        },
+        {
+          "chapter": "Q90.9",
+          "name": "Down's syndrome, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-157019002",
+        "S-205614001",
+        "S-205618003",
+        "S-254263008",
+        "S-41040004",
+        "S-737542000"
+      ],
+      "id": 32,
+      "meta_anns": {}
+    },
+    "34": {
+      "pretty_name": "Onychomycosis",
+      "cui": "C0040261",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Onychomycosis",
+      "detected_name": "onychomycosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 996,
+      "end": 1009,
+      "icd10": [
+        {
+          "chapter": "B35.1",
+          "name": "Tinea unguium"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154397004",
+        "S-186988000",
+        "S-266149008",
+        "S-266215006",
+        "S-30757001",
+        "S-414941008"
+      ],
+      "id": 34,
+      "meta_anns": {}
+    },
+    "35": {
+      "pretty_name": "Hypothyroidism",
+      "cui": "C0020676",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypothyroidism",
+      "detected_name": "hypothyroidism",
+      "acc": 0.12994028196912422,
+      "context_similarity": 0.12994028196912422,
+      "start": 1015,
+      "end": 1029,
+      "icd10": [
+        {
+          "chapter": "E03.9",
+          "name": "Hypothyroidism, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154660000",
+        "S-190274003",
+        "S-190290003",
+        "S-237572004",
+        "S-267377003",
+        "S-267465007",
+        "S-40930008"
+      ],
+      "id": 35,
+      "meta_anns": {}
+    },
+    "46": {
+      "pretty_name": "Liver diseases",
+      "cui": "C0023895",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "liver",
+      "detected_name": "liver",
+      "acc": 0.14027450615938952,
+      "context_similarity": 0.14027450615938952,
+      "start": 1256,
+      "end": 1261,
+      "icd10": [
+        {
+          "chapter": "K70-K77.9",
+          "name": "Diseases of liver"
+        },
+        {
+          "chapter": "K76.9",
+          "name": "Liver disease, unspecified"
+        },
+        {
+          "chapter": "K70-K77",
+          "name": "Diseases of liver (K70-K77)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155807008",
+        "S-155817003",
+        "S-155822003",
+        "S-197375001",
+        "S-197551000",
+        "S-235856003",
+        "S-266535008",
+        "S-62857009"
+      ],
+      "id": 46,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,312 @@
+{
+  "entities": {
+    "8": {
+      "pretty_name": "Pneumonia",
+      "cui": "C0032285",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pneumonia",
+      "detected_name": "pneumonia",
+      "acc": 0.19794264020993013,
+      "context_similarity": 0.19794264020993013,
+      "start": 190,
+      "end": 199,
+      "icd10": [
+        {
+          "chapter": "J18.9",
+          "name": "Pneumonia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155548002",
+        "S-155552002",
+        "S-155558003",
+        "S-233604007",
+        "S-266391003",
+        "S-274103002",
+        "S-60363000"
+      ],
+      "id": 8,
+      "meta_anns": {}
+    },
+    "11": {
+      "pretty_name": "Paroxysmal nocturnal dyspnea",
+      "cui": "C1956415",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "paroxysmal nocturnal dyspnea",
+      "detected_name": "paroxysmal~nocturnal~dyspnea",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 246,
+      "end": 274,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-139198007",
+        "S-55442000"
+      ],
+      "id": 11,
+      "meta_anns": {}
+    },
+    "20": {
+      "pretty_name": "Atrial Fibrillation",
+      "cui": "C0004238",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "atrial fibrillation",
+      "detected_name": "atrial~fibrillation",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 494,
+      "end": 513,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155364009",
+        "S-266306001",
+        "S-49436004"
+      ],
+      "id": 20,
+      "meta_anns": {}
+    },
+    "27": {
+      "pretty_name": "",
+      "cui": "C0919984",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "heart disease, end-stage",
+      "detected_name": "heart~disease~end~stage",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 561,
+      "end": 585,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 27,
+      "meta_anns": {}
+    },
+    "90": {
+      "pretty_name": "Coronary Arteriosclerosis",
+      "cui": "C0010054",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Atherosclerotic coronary vascular disease",
+      "detected_name": "atherosclerotic~coronary~vascular~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1722,
+      "end": 1763,
+      "icd10": [
+        {
+          "chapter": "I25.1",
+          "name": "Atherosclerotic heart disease"
+        },
+        {
+          "chapter": "I25.10",
+          "name": "Atherosclerotic heart disease of native coronary artery without angina pectoris"
+        },
+        {
+          "chapter": "K76.1",
+          "name": "Chronic passive congestion of liver"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155315001",
+        "S-155316000",
+        "S-194795001",
+        "S-194841001",
+        "S-266231003",
+        "S-266290000",
+        "S-41702007",
+        "S-443502000",
+        "S-53741008"
+      ],
+      "id": 90,
+      "meta_anns": {}
+    },
+    "94": {
+      "pretty_name": "Old myocardial infarction",
+      "cui": "C0155668",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "old myocardial infarction",
+      "detected_name": "old~myocardial~infarction",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1769,
+      "end": 1794,
+      "icd10": [
+        {
+          "chapter": "I25.2",
+          "name": "Old myocardial infarction"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155306008",
+        "S-1755008",
+        "S-194827005"
+      ],
+      "id": 94,
+      "meta_anns": {}
+    },
+    "103": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Diabetes mellitus",
+      "detected_name": "diabetes~mellitus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1848,
+      "end": 1865,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 103,
+      "meta_anns": {}
+    },
+    "105": {
+      "pretty_name": "Diabetic Nephropathy",
+      "cui": "C0011881",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Diabetic nephropathy",
+      "detected_name": "diabetic~nephropathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1871,
+      "end": 1891,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-127013003",
+        "S-190338009",
+        "S-21858001",
+        "S-267470000",
+        "S-60009009"
+      ],
+      "id": 105,
+      "meta_anns": {}
+    },
+    "108": {
+      "pretty_name": "Kidney Failure",
+      "cui": "C0035078",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "renal failure",
+      "detected_name": "renal~failure",
+      "acc": 0.7943914198471043,
+      "context_similarity": 0.7943914198471043,
+      "start": 1896,
+      "end": 1909,
+      "icd10": [
+        {
+          "chapter": "N17-N19.9",
+          "name": "Renal failure"
+        },
+        {
+          "chapter": "N19",
+          "name": "Unspecified renal failure"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156092003",
+        "S-197656003",
+        "S-198524000",
+        "S-266553002",
+        "S-266616000",
+        "S-42399005",
+        "S-723188008"
+      ],
+      "id": 108,
+      "meta_anns": {}
+    },
+    "112": {
+      "pretty_name": "Atrial Fibrillation",
+      "cui": "C0004238",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "atrial fibrillation",
+      "detected_name": "atrial~fibrillation",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1962,
+      "end": 1981,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155364009",
+        "S-266306001",
+        "S-49436004"
+      ],
+      "id": 112,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

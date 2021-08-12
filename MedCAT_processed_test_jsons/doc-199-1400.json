@@ -1,0 +1,98 @@
+{
+  "entities": {
+    "32": {
+      "pretty_name": "Intervertebral Disc Degeneration",
+      "cui": "C0158266",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "degenerative disc disease",
+      "detected_name": "degenerative~disc~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 371,
+      "end": 396,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-202714003",
+        "S-77547008"
+      ],
+      "id": 32,
+      "meta_anns": {}
+    },
+    "69": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adenopathy",
+      "detected_name": "adenopathy",
+      "acc": 0.9405907605761344,
+      "context_similarity": 0.9405907605761344,
+      "start": 1146,
+      "end": 1156,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 69,
+      "meta_anns": {}
+    },
+    "96": {
+      "pretty_name": "Dental abscess",
+      "cui": "C0518988",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "DENTAL ABSCESS",
+      "detected_name": "dental~abscess",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1779,
+      "end": 1793,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155639003",
+        "S-196340006",
+        "S-299709002",
+        "S-34597006"
+      ],
+      "id": 96,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

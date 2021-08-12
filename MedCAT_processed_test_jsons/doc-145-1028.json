@@ -1,0 +1,246 @@
+{
+  "entities": {
+    "3": {
+      "pretty_name": "Oligoarticular Arthritis",
+      "cui": "C3892044",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "oligoarticular arthritis",
+      "detected_name": "oligoarticular~arthritis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 143,
+      "end": 167,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-239819001"
+      ],
+      "id": 3,
+      "meta_anns": {}
+    },
+    "7": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 331,
+      "end": 335,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 7,
+      "meta_anns": {}
+    },
+    "9": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 366,
+      "end": 370,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 9,
+      "meta_anns": {}
+    },
+    "11": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 429,
+      "end": 433,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 11,
+      "meta_anns": {}
+    },
+    "34": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymphadenopathy",
+      "detected_name": "lymphadenopathy",
+      "acc": 0.35004479601473915,
+      "context_similarity": 0.35004479601473915,
+      "start": 951,
+      "end": 966,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 34,
+      "meta_anns": {}
+    },
+    "36": {
+      "pretty_name": "Alopecia",
+      "cui": "C0002170",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "alopecia",
+      "detected_name": "alopecia",
+      "acc": 0.7212238819904229,
+      "context_similarity": 0.7212238819904229,
+      "start": 971,
+      "end": 979,
+      "icd10": [
+        {
+          "chapter": "L65.9",
+          "name": "Nonscarring hair loss, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156408004",
+        "S-201129005",
+        "S-201130000",
+        "S-201157003",
+        "S-267810004",
+        "S-270504008",
+        "S-278040002",
+        "S-56317004"
+      ],
+      "id": 36,
+      "meta_anns": {}
+    },
+    "64": {
+      "pretty_name": "Oligoarticular Arthritis",
+      "cui": "C3892044",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "oligoarticular arthritis",
+      "detected_name": "oligoarticular~arthritis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1754,
+      "end": 1778,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-239819001"
+      ],
+      "id": 64,
+      "meta_anns": {}
+    },
+    "84": {
+      "pretty_name": "Influenza",
+      "cui": "C0021400",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "flu",
+      "detected_name": "flu",
+      "acc": 0.31961030441310867,
+      "context_similarity": 0.31961030441310867,
+      "start": 2475,
+      "end": 2478,
+      "icd10": [
+        {
+          "chapter": "J11.1",
+          "name": "Influenza due to unidentified influenza virus with other respiratory manifestations"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155559006",
+        "S-155562009",
+        "S-195931008",
+        "S-266353003",
+        "S-266393000",
+        "S-6142004"
+      ],
+      "id": 84,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

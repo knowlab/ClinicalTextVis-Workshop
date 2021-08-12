@@ -1,0 +1,35 @@
+{
+  "entities": {
+    "73": {
+      "pretty_name": "",
+      "cui": "C0020295",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hydronephrosis",
+      "detected_name": "hydronephrosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2455,
+      "end": 2469,
+      "icd10": [
+        {
+          "chapter": "N13.30",
+          "name": "Unspecified hydronephrosis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155866001",
+        "S-197791000",
+        "S-43064006"
+      ],
+      "id": 73,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

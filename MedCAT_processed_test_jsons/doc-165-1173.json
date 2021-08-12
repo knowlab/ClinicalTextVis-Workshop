@@ -1,0 +1,1080 @@
+{
+  "entities": {
+    "11": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "CHF",
+      "detected_name": "chf",
+      "acc": 0.6340809291684937,
+      "context_similarity": 0.6340809291684937,
+      "start": 166,
+      "end": 169,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 11,
+      "meta_anns": {}
+    },
+    "13": {
+      "pretty_name": "Atrial Fibrillation",
+      "cui": "C0004238",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "atrial fibrillation",
+      "detected_name": "atrial~fibrillation",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 186,
+      "end": 205,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155364009",
+        "S-266306001",
+        "S-49436004"
+      ],
+      "id": 13,
+      "meta_anns": {}
+    },
+    "16": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes mellitus",
+      "detected_name": "diabetes~mellitus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 207,
+      "end": 224,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 16,
+      "meta_anns": {}
+    },
+    "17": {
+      "pretty_name": "Hypothyroidism",
+      "cui": "C0020676",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypothyroidism",
+      "detected_name": "hypothyroidism",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 226,
+      "end": 240,
+      "icd10": [
+        {
+          "chapter": "E03.9",
+          "name": "Hypothyroidism, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154660000",
+        "S-190274003",
+        "S-190290003",
+        "S-237572004",
+        "S-267377003",
+        "S-267465007",
+        "S-40930008"
+      ],
+      "id": 17,
+      "meta_anns": {}
+    },
+    "19": {
+      "pretty_name": "Cerebrovascular accident",
+      "cui": "C0038454",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "stroke",
+      "detected_name": "stroke",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 251,
+      "end": 257,
+      "icd10": [
+        {
+          "chapter": "I64",
+          "name": "Stroke, not specified as haemorrhage or infarction"
+        },
+        {
+          "chapter": "I63.9",
+          "name": "Cerebral infarction, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155388006",
+        "S-155405006",
+        "S-195208004",
+        "S-230690007",
+        "S-266312006",
+        "S-266315008",
+        "S-270883006",
+        "S-313267000",
+        "S-82797006"
+      ],
+      "id": 19,
+      "meta_anns": {}
+    },
+    "20": {
+      "pretty_name": "",
+      "cui": "C0702154",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "multiple joint disease",
+      "detected_name": "multiple~joint~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 259,
+      "end": 281,
+      "icd10": [
+        {
+          "chapter": "M15",
+          "name": "Polyarthrosis"
+        },
+        {
+          "chapter": "M15.9",
+          "name": "Polyarthrosis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-268053003",
+        "S-36186002"
+      ],
+      "id": 20,
+      "meta_anns": {}
+    },
+    "25": {
+      "pretty_name": "",
+      "cui": "C0003868",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gout, arthritis",
+      "detected_name": "gout~arthritis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 292,
+      "end": 307,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-147966005",
+        "S-154745008",
+        "S-154746009",
+        "S-170733007",
+        "S-190827003",
+        "S-190828008",
+        "S-201661008",
+        "S-201662001",
+        "S-201672003",
+        "S-48440001"
+      ],
+      "id": 25,
+      "meta_anns": {}
+    },
+    "27": {
+      "pretty_name": "Degenerative polyarthritis",
+      "cui": "C0029408",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "DJD",
+      "detected_name": "djd",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 329,
+      "end": 332,
+      "icd10": [
+        {
+          "chapter": "M15-M19",
+          "name": "Osteoarthritis (M15-M19)"
+        },
+        {
+          "chapter": "M19.9",
+          "name": "Osteoarthritis, unspecified site"
+        },
+        {
+          "chapter": "M19.90",
+          "name": "Unspecified osteoarthritis, unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156486003",
+        "S-156496007",
+        "S-201818008",
+        "S-201886002",
+        "S-201887006",
+        "S-201917002",
+        "S-224729007",
+        "S-225655006",
+        "S-226586002",
+        "S-227588009",
+        "S-267888004",
+        "S-267893001",
+        "S-396275006",
+        "S-80843008"
+      ],
+      "id": 27,
+      "meta_anns": {}
+    },
+    "58": {
+      "pretty_name": "Deglutition Disorders",
+      "cui": "C0011168",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "dysphagia",
+      "detected_name": "dysphagia",
+      "acc": 0.3954404012703377,
+      "context_similarity": 0.3954404012703377,
+      "start": 1063,
+      "end": 1072,
+      "icd10": [
+        {
+          "chapter": "R13",
+          "name": "Dysphagia"
+        },
+        {
+          "chapter": "R13.10",
+          "name": "Dysphagia, unspecified"
+        },
+        {
+          "chapter": "R13.1",
+          "name": "Dysphagia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139289002",
+        "S-158429003",
+        "S-158430008",
+        "S-158431007",
+        "S-162022009",
+        "S-207121004",
+        "S-207122006",
+        "S-207123001",
+        "S-288939007",
+        "S-40739000"
+      ],
+      "id": 58,
+      "meta_anns": {}
+    },
+    "67": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "CHF",
+      "detected_name": "chf",
+      "acc": 0.499304488620502,
+      "context_similarity": 0.499304488620502,
+      "start": 1203,
+      "end": 1206,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 67,
+      "meta_anns": {}
+    },
+    "70": {
+      "pretty_name": "",
+      "cui": "C0232197",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "fibrillation",
+      "detected_name": "fibrillation",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1242,
+      "end": 1254,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-40593004"
+      ],
+      "id": 70,
+      "meta_anns": {}
+    },
+    "71": {
+      "pretty_name": "Gout",
+      "cui": "C0018099",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Gout",
+      "detected_name": "gout",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1260,
+      "end": 1264,
+      "icd10": [
+        {
+          "chapter": "M10",
+          "name": "Gout"
+        },
+        {
+          "chapter": "M10.9",
+          "name": "Gout, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-190844004",
+        "S-90560007"
+      ],
+      "id": 71,
+      "meta_anns": {}
+    },
+    "72": {
+      "pretty_name": "Arthritis",
+      "cui": "C0003864",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Arthritis",
+      "detected_name": "arthritis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1270,
+      "end": 1279,
+      "icd10": [
+        {
+          "chapter": "M13.9",
+          "name": "Arthritis, unspecified"
+        },
+        {
+          "chapter": "M19.90",
+          "name": "Unspecified osteoarthritis, unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-202059001",
+        "S-363178003",
+        "S-372091005",
+        "S-3723001"
+      ],
+      "id": 72,
+      "meta_anns": {}
+    },
+    "73": {
+      "pretty_name": "Degenerative polyarthritis",
+      "cui": "C0029408",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "DJD",
+      "detected_name": "djd",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1281,
+      "end": 1284,
+      "icd10": [
+        {
+          "chapter": "M15-M19",
+          "name": "Osteoarthritis (M15-M19)"
+        },
+        {
+          "chapter": "M19.9",
+          "name": "Osteoarthritis, unspecified site"
+        },
+        {
+          "chapter": "M19.90",
+          "name": "Unspecified osteoarthritis, unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156486003",
+        "S-156496007",
+        "S-201818008",
+        "S-201886002",
+        "S-201887006",
+        "S-201917002",
+        "S-224729007",
+        "S-225655006",
+        "S-226586002",
+        "S-227588009",
+        "S-267888004",
+        "S-267893001",
+        "S-396275006",
+        "S-80843008"
+      ],
+      "id": 73,
+      "meta_anns": {}
+    },
+    "75": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Diabetes mellitus",
+      "detected_name": "diabetes~mellitus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1302,
+      "end": 1319,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 75,
+      "meta_anns": {}
+    },
+    "76": {
+      "pretty_name": "Hypothyroidism",
+      "cui": "C0020676",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypothyroidism",
+      "detected_name": "hypothyroidism",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1325,
+      "end": 1339,
+      "icd10": [
+        {
+          "chapter": "E03.9",
+          "name": "Hypothyroidism, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154660000",
+        "S-190274003",
+        "S-190290003",
+        "S-237572004",
+        "S-267377003",
+        "S-267465007",
+        "S-40930008"
+      ],
+      "id": 76,
+      "meta_anns": {}
+    },
+    "77": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1345,
+      "end": 1357,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 77,
+      "meta_anns": {}
+    },
+    "78": {
+      "pretty_name": "Gastroesophageal reflux disease",
+      "cui": "C0017168",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "GERD",
+      "detected_name": "gerd",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1363,
+      "end": 1367,
+      "icd10": [
+        {
+          "chapter": "K21",
+          "name": "Gastro-oesophageal reflux disease"
+        },
+        {
+          "chapter": "K21.9",
+          "name": "Gastro-esophageal reflux disease without esophagitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-235595009",
+        "S-266498005",
+        "S-54856001"
+      ],
+      "id": 78,
+      "meta_anns": {}
+    },
+    "80": {
+      "pretty_name": "Cerebrovascular accident",
+      "cui": "C0038454",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "stroke",
+      "detected_name": "stroke",
+      "acc": 0.6683046622692315,
+      "context_similarity": 0.6683046622692315,
+      "start": 1382,
+      "end": 1388,
+      "icd10": [
+        {
+          "chapter": "I64",
+          "name": "Stroke, not specified as haemorrhage or infarction"
+        },
+        {
+          "chapter": "I63.9",
+          "name": "Cerebral infarction, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155388006",
+        "S-155405006",
+        "S-195208004",
+        "S-230690007",
+        "S-266312006",
+        "S-266315008",
+        "S-270883006",
+        "S-313267000",
+        "S-82797006"
+      ],
+      "id": 80,
+      "meta_anns": {}
+    },
+    "125": {
+      "pretty_name": "Paroxysmal nocturnal dyspnea",
+      "cui": "C1956415",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "PND",
+      "detected_name": "pnd",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2143,
+      "end": 2146,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-139198007",
+        "S-55442000"
+      ],
+      "id": 125,
+      "meta_anns": {}
+    },
+    "135": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.5804311290642947,
+      "context_similarity": 0.5804311290642947,
+      "start": 2270,
+      "end": 2278,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 135,
+      "meta_anns": {}
+    },
+    "136": {
+      "pretty_name": "Hypothyroidism",
+      "cui": "C0020676",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypothyroidism",
+      "detected_name": "hypothyroidism",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2283,
+      "end": 2297,
+      "icd10": [
+        {
+          "chapter": "E03.9",
+          "name": "Hypothyroidism, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154660000",
+        "S-190274003",
+        "S-190290003",
+        "S-237572004",
+        "S-267377003",
+        "S-267465007",
+        "S-40930008"
+      ],
+      "id": 136,
+      "meta_anns": {}
+    },
+    "174": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obese",
+      "detected_name": "obese",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3164,
+      "end": 3169,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 174,
+      "meta_anns": {}
+    },
+    "200": {
+      "pretty_name": "Gout",
+      "cui": "C0018099",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gout",
+      "detected_name": "gout",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3901,
+      "end": 3905,
+      "icd10": [
+        {
+          "chapter": "M10",
+          "name": "Gout"
+        },
+        {
+          "chapter": "M10.9",
+          "name": "Gout, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-190844004",
+        "S-90560007"
+      ],
+      "id": 200,
+      "meta_anns": {}
+    },
+    "204": {
+      "pretty_name": "Urinary tract infection",
+      "cui": "C0042029",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "urinary tract infection",
+      "detected_name": "urinary~tract~infection",
+      "acc": 0.7036534585969196,
+      "context_similarity": 0.7036534585969196,
+      "start": 3917,
+      "end": 3940,
+      "icd10": [
+        {
+          "chapter": "N39.0",
+          "name": "Urinary tract infection, site not specified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155896006",
+        "S-155897002",
+        "S-197924008",
+        "S-197930008",
+        "S-266634001",
+        "S-266635000",
+        "S-274110008",
+        "S-68566005"
+      ],
+      "id": 204,
+      "meta_anns": {}
+    },
+    "214": {
+      "pretty_name": "Nystagmus",
+      "cui": "C0028738",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "nystagmus",
+      "detected_name": "nystagmus",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 4067,
+      "end": 4076,
+      "icd10": [
+        {
+          "chapter": "H55.0",
+          "name": "Nystagmus"
+        },
+        {
+          "chapter": "H55.00",
+          "name": "Unspecified nystagmus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155205009",
+        "S-194171007",
+        "S-194172000",
+        "S-267750005",
+        "S-563001"
+      ],
+      "id": 214,
+      "meta_anns": {}
+    },
+    "245": {
+      "pretty_name": "Paresis",
+      "cui": "C0030552",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "paresis",
+      "detected_name": "paresis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 4700,
+      "end": 4707,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-26544005"
+      ],
+      "id": 245,
+      "meta_anns": {}
+    },
+    "270": {
+      "pretty_name": "Nystagmus",
+      "cui": "C0028738",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "nystagmus",
+      "detected_name": "nystagmus",
+      "acc": 0.5200585377584038,
+      "context_similarity": 0.5200585377584038,
+      "start": 5651,
+      "end": 5660,
+      "icd10": [
+        {
+          "chapter": "H55.0",
+          "name": "Nystagmus"
+        },
+        {
+          "chapter": "H55.00",
+          "name": "Unspecified nystagmus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155205009",
+        "S-194171007",
+        "S-194172000",
+        "S-267750005",
+        "S-563001"
+      ],
+      "id": 270,
+      "meta_anns": {}
+    },
+    "282": {
+      "pretty_name": "Benign Paroxysmal Positional Vertigo",
+      "cui": "C0155502",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "benign positional vertigo",
+      "detected_name": "benign~positional~vertigo",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 6080,
+      "end": 6105,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-111541001",
+        "S-232285008",
+        "S-267763004"
+      ],
+      "id": 282,
+      "meta_anns": {}
+    },
+    "294": {
+      "pretty_name": "Cerebrovascular accident",
+      "cui": "C0038454",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "stroke",
+      "detected_name": "stroke",
+      "acc": 0.9771797434448362,
+      "context_similarity": 0.9771797434448362,
+      "start": 6294,
+      "end": 6300,
+      "icd10": [
+        {
+          "chapter": "I64",
+          "name": "Stroke, not specified as haemorrhage or infarction"
+        },
+        {
+          "chapter": "I63.9",
+          "name": "Cerebral infarction, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155388006",
+        "S-155405006",
+        "S-195208004",
+        "S-230690007",
+        "S-266312006",
+        "S-266315008",
+        "S-270883006",
+        "S-313267000",
+        "S-82797006"
+      ],
+      "id": 294,
+      "meta_anns": {}
+    },
+    "295": {
+      "pretty_name": "",
+      "cui": "C0042568",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "vertebrobasilar insufficiency",
+      "detected_name": "vertebrobasilar~insufficiency",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 6305,
+      "end": 6334,
+      "icd10": [
+        {
+          "chapter": "G45.0",
+          "name": "Vertebro-basilar artery syndrome"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155404005",
+        "S-195196001",
+        "S-195199008",
+        "S-266314007",
+        "S-394517009",
+        "S-64009001"
+      ],
+      "id": 295,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

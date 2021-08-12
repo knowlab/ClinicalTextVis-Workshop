@@ -1,0 +1,813 @@
+{
+  "entities": {
+    "8": {
+      "pretty_name": "Hypothyroidism",
+      "cui": "C0020676",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypothyroidism",
+      "detected_name": "hypothyroidism",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 91,
+      "end": 105,
+      "icd10": [
+        {
+          "chapter": "E03.9",
+          "name": "Hypothyroidism, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154660000",
+        "S-190274003",
+        "S-190290003",
+        "S-237572004",
+        "S-267377003",
+        "S-267465007",
+        "S-40930008"
+      ],
+      "id": 8,
+      "meta_anns": {}
+    },
+    "18": {
+      "pretty_name": "Fibromyalgia",
+      "cui": "C0016053",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "fibromyalgia",
+      "detected_name": "fibromyalgia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 241,
+      "end": 253,
+      "icd10": [
+        {
+          "chapter": "M79.7",
+          "name": "Fibromyalgia"
+        },
+        {
+          "chapter": "M79.1",
+          "name": "Myalgia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-1304004",
+        "S-13612005",
+        "S-156727006",
+        "S-203082005",
+        "S-203101004",
+        "S-203102006",
+        "S-203111006",
+        "S-203138004",
+        "S-24693007",
+        "S-247365004",
+        "S-268107007",
+        "S-56557000",
+        "S-726531007"
+      ],
+      "id": 18,
+      "meta_anns": {}
+    },
+    "19": {
+      "pretty_name": "Inflammatory Bowel Diseases",
+      "cui": "C0021390",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "inflammatory bowel disease",
+      "detected_name": "inflammatory~bowel~disease",
+      "acc": 0.6619103419445683,
+      "context_similarity": 0.6619103419445683,
+      "start": 255,
+      "end": 281,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155759008",
+        "S-196974002",
+        "S-24526004",
+        "S-266516008"
+      ],
+      "id": 19,
+      "meta_anns": {}
+    },
+    "24": {
+      "pretty_name": "Crohn Disease",
+      "cui": "C0010346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Crohn disease",
+      "detected_name": "crohn~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 283,
+      "end": 296,
+      "icd10": [
+        {
+          "chapter": "K50",
+          "name": "Crohn's disease [regional enteritis]"
+        },
+        {
+          "chapter": "K50.9",
+          "name": "Crohn's disease, unspecified"
+        },
+        {
+          "chapter": "K50.90",
+          "name": "Crohn's disease, unspecified, without complications"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155760003",
+        "S-196975001",
+        "S-196984001",
+        "S-266517004",
+        "S-34000006"
+      ],
+      "id": 24,
+      "meta_anns": {}
+    },
+    "26": {
+      "pretty_name": "Chronic Obstructive Airway Disease",
+      "cui": "C0024117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "COPD",
+      "detected_name": "copd",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 298,
+      "end": 302,
+      "icd10": [
+        {
+          "chapter": "J44.9",
+          "name": "Chronic obstructive pulmonary disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13645005",
+        "S-155565006",
+        "S-155569000",
+        "S-155585005",
+        "S-155617000",
+        "S-195935004",
+        "S-195948000",
+        "S-196003006",
+        "S-413846005"
+      ],
+      "id": 26,
+      "meta_anns": {}
+    },
+    "28": {
+      "pretty_name": "",
+      "cui": "C0012619",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disc disease",
+      "detected_name": "disc~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 308,
+      "end": 320,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-202758003"
+      ],
+      "id": 28,
+      "meta_anns": {}
+    },
+    "31": {
+      "pretty_name": "Thyroid Diseases",
+      "cui": "C0040128",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "thyroid disorder",
+      "detected_name": "thyroid~disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 332,
+      "end": 348,
+      "icd10": [
+        {
+          "chapter": "E00-E07.9",
+          "name": "Disorders of thyroid gland"
+        },
+        {
+          "chapter": "E07.9",
+          "name": "Disorder of thyroid, unspecified"
+        },
+        {
+          "chapter": "E00-E07",
+          "name": "Disorders of thyroid gland (E00-E07)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-14304000",
+        "S-154649009",
+        "S-190232008",
+        "S-190311002",
+        "S-191036006"
+      ],
+      "id": 31,
+      "meta_anns": {}
+    },
+    "36": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.7754349810772212,
+      "context_similarity": 0.7754349810772212,
+      "start": 489,
+      "end": 501,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 36,
+      "meta_anns": {}
+    },
+    "59": {
+      "pretty_name": "Hypothyroidism",
+      "cui": "C0020676",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypothyroidism",
+      "detected_name": "hypothyroidism",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 983,
+      "end": 997,
+      "icd10": [
+        {
+          "chapter": "E03.9",
+          "name": "Hypothyroidism, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154660000",
+        "S-190274003",
+        "S-190290003",
+        "S-237572004",
+        "S-267377003",
+        "S-267465007",
+        "S-40930008"
+      ],
+      "id": 59,
+      "meta_anns": {}
+    },
+    "60": {
+      "pretty_name": "Inflammatory Bowel Diseases",
+      "cui": "C0021390",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "inflammatory bowel disease",
+      "detected_name": "inflammatory~bowel~disease",
+      "acc": 0.3219364341510408,
+      "context_similarity": 0.3219364341510408,
+      "start": 999,
+      "end": 1025,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155759008",
+        "S-196974002",
+        "S-24526004",
+        "S-266516008"
+      ],
+      "id": 60,
+      "meta_anns": {}
+    },
+    "63": {
+      "pretty_name": "Crohn Disease",
+      "cui": "C0010346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Crohn",
+      "detected_name": "crohn",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1031,
+      "end": 1036,
+      "icd10": [
+        {
+          "chapter": "K50",
+          "name": "Crohn's disease [regional enteritis]"
+        },
+        {
+          "chapter": "K50.9",
+          "name": "Crohn's disease, unspecified"
+        },
+        {
+          "chapter": "K50.90",
+          "name": "Crohn's disease, unspecified, without complications"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155760003",
+        "S-196975001",
+        "S-196984001",
+        "S-266517004",
+        "S-34000006"
+      ],
+      "id": 63,
+      "meta_anns": {}
+    },
+    "64": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1038,
+      "end": 1050,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 64,
+      "meta_anns": {}
+    },
+    "65": {
+      "pretty_name": "Fibromyalgia",
+      "cui": "C0016053",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "fibromyalgia",
+      "detected_name": "fibromyalgia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1052,
+      "end": 1064,
+      "icd10": [
+        {
+          "chapter": "M79.7",
+          "name": "Fibromyalgia"
+        },
+        {
+          "chapter": "M79.1",
+          "name": "Myalgia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-1304004",
+        "S-13612005",
+        "S-156727006",
+        "S-203082005",
+        "S-203101004",
+        "S-203102006",
+        "S-203111006",
+        "S-203138004",
+        "S-24693007",
+        "S-247365004",
+        "S-268107007",
+        "S-56557000",
+        "S-726531007"
+      ],
+      "id": 65,
+      "meta_anns": {}
+    },
+    "66": {
+      "pretty_name": "Chronic Obstructive Airway Disease",
+      "cui": "C0024117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "COPD",
+      "detected_name": "copd",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1066,
+      "end": 1070,
+      "icd10": [
+        {
+          "chapter": "J44.9",
+          "name": "Chronic obstructive pulmonary disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13645005",
+        "S-155565006",
+        "S-155569000",
+        "S-155585005",
+        "S-155617000",
+        "S-195935004",
+        "S-195948000",
+        "S-196003006",
+        "S-413846005"
+      ],
+      "id": 66,
+      "meta_anns": {}
+    },
+    "68": {
+      "pretty_name": "",
+      "cui": "C0012619",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disc disease",
+      "detected_name": "disc~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1076,
+      "end": 1088,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-202758003"
+      ],
+      "id": 68,
+      "meta_anns": {}
+    },
+    "82": {
+      "pretty_name": "Thyroid Diseases",
+      "cui": "C0040128",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "thyroid disease",
+      "detected_name": "thyroid~disease",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1248,
+      "end": 1263,
+      "icd10": [
+        {
+          "chapter": "E00-E07.9",
+          "name": "Disorders of thyroid gland"
+        },
+        {
+          "chapter": "E07.9",
+          "name": "Disorder of thyroid, unspecified"
+        },
+        {
+          "chapter": "E00-E07",
+          "name": "Disorders of thyroid gland (E00-E07)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-14304000",
+        "S-154649009",
+        "S-190232008",
+        "S-190311002",
+        "S-191036006"
+      ],
+      "id": 82,
+      "meta_anns": {}
+    },
+    "85": {
+      "pretty_name": "Graves Disease",
+      "cui": "C0018213",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Graves disease",
+      "detected_name": "graves~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1283,
+      "end": 1297,
+      "icd10": [
+        {
+          "chapter": "E05.0",
+          "name": "Thyrotoxicosis with diffuse goiter"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154655004",
+        "S-190240002",
+        "S-237510004",
+        "S-237823003",
+        "S-267464006",
+        "S-353295004",
+        "S-367367004",
+        "S-367449005",
+        "S-38591003",
+        "S-55807009"
+      ],
+      "id": 85,
+      "meta_anns": {}
+    },
+    "88": {
+      "pretty_name": "Hashimoto Disease",
+      "cui": "C0677607",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hashimoto thyroiditis",
+      "detected_name": "hashimoto~thyroiditis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1321,
+      "end": 1342,
+      "icd10": [
+        {
+          "chapter": "E06.3",
+          "name": "Autoimmune thyroiditis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154667002",
+        "S-190297000",
+        "S-21983002",
+        "S-237534009",
+        "S-237537002",
+        "S-267466008"
+      ],
+      "id": 88,
+      "meta_anns": {}
+    },
+    "107": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obese",
+      "detected_name": "obese",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1622,
+      "end": 1627,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 107,
+      "meta_anns": {}
+    },
+    "144": {
+      "pretty_name": "Hypothyroidism",
+      "cui": "C0020676",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypothyroidism",
+      "detected_name": "hypothyroidism",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2199,
+      "end": 2213,
+      "icd10": [
+        {
+          "chapter": "E03.9",
+          "name": "Hypothyroidism, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154660000",
+        "S-190274003",
+        "S-190290003",
+        "S-237572004",
+        "S-267377003",
+        "S-267465007",
+        "S-40930008"
+      ],
+      "id": 144,
+      "meta_anns": {}
+    },
+    "145": {
+      "pretty_name": "Hypothyroidism",
+      "cui": "C0020676",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypothyroidism",
+      "detected_name": "hypothyroidism",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2216,
+      "end": 2230,
+      "icd10": [
+        {
+          "chapter": "E03.9",
+          "name": "Hypothyroidism, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154660000",
+        "S-190274003",
+        "S-190290003",
+        "S-237572004",
+        "S-267377003",
+        "S-267465007",
+        "S-40930008"
+      ],
+      "id": 145,
+      "meta_anns": {}
+    },
+    "150": {
+      "pretty_name": "Graves Disease",
+      "cui": "C0018213",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Graves disease",
+      "detected_name": "graves~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2270,
+      "end": 2284,
+      "icd10": [
+        {
+          "chapter": "E05.0",
+          "name": "Thyrotoxicosis with diffuse goiter"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154655004",
+        "S-190240002",
+        "S-237510004",
+        "S-237823003",
+        "S-267464006",
+        "S-353295004",
+        "S-367367004",
+        "S-367449005",
+        "S-38591003",
+        "S-55807009"
+      ],
+      "id": 150,
+      "meta_anns": {}
+    },
+    "165": {
+      "pretty_name": "Hyperthyroidism",
+      "cui": "C0020550",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hyperthyroid",
+      "detected_name": "hyperthyroid",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2651,
+      "end": 2663,
+      "icd10": [
+        {
+          "chapter": "E05.9",
+          "name": "Thyrotoxicosis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154655004",
+        "S-190239004",
+        "S-267464006",
+        "S-34486009"
+      ],
+      "id": 165,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

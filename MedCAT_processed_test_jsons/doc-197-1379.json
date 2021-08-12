@@ -1,0 +1,337 @@
+{
+  "entities": {
+    "6": {
+      "pretty_name": "Chronic Obstructive Airway Disease",
+      "cui": "C0024117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "COPD",
+      "detected_name": "copd",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 54,
+      "end": 58,
+      "icd10": [
+        {
+          "chapter": "J44.9",
+          "name": "Chronic obstructive pulmonary disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13645005",
+        "S-155565006",
+        "S-155569000",
+        "S-155585005",
+        "S-155617000",
+        "S-195935004",
+        "S-195948000",
+        "S-196003006",
+        "S-413846005"
+      ],
+      "id": 6,
+      "meta_anns": {}
+    },
+    "9": {
+      "pretty_name": "Bronchospasm",
+      "cui": "C0006266",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "bronchospasm",
+      "detected_name": "bronchospasm",
+      "acc": 0.14750985585178533,
+      "context_similarity": 0.14750985585178533,
+      "start": 74,
+      "end": 86,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-140179000",
+        "S-196175000",
+        "S-269012003",
+        "S-4386001"
+      ],
+      "id": 9,
+      "meta_anns": {}
+    },
+    "20": {
+      "pretty_name": "Asthmatic bronchitis",
+      "cui": "C1319018",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "asthmatic bronchitis",
+      "detected_name": "asthmatic~bronchitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 336,
+      "end": 356,
+      "icd10": [
+        {
+          "chapter": "J45.90",
+          "name": "Unspecified asthma"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-195939005",
+        "S-21341004",
+        "S-278517007",
+        "S-405944004"
+      ],
+      "id": 20,
+      "meta_anns": {}
+    },
+    "22": {
+      "pretty_name": "Chronic Obstructive Airway Disease",
+      "cui": "C0024117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "COPD",
+      "detected_name": "copd",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 389,
+      "end": 393,
+      "icd10": [
+        {
+          "chapter": "J44.9",
+          "name": "Chronic obstructive pulmonary disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13645005",
+        "S-155565006",
+        "S-155569000",
+        "S-155585005",
+        "S-155617000",
+        "S-195935004",
+        "S-195948000",
+        "S-196003006",
+        "S-413846005"
+      ],
+      "id": 22,
+      "meta_anns": {}
+    },
+    "39": {
+      "pretty_name": "Chronic Obstructive Airway Disease",
+      "cui": "C0024117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "COPD",
+      "detected_name": "copd",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 700,
+      "end": 704,
+      "icd10": [
+        {
+          "chapter": "J44.9",
+          "name": "Chronic obstructive pulmonary disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13645005",
+        "S-155565006",
+        "S-155569000",
+        "S-155585005",
+        "S-155617000",
+        "S-195935004",
+        "S-195948000",
+        "S-196003006",
+        "S-413846005"
+      ],
+      "id": 39,
+      "meta_anns": {}
+    },
+    "43": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 736,
+      "end": 748,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 43,
+      "meta_anns": {}
+    },
+    "46": {
+      "pretty_name": "Hypercholesterolemia",
+      "cui": "C0020443",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "elevated cholesterol",
+      "detected_name": "elevated~cholesterol",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 765,
+      "end": 785,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-13644009",
+        "S-154740003",
+        "S-267500001"
+      ],
+      "id": 46,
+      "meta_anns": {}
+    },
+    "70": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "CHF",
+      "detected_name": "chf",
+      "acc": 0.4718449946852111,
+      "context_similarity": 0.4718449946852111,
+      "start": 1256,
+      "end": 1259,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 70,
+      "meta_anns": {}
+    },
+    "75": {
+      "pretty_name": "Chronic Obstructive Airway Disease",
+      "cui": "C0024117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Chronic obstructive pulmonary disease",
+      "detected_name": "chronic~obstructive~pulmonary~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1387,
+      "end": 1424,
+      "icd10": [
+        {
+          "chapter": "J44.9",
+          "name": "Chronic obstructive pulmonary disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13645005",
+        "S-155565006",
+        "S-155569000",
+        "S-155585005",
+        "S-155617000",
+        "S-195935004",
+        "S-195948000",
+        "S-196003006",
+        "S-413846005"
+      ],
+      "id": 75,
+      "meta_anns": {}
+    },
+    "81": {
+      "pretty_name": "Asthmatic bronchitis",
+      "cui": "C1319018",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "asthmatic bronchitis",
+      "detected_name": "asthmatic~bronchitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1435,
+      "end": 1455,
+      "icd10": [
+        {
+          "chapter": "J45.90",
+          "name": "Unspecified asthma"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-195939005",
+        "S-21341004",
+        "S-278517007",
+        "S-405944004"
+      ],
+      "id": 81,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

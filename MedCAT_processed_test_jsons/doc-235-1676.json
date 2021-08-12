@@ -1,0 +1,325 @@
+{
+  "entities": {
+    "8": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.6657330189505578,
+      "context_similarity": 0.6657330189505578,
+      "start": 94,
+      "end": 102,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 8,
+      "meta_anns": {}
+    },
+    "9": {
+      "pretty_name": "Arthritis",
+      "cui": "C0003864",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "arthritis",
+      "detected_name": "arthritis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 112,
+      "end": 121,
+      "icd10": [
+        {
+          "chapter": "M13.9",
+          "name": "Arthritis, unspecified"
+        },
+        {
+          "chapter": "M19.90",
+          "name": "Unspecified osteoarthritis, unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-202059001",
+        "S-363178003",
+        "S-372091005",
+        "S-3723001"
+      ],
+      "id": 9,
+      "meta_anns": {}
+    },
+    "10": {
+      "pretty_name": "",
+      "cui": "C0149756",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "plantar fasciitis",
+      "detected_name": "plantar~fasciitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 123,
+      "end": 140,
+      "icd10": [
+        {
+          "chapter": "M72.2",
+          "name": "Plantar fascial fibromatosis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156725003",
+        "S-202882003",
+        "S-203056001",
+        "S-2482001"
+      ],
+      "id": 10,
+      "meta_anns": {}
+    },
+    "33": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obese",
+      "detected_name": "obese",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 726,
+      "end": 731,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 33,
+      "meta_anns": {}
+    },
+    "76": {
+      "pretty_name": "",
+      "cui": "C4510005",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "length-dependent peripheral neuropathy",
+      "detected_name": "length~dependent~peripheral~neuropathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1774,
+      "end": 1812,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-723666009"
+      ],
+      "id": 76,
+      "meta_anns": {}
+    },
+    "85": {
+      "pretty_name": "Radiculopathy",
+      "cui": "C0700594",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "radiculopathy",
+      "detected_name": "radiculopathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1891,
+      "end": 1904,
+      "icd10": [
+        {
+          "chapter": "M54.1",
+          "name": "Radiculopathy"
+        },
+        {
+          "chapter": "M54.10",
+          "name": "Radiculopathy, site unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-394640000",
+        "S-72274001"
+      ],
+      "id": 85,
+      "meta_anns": {}
+    },
+    "90": {
+      "pretty_name": "Radiculopathy",
+      "cui": "C0700594",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "radiculopathies",
+      "detected_name": "radiculopathie",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2002,
+      "end": 2017,
+      "icd10": [
+        {
+          "chapter": "M54.1",
+          "name": "Radiculopathy"
+        },
+        {
+          "chapter": "M54.10",
+          "name": "Radiculopathy, site unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-394640000",
+        "S-72274001"
+      ],
+      "id": 90,
+      "meta_anns": {}
+    },
+    "97": {
+      "pretty_name": "Neuropathy",
+      "cui": "C0442874",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "neuropathy",
+      "detected_name": "neuropathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2198,
+      "end": 2208,
+      "icd10": [
+        {
+          "chapter": "G62.9",
+          "name": "Polyneuropathy, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-193167000",
+        "S-264554005",
+        "S-277317008",
+        "S-277878001",
+        "S-386033004",
+        "S-42658009"
+      ],
+      "id": 97,
+      "meta_anns": {}
+    },
+    "102": {
+      "pretty_name": "Glucose Intolerance",
+      "cui": "C0271650",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "glucose intolerance",
+      "detected_name": "glucose~intolerance",
+      "acc": 0.6457679148733313,
+      "context_similarity": 0.6457679148733313,
+      "start": 2247,
+      "end": 2266,
+      "icd10": [
+        {
+          "chapter": "R73.03",
+          "name": "Prediabetes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154720005",
+        "S-190752008",
+        "S-267426009",
+        "S-9414007"
+      ],
+      "id": 102,
+      "meta_anns": {}
+    },
+    "104": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabete",
+      "acc": 0.16155118005766314,
+      "context_similarity": 0.16155118005766314,
+      "start": 2273,
+      "end": 2281,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 104,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

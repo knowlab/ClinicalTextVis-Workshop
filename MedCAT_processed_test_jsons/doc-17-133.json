@@ -1,0 +1,31 @@
+{
+  "entities": {
+    "0": {
+      "pretty_name": "Synovitis",
+      "cui": "C0039103",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Synovitis",
+      "detected_name": "synovitis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 13,
+      "end": 22,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-14107000",
+        "S-156666009",
+        "S-268092005",
+        "S-416209007"
+      ],
+      "id": 0,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

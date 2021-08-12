@@ -1,0 +1,815 @@
+{
+  "entities": {
+    "3": {
+      "pretty_name": "Polymyositis",
+      "cui": "C0085655",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "polymyositis",
+      "detected_name": "polymyositis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 62,
+      "end": 74,
+      "icd10": [
+        {
+          "chapter": "M33.2",
+          "name": "Polymyositis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-15099002",
+        "S-156457001",
+        "S-31384009"
+      ],
+      "id": 3,
+      "meta_anns": {}
+    },
+    "12": {
+      "pretty_name": "Polymyositis",
+      "cui": "C0085655",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "polymyositis",
+      "detected_name": "polymyositis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 171,
+      "end": 183,
+      "icd10": [
+        {
+          "chapter": "M33.2",
+          "name": "Polymyositis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-15099002",
+        "S-156457001",
+        "S-31384009"
+      ],
+      "id": 12,
+      "meta_anns": {}
+    },
+    "24": {
+      "pretty_name": "Spinal Diseases",
+      "cui": "C0037933",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "spine disease",
+      "detected_name": "spine~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 822,
+      "end": 835,
+      "icd10": [
+        {
+          "chapter": "M40-M54.9",
+          "name": "Dorsopathies"
+        },
+        {
+          "chapter": "M45-M49.9",
+          "name": "Spondylopathies"
+        },
+        {
+          "chapter": "M53.9",
+          "name": "Dorsopathy, unspecified"
+        },
+        {
+          "chapter": "M48.9",
+          "name": "Spondylopathy, unspecified"
+        },
+        {
+          "chapter": "M45-M49",
+          "name": "Spondylopathies (M45-M49)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156617007",
+        "S-202828002",
+        "S-202832008",
+        "S-203810005",
+        "S-240208001",
+        "S-240217001",
+        "S-268071005",
+        "S-302934007",
+        "S-367539009",
+        "S-699699005",
+        "S-88305002"
+      ],
+      "id": 24,
+      "meta_anns": {}
+    },
+    "37": {
+      "pretty_name": "Herpes zoster disease",
+      "cui": "C0019360",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "shingles",
+      "detected_name": "shingle",
+      "acc": 0.14209609545869065,
+      "context_similarity": 0.14209609545869065,
+      "start": 1123,
+      "end": 1131,
+      "icd10": [
+        {
+          "chapter": "B02",
+          "name": "Zoster [herpes zoster]"
+        },
+        {
+          "chapter": "B02.9",
+          "name": "Zoster without complications"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154326002",
+        "S-186514003",
+        "S-186533008",
+        "S-4740000"
+      ],
+      "id": 37,
+      "meta_anns": {}
+    },
+    "47": {
+      "pretty_name": "Deglutition Disorders",
+      "cui": "C0011168",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "dysphagia",
+      "detected_name": "dysphagia",
+      "acc": 0.12475982351757632,
+      "context_similarity": 0.12475982351757632,
+      "start": 1597,
+      "end": 1606,
+      "icd10": [
+        {
+          "chapter": "R13",
+          "name": "Dysphagia"
+        },
+        {
+          "chapter": "R13.10",
+          "name": "Dysphagia, unspecified"
+        },
+        {
+          "chapter": "R13.1",
+          "name": "Dysphagia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139289002",
+        "S-158429003",
+        "S-158430008",
+        "S-158431007",
+        "S-162022009",
+        "S-207121004",
+        "S-207122006",
+        "S-207123001",
+        "S-288939007",
+        "S-40739000"
+      ],
+      "id": 47,
+      "meta_anns": {}
+    },
+    "65": {
+      "pretty_name": "Deep thrombophlebitis",
+      "cui": "C0151950",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "DVT",
+      "detected_name": "dvt",
+      "acc": 0.5063191004464206,
+      "context_similarity": 0.5063191004464206,
+      "start": 1869,
+      "end": 1872,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-16750002"
+      ],
+      "id": 65,
+      "meta_anns": {}
+    },
+    "79": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "congestive heart failure",
+      "detected_name": "congestive~heart~failure",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2044,
+      "end": 2068,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 79,
+      "meta_anns": {}
+    },
+    "82": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2070,
+      "end": 2082,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 82,
+      "meta_anns": {}
+    },
+    "85": {
+      "pretty_name": "Deep Vein Thrombosis",
+      "cui": "C0149871",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "DVT",
+      "detected_name": "dvt",
+      "acc": 0.7121561726260878,
+      "context_similarity": 0.7121561726260878,
+      "start": 2095,
+      "end": 2098,
+      "icd10": [
+        {
+          "chapter": "I82.40",
+          "name": "Acute embolism and thrombosis of unspecified deep veins of lower extremity"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128053003",
+        "S-128057002",
+        "S-155454004",
+        "S-195403006",
+        "S-266328001"
+      ],
+      "id": 85,
+      "meta_anns": {}
+    },
+    "88": {
+      "pretty_name": "Renal Artery Stenosis",
+      "cui": "C0035067",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "renal artery stenosis",
+      "detected_name": "renal~artery~stenosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2138,
+      "end": 2159,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-204481003",
+        "S-282664001",
+        "S-302233006",
+        "S-83122005"
+      ],
+      "id": 88,
+      "meta_anns": {}
+    },
+    "115": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary artery disease",
+      "detected_name": "coronary~artery~disease",
+      "acc": 0.8452480733799191,
+      "context_similarity": 0.8452480733799191,
+      "start": 2511,
+      "end": 2534,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 115,
+      "meta_anns": {}
+    },
+    "118": {
+      "pretty_name": "",
+      "cui": "C1290147",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lumbar spine disease",
+      "detected_name": "lumbar~spine~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2579,
+      "end": 2599,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-129139009"
+      ],
+      "id": 118,
+      "meta_anns": {}
+    },
+    "156": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymphadenopathy",
+      "detected_name": "lymphadenopathy",
+      "acc": 0.6429675556851346,
+      "context_similarity": 0.6429675556851346,
+      "start": 3083,
+      "end": 3098,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 156,
+      "meta_anns": {}
+    },
+    "174": {
+      "pretty_name": "Herpes zoster disease",
+      "cui": "C0019360",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "zoster",
+      "detected_name": "zoster",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3387,
+      "end": 3393,
+      "icd10": [
+        {
+          "chapter": "B02",
+          "name": "Zoster [herpes zoster]"
+        },
+        {
+          "chapter": "B02.9",
+          "name": "Zoster without complications"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154326002",
+        "S-186514003",
+        "S-186533008",
+        "S-4740000"
+      ],
+      "id": 174,
+      "meta_anns": {}
+    },
+    "176": {
+      "pretty_name": "Synovitis",
+      "cui": "C0039103",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "synovitis",
+      "detected_name": "synovitis",
+      "acc": 0.744073826103634,
+      "context_similarity": 0.744073826103634,
+      "start": 3406,
+      "end": 3415,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-14107000",
+        "S-156666009",
+        "S-268092005",
+        "S-416209007"
+      ],
+      "id": 176,
+      "meta_anns": {}
+    },
+    "188": {
+      "pretty_name": "Chronic Obstructive Airway Disease",
+      "cui": "C0024117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "COPD",
+      "detected_name": "copd",
+      "acc": 0.3710885995678052,
+      "context_similarity": 0.3710885995678052,
+      "start": 3772,
+      "end": 3776,
+      "icd10": [
+        {
+          "chapter": "J44.9",
+          "name": "Chronic obstructive pulmonary disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13645005",
+        "S-155565006",
+        "S-155569000",
+        "S-155585005",
+        "S-155617000",
+        "S-195935004",
+        "S-195948000",
+        "S-196003006",
+        "S-413846005"
+      ],
+      "id": 188,
+      "meta_anns": {}
+    },
+    "214": {
+      "pretty_name": "Polymyositis",
+      "cui": "C0085655",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "polymyositis",
+      "detected_name": "polymyositis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4143,
+      "end": 4155,
+      "icd10": [
+        {
+          "chapter": "M33.2",
+          "name": "Polymyositis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-15099002",
+        "S-156457001",
+        "S-31384009"
+      ],
+      "id": 214,
+      "meta_anns": {}
+    },
+    "231": {
+      "pretty_name": "Spinal Diseases",
+      "cui": "C0037933",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "spine disease",
+      "detected_name": "spine~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4447,
+      "end": 4460,
+      "icd10": [
+        {
+          "chapter": "M40-M54.9",
+          "name": "Dorsopathies"
+        },
+        {
+          "chapter": "M45-M49.9",
+          "name": "Spondylopathies"
+        },
+        {
+          "chapter": "M53.9",
+          "name": "Dorsopathy, unspecified"
+        },
+        {
+          "chapter": "M48.9",
+          "name": "Spondylopathy, unspecified"
+        },
+        {
+          "chapter": "M45-M49",
+          "name": "Spondylopathies (M45-M49)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156617007",
+        "S-202828002",
+        "S-202832008",
+        "S-203810005",
+        "S-240208001",
+        "S-240217001",
+        "S-268071005",
+        "S-302934007",
+        "S-367539009",
+        "S-699699005",
+        "S-88305002"
+      ],
+      "id": 231,
+      "meta_anns": {}
+    },
+    "236": {
+      "pretty_name": "Myositis",
+      "cui": "C0027121",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "inflammatory myopathy",
+      "detected_name": "inflammatory~myopathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4575,
+      "end": 4596,
+      "icd10": [
+        {
+          "chapter": "M60",
+          "name": "Myositis"
+        },
+        {
+          "chapter": "M60.9",
+          "name": "Myositis, unspecified"
+        },
+        {
+          "chapter": "G72.49",
+          "name": "Other inflammatory and immune myopathies, not elsewhere classified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128496001",
+        "S-203110007",
+        "S-268108002",
+        "S-26889001"
+      ],
+      "id": 236,
+      "meta_anns": {}
+    },
+    "238": {
+      "pretty_name": "Polymyositis",
+      "cui": "C0085655",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "polymyositis",
+      "detected_name": "polymyositis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4634,
+      "end": 4646,
+      "icd10": [
+        {
+          "chapter": "M33.2",
+          "name": "Polymyositis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-15099002",
+        "S-156457001",
+        "S-31384009"
+      ],
+      "id": 238,
+      "meta_anns": {}
+    },
+    "239": {
+      "pretty_name": "Inclusion Body Myositis",
+      "cui": "C0238190",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "inclusion body myositis",
+      "detected_name": "inclusion~body~myositis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4656,
+      "end": 4679,
+      "icd10": [
+        {
+          "chapter": "G72.41",
+          "name": "Inclusion body myositis [IBM]"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-72315009"
+      ],
+      "id": 239,
+      "meta_anns": {}
+    },
+    "242": {
+      "pretty_name": "Spinal Diseases",
+      "cui": "C0037933",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "spine disease",
+      "detected_name": "spine~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4699,
+      "end": 4712,
+      "icd10": [
+        {
+          "chapter": "M40-M54.9",
+          "name": "Dorsopathies"
+        },
+        {
+          "chapter": "M45-M49.9",
+          "name": "Spondylopathies"
+        },
+        {
+          "chapter": "M53.9",
+          "name": "Dorsopathy, unspecified"
+        },
+        {
+          "chapter": "M48.9",
+          "name": "Spondylopathy, unspecified"
+        },
+        {
+          "chapter": "M45-M49",
+          "name": "Spondylopathies (M45-M49)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156617007",
+        "S-202828002",
+        "S-202832008",
+        "S-203810005",
+        "S-240208001",
+        "S-240217001",
+        "S-268071005",
+        "S-302934007",
+        "S-367539009",
+        "S-699699005",
+        "S-88305002"
+      ],
+      "id": 242,
+      "meta_anns": {}
+    },
+    "249": {
+      "pretty_name": "Herpes zoster disease",
+      "cui": "C0019360",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Zoster",
+      "detected_name": "zoster",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4800,
+      "end": 4806,
+      "icd10": [
+        {
+          "chapter": "B02",
+          "name": "Zoster [herpes zoster]"
+        },
+        {
+          "chapter": "B02.9",
+          "name": "Zoster without complications"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154326002",
+        "S-186514003",
+        "S-186533008",
+        "S-4740000"
+      ],
+      "id": 249,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

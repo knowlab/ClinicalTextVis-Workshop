@@ -1,0 +1,145 @@
+{
+  "entities": {
+    "18": {
+      "pretty_name": "Stomach Diseases",
+      "cui": "C0038354",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "stomach",
+      "detected_name": "stomach",
+      "acc": 0.5357466490134589,
+      "context_similarity": 0.5357466490134589,
+      "start": 257,
+      "end": 264,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155671005",
+        "S-183927002",
+        "S-196598004",
+        "S-266497000",
+        "S-29384001"
+      ],
+      "id": 18,
+      "meta_anns": {}
+    },
+    "122": {
+      "pretty_name": "Sinus Tachycardia",
+      "cui": "C0039239",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "sinus tachycardia",
+      "detected_name": "sinus~tachycardia",
+      "acc": 0.7400661564333408,
+      "context_similarity": 0.7400661564333408,
+      "start": 1958,
+      "end": 1975,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-11092001",
+        "S-367107008"
+      ],
+      "id": 122,
+      "meta_anns": {}
+    },
+    "125": {
+      "pretty_name": "Colitis",
+      "cui": "C0009319",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Colitis",
+      "detected_name": "colitis",
+      "acc": 0.8422830110376196,
+      "context_similarity": 0.8422830110376196,
+      "start": 1995,
+      "end": 2002,
+      "icd10": [
+        {
+          "chapter": "K52.9",
+          "name": "Noninfective gastroenteritis and colitis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-64226004"
+      ],
+      "id": 125,
+      "meta_anns": {}
+    },
+    "126": {
+      "pretty_name": "Sepsis",
+      "cui": "C0243026",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Sepsis",
+      "detected_name": "sepsis",
+      "acc": 0.648951311640279,
+      "context_similarity": 0.648951311640279,
+      "start": 2008,
+      "end": 2014,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-186392004",
+        "S-445101001",
+        "S-91302008"
+      ],
+      "id": 126,
+      "meta_anns": {}
+    },
+    "138": {
+      "pretty_name": "Peptic Ulcer",
+      "cui": "C0030920",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "PUD",
+      "detected_name": "pud",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2259,
+      "end": 2262,
+      "icd10": [
+        {
+          "chapter": "K27",
+          "name": "Peptic ulcer, site unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13200003",
+        "S-155701001",
+        "S-155710009",
+        "S-196681007",
+        "S-196697002",
+        "S-196704007",
+        "S-196705008",
+        "S-266437002",
+        "S-266501005"
+      ],
+      "id": 138,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,217 @@
+{
+  "entities": {
+    "8": {
+      "pretty_name": "",
+      "cui": "C0585106",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "right upper lobe pneumonia",
+      "detected_name": "right~upper~lobe~pneumonia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 139,
+      "end": 165,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-301004001"
+      ],
+      "id": 8,
+      "meta_anns": {}
+    },
+    "15": {
+      "pretty_name": "Acquired Immunodeficiency Syndrome",
+      "cui": "C0001175",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "AIDS",
+      "detected_name": "aids",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 231,
+      "end": 235,
+      "icd10": [
+        {
+          "chapter": "B20",
+          "name": "Human immunodeficiency virus [HIV] disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-186705005",
+        "S-186715004",
+        "S-234644008",
+        "S-266201009",
+        "S-62479008"
+      ],
+      "id": 15,
+      "meta_anns": {}
+    },
+    "24": {
+      "pretty_name": "Cholelithiasis",
+      "cui": "C0008350",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gallstones",
+      "detected_name": "gallstone",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 430,
+      "end": 440,
+      "icd10": [
+        {
+          "chapter": "K80",
+          "name": "Cholelithiasis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155823008",
+        "S-197376000",
+        "S-197403005",
+        "S-197406002",
+        "S-266474003",
+        "S-266541001",
+        "S-44900007"
+      ],
+      "id": 24,
+      "meta_anns": {}
+    },
+    "42": {
+      "pretty_name": "Cyst",
+      "cui": "C0010709",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cysts",
+      "detected_name": "cyst",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 902,
+      "end": 907,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-12494005",
+        "S-133846001",
+        "S-264515009",
+        "S-367643001",
+        "S-441457006"
+      ],
+      "id": 42,
+      "meta_anns": {}
+    },
+    "43": {
+      "pretty_name": "",
+      "cui": "C0020295",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hydronephrosis",
+      "detected_name": "hydronephrosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 921,
+      "end": 935,
+      "icd10": [
+        {
+          "chapter": "N13.30",
+          "name": "Unspecified hydronephrosis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155866001",
+        "S-197791000",
+        "S-43064006"
+      ],
+      "id": 43,
+      "meta_anns": {}
+    },
+    "67": {
+      "pretty_name": "Cholelithiasis",
+      "cui": "C0008350",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gallstones",
+      "detected_name": "gallstone",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1515,
+      "end": 1525,
+      "icd10": [
+        {
+          "chapter": "K80",
+          "name": "Cholelithiasis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155823008",
+        "S-197376000",
+        "S-197403005",
+        "S-197406002",
+        "S-266474003",
+        "S-266541001",
+        "S-44900007"
+      ],
+      "id": 67,
+      "meta_anns": {}
+    },
+    "69": {
+      "pretty_name": "Nephrolithiasis",
+      "cui": "C0392525",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "renal calculi",
+      "detected_name": "renal~calculus",
+      "acc": 0.40059679107898283,
+      "context_similarity": 0.40059679107898283,
+      "start": 1541,
+      "end": 1554,
+      "icd10": [
+        {
+          "chapter": "N20.0",
+          "name": "Calculus of kidney"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155868000",
+        "S-197793002",
+        "S-236707002",
+        "S-266623004",
+        "S-56491003"
+      ],
+      "id": 69,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

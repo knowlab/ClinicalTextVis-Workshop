@@ -1,0 +1,64 @@
+{
+  "entities": {
+    "4": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 306,
+      "end": 310,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 4,
+      "meta_anns": {}
+    },
+    "10": {
+      "pretty_name": "anaphylaxis",
+      "cui": "C0002792",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "anaphylaxis",
+      "detected_name": "anaphylaxis",
+      "acc": 0.5694831578440924,
+      "context_similarity": 0.5694831578440924,
+      "start": 454,
+      "end": 465,
+      "icd10": [
+        {
+          "chapter": "T78.2",
+          "name": "Anaphylactic shock, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-157755003",
+        "S-39579001",
+        "S-735173007",
+        "S-87467006"
+      ],
+      "id": 10,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

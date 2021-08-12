@@ -1,0 +1,38 @@
+{
+  "entities": {
+    "40": {
+      "pretty_name": "Parkinson Disease",
+      "cui": "C0030567",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Parkinson disease",
+      "detected_name": "parkinson~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 966,
+      "end": 983,
+      "icd10": [
+        {
+          "chapter": "G20",
+          "name": "Parkinson's disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154999006",
+        "S-155000006",
+        "S-155002003",
+        "S-192825001",
+        "S-192831003",
+        "S-49049000"
+      ],
+      "id": 40,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,428 @@
+{
+  "entities": {
+    "11": {
+      "pretty_name": "Dental Diseases",
+      "cui": "C1704330",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "dental disease",
+      "detected_name": "dental~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 149,
+      "end": 163,
+      "icd10": [
+        {
+          "chapter": "K08.9",
+          "name": "Disorder of teeth and supporting structures, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-105995000",
+        "S-234947003",
+        "S-367503003",
+        "S-72722003"
+      ],
+      "id": 11,
+      "meta_anns": {}
+    },
+    "60": {
+      "pretty_name": "Deglutition Disorders",
+      "cui": "C0011168",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "difficulty swallowing",
+      "detected_name": "difficulty~swallowing",
+      "acc": 0.8410624190947273,
+      "context_similarity": 0.8410624190947273,
+      "start": 1160,
+      "end": 1181,
+      "icd10": [
+        {
+          "chapter": "R13",
+          "name": "Dysphagia"
+        },
+        {
+          "chapter": "R13.10",
+          "name": "Dysphagia, unspecified"
+        },
+        {
+          "chapter": "R13.1",
+          "name": "Dysphagia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139289002",
+        "S-158429003",
+        "S-158430008",
+        "S-158431007",
+        "S-162022009",
+        "S-207121004",
+        "S-207122006",
+        "S-207123001",
+        "S-288939007",
+        "S-40739000"
+      ],
+      "id": 60,
+      "meta_anns": {}
+    },
+    "121": {
+      "pretty_name": "",
+      "cui": "C0745571",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Chronic knee pain",
+      "detected_name": "chronic~knee~pain",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1782,
+      "end": 1799,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 121,
+      "meta_anns": {}
+    },
+    "172": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "erythema",
+      "detected_name": "erythema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2732,
+      "end": 2740,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 172,
+      "meta_anns": {}
+    },
+    "175": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "erythema",
+      "detected_name": "erythema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2805,
+      "end": 2813,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 175,
+      "meta_anns": {}
+    },
+    "185": {
+      "pretty_name": "Cervical lymphadenopathy",
+      "cui": "C0235592",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cervical lymphadenopathy",
+      "detected_name": "cervical~lymphadenopathy",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3044,
+      "end": 3068,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-127086001"
+      ],
+      "id": 185,
+      "meta_anns": {}
+    },
+    "192": {
+      "pretty_name": "Dental caries",
+      "cui": "C0011334",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "dental caries",
+      "detected_name": "dental~carie",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3137,
+      "end": 3150,
+      "icd10": [
+        {
+          "chapter": "K02",
+          "name": "Dental caries"
+        },
+        {
+          "chapter": "K02.9",
+          "name": "Dental caries, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155632007",
+        "S-196307002",
+        "S-80967001"
+      ],
+      "id": 192,
+      "meta_anns": {}
+    },
+    "199": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "erythema",
+      "detected_name": "erythema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3258,
+      "end": 3266,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 199,
+      "meta_anns": {}
+    },
+    "201": {
+      "pretty_name": "",
+      "cui": "C0949036",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "fluctuance",
+      "detected_name": "fluctuance",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3341,
+      "end": 3351,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 201,
+      "meta_anns": {}
+    },
+    "202": {
+      "pretty_name": "Abscess",
+      "cui": "C0000833",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "abscess",
+      "detected_name": "abscess",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3369,
+      "end": 3376,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-128477000",
+        "S-156308003",
+        "S-200694004",
+        "S-267831001",
+        "S-44132006"
+      ],
+      "id": 202,
+      "meta_anns": {}
+    },
+    "211": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "erythema",
+      "detected_name": "erythema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3484,
+      "end": 3492,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 211,
+      "meta_anns": {}
+    },
+    "218": {
+      "pretty_name": "",
+      "cui": "C0024081",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Ludwig",
+      "detected_name": "ludwig",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3655,
+      "end": 3661,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-196542004",
+        "S-54572003"
+      ],
+      "id": 218,
+      "meta_anns": {}
+    },
+    "253": {
+      "pretty_name": "Cervical lymphadenopathy",
+      "cui": "C0235592",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cervical lymphadenopathy",
+      "detected_name": "cervical~lymphadenopathy",
+      "acc": 0.5272961086788636,
+      "context_similarity": 0.5272961086788636,
+      "start": 4303,
+      "end": 4327,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-127086001"
+      ],
+      "id": 253,
+      "meta_anns": {}
+    },
+    "264": {
+      "pretty_name": "Dental caries",
+      "cui": "C0011334",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "DENTAL CARIES",
+      "detected_name": "dental~caries",
+      "acc": 0.12499950704741296,
+      "context_similarity": 0.12499950704741296,
+      "start": 4524,
+      "end": 4537,
+      "icd10": [
+        {
+          "chapter": "K02",
+          "name": "Dental caries"
+        },
+        {
+          "chapter": "K02.9",
+          "name": "Dental caries, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155632007",
+        "S-196307002",
+        "S-80967001"
+      ],
+      "id": 264,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

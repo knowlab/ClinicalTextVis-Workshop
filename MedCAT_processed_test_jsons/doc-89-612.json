@@ -1,0 +1,465 @@
+{
+  "entities": {
+    "14": {
+      "pretty_name": "Gangrene",
+      "cui": "C0017086",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gangrene",
+      "detected_name": "gangrene",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 322,
+      "end": 330,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-158349008",
+        "S-158352000",
+        "S-207019006",
+        "S-207024009",
+        "S-263765007",
+        "S-36024000",
+        "S-372070002"
+      ],
+      "id": 14,
+      "meta_anns": {}
+    },
+    "44": {
+      "pretty_name": "",
+      "cui": "C1997375",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "end-stage renal disease on dialysis",
+      "detected_name": "end~stage~renal~disease~on~dialysis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1074,
+      "end": 1109,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-429075005"
+      ],
+      "id": 44,
+      "meta_anns": {}
+    },
+    "49": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.8624693123833169,
+      "context_similarity": 0.8624693123833169,
+      "start": 1111,
+      "end": 1123,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 49,
+      "meta_anns": {}
+    },
+    "50": {
+      "pretty_name": "Peripheral Vascular Diseases",
+      "cui": "C0085096",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "peripheral vascular disease",
+      "detected_name": "peripheral~vascular~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1125,
+      "end": 1152,
+      "icd10": [
+        {
+          "chapter": "I73.9",
+          "name": "Peripheral vascular disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155431008",
+        "S-155433006",
+        "S-195311000",
+        "S-195314008",
+        "S-266320008",
+        "S-266321007",
+        "S-399957001",
+        "S-400047006",
+        "S-91523003"
+      ],
+      "id": 50,
+      "meta_anns": {}
+    },
+    "59": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease, congestive heart",
+      "detected_name": "disease~congestive~heart",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1170,
+      "end": 1195,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 59,
+      "meta_anns": {}
+    },
+    "64": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.8858001132708234,
+      "context_similarity": 0.8858001132708234,
+      "start": 1205,
+      "end": 1213,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 64,
+      "meta_anns": {}
+    },
+    "65": {
+      "pretty_name": "Hyperlipidemia",
+      "cui": "C0020473",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hyperlipidemia",
+      "detected_name": "hyperlipidemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1219,
+      "end": 1233,
+      "icd10": [
+        {
+          "chapter": "E78.5",
+          "name": "Hyperlipidaemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154739000",
+        "S-154743001",
+        "S-190782002",
+        "S-267499005",
+        "S-55822004"
+      ],
+      "id": 65,
+      "meta_anns": {}
+    },
+    "92": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1530,
+      "end": 1542,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 92,
+      "meta_anns": {}
+    },
+    "93": {
+      "pretty_name": "Hyperlipidemia",
+      "cui": "C0020473",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hyperlipidemia",
+      "detected_name": "hyperlipidemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1544,
+      "end": 1558,
+      "icd10": [
+        {
+          "chapter": "E78.5",
+          "name": "Hyperlipidaemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154739000",
+        "S-154743001",
+        "S-190782002",
+        "S-267499005",
+        "S-55822004"
+      ],
+      "id": 93,
+      "meta_anns": {}
+    },
+    "94": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.9361248901465825,
+      "context_similarity": 0.9361248901465825,
+      "start": 1560,
+      "end": 1568,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 94,
+      "meta_anns": {}
+    },
+    "95": {
+      "pretty_name": "Chronic Kidney Diseases",
+      "cui": "C1561643",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "chronic renal insufficiency",
+      "detected_name": "chronic~renal~insufficiency",
+      "acc": 0.8151325161718339,
+      "context_similarity": 0.8151325161718339,
+      "start": 1570,
+      "end": 1597,
+      "icd10": [
+        {
+          "chapter": "N18.9",
+          "name": "Chronic kidney disease, unspecified"
+        },
+        {
+          "chapter": "N18",
+          "name": "Chronic kidney disease (CKD)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-236425005",
+        "S-709044004"
+      ],
+      "id": 95,
+      "meta_anns": {}
+    },
+    "98": {
+      "pretty_name": "Myocardial Infarction",
+      "cui": "C0027051",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "myocardial infarction",
+      "detected_name": "myocardial~infarction",
+      "acc": 0.7776639291140853,
+      "context_similarity": 0.7776639291140853,
+      "start": 1603,
+      "end": 1624,
+      "icd10": [
+        {
+          "chapter": "I22",
+          "name": "Subsequent ST elevation (STEMI) and non-ST elevation (NSTEMI) myocardial infarction"
+        },
+        {
+          "chapter": "I21",
+          "name": "Acute myocardial infarction"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155304006",
+        "S-194796000",
+        "S-22298006",
+        "S-233824008",
+        "S-266288001",
+        "S-66514008"
+      ],
+      "id": 98,
+      "meta_anns": {}
+    },
+    "171": {
+      "pretty_name": "Peripheral Vascular Diseases",
+      "cui": "C0085096",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "peripheral vascular disease",
+      "detected_name": "peripheral~vascular~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3240,
+      "end": 3267,
+      "icd10": [
+        {
+          "chapter": "I73.9",
+          "name": "Peripheral vascular disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155431008",
+        "S-155433006",
+        "S-195311000",
+        "S-195314008",
+        "S-266320008",
+        "S-266321007",
+        "S-399957001",
+        "S-400047006",
+        "S-91523003"
+      ],
+      "id": 171,
+      "meta_anns": {}
+    },
+    "183": {
+      "pretty_name": "Urinary tract infection",
+      "cui": "C0042029",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "urinary tract infection",
+      "detected_name": "urinary~tract~infection",
+      "acc": 0.41623187208417955,
+      "context_similarity": 0.41623187208417955,
+      "start": 3483,
+      "end": 3506,
+      "icd10": [
+        {
+          "chapter": "N39.0",
+          "name": "Urinary tract infection, site not specified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155896006",
+        "S-155897002",
+        "S-197924008",
+        "S-197930008",
+        "S-266634001",
+        "S-266635000",
+        "S-274110008",
+        "S-68566005"
+      ],
+      "id": 183,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

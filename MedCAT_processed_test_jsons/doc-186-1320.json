@@ -1,0 +1,745 @@
+{
+  "entities": {
+    "1": {
+      "pretty_name": "Renal Insufficiency",
+      "cui": "C1565489",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Renal insufficiency",
+      "detected_name": "renal~insufficiency",
+      "acc": 0.3851403653839124,
+      "context_similarity": 0.3851403653839124,
+      "start": 21,
+      "end": 40,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-197657007",
+        "S-236423003"
+      ],
+      "id": 1,
+      "meta_anns": {}
+    },
+    "10": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary artery disease",
+      "detected_name": "coronary~artery~disease",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 125,
+      "end": 148,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 10,
+      "meta_anns": {}
+    },
+    "13": {
+      "pretty_name": "Chronic Obstructive Airway Disease",
+      "cui": "C0024117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "COPD",
+      "detected_name": "copd",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 150,
+      "end": 154,
+      "icd10": [
+        {
+          "chapter": "J44.9",
+          "name": "Chronic obstructive pulmonary disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13645005",
+        "S-155565006",
+        "S-155569000",
+        "S-155585005",
+        "S-155617000",
+        "S-195935004",
+        "S-195948000",
+        "S-196003006",
+        "S-413846005"
+      ],
+      "id": 13,
+      "meta_anns": {}
+    },
+    "15": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "congestive heart failure",
+      "detected_name": "congestive~heart~failure",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 156,
+      "end": 180,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 15,
+      "meta_anns": {}
+    },
+    "19": {
+      "pretty_name": "Renal hypertension",
+      "cui": "C0020544",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension, renal",
+      "detected_name": "hypertension~renal",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 201,
+      "end": 220,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194775007",
+        "S-28119000"
+      ],
+      "id": 19,
+      "meta_anns": {}
+    },
+    "23": {
+      "pretty_name": "",
+      "cui": "C0745136",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertensive emergency",
+      "detected_name": "hypertensive~emergency",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 262,
+      "end": 284,
+      "icd10": [
+        {
+          "chapter": "I16.1",
+          "name": "Hypertensive emergency"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-132721000119104"
+      ],
+      "id": 23,
+      "meta_anns": {}
+    },
+    "38": {
+      "pretty_name": "Hematuria",
+      "cui": "C0018965",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hematuria",
+      "detected_name": "hematuria",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 484,
+      "end": 493,
+      "icd10": [
+        {
+          "chapter": "R31",
+          "name": "Unspecified haematuria"
+        },
+        {
+          "chapter": "R31.9",
+          "name": "Hematuria, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139414003",
+        "S-139416001",
+        "S-155895005",
+        "S-162136002",
+        "S-197937006",
+        "S-266568001",
+        "S-267066000",
+        "S-267167006",
+        "S-267168001",
+        "S-307414005",
+        "S-34436003",
+        "S-53298000"
+      ],
+      "id": 38,
+      "meta_anns": {}
+    },
+    "42": {
+      "pretty_name": "Renal Insufficiency",
+      "cui": "C1565489",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "renal insufficiency",
+      "detected_name": "renal~insufficiency",
+      "acc": 0.16337899305330503,
+      "context_similarity": 0.16337899305330503,
+      "start": 543,
+      "end": 562,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-197657007",
+        "S-236423003"
+      ],
+      "id": 42,
+      "meta_anns": {}
+    },
+    "48": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 654,
+      "end": 666,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 48,
+      "meta_anns": {}
+    },
+    "50": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "congestive heart failure",
+      "detected_name": "congestive~heart~failure",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 668,
+      "end": 692,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 50,
+      "meta_anns": {}
+    },
+    "54": {
+      "pretty_name": "Chronic Obstructive Airway Disease",
+      "cui": "C0024117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "COPD",
+      "detected_name": "copd",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 745,
+      "end": 749,
+      "icd10": [
+        {
+          "chapter": "J44.9",
+          "name": "Chronic obstructive pulmonary disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13645005",
+        "S-155565006",
+        "S-155569000",
+        "S-155585005",
+        "S-155617000",
+        "S-195935004",
+        "S-195948000",
+        "S-196003006",
+        "S-413846005"
+      ],
+      "id": 54,
+      "meta_anns": {}
+    },
+    "56": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary artery disease",
+      "detected_name": "coronary~artery~disease",
+      "acc": 0.661743312460588,
+      "context_similarity": 0.661743312460588,
+      "start": 764,
+      "end": 787,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 56,
+      "meta_anns": {}
+    },
+    "60": {
+      "pretty_name": "Renal Insufficiency",
+      "cui": "C1565489",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "renal insufficiency",
+      "detected_name": "renal~insufficiency",
+      "acc": 0.4505973707685206,
+      "context_similarity": 0.4505973707685206,
+      "start": 793,
+      "end": 812,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-197657007",
+        "S-236423003"
+      ],
+      "id": 60,
+      "meta_anns": {}
+    },
+    "107": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymphadenopathy",
+      "detected_name": "lymphadenopathy",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1426,
+      "end": 1441,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 107,
+      "meta_anns": {}
+    },
+    "144": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease, congestive heart",
+      "detected_name": "disease~congestive~heart",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2010,
+      "end": 2035,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 144,
+      "meta_anns": {}
+    },
+    "149": {
+      "pretty_name": "Chronic Obstructive Airway Disease",
+      "cui": "C0024117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "COPD",
+      "detected_name": "copd",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2045,
+      "end": 2049,
+      "icd10": [
+        {
+          "chapter": "J44.9",
+          "name": "Chronic obstructive pulmonary disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13645005",
+        "S-155565006",
+        "S-155569000",
+        "S-155585005",
+        "S-155617000",
+        "S-195935004",
+        "S-195948000",
+        "S-196003006",
+        "S-413846005"
+      ],
+      "id": 149,
+      "meta_anns": {}
+    },
+    "150": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2051,
+      "end": 2063,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 150,
+      "meta_anns": {}
+    },
+    "152": {
+      "pretty_name": "Renal Insufficiency",
+      "cui": "C1565489",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "renal insufficiency",
+      "detected_name": "renal~insufficiency",
+      "acc": 0.6973201015100826,
+      "context_similarity": 0.6973201015100826,
+      "start": 2069,
+      "end": 2088,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-197657007",
+        "S-236423003"
+      ],
+      "id": 152,
+      "meta_anns": {}
+    },
+    "154": {
+      "pretty_name": "",
+      "cui": "C0745136",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertensive emergency",
+      "detected_name": "hypertensive~emergency",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2098,
+      "end": 2120,
+      "icd10": [
+        {
+          "chapter": "I16.1",
+          "name": "Hypertensive emergency"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-132721000119104"
+      ],
+      "id": 154,
+      "meta_anns": {}
+    },
+    "156": {
+      "pretty_name": "",
+      "cui": "C0403462",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Acute on chronic renal failure",
+      "detected_name": "acute~on~chronic~renal~failure",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2125,
+      "end": 2155,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-236433006"
+      ],
+      "id": 156,
+      "meta_anns": {}
+    },
+    "164": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "CHF",
+      "detected_name": "chf",
+      "acc": 0.2630813130036501,
+      "context_similarity": 0.2630813130036501,
+      "start": 2200,
+      "end": 2203,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 164,
+      "meta_anns": {}
+    },
+    "166": {
+      "pretty_name": "",
+      "cui": "C0740304",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "COPD exacerbation",
+      "detected_name": "copd~exacerbation",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2211,
+      "end": 2228,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 166,
+      "meta_anns": {}
+    },
+    "171": {
+      "pretty_name": "Renal Insufficiency",
+      "cui": "C1565489",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "renal insufficiency",
+      "detected_name": "renal~insufficiency",
+      "acc": 0.7479596662332528,
+      "context_similarity": 0.7479596662332528,
+      "start": 2252,
+      "end": 2271,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-197657007",
+        "S-236423003"
+      ],
+      "id": 171,
+      "meta_anns": {}
+    },
+    "185": {
+      "pretty_name": "",
+      "cui": "C0745136",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertensive emergency",
+      "detected_name": "hypertensive~emergency",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2422,
+      "end": 2444,
+      "icd10": [
+        {
+          "chapter": "I16.1",
+          "name": "Hypertensive emergency"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-132721000119104"
+      ],
+      "id": 185,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,197 @@
+{
+  "entities": {
+    "51": {
+      "pretty_name": "Paresthesia",
+      "cui": "C0030554",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tingling",
+      "detected_name": "tingling",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1074,
+      "end": 1082,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-158228009",
+        "S-206857001",
+        "S-91019004"
+      ],
+      "id": 51,
+      "meta_anns": {}
+    },
+    "57": {
+      "pretty_name": "Incontinence",
+      "cui": "C0021167",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "incontinence",
+      "detected_name": "incontinence",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1160,
+      "end": 1172,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-48340000"
+      ],
+      "id": 57,
+      "meta_anns": {}
+    },
+    "189": {
+      "pretty_name": "Bone lesion",
+      "cui": "C0238792",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "bone lesion",
+      "detected_name": "bone~lesion",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3731,
+      "end": 3742,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 189,
+      "meta_anns": {}
+    },
+    "218": {
+      "pretty_name": "Myositis Ossificans",
+      "cui": "C0027122",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "myositis ossificans",
+      "detected_name": "myositis~ossifican",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4233,
+      "end": 4252,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-156720008",
+        "S-203030008",
+        "S-44551007"
+      ],
+      "id": 218,
+      "meta_anns": {}
+    },
+    "225": {
+      "pretty_name": "Deep thrombophlebitis",
+      "cui": "C0151950",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "DVT",
+      "detected_name": "dvt",
+      "acc": 0.5502551302541765,
+      "context_similarity": 0.5502551302541765,
+      "start": 4372,
+      "end": 4375,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-16750002"
+      ],
+      "id": 225,
+      "meta_anns": {}
+    },
+    "227": {
+      "pretty_name": "Pulmonary Embolism",
+      "cui": "C0034065",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pulmonary embolism",
+      "detected_name": "pulmonary~embolism",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4377,
+      "end": 4395,
+      "icd10": [
+        {
+          "chapter": "I26",
+          "name": "Pulmonary embolism"
+        },
+        {
+          "chapter": "I26.99",
+          "name": "Other pulmonary embolism without acute cor pulmonale"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155326007",
+        "S-194882001",
+        "S-266292008",
+        "S-59282003"
+      ],
+      "id": 227,
+      "meta_anns": {}
+    },
+    "232": {
+      "pretty_name": "Cardiac Arrest",
+      "cui": "C0018790",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "arrest",
+      "detected_name": "arrest",
+      "acc": 0.46125776008963487,
+      "context_similarity": 0.46125776008963487,
+      "start": 4457,
+      "end": 4463,
+      "icd10": [
+        {
+          "chapter": "I46",
+          "name": "Cardiac arrest"
+        },
+        {
+          "chapter": "I46.9",
+          "name": "Cardiac arrest, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155372006",
+        "S-195085006",
+        "S-195090009",
+        "S-251189000",
+        "S-30298009",
+        "S-309810002",
+        "S-397829000",
+        "S-397912004",
+        "S-410429000"
+      ],
+      "id": 232,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

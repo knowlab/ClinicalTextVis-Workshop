@@ -1,0 +1,69 @@
+{
+  "entities": {
+    "19": {
+      "pretty_name": "Shoulder Impingement Syndrome",
+      "cui": "C0376685",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Shoulder impingement syndrome",
+      "detected_name": "shoulder~impingement~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 875,
+      "end": 904,
+      "icd10": [
+        {
+          "chapter": "M75.4",
+          "name": "Impingement syndrome of shoulder"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128498000",
+        "S-202849001",
+        "S-202851002",
+        "S-239960007",
+        "S-366831005"
+      ],
+      "id": 19,
+      "meta_anns": {}
+    },
+    "27": {
+      "pretty_name": "Shoulder Impingement Syndrome",
+      "cui": "C0376685",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Shoulder impingement syndrome",
+      "detected_name": "shoulder~impingement~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 969,
+      "end": 998,
+      "icd10": [
+        {
+          "chapter": "M75.4",
+          "name": "Impingement syndrome of shoulder"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128498000",
+        "S-202849001",
+        "S-202851002",
+        "S-239960007",
+        "S-366831005"
+      ],
+      "id": 27,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

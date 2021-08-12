@@ -1,0 +1,205 @@
+{
+  "entities": {
+    "3": {
+      "pretty_name": "Pressure Ulcer",
+      "cui": "C0011127",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "decubitus",
+      "detected_name": "decubitus",
+      "acc": 0.6065770387037491,
+      "context_similarity": 0.6065770387037491,
+      "start": 27,
+      "end": 36,
+      "icd10": [
+        {
+          "chapter": "L89",
+          "name": "Decubitus ulcer"
+        },
+        {
+          "chapter": "L89.9",
+          "name": "Pressure ulcer of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-142668003",
+        "S-156424003",
+        "S-165258002",
+        "S-201248003",
+        "S-28103007",
+        "S-399912005",
+        "S-400192002",
+        "S-418172001",
+        "S-420226006",
+        "S-90144002"
+      ],
+      "id": 3,
+      "meta_anns": {}
+    },
+    "23": {
+      "pretty_name": "Pressure Ulcer",
+      "cui": "C0011127",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "decubitus",
+      "detected_name": "decubitus",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 466,
+      "end": 475,
+      "icd10": [
+        {
+          "chapter": "L89",
+          "name": "Decubitus ulcer"
+        },
+        {
+          "chapter": "L89.9",
+          "name": "Pressure ulcer of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-142668003",
+        "S-156424003",
+        "S-165258002",
+        "S-201248003",
+        "S-28103007",
+        "S-399912005",
+        "S-400192002",
+        "S-418172001",
+        "S-420226006",
+        "S-90144002"
+      ],
+      "id": 23,
+      "meta_anns": {}
+    },
+    "60": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Obese",
+      "detected_name": "obese",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1213,
+      "end": 1218,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 60,
+      "meta_anns": {}
+    },
+    "67": {
+      "pretty_name": "Pressure Ulcer",
+      "cui": "C0011127",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "decubitus",
+      "detected_name": "decubitus",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1365,
+      "end": 1374,
+      "icd10": [
+        {
+          "chapter": "L89",
+          "name": "Decubitus ulcer"
+        },
+        {
+          "chapter": "L89.9",
+          "name": "Pressure ulcer of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-142668003",
+        "S-156424003",
+        "S-165258002",
+        "S-201248003",
+        "S-28103007",
+        "S-399912005",
+        "S-400192002",
+        "S-418172001",
+        "S-420226006",
+        "S-90144002"
+      ],
+      "id": 67,
+      "meta_anns": {}
+    },
+    "80": {
+      "pretty_name": "Pressure Ulcer",
+      "cui": "C0011127",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "decubitus",
+      "detected_name": "decubitus",
+      "acc": 0.9460450591572986,
+      "context_similarity": 0.9460450591572986,
+      "start": 1731,
+      "end": 1740,
+      "icd10": [
+        {
+          "chapter": "L89",
+          "name": "Decubitus ulcer"
+        },
+        {
+          "chapter": "L89.9",
+          "name": "Pressure ulcer of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-142668003",
+        "S-156424003",
+        "S-165258002",
+        "S-201248003",
+        "S-28103007",
+        "S-399912005",
+        "S-400192002",
+        "S-418172001",
+        "S-420226006",
+        "S-90144002"
+      ],
+      "id": 80,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,65 @@
+{
+  "entities": {
+    "30": {
+      "pretty_name": "Dehydration",
+      "cui": "C0011175",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "dehydrated",
+      "detected_name": "dehydrated",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 808,
+      "end": 818,
+      "icd10": [
+        {
+          "chapter": "E86.0",
+          "name": "Dehydration"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154759001",
+        "S-34095006",
+        "S-37472003"
+      ],
+      "id": 30,
+      "meta_anns": {}
+    },
+    "91": {
+      "pretty_name": "Dehydration",
+      "cui": "C0011175",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "dehydration",
+      "detected_name": "dehydration",
+      "acc": 0.30795654280482176,
+      "context_similarity": 0.30795654280482176,
+      "start": 2346,
+      "end": 2357,
+      "icd10": [
+        {
+          "chapter": "E86.0",
+          "name": "Dehydration"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154759001",
+        "S-34095006",
+        "S-37472003"
+      ],
+      "id": 91,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

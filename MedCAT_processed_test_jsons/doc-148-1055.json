@@ -1,0 +1,313 @@
+{
+  "entities": {
+    "14": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "condition",
+      "detected_name": "condition",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 589,
+      "end": 598,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 14,
+      "meta_anns": {}
+    },
+    "70": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obesity",
+      "detected_name": "obesity",
+      "acc": 0.7210665162215373,
+      "context_similarity": 0.7210665162215373,
+      "start": 2241,
+      "end": 2248,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 70,
+      "meta_anns": {}
+    },
+    "72": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes mellitus",
+      "detected_name": "diabetes~mellitus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2261,
+      "end": 2278,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 72,
+      "meta_anns": {}
+    },
+    "74": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabete",
+      "acc": 0.12375971560102425,
+      "context_similarity": 0.12375971560102425,
+      "start": 2333,
+      "end": 2341,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 74,
+      "meta_anns": {}
+    },
+    "77": {
+      "pretty_name": "",
+      "cui": "C0008677",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "chronic bronchitis",
+      "detected_name": "chronic~bronchitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2422,
+      "end": 2440,
+      "icd10": [
+        {
+          "chapter": "J42",
+          "name": "Unspecified chronic bronchitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155566007",
+        "S-155572007",
+        "S-195956002",
+        "S-266395007",
+        "S-63480004"
+      ],
+      "id": 77,
+      "meta_anns": {}
+    },
+    "85": {
+      "pretty_name": "",
+      "cui": "C0008677",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "chronic bronchitis",
+      "detected_name": "chronic~bronchitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2755,
+      "end": 2773,
+      "icd10": [
+        {
+          "chapter": "J42",
+          "name": "Unspecified chronic bronchitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155566007",
+        "S-155572007",
+        "S-195956002",
+        "S-266395007",
+        "S-63480004"
+      ],
+      "id": 85,
+      "meta_anns": {}
+    },
+    "116": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes mellitus",
+      "detected_name": "diabetes~mellitus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3540,
+      "end": 3557,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 116,
+      "meta_anns": {}
+    },
+    "117": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obesity",
+      "detected_name": "obesity",
+      "acc": 0.6998710791159655,
+      "context_similarity": 0.6998710791159655,
+      "start": 3559,
+      "end": 3566,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 117,
+      "meta_anns": {}
+    },
+    "118": {
+      "pretty_name": "",
+      "cui": "C0008677",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "chronic bronchitis",
+      "detected_name": "chronic~bronchitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3572,
+      "end": 3590,
+      "icd10": [
+        {
+          "chapter": "J42",
+          "name": "Unspecified chronic bronchitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155566007",
+        "S-155572007",
+        "S-195956002",
+        "S-266395007",
+        "S-63480004"
+      ],
+      "id": 118,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

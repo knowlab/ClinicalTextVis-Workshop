@@ -1,0 +1,145 @@
+{
+  "entities": {
+    "16": {
+      "pretty_name": "Urticaria",
+      "cui": "C0042109",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hives",
+      "detected_name": "hive",
+      "acc": 0.503480236844018,
+      "context_similarity": 0.503480236844018,
+      "start": 385,
+      "end": 390,
+      "icd10": [
+        {
+          "chapter": "L50",
+          "name": "Urticaria"
+        },
+        {
+          "chapter": "L50.9",
+          "name": "Urticaria, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-126485001",
+        "S-156427005",
+        "S-157756002",
+        "S-201272008",
+        "S-247472004",
+        "S-267818006",
+        "S-267868003",
+        "S-269433002",
+        "S-64305001"
+      ],
+      "id": 16,
+      "meta_anns": {}
+    },
+    "31": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.29666864512144675,
+      "context_similarity": 0.29666864512144675,
+      "start": 724,
+      "end": 736,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 31,
+      "meta_anns": {}
+    },
+    "44": {
+      "pretty_name": "Ulcer",
+      "cui": "C0041582",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ULCER",
+      "detected_name": "ulcer",
+      "acc": 0.3052558638078865,
+      "context_similarity": 0.3052558638078865,
+      "start": 895,
+      "end": 900,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-255321001",
+        "S-429040005",
+        "S-56208002"
+      ],
+      "id": 44,
+      "meta_anns": {}
+    },
+    "80": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "erythema",
+      "detected_name": "erythema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1578,
+      "end": 1586,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 80,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

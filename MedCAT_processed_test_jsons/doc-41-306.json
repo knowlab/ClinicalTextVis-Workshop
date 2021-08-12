@@ -1,0 +1,161 @@
+{
+  "entities": {
+    "0": {
+      "pretty_name": "Septicemia",
+      "cui": "C0036690",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Sepsis",
+      "detected_name": "sepsis",
+      "acc": 0.7092334377208549,
+      "context_similarity": 0.7092334377208549,
+      "start": 24,
+      "end": 30,
+      "icd10": [
+        {
+          "chapter": "A41.9",
+          "name": "Septicaemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-105592009",
+        "S-154313001",
+        "S-186392004",
+        "S-187333004",
+        "S-266089004",
+        "S-40555009",
+        "S-91302008"
+      ],
+      "id": 0,
+      "meta_anns": {}
+    },
+    "19": {
+      "pretty_name": "",
+      "cui": "C0521622",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "bilateral hydronephrosis",
+      "detected_name": "bilateral~hydronephrosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 343,
+      "end": 367,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-95581005"
+      ],
+      "id": 19,
+      "meta_anns": {}
+    },
+    "33": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "CAD",
+      "detected_name": "cad",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 633,
+      "end": 636,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 33,
+      "meta_anns": {}
+    },
+    "40": {
+      "pretty_name": "Cerebrovascular accident",
+      "cui": "C0038454",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "CVA",
+      "detected_name": "cva",
+      "acc": 0.9667125365189987,
+      "context_similarity": 0.9667125365189987,
+      "start": 678,
+      "end": 681,
+      "icd10": [
+        {
+          "chapter": "I64",
+          "name": "Stroke, not specified as haemorrhage or infarction"
+        },
+        {
+          "chapter": "I63.9",
+          "name": "Cerebral infarction, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155388006",
+        "S-155405006",
+        "S-195208004",
+        "S-230690007",
+        "S-266312006",
+        "S-266315008",
+        "S-270883006",
+        "S-313267000",
+        "S-82797006"
+      ],
+      "id": 40,
+      "meta_anns": {}
+    },
+    "44": {
+      "pretty_name": "Nephrolithiasis",
+      "cui": "C0392525",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "nephrolithiasis",
+      "detected_name": "nephrolithiasis",
+      "acc": 0.7496619178682526,
+      "context_similarity": 0.7496619178682526,
+      "start": 698,
+      "end": 713,
+      "icd10": [
+        {
+          "chapter": "N20.0",
+          "name": "Calculus of kidney"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155868000",
+        "S-197793002",
+        "S-236707002",
+        "S-266623004",
+        "S-56491003"
+      ],
+      "id": 44,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

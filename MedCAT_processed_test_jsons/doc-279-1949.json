@@ -1,0 +1,388 @@
+{
+  "entities": {
+    "50": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 903,
+      "end": 915,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 50,
+      "meta_anns": {}
+    },
+    "52": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes mellitus",
+      "detected_name": "diabetes~mellitus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 919,
+      "end": 936,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 52,
+      "meta_anns": {}
+    },
+    "58": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary artery disease",
+      "detected_name": "coronary~artery~disease",
+      "acc": 0.8988457072488767,
+      "context_similarity": 0.8988457072488767,
+      "start": 998,
+      "end": 1021,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 58,
+      "meta_anns": {}
+    },
+    "116": {
+      "pretty_name": "Glaucoma",
+      "cui": "C0017601",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "glaucoma",
+      "detected_name": "glaucoma",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1795,
+      "end": 1803,
+      "icd10": [
+        {
+          "chapter": "H40-H42.9",
+          "name": "Glaucoma"
+        },
+        {
+          "chapter": "H40",
+          "name": "Glaucoma"
+        },
+        {
+          "chapter": "H40.9",
+          "name": "Glaucoma, unspecified"
+        },
+        {
+          "chapter": "H40-H42",
+          "name": "Glaucoma (H40-H42)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155120009",
+        "S-193569008",
+        "S-194631001",
+        "S-23986001"
+      ],
+      "id": 116,
+      "meta_anns": {}
+    },
+    "119": {
+      "pretty_name": "Pneumonia",
+      "cui": "C0032285",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pneumonia",
+      "detected_name": "pneumonia",
+      "acc": 0.6206805257549,
+      "context_similarity": 0.6206805257549,
+      "start": 1871,
+      "end": 1880,
+      "icd10": [
+        {
+          "chapter": "J18.9",
+          "name": "Pneumonia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155548002",
+        "S-155552002",
+        "S-155558003",
+        "S-233604007",
+        "S-266391003",
+        "S-274103002",
+        "S-60363000"
+      ],
+      "id": 119,
+      "meta_anns": {}
+    },
+    "120": {
+      "pretty_name": "Coccidioidomycosis",
+      "cui": "C0009186",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "valley fever",
+      "detected_name": "valley~fever",
+      "acc": 0.3833928789219958,
+      "context_similarity": 0.3833928789219958,
+      "start": 1884,
+      "end": 1896,
+      "icd10": [
+        {
+          "chapter": "B38",
+          "name": "Coccidioidomycosis"
+        },
+        {
+          "chapter": "B38.9",
+          "name": "Coccidioidomycosis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154408001",
+        "S-187025009",
+        "S-187035003",
+        "S-187481007",
+        "S-266218008",
+        "S-442543009",
+        "S-60826002"
+      ],
+      "id": 120,
+      "meta_anns": {}
+    },
+    "128": {
+      "pretty_name": "Transient Ischemic Attack",
+      "cui": "C0007787",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "TIA",
+      "detected_name": "tia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2056,
+      "end": 2059,
+      "icd10": [
+        {
+          "chapter": "G45.9",
+          "name": "Transient cerebral ischaemic attack, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155404005",
+        "S-195196001",
+        "S-195207009",
+        "S-266257000",
+        "S-266314007",
+        "S-313242003",
+        "S-38609002"
+      ],
+      "id": 128,
+      "meta_anns": {}
+    },
+    "129": {
+      "pretty_name": "Cerebrovascular accident",
+      "cui": "C0038454",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "CVA",
+      "detected_name": "cva",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2065,
+      "end": 2068,
+      "icd10": [
+        {
+          "chapter": "I64",
+          "name": "Stroke, not specified as haemorrhage or infarction"
+        },
+        {
+          "chapter": "I63.9",
+          "name": "Cerebral infarction, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155388006",
+        "S-155405006",
+        "S-195208004",
+        "S-230690007",
+        "S-266312006",
+        "S-266315008",
+        "S-270883006",
+        "S-313267000",
+        "S-82797006"
+      ],
+      "id": 129,
+      "meta_anns": {}
+    },
+    "132": {
+      "pretty_name": "Epilepsy",
+      "cui": "C0014544",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "seizure disorder",
+      "detected_name": "seizure~disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2074,
+      "end": 2090,
+      "icd10": [
+        {
+          "chapter": "G40",
+          "name": "Epilepsy"
+        },
+        {
+          "chapter": "G40.9",
+          "name": "Epilepsy, unspecified"
+        },
+        {
+          "chapter": "G40.909",
+          "name": "Epilepsy, unspecified, not intractable, without status epilepticus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128613002",
+        "S-155036009",
+        "S-155045005",
+        "S-193026007",
+        "S-246545002",
+        "S-267593008",
+        "S-267698007",
+        "S-271788002",
+        "S-84757009"
+      ],
+      "id": 132,
+      "meta_anns": {}
+    },
+    "170": {
+      "pretty_name": "Incomplete right bundle branch block",
+      "cui": "C0262525",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "incomplete right bundle-branch block",
+      "detected_name": "incomplete~right~bundle~branch~block",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2668,
+      "end": 2704,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-251124007"
+      ],
+      "id": 170,
+      "meta_anns": {}
+    },
+    "196": {
+      "pretty_name": "",
+      "cui": "C0741923",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cardiac event",
+      "detected_name": "cardiac~event",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3114,
+      "end": 3127,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 196,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

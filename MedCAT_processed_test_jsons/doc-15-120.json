@@ -1,0 +1,469 @@
+{
+  "entities": {
+    "14": {
+      "pretty_name": "Graft-vs-Host Disease",
+      "cui": "C0018133",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Graft versus host disease",
+      "detected_name": "graft~versus~host~disease",
+      "acc": 0.4694061738860873,
+      "context_similarity": 0.4694061738860873,
+      "start": 321,
+      "end": 346,
+      "icd10": [
+        {
+          "chapter": "D89.813",
+          "name": "Graft-versus-host disease, unspecified"
+        },
+        {
+          "chapter": "D89.81",
+          "name": "Graft-versus-host disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-234646005",
+        "S-75744002"
+      ],
+      "id": 14,
+      "meta_anns": {}
+    },
+    "18": {
+      "pretty_name": "Liver diseases",
+      "cui": "C0023895",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "liver",
+      "detected_name": "liver",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 378,
+      "end": 383,
+      "icd10": [
+        {
+          "chapter": "K70-K77.9",
+          "name": "Diseases of liver"
+        },
+        {
+          "chapter": "K76.9",
+          "name": "Liver disease, unspecified"
+        },
+        {
+          "chapter": "K70-K77",
+          "name": "Diseases of liver (K70-K77)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155807008",
+        "S-155817003",
+        "S-155822003",
+        "S-197375001",
+        "S-197551000",
+        "S-235856003",
+        "S-266535008",
+        "S-62857009"
+      ],
+      "id": 18,
+      "meta_anns": {}
+    },
+    "19": {
+      "pretty_name": "Immunosuppression",
+      "cui": "C4048329",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "immunosuppression",
+      "detected_name": "immunosuppression",
+      "acc": 0.6065151938916608,
+      "context_similarity": 0.6065151938916608,
+      "start": 398,
+      "end": 415,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 19,
+      "meta_anns": {}
+    },
+    "20": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.5911306877554063,
+      "context_similarity": 0.5911306877554063,
+      "start": 421,
+      "end": 429,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 20,
+      "meta_anns": {}
+    },
+    "22": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disorder",
+      "detected_name": "disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 443,
+      "end": 451,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 22,
+      "meta_anns": {}
+    },
+    "29": {
+      "pretty_name": "Immunosuppression",
+      "cui": "C4048329",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "immunosuppression",
+      "detected_name": "immunosuppression",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 676,
+      "end": 693,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 29,
+      "meta_anns": {}
+    },
+    "31": {
+      "pretty_name": "",
+      "cui": "C0867389",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "chronic GVHD",
+      "detected_name": "chronic~gvhd",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 714,
+      "end": 726,
+      "icd10": [
+        {
+          "chapter": "D89.811",
+          "name": "Chronic graft-versus-host disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-402356004"
+      ],
+      "id": 31,
+      "meta_anns": {}
+    },
+    "34": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease",
+      "detected_name": "disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 773,
+      "end": 780,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 34,
+      "meta_anns": {}
+    },
+    "48": {
+      "pretty_name": "Iron deficiency",
+      "cui": "C0240066",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "iron deficiency",
+      "detected_name": "iron~deficiency",
+      "acc": 0.12676725528129232,
+      "context_similarity": 0.12676725528129232,
+      "start": 1090,
+      "end": 1105,
+      "icd10": [
+        {
+          "chapter": "E61.1",
+          "name": "Iron deficiency"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-190663001",
+        "S-35240004"
+      ],
+      "id": 48,
+      "meta_anns": {}
+    },
+    "73": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obesity",
+      "detected_name": "obesity",
+      "acc": 0.5615647242060094,
+      "context_similarity": 0.5615647242060094,
+      "start": 1562,
+      "end": 1569,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 73,
+      "meta_anns": {}
+    },
+    "83": {
+      "pretty_name": "Dental caries",
+      "cui": "C0011334",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cavity",
+      "detected_name": "cavity",
+      "acc": 0.4102125639571186,
+      "context_similarity": 0.4102125639571186,
+      "start": 1777,
+      "end": 1783,
+      "icd10": [
+        {
+          "chapter": "K02",
+          "name": "Dental caries"
+        },
+        {
+          "chapter": "K02.9",
+          "name": "Dental caries, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155632007",
+        "S-196307002",
+        "S-80967001"
+      ],
+      "id": 83,
+      "meta_anns": {}
+    },
+    "91": {
+      "pretty_name": "Morbid obesity",
+      "cui": "C0028756",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Morbid obesity",
+      "detected_name": "morbid~obesity",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1937,
+      "end": 1951,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-190967003",
+        "S-238136002",
+        "S-389986000",
+        "S-83911000119104"
+      ],
+      "id": 91,
+      "meta_anns": {}
+    },
+    "120": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease",
+      "detected_name": "disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2387,
+      "end": 2394,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 120,
+      "meta_anns": {}
+    },
+    "138": {
+      "pretty_name": "Anemia",
+      "cui": "C0002871",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "anemia",
+      "detected_name": "anemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2690,
+      "end": 2696,
+      "icd10": [
+        {
+          "chapter": "D64.9",
+          "name": "Anemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154786001",
+        "S-154812000",
+        "S-191277004",
+        "S-267531008",
+        "S-271737000",
+        "S-64593003"
+      ],
+      "id": 138,
+      "meta_anns": {}
+    },
+    "143": {
+      "pretty_name": "Graft-vs-Host Disease",
+      "cui": "C0018133",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "graft versus host disease",
+      "detected_name": "graft~versus~host~disease",
+      "acc": 0.5160094534462987,
+      "context_similarity": 0.5160094534462987,
+      "start": 2864,
+      "end": 2889,
+      "icd10": [
+        {
+          "chapter": "D89.813",
+          "name": "Graft-versus-host disease, unspecified"
+        },
+        {
+          "chapter": "D89.81",
+          "name": "Graft-versus-host disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-234646005",
+        "S-75744002"
+      ],
+      "id": 143,
+      "meta_anns": {}
+    },
+    "149": {
+      "pretty_name": "Diabetes Mellitus, Non-Insulin-Dependent",
+      "cui": "C0011860",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.11121783944137346,
+      "context_similarity": 0.11121783944137346,
+      "start": 3063,
+      "end": 3071,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Non-insulin-dependent diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154672006",
+        "S-190323008",
+        "S-190384004",
+        "S-267468009",
+        "S-44054006"
+      ],
+      "id": 149,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

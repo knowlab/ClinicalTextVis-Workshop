@@ -1,0 +1,195 @@
+{
+  "entities": {
+    "19": {
+      "pretty_name": "Asthma",
+      "cui": "C0004096",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "asthma",
+      "detected_name": "asthma",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 544,
+      "end": 550,
+      "icd10": [
+        {
+          "chapter": "J45",
+          "name": "Asthma"
+        },
+        {
+          "chapter": "J45.9",
+          "name": "Asthma, unspecified"
+        },
+        {
+          "chapter": "J45.90",
+          "name": "Unspecified asthma"
+        },
+        {
+          "chapter": "J45.909",
+          "name": "Unspecified asthma, uncomplicated"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155574008",
+        "S-155579003",
+        "S-187687003",
+        "S-195967001",
+        "S-195979001",
+        "S-195983001",
+        "S-21341004",
+        "S-266365004",
+        "S-266398009",
+        "S-278517007"
+      ],
+      "id": 19,
+      "meta_anns": {}
+    },
+    "20": {
+      "pretty_name": "Acne",
+      "cui": "C0702166",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "acne",
+      "detected_name": "acne",
+      "acc": 0.44472071257937557,
+      "context_similarity": 0.44472071257937557,
+      "start": 555,
+      "end": 559,
+      "icd10": [
+        {
+          "chapter": "L70",
+          "name": "Acne"
+        },
+        {
+          "chapter": "L70.9",
+          "name": "Acne, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-11381005",
+        "S-201229002",
+        "S-201408008"
+      ],
+      "id": 20,
+      "meta_anns": {}
+    },
+    "26": {
+      "pretty_name": "Tetanus",
+      "cui": "C0039614",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "TETANUS",
+      "detected_name": "tetanus",
+      "acc": 0.45755821782265416,
+      "context_similarity": 0.45755821782265416,
+      "start": 625,
+      "end": 632,
+      "icd10": [
+        {
+          "chapter": "A35",
+          "name": "Other tetanus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154312006",
+        "S-276202003",
+        "S-76902006"
+      ],
+      "id": 26,
+      "meta_anns": {}
+    },
+    "41": {
+      "pretty_name": "",
+      "cui": "C0743841",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "febrile illness",
+      "detected_name": "febrile~illness",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 815,
+      "end": 830,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-416113008"
+      ],
+      "id": 41,
+      "meta_anns": {}
+    },
+    "44": {
+      "pretty_name": "Paresthesia",
+      "cui": "C0030554",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "paresthesias",
+      "detected_name": "paresthesia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 879,
+      "end": 891,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-158228009",
+        "S-206857001",
+        "S-91019004"
+      ],
+      "id": 44,
+      "meta_anns": {}
+    },
+    "105": {
+      "pretty_name": "Communicable Diseases",
+      "cui": "C0009450",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "infection",
+      "detected_name": "infection",
+      "acc": 0.1411536330771988,
+      "context_similarity": 0.1411536330771988,
+      "start": 2548,
+      "end": 2557,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-189822004",
+        "S-190563008",
+        "S-191415002",
+        "S-266171003",
+        "S-35500006",
+        "S-367443006",
+        "S-40733004"
+      ],
+      "id": 105,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

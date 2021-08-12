@@ -1,0 +1,142 @@
+{
+  "entities": {
+    "3": {
+      "pretty_name": "Deglutition Disorders",
+      "cui": "C0011168",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "dysphagia",
+      "detected_name": "dysphagia",
+      "acc": 0.4933334771477726,
+      "context_similarity": 0.4933334771477726,
+      "start": 71,
+      "end": 80,
+      "icd10": [
+        {
+          "chapter": "R13",
+          "name": "Dysphagia"
+        },
+        {
+          "chapter": "R13.10",
+          "name": "Dysphagia, unspecified"
+        },
+        {
+          "chapter": "R13.1",
+          "name": "Dysphagia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139289002",
+        "S-158429003",
+        "S-158430008",
+        "S-158431007",
+        "S-162022009",
+        "S-207121004",
+        "S-207122006",
+        "S-207123001",
+        "S-288939007",
+        "S-40739000"
+      ],
+      "id": 3,
+      "meta_anns": {}
+    },
+    "39": {
+      "pretty_name": "Dental caries",
+      "cui": "C0011334",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cavity",
+      "detected_name": "cavity",
+      "acc": 0.2504351965965155,
+      "context_similarity": 0.2504351965965155,
+      "start": 1246,
+      "end": 1252,
+      "icd10": [
+        {
+          "chapter": "K02",
+          "name": "Dental caries"
+        },
+        {
+          "chapter": "K02.9",
+          "name": "Dental caries, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155632007",
+        "S-196307002",
+        "S-80967001"
+      ],
+      "id": 39,
+      "meta_anns": {}
+    },
+    "40": {
+      "pretty_name": "",
+      "cui": "C0267048",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lingual retraction",
+      "detected_name": "lingual~retraction",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1278,
+      "end": 1296,
+      "icd10": [
+        {
+          "chapter": "K14.8",
+          "name": "Other diseases of tongue"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-3639002"
+      ],
+      "id": 40,
+      "meta_anns": {}
+    },
+    "109": {
+      "pretty_name": "Dehydration",
+      "cui": "C0011175",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "dehydration",
+      "detected_name": "dehydration",
+      "acc": 0.495463105348671,
+      "context_similarity": 0.495463105348671,
+      "start": 3119,
+      "end": 3130,
+      "icd10": [
+        {
+          "chapter": "E86.0",
+          "name": "Dehydration"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154759001",
+        "S-34095006",
+        "S-37472003"
+      ],
+      "id": 109,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

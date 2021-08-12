@@ -1,0 +1,181 @@
+{
+  "entities": {
+    "12": {
+      "pretty_name": "Liver diseases",
+      "cui": "C0023895",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "liver",
+      "detected_name": "liver",
+      "acc": 0.9276348727606228,
+      "context_similarity": 0.9276348727606228,
+      "start": 62,
+      "end": 67,
+      "icd10": [
+        {
+          "chapter": "K70-K77.9",
+          "name": "Diseases of liver"
+        },
+        {
+          "chapter": "K76.9",
+          "name": "Liver disease, unspecified"
+        },
+        {
+          "chapter": "K70-K77",
+          "name": "Diseases of liver (K70-K77)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155807008",
+        "S-155817003",
+        "S-155822003",
+        "S-197375001",
+        "S-197551000",
+        "S-235856003",
+        "S-266535008",
+        "S-62857009"
+      ],
+      "id": 12,
+      "meta_anns": {}
+    },
+    "23": {
+      "pretty_name": "Liver diseases",
+      "cui": "C0023895",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "liver",
+      "detected_name": "liver",
+      "acc": 0.8895237060020509,
+      "context_similarity": 0.8895237060020509,
+      "start": 235,
+      "end": 240,
+      "icd10": [
+        {
+          "chapter": "K70-K77.9",
+          "name": "Diseases of liver"
+        },
+        {
+          "chapter": "K76.9",
+          "name": "Liver disease, unspecified"
+        },
+        {
+          "chapter": "K70-K77",
+          "name": "Diseases of liver (K70-K77)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155807008",
+        "S-155817003",
+        "S-155822003",
+        "S-197375001",
+        "S-197551000",
+        "S-235856003",
+        "S-266535008",
+        "S-62857009"
+      ],
+      "id": 23,
+      "meta_anns": {}
+    },
+    "48": {
+      "pretty_name": "Gall Bladder Diseases",
+      "cui": "C0016977",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "biliary disease",
+      "detected_name": "biliary~disease",
+      "acc": 0.285011878805243,
+      "context_similarity": 0.285011878805243,
+      "start": 843,
+      "end": 858,
+      "icd10": [
+        {
+          "chapter": "K82.9",
+          "name": "Disease of gallbladder, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155807008",
+        "S-155826000",
+        "S-155829007",
+        "S-266535008",
+        "S-266542008",
+        "S-266543003",
+        "S-39621005"
+      ],
+      "id": 48,
+      "meta_anns": {}
+    },
+    "50": {
+      "pretty_name": "",
+      "cui": "C0005416",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "biliary dyskinesia",
+      "detected_name": "biliary~dyskinesia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 977,
+      "end": 995,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-197432008",
+        "S-43469007"
+      ],
+      "id": 50,
+      "meta_anns": {}
+    },
+    "53": {
+      "pretty_name": "Gastritis",
+      "cui": "C0017152",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gastritis",
+      "detected_name": "gastritis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1094,
+      "end": 1103,
+      "icd10": [
+        {
+          "chapter": "K29.7",
+          "name": "Gastritis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155711008",
+        "S-196743006",
+        "S-235653009",
+        "S-266503008",
+        "S-4556007"
+      ],
+      "id": 53,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

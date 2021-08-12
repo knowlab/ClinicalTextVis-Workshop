@@ -1,0 +1,168 @@
+{
+  "entities": {
+    "8": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 255,
+      "end": 267,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 8,
+      "meta_anns": {}
+    },
+    "9": {
+      "pretty_name": "Transient Ischemic Attack",
+      "cui": "C0007787",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "TIA",
+      "detected_name": "tia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 272,
+      "end": 275,
+      "icd10": [
+        {
+          "chapter": "G45.9",
+          "name": "Transient cerebral ischaemic attack, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155404005",
+        "S-195196001",
+        "S-195207009",
+        "S-266257000",
+        "S-266314007",
+        "S-313242003",
+        "S-38609002"
+      ],
+      "id": 9,
+      "meta_anns": {}
+    },
+    "15": {
+      "pretty_name": "Gastroesophageal reflux disease",
+      "cui": "C0017168",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gastroesophageal reflux",
+      "detected_name": "gastroesophageal~reflux",
+      "acc": 0.5393772845393286,
+      "context_similarity": 0.5393772845393286,
+      "start": 332,
+      "end": 355,
+      "icd10": [
+        {
+          "chapter": "K21",
+          "name": "Gastro-oesophageal reflux disease"
+        },
+        {
+          "chapter": "K21.9",
+          "name": "Gastro-esophageal reflux disease without esophagitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-235595009",
+        "S-266498005",
+        "S-54856001"
+      ],
+      "id": 15,
+      "meta_anns": {}
+    },
+    "17": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disorder",
+      "detected_name": "disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 356,
+      "end": 364,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 17,
+      "meta_anns": {}
+    },
+    "91": {
+      "pretty_name": "Esophageal Diseases",
+      "cui": "C0014852",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "esophageal",
+      "detected_name": "esophageal",
+      "acc": 0.23779412277937362,
+      "context_similarity": 0.23779412277937362,
+      "start": 2687,
+      "end": 2697,
+      "icd10": [
+        {
+          "chapter": "K22.9",
+          "name": "Disease of oesophagus, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155671005",
+        "S-155680005",
+        "S-196626000",
+        "S-266497000",
+        "S-37657006"
+      ],
+      "id": 91,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

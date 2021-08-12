@@ -1,0 +1,127 @@
+{
+  "entities": {
+    "11": {
+      "pretty_name": "Old myocardial infarction",
+      "cui": "C0155668",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "previous myocardial infarctions",
+      "detected_name": "previous~myocardial~infarction",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 150,
+      "end": 181,
+      "icd10": [
+        {
+          "chapter": "I25.2",
+          "name": "Old myocardial infarction"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155306008",
+        "S-1755008",
+        "S-194827005"
+      ],
+      "id": 11,
+      "meta_anns": {}
+    },
+    "46": {
+      "pretty_name": "Myocardial Infarction",
+      "cui": "C0027051",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "myocardial infarction",
+      "detected_name": "myocardial~infarction",
+      "acc": 0.8339004492132608,
+      "context_similarity": 0.8339004492132608,
+      "start": 1010,
+      "end": 1031,
+      "icd10": [
+        {
+          "chapter": "I22",
+          "name": "Subsequent ST elevation (STEMI) and non-ST elevation (NSTEMI) myocardial infarction"
+        },
+        {
+          "chapter": "I21",
+          "name": "Acute myocardial infarction"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155304006",
+        "S-194796000",
+        "S-22298006",
+        "S-233824008",
+        "S-266288001",
+        "S-66514008"
+      ],
+      "id": 46,
+      "meta_anns": {}
+    },
+    "86": {
+      "pretty_name": "minor",
+      "cui": "C1446899",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "minor",
+      "detected_name": "minor",
+      "acc": 0.1890013965620625,
+      "context_similarity": 0.1890013965620625,
+      "start": 1999,
+      "end": 2004,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 86,
+      "meta_anns": {}
+    },
+    "134": {
+      "pretty_name": "Gastroesophageal reflux disease",
+      "cui": "C0017168",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "esophageal reflux",
+      "detected_name": "esophageal~reflux",
+      "acc": 0.24952505512077827,
+      "context_similarity": 0.24952505512077827,
+      "start": 3179,
+      "end": 3196,
+      "icd10": [
+        {
+          "chapter": "K21",
+          "name": "Gastro-oesophageal reflux disease"
+        },
+        {
+          "chapter": "K21.9",
+          "name": "Gastro-esophageal reflux disease without esophagitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-235595009",
+        "S-266498005",
+        "S-54856001"
+      ],
+      "id": 134,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

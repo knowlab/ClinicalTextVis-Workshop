@@ -1,0 +1,148 @@
+{
+  "entities": {
+    "29": {
+      "pretty_name": "Pneumocystis jiroveci pneumonia",
+      "cui": "C1535939",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "PCP",
+      "detected_name": "pcp",
+      "acc": 0.1819974577298463,
+      "context_similarity": 0.1819974577298463,
+      "start": 699,
+      "end": 702,
+      "icd10": [
+        {
+          "chapter": "B59",
+          "name": "Pneumocystosis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155557008",
+        "S-415125002",
+        "S-57541005",
+        "S-88860002"
+      ],
+      "id": 29,
+      "meta_anns": {}
+    },
+    "87": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "erythema",
+      "detected_name": "erythema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2444,
+      "end": 2452,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 87,
+      "meta_anns": {}
+    },
+    "90": {
+      "pretty_name": "",
+      "cui": "C0037580",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "soft-tissue swelling",
+      "detected_name": "soft~tissue~swelling",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2469,
+      "end": 2489,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-298349001"
+      ],
+      "id": 90,
+      "meta_anns": {}
+    },
+    "111": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "condition",
+      "detected_name": "condition",
+      "acc": 0.7391685529735241,
+      "context_similarity": 0.7391685529735241,
+      "start": 3056,
+      "end": 3065,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 111,
+      "meta_anns": {}
+    },
+    "112": {
+      "pretty_name": "Pneumocystis jiroveci pneumonia",
+      "cui": "C1535939",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "PCP",
+      "detected_name": "pcp",
+      "acc": 0.25235979570098316,
+      "context_similarity": 0.25235979570098316,
+      "start": 3077,
+      "end": 3080,
+      "icd10": [
+        {
+          "chapter": "B59",
+          "name": "Pneumocystosis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155557008",
+        "S-415125002",
+        "S-57541005",
+        "S-88860002"
+      ],
+      "id": 112,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

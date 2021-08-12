@@ -1,0 +1,568 @@
+{
+  "entities": {
+    "17": {
+      "pretty_name": "Cardiovascular Diseases",
+      "cui": "C0007222",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cardiovascular disease",
+      "detected_name": "cardiovascular~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 356,
+      "end": 378,
+      "icd10": [
+        {
+          "chapter": "I51.6",
+          "name": "Cardiovascular disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155263000",
+        "S-194707003",
+        "S-195139006",
+        "S-195594006",
+        "S-266275004",
+        "S-266336005",
+        "S-49601007"
+      ],
+      "id": 17,
+      "meta_anns": {}
+    },
+    "67": {
+      "pretty_name": "",
+      "cui": "C0745710",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "chronic leukopenia",
+      "detected_name": "chronic~leukopenia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2019,
+      "end": 2037,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 67,
+      "meta_anns": {}
+    },
+    "69": {
+      "pretty_name": "Hepatitis A",
+      "cui": "C0019159",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "a hepatitis",
+      "detected_name": "a~hepatitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2056,
+      "end": 2067,
+      "icd10": [
+        {
+          "chapter": "B19",
+          "name": "Unspecified viral hepatitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154347003",
+        "S-40468003"
+      ],
+      "id": 69,
+      "meta_anns": {}
+    },
+    "76": {
+      "pretty_name": "Disorder of eye",
+      "cui": "C0015397",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "eye",
+      "detected_name": "eye",
+      "acc": 0.586463600531238,
+      "context_similarity": 0.586463600531238,
+      "start": 2315,
+      "end": 2318,
+      "icd10": [
+        {
+          "chapter": "H44",
+          "name": "Disorders of globe"
+        },
+        {
+          "chapter": "H44.9",
+          "name": "Disorder of globe, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-111509007",
+        "S-155101007",
+        "S-155198005",
+        "S-193265001",
+        "S-193266000",
+        "S-193316008",
+        "S-194183009",
+        "S-264555006",
+        "S-366261005",
+        "S-371405004",
+        "S-371409005",
+        "S-79517001"
+      ],
+      "id": 76,
+      "meta_anns": {}
+    },
+    "103": {
+      "pretty_name": "Paresthesia",
+      "cui": "C0030554",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tingling",
+      "detected_name": "tingling",
+      "acc": 0.8092501237220353,
+      "context_similarity": 0.8092501237220353,
+      "start": 2778,
+      "end": 2786,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-158228009",
+        "S-206857001",
+        "S-91019004"
+      ],
+      "id": 103,
+      "meta_anns": {}
+    },
+    "113": {
+      "pretty_name": "Diabetes Mellitus, Insulin-Dependent",
+      "cui": "C0011854",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "type I diabetes",
+      "detected_name": "type~i~diabetes",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3031,
+      "end": 3046,
+      "icd10": [
+        {
+          "chapter": "E10",
+          "name": "Insulin-dependent diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154673001",
+        "S-190322003",
+        "S-190362004",
+        "S-267469001",
+        "S-46635009"
+      ],
+      "id": 113,
+      "meta_anns": {}
+    },
+    "116": {
+      "pretty_name": "Heart Diseases",
+      "cui": "C0018799",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "heart disease",
+      "detected_name": "heart~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3051,
+      "end": 3064,
+      "icd10": [
+        {
+          "chapter": "I51.9",
+          "name": "Heart disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155263000",
+        "S-194707003",
+        "S-195152001",
+        "S-266275004",
+        "S-266311004",
+        "S-56265001"
+      ],
+      "id": 116,
+      "meta_anns": {}
+    },
+    "119": {
+      "pretty_name": "Myocardial Infarction",
+      "cui": "C0027051",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "heart attack",
+      "detected_name": "heart~attack",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3093,
+      "end": 3105,
+      "icd10": [
+        {
+          "chapter": "I22",
+          "name": "Subsequent ST elevation (STEMI) and non-ST elevation (NSTEMI) myocardial infarction"
+        },
+        {
+          "chapter": "I21",
+          "name": "Acute myocardial infarction"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155304006",
+        "S-194796000",
+        "S-22298006",
+        "S-233824008",
+        "S-266288001",
+        "S-66514008"
+      ],
+      "id": 119,
+      "meta_anns": {}
+    },
+    "125": {
+      "pretty_name": "Leukopenia",
+      "cui": "C0023530",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "leukopenia",
+      "detected_name": "leukopenia",
+      "acc": 0.2536105083680359,
+      "context_similarity": 0.2536105083680359,
+      "start": 3174,
+      "end": 3184,
+      "icd10": [
+        {
+          "chapter": "D72.819",
+          "name": "Decreased white blood cell count, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-142917003",
+        "S-191348003",
+        "S-84828003"
+      ],
+      "id": 125,
+      "meta_anns": {}
+    },
+    "129": {
+      "pretty_name": "Irritable Bowel Syndrome",
+      "cui": "C0022104",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "irritable bowel syndrome",
+      "detected_name": "irritable~bowel~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3194,
+      "end": 3218,
+      "icd10": [
+        {
+          "chapter": "K58",
+          "name": "Irritable bowel syndrome"
+        },
+        {
+          "chapter": "K58.9",
+          "name": "Irritable bowel syndrome without diarrhea"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-10743008",
+        "S-155783000",
+        "S-192434000",
+        "S-197124009",
+        "S-266525002"
+      ],
+      "id": 129,
+      "meta_anns": {}
+    },
+    "153": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymphadenopathy",
+      "detected_name": "lymphadenopathy",
+      "acc": 0.8439759834057747,
+      "context_similarity": 0.8439759834057747,
+      "start": 3702,
+      "end": 3717,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 153,
+      "meta_anns": {}
+    },
+    "170": {
+      "pretty_name": "Desquamative interstitial pneumonia",
+      "cui": "C0238378",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "DIP",
+      "detected_name": "dip",
+      "acc": 0.15840060939767053,
+      "context_similarity": 0.15840060939767053,
+      "start": 4066,
+      "end": 4069,
+      "icd10": [
+        {
+          "chapter": "J84.117",
+          "name": "Desquamative interstitial pneumonia"
+        },
+        {
+          "chapter": "J84.115",
+          "name": "Respiratory bronchiolitis interstitial lung disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-8549006"
+      ],
+      "id": 170,
+      "meta_anns": {}
+    },
+    "174": {
+      "pretty_name": "",
+      "cui": "C0040262",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tinea versicolor",
+      "detected_name": "tinea~versicolor",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4134,
+      "end": 4150,
+      "icd10": [
+        {
+          "chapter": "B36.0",
+          "name": "Pityriasis versicolor"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154395007",
+        "S-56454009"
+      ],
+      "id": 174,
+      "meta_anns": {}
+    },
+    "221": {
+      "pretty_name": "",
+      "cui": "C0040262",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Tinea versicolor",
+      "detected_name": "tinea~versicolor",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 5351,
+      "end": 5367,
+      "icd10": [
+        {
+          "chapter": "B36.0",
+          "name": "Pityriasis versicolor"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154395007",
+        "S-56454009"
+      ],
+      "id": 221,
+      "meta_anns": {}
+    },
+    "226": {
+      "pretty_name": "Incontinence",
+      "cui": "C0021167",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "incontinence",
+      "detected_name": "incontinence",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 5572,
+      "end": 5584,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-48340000"
+      ],
+      "id": 226,
+      "meta_anns": {}
+    },
+    "229": {
+      "pretty_name": "Leukopenia",
+      "cui": "C0023530",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "leukopenia",
+      "detected_name": "leukopenia",
+      "acc": 0.3776990599774849,
+      "context_similarity": 0.3776990599774849,
+      "start": 5601,
+      "end": 5611,
+      "icd10": [
+        {
+          "chapter": "D72.819",
+          "name": "Decreased white blood cell count, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-142917003",
+        "S-191348003",
+        "S-84828003"
+      ],
+      "id": 229,
+      "meta_anns": {}
+    },
+    "233": {
+      "pretty_name": "Colonic Diseases",
+      "cui": "C0009373",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "colon",
+      "detected_name": "colon",
+      "acc": 0.6721772220929321,
+      "context_similarity": 0.6721772220929321,
+      "start": 5769,
+      "end": 5774,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-128524007"
+      ],
+      "id": 233,
+      "meta_anns": {}
+    },
+    "238": {
+      "pretty_name": "Gastroesophageal reflux disease",
+      "cui": "C0017168",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Gastroesophageal reflux disease",
+      "detected_name": "gastroesophageal~reflux~disease",
+      "acc": 0.8538892343765063,
+      "context_similarity": 0.8538892343765063,
+      "start": 5797,
+      "end": 5828,
+      "icd10": [
+        {
+          "chapter": "K21",
+          "name": "Gastro-oesophageal reflux disease"
+        },
+        {
+          "chapter": "K21.9",
+          "name": "Gastro-esophageal reflux disease without esophagitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-235595009",
+        "S-266498005",
+        "S-54856001"
+      ],
+      "id": 238,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

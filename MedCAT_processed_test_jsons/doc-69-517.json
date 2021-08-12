@@ -1,0 +1,280 @@
+{
+  "entities": {
+    "2": {
+      "pretty_name": "Supraglottitis",
+      "cui": "C0749165",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "supraglottitis",
+      "detected_name": "supraglottitis",
+      "acc": 0.6426031901238066,
+      "context_similarity": 0.6426031901238066,
+      "start": 121,
+      "end": 135,
+      "icd10": [
+        {
+          "chapter": "J04.3",
+          "name": "Supraglottitis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-709663002"
+      ],
+      "id": 2,
+      "meta_anns": {}
+    },
+    "4": {
+      "pretty_name": "",
+      "cui": "C0001883",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "airway obstruction",
+      "detected_name": "airway~obstruction",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 141,
+      "end": 159,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-68372009",
+        "S-79688008"
+      ],
+      "id": 4,
+      "meta_anns": {}
+    },
+    "7": {
+      "pretty_name": "",
+      "cui": "C0553656",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "peritonsillar cellulitis",
+      "detected_name": "peritonsillar~cellulitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 194,
+      "end": 218,
+      "icd10": [
+        {
+          "chapter": "J36",
+          "name": "Peritonsillar abscess"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-102453009",
+        "S-15033003"
+      ],
+      "id": 7,
+      "meta_anns": {}
+    },
+    "20": {
+      "pretty_name": "",
+      "cui": "C0587219",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tonsil cyst",
+      "detected_name": "tonsil~cyst",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 504,
+      "end": 515,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-195805005",
+        "S-309734000"
+      ],
+      "id": 20,
+      "meta_anns": {}
+    },
+    "28": {
+      "pretty_name": "Pharyngitis",
+      "cui": "C0031350",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pharyngitis",
+      "detected_name": "pharyngitis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 601,
+      "end": 612,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-141458004",
+        "S-164261009",
+        "S-37616004",
+        "S-405737000"
+      ],
+      "id": 28,
+      "meta_anns": {}
+    },
+    "31": {
+      "pretty_name": "Sleep Apnea, Obstructive",
+      "cui": "C0520679",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obstructive sleep apnea",
+      "detected_name": "obstructive~sleep~apnea",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 652,
+      "end": 675,
+      "icd10": [
+        {
+          "chapter": "G47.33",
+          "name": "Obstructive sleep apnea (adult) (pediatric)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-194441007",
+        "S-196167006",
+        "S-78275009"
+      ],
+      "id": 31,
+      "meta_anns": {}
+    },
+    "37": {
+      "pretty_name": "Hypercholesterolemia",
+      "cui": "C0020443",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypercholesterolemia",
+      "detected_name": "hypercholesterolemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 749,
+      "end": 769,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-13644009",
+        "S-154740003",
+        "S-267500001"
+      ],
+      "id": 37,
+      "meta_anns": {}
+    },
+    "43": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary artery disease",
+      "detected_name": "coronary~artery~disease",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 810,
+      "end": 833,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 43,
+      "meta_anns": {}
+    },
+    "46": {
+      "pretty_name": "Essential Hypertension",
+      "cui": "C0085580",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.6979066523582846,
+      "context_similarity": 0.6979066523582846,
+      "start": 839,
+      "end": 851,
+      "icd10": [
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155296003",
+        "S-194757006",
+        "S-194760004",
+        "S-266228004",
+        "S-59621000"
+      ],
+      "id": 46,
+      "meta_anns": {}
+    },
+    "52": {
+      "pretty_name": "Sleep Apnea, Obstructive",
+      "cui": "C0520679",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obstructive sleep apnea",
+      "detected_name": "obstructive~sleep~apnea",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1166,
+      "end": 1189,
+      "icd10": [
+        {
+          "chapter": "G47.33",
+          "name": "Obstructive sleep apnea (adult) (pediatric)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-194441007",
+        "S-196167006",
+        "S-78275009"
+      ],
+      "id": 52,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

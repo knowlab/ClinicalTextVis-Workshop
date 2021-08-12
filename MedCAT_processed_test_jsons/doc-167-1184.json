@@ -1,0 +1,172 @@
+{
+  "entities": {
+    "67": {
+      "pretty_name": "Radiculopathy",
+      "cui": "C0700594",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "radiculopathy",
+      "detected_name": "radiculopathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2189,
+      "end": 2202,
+      "icd10": [
+        {
+          "chapter": "M54.1",
+          "name": "Radiculopathy"
+        },
+        {
+          "chapter": "M54.10",
+          "name": "Radiculopathy, site unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-394640000",
+        "S-72274001"
+      ],
+      "id": 67,
+      "meta_anns": {}
+    },
+    "72": {
+      "pretty_name": "Radiculopathy",
+      "cui": "C0700594",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "radiculopathy",
+      "detected_name": "radiculopathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2271,
+      "end": 2284,
+      "icd10": [
+        {
+          "chapter": "M54.1",
+          "name": "Radiculopathy"
+        },
+        {
+          "chapter": "M54.10",
+          "name": "Radiculopathy, site unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-394640000",
+        "S-72274001"
+      ],
+      "id": 72,
+      "meta_anns": {}
+    },
+    "73": {
+      "pretty_name": "",
+      "cui": "C1335437",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "plexopathy",
+      "detected_name": "plexopathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2314,
+      "end": 2324,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 73,
+      "meta_anns": {}
+    },
+    "74": {
+      "pretty_name": "Myopathy",
+      "cui": "C0026848",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "myopathy",
+      "detected_name": "myopathy",
+      "acc": 0.8651707937028777,
+      "context_similarity": 0.8651707937028777,
+      "start": 2326,
+      "end": 2334,
+      "icd10": [
+        {
+          "chapter": "G72.9",
+          "name": "Myopathy, unspecified"
+        },
+        {
+          "chapter": "M60-M63.9",
+          "name": "Disorders of muscles"
+        },
+        {
+          "chapter": "M62.9",
+          "name": "Disorder of muscle, unspecified"
+        },
+        {
+          "chapter": "M60-M63",
+          "name": "Disorders of muscles (M60-M63)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-129565002",
+        "S-155094005",
+        "S-155099000",
+        "S-203833006",
+        "S-203845002",
+        "S-267711006",
+        "S-267714003",
+        "S-268103006",
+        "S-52794005",
+        "S-75047002"
+      ],
+      "id": 74,
+      "meta_anns": {}
+    },
+    "75": {
+      "pretty_name": "Peripheral Neuropathy",
+      "cui": "C0031117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "peripheral neuropathy",
+      "detected_name": "peripheral~neuropathy",
+      "acc": 0.17733329016747928,
+      "context_similarity": 0.17733329016747928,
+      "start": 2338,
+      "end": 2359,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155064004",
+        "S-155080009",
+        "S-155100008",
+        "S-193088006",
+        "S-193264002",
+        "S-264554005",
+        "S-267706009",
+        "S-302226006",
+        "S-42658009"
+      ],
+      "id": 75,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,138 @@
+{
+  "entities": {
+    "6": {
+      "pretty_name": "Anemia, Sickle Cell",
+      "cui": "C0002895",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "sickle cell anemia",
+      "detected_name": "sickle~cell~anemia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 68,
+      "end": 86,
+      "icd10": [
+        {
+          "chapter": "D57.1",
+          "name": "Sickle-cell disease without crisis"
+        },
+        {
+          "chapter": "D57",
+          "name": "Sickle-cell disorders"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-127040003",
+        "S-154798006",
+        "S-191194009",
+        "S-191195005",
+        "S-191199004",
+        "S-276267006",
+        "S-417357006",
+        "S-80046004"
+      ],
+      "id": 6,
+      "meta_anns": {}
+    },
+    "52": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.8272300571497804,
+      "context_similarity": 0.8272300571497804,
+      "start": 894,
+      "end": 902,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 52,
+      "meta_anns": {}
+    },
+    "53": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 904,
+      "end": 916,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 53,
+      "meta_anns": {}
+    },
+    "125": {
+      "pretty_name": "Discitis",
+      "cui": "C0012624",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diskitis",
+      "detected_name": "diskitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2935,
+      "end": 2943,
+      "icd10": [
+        {
+          "chapter": "M46.4",
+          "name": "Discitis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-2304001"
+      ],
+      "id": 125,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

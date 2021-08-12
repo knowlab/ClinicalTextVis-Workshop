@@ -1,0 +1,486 @@
+{
+  "entities": {
+    "22": {
+      "pretty_name": "Kidney Failure",
+      "cui": "C0035078",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "renal failure",
+      "detected_name": "renal~failure",
+      "acc": 0.5143480701343597,
+      "context_similarity": 0.5143480701343597,
+      "start": 555,
+      "end": 568,
+      "icd10": [
+        {
+          "chapter": "N17-N19.9",
+          "name": "Renal failure"
+        },
+        {
+          "chapter": "N19",
+          "name": "Unspecified renal failure"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156092003",
+        "S-197656003",
+        "S-198524000",
+        "S-266553002",
+        "S-266616000",
+        "S-42399005",
+        "S-723188008"
+      ],
+      "id": 22,
+      "meta_anns": {}
+    },
+    "29": {
+      "pretty_name": "",
+      "cui": "C1141920",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "shunt infection",
+      "detected_name": "shunt~infection",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 727,
+      "end": 742,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 29,
+      "meta_anns": {}
+    },
+    "56": {
+      "pretty_name": "Urticaria",
+      "cui": "C0042109",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "urticaria",
+      "detected_name": "urticaria",
+      "acc": 0.6754394862414134,
+      "context_similarity": 0.6754394862414134,
+      "start": 1232,
+      "end": 1241,
+      "icd10": [
+        {
+          "chapter": "L50",
+          "name": "Urticaria"
+        },
+        {
+          "chapter": "L50.9",
+          "name": "Urticaria, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-126485001",
+        "S-156427005",
+        "S-157756002",
+        "S-201272008",
+        "S-247472004",
+        "S-267818006",
+        "S-267868003",
+        "S-269433002",
+        "S-64305001"
+      ],
+      "id": 56,
+      "meta_anns": {}
+    },
+    "61": {
+      "pretty_name": "Kidney Failure",
+      "cui": "C0035078",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "renal failure",
+      "detected_name": "renal~failure",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1254,
+      "end": 1267,
+      "icd10": [
+        {
+          "chapter": "N17-N19.9",
+          "name": "Renal failure"
+        },
+        {
+          "chapter": "N19",
+          "name": "Unspecified renal failure"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156092003",
+        "S-197656003",
+        "S-198524000",
+        "S-266553002",
+        "S-266616000",
+        "S-42399005",
+        "S-723188008"
+      ],
+      "id": 61,
+      "meta_anns": {}
+    },
+    "62": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1273,
+      "end": 1285,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 62,
+      "meta_anns": {}
+    },
+    "66": {
+      "pretty_name": "Kidney Failure",
+      "cui": "C0035078",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "renal failure",
+      "detected_name": "renal~failure",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1305,
+      "end": 1318,
+      "icd10": [
+        {
+          "chapter": "N17-N19.9",
+          "name": "Renal failure"
+        },
+        {
+          "chapter": "N19",
+          "name": "Unspecified renal failure"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156092003",
+        "S-197656003",
+        "S-198524000",
+        "S-266553002",
+        "S-266616000",
+        "S-42399005",
+        "S-723188008"
+      ],
+      "id": 66,
+      "meta_anns": {}
+    },
+    "86": {
+      "pretty_name": "Heart Diseases",
+      "cui": "C0018799",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "heart disease",
+      "detected_name": "heart~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1491,
+      "end": 1504,
+      "icd10": [
+        {
+          "chapter": "I51.9",
+          "name": "Heart disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155263000",
+        "S-194707003",
+        "S-195152001",
+        "S-266275004",
+        "S-266311004",
+        "S-56265001"
+      ],
+      "id": 86,
+      "meta_anns": {}
+    },
+    "108": {
+      "pretty_name": "Thrombocytopenia",
+      "cui": "C0040034",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "thrombocytopenia",
+      "detected_name": "thrombocytopenia",
+      "acc": 0.2123693129288845,
+      "context_similarity": 0.2123693129288845,
+      "start": 1700,
+      "end": 1716,
+      "icd10": [
+        {
+          "chapter": "D69.6",
+          "name": "Thrombocytopenia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-142969008",
+        "S-154827000",
+        "S-165556002",
+        "S-191326009",
+        "S-302215000",
+        "S-415116008",
+        "S-70786006"
+      ],
+      "id": 108,
+      "meta_anns": {}
+    },
+    "150": {
+      "pretty_name": "Dental caries",
+      "cui": "C0011334",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cavities",
+      "detected_name": "cavity",
+      "acc": 0.1534305328677718,
+      "context_similarity": 0.1534305328677718,
+      "start": 2504,
+      "end": 2512,
+      "icd10": [
+        {
+          "chapter": "K02",
+          "name": "Dental caries"
+        },
+        {
+          "chapter": "K02.9",
+          "name": "Dental caries, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155632007",
+        "S-196307002",
+        "S-80967001"
+      ],
+      "id": 150,
+      "meta_anns": {}
+    },
+    "167": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adenopathy",
+      "detected_name": "adenopathy",
+      "acc": 0.9543551207398235,
+      "context_similarity": 0.9543551207398235,
+      "start": 2809,
+      "end": 2819,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 167,
+      "meta_anns": {}
+    },
+    "187": {
+      "pretty_name": "",
+      "cui": "C0413234",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Acute allergic reaction",
+      "detected_name": "acute~allergic~reaction",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3162,
+      "end": 3185,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-241929008"
+      ],
+      "id": 187,
+      "meta_anns": {}
+    },
+    "192": {
+      "pretty_name": "Kidney Failure",
+      "cui": "C0035078",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Renal failure",
+      "detected_name": "renal~failure",
+      "acc": 0.45263582399348873,
+      "context_similarity": 0.45263582399348873,
+      "start": 3243,
+      "end": 3256,
+      "icd10": [
+        {
+          "chapter": "N17-N19.9",
+          "name": "Renal failure"
+        },
+        {
+          "chapter": "N19",
+          "name": "Unspecified renal failure"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156092003",
+        "S-197656003",
+        "S-198524000",
+        "S-266553002",
+        "S-266616000",
+        "S-42399005",
+        "S-723188008"
+      ],
+      "id": 192,
+      "meta_anns": {}
+    },
+    "194": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.6233601132860283,
+      "context_similarity": 0.6233601132860283,
+      "start": 3281,
+      "end": 3293,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 194,
+      "meta_anns": {}
+    },
+    "216": {
+      "pretty_name": "",
+      "cui": "C0857035",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "acute anaphylaxis",
+      "detected_name": "acute~anaphylaxis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3951,
+      "end": 3968,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 216,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

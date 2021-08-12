@@ -1,0 +1,196 @@
+{
+  "entities": {
+    "29": {
+      "pretty_name": "Anorexia",
+      "cui": "C0003123",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "anorexia",
+      "detected_name": "anorexia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 529,
+      "end": 537,
+      "icd10": [
+        {
+          "chapter": "R63.0",
+          "name": "Anorexia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-158268008",
+        "S-158272007",
+        "S-206915006",
+        "S-206917003",
+        "S-79890006"
+      ],
+      "id": 29,
+      "meta_anns": {}
+    },
+    "32": {
+      "pretty_name": "Obstipation",
+      "cui": "C0221152",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obstipation",
+      "detected_name": "obstipation",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 576,
+      "end": 587,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-111360009"
+      ],
+      "id": 32,
+      "meta_anns": {}
+    },
+    "59": {
+      "pretty_name": "Atrial Fibrillation",
+      "cui": "C0004238",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "atrial fibrillation",
+      "detected_name": "atrial~fibrillation",
+      "acc": 0.8724929274432696,
+      "context_similarity": 0.8724929274432696,
+      "start": 957,
+      "end": 976,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155364009",
+        "S-266306001",
+        "S-49436004"
+      ],
+      "id": 59,
+      "meta_anns": {}
+    },
+    "76": {
+      "pretty_name": "Bladder prolapse",
+      "cui": "C0262393",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "bladder prolapse",
+      "detected_name": "bladder~prolapse",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1219,
+      "end": 1235,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 76,
+      "meta_anns": {}
+    },
+    "89": {
+      "pretty_name": "",
+      "cui": "C0743841",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "febrile illnesses",
+      "detected_name": "febrile~illness",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1495,
+      "end": 1512,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-416113008"
+      ],
+      "id": 89,
+      "meta_anns": {}
+    },
+    "127": {
+      "pretty_name": "Bladder prolapse",
+      "cui": "C0262393",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "bladder prolapse",
+      "detected_name": "bladder~prolapse",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2276,
+      "end": 2292,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 127,
+      "meta_anns": {}
+    },
+    "162": {
+      "pretty_name": "",
+      "cui": "C1997972",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "sigmoid diverticulitis",
+      "detected_name": "sigmoid~diverticulitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2845,
+      "end": 2867,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-427910000"
+      ],
+      "id": 162,
+      "meta_anns": {}
+    },
+    "166": {
+      "pretty_name": "",
+      "cui": "C1997972",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "sigmoid diverticulitis",
+      "detected_name": "sigmoid~diverticulitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2917,
+      "end": 2939,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-427910000"
+      ],
+      "id": 166,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,207 @@
+{
+  "entities": {
+    "6": {
+      "pretty_name": "Herpes zoster disease",
+      "cui": "C0019360",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "zoster",
+      "detected_name": "zoster",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 417,
+      "end": 423,
+      "icd10": [
+        {
+          "chapter": "B02",
+          "name": "Zoster [herpes zoster]"
+        },
+        {
+          "chapter": "B02.9",
+          "name": "Zoster without complications"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154326002",
+        "S-186514003",
+        "S-186533008",
+        "S-4740000"
+      ],
+      "id": 6,
+      "meta_anns": {}
+    },
+    "18": {
+      "pretty_name": "Cerebrovascular accident",
+      "cui": "C0038454",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "CVA",
+      "detected_name": "cva",
+      "acc": 0.5192882805831773,
+      "context_similarity": 0.5192882805831773,
+      "start": 810,
+      "end": 813,
+      "icd10": [
+        {
+          "chapter": "I64",
+          "name": "Stroke, not specified as haemorrhage or infarction"
+        },
+        {
+          "chapter": "I63.9",
+          "name": "Cerebral infarction, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155388006",
+        "S-155405006",
+        "S-195208004",
+        "S-230690007",
+        "S-266312006",
+        "S-266315008",
+        "S-270883006",
+        "S-313267000",
+        "S-82797006"
+      ],
+      "id": 18,
+      "meta_anns": {}
+    },
+    "30": {
+      "pretty_name": "",
+      "cui": "C0033860",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "psoriasis",
+      "detected_name": "psoriasis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1028,
+      "end": 1037,
+      "icd10": [
+        {
+          "chapter": "L40",
+          "name": "Psoriasis"
+        },
+        {
+          "chapter": "L40.9",
+          "name": "Psoriasis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156369008",
+        "S-156371008",
+        "S-200961000",
+        "S-200978009",
+        "S-267851002",
+        "S-9014002"
+      ],
+      "id": 30,
+      "meta_anns": {}
+    },
+    "31": {
+      "pretty_name": "",
+      "cui": "C0003872",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "psoriatic arthritis",
+      "detected_name": "psoriatic~arthritis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1048,
+      "end": 1067,
+      "icd10": [
+        {
+          "chapter": "L40.5",
+          "name": "Arthropathic psoriasis"
+        },
+        {
+          "chapter": "L40.50",
+          "name": "Arthropathic psoriasis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156370009",
+        "S-200959009",
+        "S-33339001"
+      ],
+      "id": 31,
+      "meta_anns": {}
+    },
+    "38": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "condition",
+      "detected_name": "condition",
+      "acc": 0.5205707210498967,
+      "context_similarity": 0.5205707210498967,
+      "start": 1252,
+      "end": 1261,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 38,
+      "meta_anns": {}
+    },
+    "42": {
+      "pretty_name": "Bone Cysts, Aneurysmal",
+      "cui": "C0152244",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ABC",
+      "detected_name": "abc",
+      "acc": 0.15236398683201152,
+      "context_similarity": 0.15236398683201152,
+      "start": 1412,
+      "end": 1415,
+      "icd10": [
+        {
+          "chapter": "M85.5",
+          "name": "Aneurysmal bone cyst"
+        },
+        {
+          "chapter": "M85.50",
+          "name": "Aneurysmal bone cyst, unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-203468000",
+        "S-76000001"
+      ],
+      "id": 42,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

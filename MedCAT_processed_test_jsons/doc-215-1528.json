@@ -1,0 +1,128 @@
+{
+  "entities": {
+    "3": {
+      "pretty_name": "Colitis",
+      "cui": "C0009319",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "colitis",
+      "detected_name": "colitis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 137,
+      "end": 144,
+      "icd10": [
+        {
+          "chapter": "K52.9",
+          "name": "Noninfective gastroenteritis and colitis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-64226004"
+      ],
+      "id": 3,
+      "meta_anns": {}
+    },
+    "12": {
+      "pretty_name": "",
+      "cui": "C0238047",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cecal volvulus",
+      "detected_name": "cecal~volvulus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 358,
+      "end": 372,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-235811005"
+      ],
+      "id": 12,
+      "meta_anns": {}
+    },
+    "19": {
+      "pretty_name": "",
+      "cui": "C0748607",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "recurrent seizures",
+      "detected_name": "recurrent~seizure",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 552,
+      "end": 570,
+      "icd10": [
+        {
+          "chapter": "G40.909",
+          "name": "Epilepsy, unspecified, not intractable, without status epilepticus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 19,
+      "meta_anns": {}
+    },
+    "51": {
+      "pretty_name": "",
+      "cui": "C0265034",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "internal hemorrhoids",
+      "detected_name": "internal~hemorrhoid",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1458,
+      "end": 1478,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-90458007"
+      ],
+      "id": 51,
+      "meta_anns": {}
+    },
+    "56": {
+      "pretty_name": "",
+      "cui": "C0265034",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "internal hemorrhoids",
+      "detected_name": "internal~hemorrhoid",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1570,
+      "end": 1590,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-90458007"
+      ],
+      "id": 56,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

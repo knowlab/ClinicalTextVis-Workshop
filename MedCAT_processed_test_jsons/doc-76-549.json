@@ -1,0 +1,295 @@
+{
+  "entities": {
+    "10": {
+      "pretty_name": "",
+      "cui": "C0014556",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "temporal lobe epilepsy",
+      "detected_name": "temporal~lobe~epilepsy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 233,
+      "end": 255,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155040000",
+        "S-193000002",
+        "S-84340007"
+      ],
+      "id": 10,
+      "meta_anns": {}
+    },
+    "13": {
+      "pretty_name": "Tonic - clonic seizures",
+      "cui": "C0494475",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "generalized tonic-clonic seizure",
+      "detected_name": "generalized~tonic~clonic~seizure",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 321,
+      "end": 353,
+      "icd10": [
+        {
+          "chapter": "G40.6",
+          "name": "Grand mal seizures, unspecified (with or without petit mal)"
+        },
+        {
+          "chapter": "G40.4",
+          "name": "Other generalized epilepsy and epileptic syndromes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-192995009",
+        "S-54200006",
+        "S-65155005"
+      ],
+      "id": 13,
+      "meta_anns": {}
+    },
+    "20": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 493,
+      "end": 497,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 20,
+      "meta_anns": {}
+    },
+    "33": {
+      "pretty_name": "",
+      "cui": "C0014556",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "temporal lobe epilepsy",
+      "detected_name": "temporal~lobe~epilepsy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1072,
+      "end": 1094,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155040000",
+        "S-193000002",
+        "S-84340007"
+      ],
+      "id": 33,
+      "meta_anns": {}
+    },
+    "39": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1210,
+      "end": 1214,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 39,
+      "meta_anns": {}
+    },
+    "54": {
+      "pretty_name": "Central Nervous System Infection",
+      "cui": "C0007684",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "CNS infection",
+      "detected_name": "cns~infection",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1477,
+      "end": 1490,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-128117002"
+      ],
+      "id": 54,
+      "meta_anns": {}
+    },
+    "58": {
+      "pretty_name": "Cerebrovascular accident",
+      "cui": "C0038454",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "CVA",
+      "detected_name": "cva",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1503,
+      "end": 1506,
+      "icd10": [
+        {
+          "chapter": "I64",
+          "name": "Stroke, not specified as haemorrhage or infarction"
+        },
+        {
+          "chapter": "I63.9",
+          "name": "Cerebral infarction, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155388006",
+        "S-155405006",
+        "S-195208004",
+        "S-230690007",
+        "S-266312006",
+        "S-266315008",
+        "S-270883006",
+        "S-313267000",
+        "S-82797006"
+      ],
+      "id": 58,
+      "meta_anns": {}
+    },
+    "61": {
+      "pretty_name": "Febrile Convulsions",
+      "cui": "C0009952",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "seizures, febrile",
+      "detected_name": "seizure~febrile",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1518,
+      "end": 1535,
+      "icd10": [
+        {
+          "chapter": "R56.0",
+          "name": "Febrile convulsions"
+        },
+        {
+          "chapter": "R56.00",
+          "name": "Simple febrile convulsions"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-140804007",
+        "S-158139003",
+        "S-206733006",
+        "S-269033007",
+        "S-323091004",
+        "S-41497008"
+      ],
+      "id": 61,
+      "meta_anns": {}
+    },
+    "78": {
+      "pretty_name": "",
+      "cui": "C0014556",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "temporal lobe epilepsy",
+      "detected_name": "temporal~lobe~epilepsy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1654,
+      "end": 1676,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155040000",
+        "S-193000002",
+        "S-84340007"
+      ],
+      "id": 78,
+      "meta_anns": {}
+    },
+    "170": {
+      "pretty_name": "",
+      "cui": "C0014556",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "temporal lobe epilepsy",
+      "detected_name": "temporal~lobe~epilepsy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3546,
+      "end": 3568,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155040000",
+        "S-193000002",
+        "S-84340007"
+      ],
+      "id": 170,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

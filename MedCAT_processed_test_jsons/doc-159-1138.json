@@ -1,0 +1,98 @@
+{
+  "entities": {
+    "3": {
+      "pretty_name": "",
+      "cui": "C0028734",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "nocturia",
+      "detected_name": "nocturia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 38,
+      "end": 46,
+      "icd10": [
+        {
+          "chapter": "R35.1",
+          "name": "Nocturia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139394000",
+        "S-158475006",
+        "S-207178007",
+        "S-6408001"
+      ],
+      "id": 3,
+      "meta_anns": {}
+    },
+    "35": {
+      "pretty_name": "",
+      "cui": "C0028734",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "nocturia",
+      "detected_name": "nocturia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 955,
+      "end": 963,
+      "icd10": [
+        {
+          "chapter": "R35.1",
+          "name": "Nocturia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139394000",
+        "S-158475006",
+        "S-207178007",
+        "S-6408001"
+      ],
+      "id": 35,
+      "meta_anns": {}
+    },
+    "46": {
+      "pretty_name": "",
+      "cui": "C0028734",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "nocturia",
+      "detected_name": "nocturia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1312,
+      "end": 1320,
+      "icd10": [
+        {
+          "chapter": "R35.1",
+          "name": "Nocturia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139394000",
+        "S-158475006",
+        "S-207178007",
+        "S-6408001"
+      ],
+      "id": 46,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

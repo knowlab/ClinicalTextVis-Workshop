@@ -1,0 +1,33 @@
+{
+  "entities": {
+    "25": {
+      "pretty_name": "Bronchopulmonary Dysplasia",
+      "cui": "C0006287",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "BPD",
+      "detected_name": "bpd",
+      "acc": 0.35275120709649344,
+      "context_similarity": 0.35275120709649344,
+      "start": 563,
+      "end": 566,
+      "icd10": [
+        {
+          "chapter": "P27.8",
+          "name": "Other chronic respiratory diseases originating in the perinatal period"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-67569000"
+      ],
+      "id": 25,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

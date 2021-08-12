@@ -1,0 +1,1566 @@
+{
+  "entities": {
+    "19": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1318,
+      "end": 1322,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 19,
+      "meta_anns": {}
+    },
+    "22": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1468,
+      "end": 1472,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 22,
+      "meta_anns": {}
+    },
+    "30": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1743,
+      "end": 1747,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 30,
+      "meta_anns": {}
+    },
+    "31": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1807,
+      "end": 1811,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 31,
+      "meta_anns": {}
+    },
+    "34": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1874,
+      "end": 1878,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 34,
+      "meta_anns": {}
+    },
+    "41": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.36628854398963245,
+      "context_similarity": 0.36628854398963245,
+      "start": 2021,
+      "end": 2029,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 41,
+      "meta_anns": {}
+    },
+    "42": {
+      "pretty_name": "Fibromyalgia",
+      "cui": "C0016053",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "fibromyalgia",
+      "detected_name": "fibromyalgia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2034,
+      "end": 2046,
+      "icd10": [
+        {
+          "chapter": "M79.7",
+          "name": "Fibromyalgia"
+        },
+        {
+          "chapter": "M79.1",
+          "name": "Myalgia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-1304004",
+        "S-13612005",
+        "S-156727006",
+        "S-203082005",
+        "S-203101004",
+        "S-203102006",
+        "S-203111006",
+        "S-203138004",
+        "S-24693007",
+        "S-247365004",
+        "S-268107007",
+        "S-56557000",
+        "S-726531007"
+      ],
+      "id": 42,
+      "meta_anns": {}
+    },
+    "43": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2135,
+      "end": 2139,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 43,
+      "meta_anns": {}
+    },
+    "46": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2405,
+      "end": 2409,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 46,
+      "meta_anns": {}
+    },
+    "56": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2978,
+      "end": 2982,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 56,
+      "meta_anns": {}
+    },
+    "74": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.3486394629919375,
+      "context_similarity": 0.3486394629919375,
+      "start": 3938,
+      "end": 3946,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 74,
+      "meta_anns": {}
+    },
+    "75": {
+      "pretty_name": "Malnutrition",
+      "cui": "C0162429",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "deficits",
+      "detected_name": "deficit",
+      "acc": 0.4046900330568668,
+      "context_similarity": 0.4046900330568668,
+      "start": 3961,
+      "end": 3969,
+      "icd10": [
+        {
+          "chapter": "E40-E46.9",
+          "name": "Malnutrition"
+        },
+        {
+          "chapter": "E63.9",
+          "name": "Nutritional deficiency, unspecified"
+        },
+        {
+          "chapter": "E40-E46",
+          "name": "Malnutrition (E40-E46)"
+        },
+        {
+          "chapter": "E46",
+          "name": "Unspecified protein-calorie malnutrition"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154722002",
+        "S-154730001",
+        "S-190595009",
+        "S-190608007",
+        "S-190678008",
+        "S-238106006",
+        "S-248325000",
+        "S-2492009",
+        "S-267409003",
+        "S-267495004",
+        "S-302868002",
+        "S-47563007",
+        "S-65404009",
+        "S-70241007"
+      ],
+      "id": 75,
+      "meta_anns": {}
+    },
+    "76": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.4278453545996285,
+      "context_similarity": 0.4278453545996285,
+      "start": 4000,
+      "end": 4008,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 76,
+      "meta_anns": {}
+    },
+    "79": {
+      "pretty_name": "Peripheral Neuropathy",
+      "cui": "C0031117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "peripheral neuropathy",
+      "detected_name": "peripheral~neuropathy",
+      "acc": 0.7830996155826695,
+      "context_similarity": 0.7830996155826695,
+      "start": 4052,
+      "end": 4073,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155064004",
+        "S-155080009",
+        "S-155100008",
+        "S-193088006",
+        "S-193264002",
+        "S-264554005",
+        "S-267706009",
+        "S-302226006",
+        "S-42658009"
+      ],
+      "id": 79,
+      "meta_anns": {}
+    },
+    "81": {
+      "pretty_name": "Malnutrition",
+      "cui": "C0162429",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "deficits",
+      "detected_name": "deficit",
+      "acc": 0.23084802767030177,
+      "context_similarity": 0.23084802767030177,
+      "start": 4089,
+      "end": 4097,
+      "icd10": [
+        {
+          "chapter": "E40-E46.9",
+          "name": "Malnutrition"
+        },
+        {
+          "chapter": "E63.9",
+          "name": "Nutritional deficiency, unspecified"
+        },
+        {
+          "chapter": "E40-E46",
+          "name": "Malnutrition (E40-E46)"
+        },
+        {
+          "chapter": "E46",
+          "name": "Unspecified protein-calorie malnutrition"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154722002",
+        "S-154730001",
+        "S-190595009",
+        "S-190608007",
+        "S-190678008",
+        "S-238106006",
+        "S-248325000",
+        "S-2492009",
+        "S-267409003",
+        "S-267495004",
+        "S-302868002",
+        "S-47563007",
+        "S-65404009",
+        "S-70241007"
+      ],
+      "id": 81,
+      "meta_anns": {}
+    },
+    "125": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 5919,
+      "end": 5923,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 125,
+      "meta_anns": {}
+    },
+    "126": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 6147,
+      "end": 6151,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 126,
+      "meta_anns": {}
+    },
+    "127": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 6256,
+      "end": 6260,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 127,
+      "meta_anns": {}
+    },
+    "133": {
+      "pretty_name": "Chronic Fatigue Syndrome",
+      "cui": "C0015674",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "chronic fatigue syndrome",
+      "detected_name": "chronic~fatigue~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 6642,
+      "end": 6666,
+      "icd10": [
+        {
+          "chapter": "G93.3",
+          "name": "Postviral fatigue syndrome"
+        },
+        {
+          "chapter": "R53.82",
+          "name": "Chronic fatigue, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154989001",
+        "S-154991009",
+        "S-155062000",
+        "S-192735003",
+        "S-193054000",
+        "S-247372003",
+        "S-267683005",
+        "S-267684004",
+        "S-271798008",
+        "S-51771007",
+        "S-52702003"
+      ],
+      "id": 133,
+      "meta_anns": {}
+    },
+    "141": {
+      "pretty_name": "Fibromyalgia",
+      "cui": "C0016053",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "fibromyalgia",
+      "detected_name": "fibromyalgia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 6771,
+      "end": 6783,
+      "icd10": [
+        {
+          "chapter": "M79.7",
+          "name": "Fibromyalgia"
+        },
+        {
+          "chapter": "M79.1",
+          "name": "Myalgia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-1304004",
+        "S-13612005",
+        "S-156727006",
+        "S-203082005",
+        "S-203101004",
+        "S-203102006",
+        "S-203111006",
+        "S-203138004",
+        "S-24693007",
+        "S-247365004",
+        "S-268107007",
+        "S-56557000",
+        "S-726531007"
+      ],
+      "id": 141,
+      "meta_anns": {}
+    },
+    "143": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 6870,
+      "end": 6874,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 143,
+      "meta_anns": {}
+    },
+    "155": {
+      "pretty_name": "Fibromyalgia",
+      "cui": "C0016053",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "fibromyalgia",
+      "detected_name": "fibromyalgia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 7240,
+      "end": 7252,
+      "icd10": [
+        {
+          "chapter": "M79.7",
+          "name": "Fibromyalgia"
+        },
+        {
+          "chapter": "M79.1",
+          "name": "Myalgia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-1304004",
+        "S-13612005",
+        "S-156727006",
+        "S-203082005",
+        "S-203101004",
+        "S-203102006",
+        "S-203111006",
+        "S-203138004",
+        "S-24693007",
+        "S-247365004",
+        "S-268107007",
+        "S-56557000",
+        "S-726531007"
+      ],
+      "id": 155,
+      "meta_anns": {}
+    },
+    "156": {
+      "pretty_name": "Degenerative polyarthritis",
+      "cui": "C0029408",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "osteoarthritis",
+      "detected_name": "osteoarthritis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 7257,
+      "end": 7271,
+      "icd10": [
+        {
+          "chapter": "M15-M19",
+          "name": "Osteoarthritis (M15-M19)"
+        },
+        {
+          "chapter": "M19.9",
+          "name": "Osteoarthritis, unspecified site"
+        },
+        {
+          "chapter": "M19.90",
+          "name": "Unspecified osteoarthritis, unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156486003",
+        "S-156496007",
+        "S-201818008",
+        "S-201886002",
+        "S-201887006",
+        "S-201917002",
+        "S-224729007",
+        "S-225655006",
+        "S-226586002",
+        "S-227588009",
+        "S-267888004",
+        "S-267893001",
+        "S-396275006",
+        "S-80843008"
+      ],
+      "id": 156,
+      "meta_anns": {}
+    },
+    "157": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 7278,
+      "end": 7282,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 157,
+      "meta_anns": {}
+    },
+    "161": {
+      "pretty_name": "Fibromyalgia",
+      "cui": "C0016053",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "fibromyalgia",
+      "detected_name": "fibromyalgia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 7424,
+      "end": 7436,
+      "icd10": [
+        {
+          "chapter": "M79.7",
+          "name": "Fibromyalgia"
+        },
+        {
+          "chapter": "M79.1",
+          "name": "Myalgia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-1304004",
+        "S-13612005",
+        "S-156727006",
+        "S-203082005",
+        "S-203101004",
+        "S-203102006",
+        "S-203111006",
+        "S-203138004",
+        "S-24693007",
+        "S-247365004",
+        "S-268107007",
+        "S-56557000",
+        "S-726531007"
+      ],
+      "id": 161,
+      "meta_anns": {}
+    },
+    "172": {
+      "pretty_name": "Fibromyalgia",
+      "cui": "C0016053",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "fibromyalgia",
+      "detected_name": "fibromyalgia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 7712,
+      "end": 7724,
+      "icd10": [
+        {
+          "chapter": "M79.7",
+          "name": "Fibromyalgia"
+        },
+        {
+          "chapter": "M79.1",
+          "name": "Myalgia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-1304004",
+        "S-13612005",
+        "S-156727006",
+        "S-203082005",
+        "S-203101004",
+        "S-203102006",
+        "S-203111006",
+        "S-203138004",
+        "S-24693007",
+        "S-247365004",
+        "S-268107007",
+        "S-56557000",
+        "S-726531007"
+      ],
+      "id": 172,
+      "meta_anns": {}
+    },
+    "183": {
+      "pretty_name": "Tendinopathy",
+      "cui": "C1568272",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tendinopathy",
+      "detected_name": "tendinopathy",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 8089,
+      "end": 8101,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 183,
+      "meta_anns": {}
+    },
+    "185": {
+      "pretty_name": "Chronic Fatigue Syndrome",
+      "cui": "C0015674",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "chronic fatigue syndrome",
+      "detected_name": "chronic~fatigue~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 8176,
+      "end": 8200,
+      "icd10": [
+        {
+          "chapter": "G93.3",
+          "name": "Postviral fatigue syndrome"
+        },
+        {
+          "chapter": "R53.82",
+          "name": "Chronic fatigue, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154989001",
+        "S-154991009",
+        "S-155062000",
+        "S-192735003",
+        "S-193054000",
+        "S-247372003",
+        "S-267683005",
+        "S-267684004",
+        "S-271798008",
+        "S-51771007",
+        "S-52702003"
+      ],
+      "id": 185,
+      "meta_anns": {}
+    },
+    "189": {
+      "pretty_name": "Fibromyalgia",
+      "cui": "C0016053",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "fibromyalgia",
+      "detected_name": "fibromyalgia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 8274,
+      "end": 8286,
+      "icd10": [
+        {
+          "chapter": "M79.7",
+          "name": "Fibromyalgia"
+        },
+        {
+          "chapter": "M79.1",
+          "name": "Myalgia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-1304004",
+        "S-13612005",
+        "S-156727006",
+        "S-203082005",
+        "S-203101004",
+        "S-203102006",
+        "S-203111006",
+        "S-203138004",
+        "S-24693007",
+        "S-247365004",
+        "S-268107007",
+        "S-56557000",
+        "S-726531007"
+      ],
+      "id": 189,
+      "meta_anns": {}
+    },
+    "190": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 8291,
+      "end": 8295,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 190,
+      "meta_anns": {}
+    },
+    "194": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.31080574148693174,
+      "context_similarity": 0.31080574148693174,
+      "start": 8353,
+      "end": 8361,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 194,
+      "meta_anns": {}
+    },
+    "196": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "high blood pressure",
+      "detected_name": "high~blood~pressure",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 8363,
+      "end": 8382,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 196,
+      "meta_anns": {}
+    },
+    "200": {
+      "pretty_name": "Degenerative polyarthritis",
+      "cui": "C0029408",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "osteoarthritis",
+      "detected_name": "osteoarthritis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 8384,
+      "end": 8398,
+      "icd10": [
+        {
+          "chapter": "M15-M19",
+          "name": "Osteoarthritis (M15-M19)"
+        },
+        {
+          "chapter": "M19.9",
+          "name": "Osteoarthritis, unspecified site"
+        },
+        {
+          "chapter": "M19.90",
+          "name": "Unspecified osteoarthritis, unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156486003",
+        "S-156496007",
+        "S-201818008",
+        "S-201886002",
+        "S-201887006",
+        "S-201917002",
+        "S-224729007",
+        "S-225655006",
+        "S-226586002",
+        "S-227588009",
+        "S-267888004",
+        "S-267893001",
+        "S-396275006",
+        "S-80843008"
+      ],
+      "id": 200,
+      "meta_anns": {}
+    },
+    "202": {
+      "pretty_name": "Tension Headache",
+      "cui": "C0033893",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tension headaches",
+      "detected_name": "tension~headache",
+      "acc": 0.7270513841283404,
+      "context_similarity": 0.7270513841283404,
+      "start": 8400,
+      "end": 8417,
+      "icd10": [
+        {
+          "chapter": "G44.2",
+          "name": "Tension-type headache"
+        },
+        {
+          "chapter": "G44.20",
+          "name": "Tension-type headache, unspecified"
+        },
+        {
+          "chapter": "G44.209",
+          "name": "Tension-type headache, unspecified, not intractable"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154931007",
+        "S-192028000",
+        "S-193035000",
+        "S-230469006",
+        "S-398057008",
+        "S-66551002"
+      ],
+      "id": 202,
+      "meta_anns": {}
+    },
+    "204": {
+      "pretty_name": "Gastroesophageal reflux disease",
+      "cui": "C0017168",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "GERD",
+      "detected_name": "gerd",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 8419,
+      "end": 8423,
+      "icd10": [
+        {
+          "chapter": "K21",
+          "name": "Gastro-oesophageal reflux disease"
+        },
+        {
+          "chapter": "K21.9",
+          "name": "Gastro-esophageal reflux disease without esophagitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-235595009",
+        "S-266498005",
+        "S-54856001"
+      ],
+      "id": 204,
+      "meta_anns": {}
+    },
+    "205": {
+      "pretty_name": "Carpal Tunnel Syndrome",
+      "cui": "C0007286",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "carpal tunnel",
+      "detected_name": "carpal~tunnel",
+      "acc": 0.9695666220648504,
+      "context_similarity": 0.9695666220648504,
+      "start": 8425,
+      "end": 8438,
+      "icd10": [
+        {
+          "chapter": "G56.0",
+          "name": "Carpal tunnel syndrome"
+        },
+        {
+          "chapter": "G56.00",
+          "name": "Carpal tunnel syndrome, unspecified upper limb"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155073007",
+        "S-193126005",
+        "S-246611002",
+        "S-57406009"
+      ],
+      "id": 205,
+      "meta_anns": {}
+    },
+    "206": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease",
+      "detected_name": "disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 8439,
+      "end": 8446,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 206,
+      "meta_anns": {}
+    },
+    "256": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.30585738085628134,
+      "context_similarity": 0.30585738085628134,
+      "start": 9473,
+      "end": 9481,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 256,
+      "meta_anns": {}
+    },
+    "265": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.7479737753207231,
+      "context_similarity": 0.7479737753207231,
+      "start": 9679,
+      "end": 9687,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 265,
+      "meta_anns": {}
+    },
+    "268": {
+      "pretty_name": "",
+      "cui": "C0152105",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "heart disease, hypertension",
+      "detected_name": "heart~disease~hypertension",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 9689,
+      "end": 9716,
+      "icd10": [
+        {
+          "chapter": "I11",
+          "name": "Hypertensive heart disease"
+        },
+        {
+          "chapter": "I11.9",
+          "name": "Hypertensive heart disease without heart failure"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155297007",
+        "S-194769003",
+        "S-194772005",
+        "S-64715009"
+      ],
+      "id": 268,
+      "meta_anns": {}
+    },
+    "271": {
+      "pretty_name": "Thyroid Diseases",
+      "cui": "C0040128",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "thyroid",
+      "detected_name": "thyroid",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 9718,
+      "end": 9725,
+      "icd10": [
+        {
+          "chapter": "E00-E07.9",
+          "name": "Disorders of thyroid gland"
+        },
+        {
+          "chapter": "E07.9",
+          "name": "Disorder of thyroid, unspecified"
+        },
+        {
+          "chapter": "E00-E07",
+          "name": "Disorders of thyroid gland (E00-E07)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-14304000",
+        "S-154649009",
+        "S-190232008",
+        "S-190311002",
+        "S-191036006"
+      ],
+      "id": 271,
+      "meta_anns": {}
+    },
+    "274": {
+      "pretty_name": "Sarcoidosis",
+      "cui": "C0036202",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "sarcoidosis",
+      "detected_name": "sarcoidosis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 9736,
+      "end": 9747,
+      "icd10": [
+        {
+          "chapter": "D86",
+          "name": "Sarcoidosis"
+        },
+        {
+          "chapter": "D86.9",
+          "name": "Sarcoidosis, unspecified"
+        },
+        {
+          "chapter": "D80-D89",
+          "name": "Certain disorders involving the immune mechanism (D80-D89)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154425004",
+        "S-31541009"
+      ],
+      "id": 274,
+      "meta_anns": {}
+    },
+    "276": {
+      "pretty_name": "Multiple Sclerosis",
+      "cui": "C0026769",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "multiple sclerosis",
+      "detected_name": "multiple~sclerosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 9762,
+      "end": 9780,
+      "icd10": [
+        {
+          "chapter": "G35",
+          "name": "Multiple sclerosis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155023009",
+        "S-192928003",
+        "S-192930001",
+        "S-24700007"
+      ],
+      "id": 276,
+      "meta_anns": {}
+    },
+    "294": {
+      "pretty_name": "",
+      "cui": "C0001339",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "acute pancreatitis",
+      "detected_name": "acute~pancreatitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 10143,
+      "end": 10161,
+      "icd10": [
+        {
+          "chapter": "K85",
+          "name": "Acute pancreatitis"
+        },
+        {
+          "chapter": "K85.9",
+          "name": "Acute pancreatitis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155834006",
+        "S-197456007",
+        "S-197457003",
+        "S-197461009",
+        "S-266476001",
+        "S-39726008"
+      ],
+      "id": 294,
+      "meta_anns": {}
+    },
+    "304": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 10481,
+      "end": 10485,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 304,
+      "meta_anns": {}
+    },
+    "333": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 11664,
+      "end": 11668,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 333,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

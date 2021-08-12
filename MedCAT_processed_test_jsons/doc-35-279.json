@@ -1,0 +1,137 @@
+{
+  "entities": {
+    "2": {
+      "pretty_name": "Gestational Diabetes",
+      "cui": "C0085207",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes during pregnancy",
+      "detected_name": "diabetes~during~pregnancy",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 82,
+      "end": 107,
+      "icd10": [
+        {
+          "chapter": "O24.4",
+          "name": "Diabetes mellitus arising in pregnancy"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-11687002",
+        "S-199232003",
+        "S-237629002",
+        "S-359964007",
+        "S-393568003"
+      ],
+      "id": 2,
+      "meta_anns": {}
+    },
+    "4": {
+      "pretty_name": "Gestational Diabetes",
+      "cui": "C0085207",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gestational diabetes",
+      "detected_name": "gestational~diabete",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 139,
+      "end": 159,
+      "icd10": [
+        {
+          "chapter": "O24.4",
+          "name": "Diabetes mellitus arising in pregnancy"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-11687002",
+        "S-199232003",
+        "S-237629002",
+        "S-359964007",
+        "S-393568003"
+      ],
+      "id": 4,
+      "meta_anns": {}
+    },
+    "34": {
+      "pretty_name": "Gestational Diabetes",
+      "cui": "C0085207",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gestational diabetes",
+      "detected_name": "gestational~diabete",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1267,
+      "end": 1287,
+      "icd10": [
+        {
+          "chapter": "O24.4",
+          "name": "Diabetes mellitus arising in pregnancy"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-11687002",
+        "S-199232003",
+        "S-237629002",
+        "S-359964007",
+        "S-393568003"
+      ],
+      "id": 34,
+      "meta_anns": {}
+    },
+    "72": {
+      "pretty_name": "Hyperglycemia",
+      "cui": "C0020456",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "elevated blood sugars",
+      "detected_name": "elevated~blood~sugar",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2344,
+      "end": 2365,
+      "icd10": [
+        {
+          "chapter": "R73.9",
+          "name": "Hyperglycaemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-144187006",
+        "S-154719004",
+        "S-207289007",
+        "S-207643008",
+        "S-237598005",
+        "S-270004003",
+        "S-315299009",
+        "S-390730002",
+        "S-80394007"
+      ],
+      "id": 72,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

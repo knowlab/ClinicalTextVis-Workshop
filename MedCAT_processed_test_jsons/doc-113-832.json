@@ -1,0 +1,155 @@
+{
+  "entities": {
+    "6": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disorder",
+      "detected_name": "disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 129,
+      "end": 137,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 6,
+      "meta_anns": {}
+    },
+    "55": {
+      "pretty_name": "Intervertebral Disk Displacement",
+      "cui": "C0021818",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "herniated disc",
+      "detected_name": "herniated~disc",
+      "acc": 0.21098435574044236,
+      "context_similarity": 0.21098435574044236,
+      "start": 2229,
+      "end": 2243,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-202705008",
+        "S-73589001"
+      ],
+      "id": 55,
+      "meta_anns": {}
+    },
+    "70": {
+      "pretty_name": "Intervertebral Disk Displacement",
+      "cui": "C0021818",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "herniated disc",
+      "detected_name": "herniated~disc",
+      "acc": 0.25392815820842063,
+      "context_similarity": 0.25392815820842063,
+      "start": 2670,
+      "end": 2684,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-202705008",
+        "S-73589001"
+      ],
+      "id": 70,
+      "meta_anns": {}
+    },
+    "76": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2752,
+      "end": 2756,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 76,
+      "meta_anns": {}
+    },
+    "123": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4164,
+      "end": 4168,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 123,
+      "meta_anns": {}
+    },
+    "135": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disorder",
+      "detected_name": "disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4984,
+      "end": 4992,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 135,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

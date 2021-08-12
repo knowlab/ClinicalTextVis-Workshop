@@ -1,0 +1,725 @@
+{
+  "entities": {
+    "8": {
+      "pretty_name": "Cardiac Arrest",
+      "cui": "C0018790",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "arrested",
+      "detected_name": "arrested",
+      "acc": 0.6088809492825202,
+      "context_similarity": 0.6088809492825202,
+      "start": 187,
+      "end": 195,
+      "icd10": [
+        {
+          "chapter": "I46",
+          "name": "Cardiac arrest"
+        },
+        {
+          "chapter": "I46.9",
+          "name": "Cardiac arrest, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155372006",
+        "S-195085006",
+        "S-195090009",
+        "S-251189000",
+        "S-30298009",
+        "S-309810002",
+        "S-397829000",
+        "S-397912004",
+        "S-410429000"
+      ],
+      "id": 8,
+      "meta_anns": {}
+    },
+    "16": {
+      "pretty_name": "Acquired Immunodeficiency Syndrome",
+      "cui": "C0001175",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "AIDS",
+      "detected_name": "aids",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 434,
+      "end": 438,
+      "icd10": [
+        {
+          "chapter": "B20",
+          "name": "Human immunodeficiency virus [HIV] disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-186705005",
+        "S-186715004",
+        "S-234644008",
+        "S-266201009",
+        "S-62479008"
+      ],
+      "id": 16,
+      "meta_anns": {}
+    },
+    "19": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "condition",
+      "detected_name": "condition",
+      "acc": 0.5285735446063666,
+      "context_similarity": 0.5285735446063666,
+      "start": 578,
+      "end": 587,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 19,
+      "meta_anns": {}
+    },
+    "27": {
+      "pretty_name": "Cardiac Arrest",
+      "cui": "C0018790",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "arrested",
+      "detected_name": "arrested",
+      "acc": 0.39816106827879094,
+      "context_similarity": 0.39816106827879094,
+      "start": 1018,
+      "end": 1026,
+      "icd10": [
+        {
+          "chapter": "I46",
+          "name": "Cardiac arrest"
+        },
+        {
+          "chapter": "I46.9",
+          "name": "Cardiac arrest, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155372006",
+        "S-195085006",
+        "S-195090009",
+        "S-251189000",
+        "S-30298009",
+        "S-309810002",
+        "S-397829000",
+        "S-397912004",
+        "S-410429000"
+      ],
+      "id": 27,
+      "meta_anns": {}
+    },
+    "53": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "conditions",
+      "detected_name": "condition",
+      "acc": 0.8074334092820894,
+      "context_similarity": 0.8074334092820894,
+      "start": 2781,
+      "end": 2791,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 53,
+      "meta_anns": {}
+    },
+    "56": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "condition",
+      "detected_name": "condition",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2964,
+      "end": 2973,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 56,
+      "meta_anns": {}
+    },
+    "75": {
+      "pretty_name": "Acquired Immunodeficiency Syndrome",
+      "cui": "C0001175",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "AIDS",
+      "detected_name": "aids",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3810,
+      "end": 3814,
+      "icd10": [
+        {
+          "chapter": "B20",
+          "name": "Human immunodeficiency virus [HIV] disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-186705005",
+        "S-186715004",
+        "S-234644008",
+        "S-266201009",
+        "S-62479008"
+      ],
+      "id": 75,
+      "meta_anns": {}
+    },
+    "83": {
+      "pretty_name": "Acquired Immunodeficiency Syndrome",
+      "cui": "C0001175",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "AIDS",
+      "detected_name": "aids",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4158,
+      "end": 4162,
+      "icd10": [
+        {
+          "chapter": "B20",
+          "name": "Human immunodeficiency virus [HIV] disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-186705005",
+        "S-186715004",
+        "S-234644008",
+        "S-266201009",
+        "S-62479008"
+      ],
+      "id": 83,
+      "meta_anns": {}
+    },
+    "85": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "conditions",
+      "detected_name": "condition",
+      "acc": 0.8612723047824654,
+      "context_similarity": 0.8612723047824654,
+      "start": 4171,
+      "end": 4181,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 85,
+      "meta_anns": {}
+    },
+    "86": {
+      "pretty_name": "Candidiasis",
+      "cui": "C0006840",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Thrush",
+      "detected_name": "thrush",
+      "acc": 0.12748060460394453,
+      "context_similarity": 0.12748060460394453,
+      "start": 4217,
+      "end": 4223,
+      "icd10": [
+        {
+          "chapter": "B37",
+          "name": "Candidiasis"
+        },
+        {
+          "chapter": "B37.9",
+          "name": "Candidiasis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154403005",
+        "S-187005005",
+        "S-187024008",
+        "S-187478002",
+        "S-78048006"
+      ],
+      "id": 86,
+      "meta_anns": {}
+    },
+    "88": {
+      "pretty_name": "",
+      "cui": "C0037284",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "skin lesions",
+      "detected_name": "skin~lesion",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4225,
+      "end": 4237,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-156439002",
+        "S-201342000",
+        "S-201344004",
+        "S-95324001"
+      ],
+      "id": 88,
+      "meta_anns": {}
+    },
+    "132": {
+      "pretty_name": "Tardive Dyskinesia",
+      "cui": "C0686347",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tardive dyskinesia",
+      "detected_name": "tardive~dyskinesia",
+      "acc": 0.7289721265336457,
+      "context_similarity": 0.7289721265336457,
+      "start": 5454,
+      "end": 5472,
+      "icd10": [
+        {
+          "chapter": "G24.01",
+          "name": "Drug induced subacute dyskinesia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-123304005",
+        "S-155007009",
+        "S-192861006",
+        "S-267689009",
+        "S-38941006"
+      ],
+      "id": 132,
+      "meta_anns": {}
+    },
+    "164": {
+      "pretty_name": "Acquired Immunodeficiency Syndrome",
+      "cui": "C0001175",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "AIDS",
+      "detected_name": "aids",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 6451,
+      "end": 6455,
+      "icd10": [
+        {
+          "chapter": "B20",
+          "name": "Human immunodeficiency virus [HIV] disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-186705005",
+        "S-186715004",
+        "S-234644008",
+        "S-266201009",
+        "S-62479008"
+      ],
+      "id": 164,
+      "meta_anns": {}
+    },
+    "169": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "conditions",
+      "detected_name": "condition",
+      "acc": 0.744501792621981,
+      "context_similarity": 0.744501792621981,
+      "start": 6624,
+      "end": 6634,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 169,
+      "meta_anns": {}
+    },
+    "172": {
+      "pretty_name": "Acquired Immunodeficiency Syndrome",
+      "cui": "C0001175",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "AIDS",
+      "detected_name": "aids",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 6795,
+      "end": 6799,
+      "icd10": [
+        {
+          "chapter": "B20",
+          "name": "Human immunodeficiency virus [HIV] disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-186705005",
+        "S-186715004",
+        "S-234644008",
+        "S-266201009",
+        "S-62479008"
+      ],
+      "id": 172,
+      "meta_anns": {}
+    },
+    "181": {
+      "pretty_name": "Acquired Immunodeficiency Syndrome",
+      "cui": "C0001175",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "AIDS",
+      "detected_name": "aids",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 6942,
+      "end": 6946,
+      "icd10": [
+        {
+          "chapter": "B20",
+          "name": "Human immunodeficiency virus [HIV] disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-186705005",
+        "S-186715004",
+        "S-234644008",
+        "S-266201009",
+        "S-62479008"
+      ],
+      "id": 181,
+      "meta_anns": {}
+    },
+    "185": {
+      "pretty_name": "Acquired Immunodeficiency Syndrome",
+      "cui": "C0001175",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "AIDS",
+      "detected_name": "aids",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 7134,
+      "end": 7138,
+      "icd10": [
+        {
+          "chapter": "B20",
+          "name": "Human immunodeficiency virus [HIV] disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-186705005",
+        "S-186715004",
+        "S-234644008",
+        "S-266201009",
+        "S-62479008"
+      ],
+      "id": 185,
+      "meta_anns": {}
+    },
+    "187": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "condition",
+      "detected_name": "condition",
+      "acc": 0.7829023639532608,
+      "context_similarity": 0.7829023639532608,
+      "start": 7147,
+      "end": 7156,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 187,
+      "meta_anns": {}
+    },
+    "195": {
+      "pretty_name": "Acquired Immunodeficiency Syndrome",
+      "cui": "C0001175",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "AIDS",
+      "detected_name": "aids",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 7289,
+      "end": 7293,
+      "icd10": [
+        {
+          "chapter": "B20",
+          "name": "Human immunodeficiency virus [HIV] disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-186705005",
+        "S-186715004",
+        "S-234644008",
+        "S-266201009",
+        "S-62479008"
+      ],
+      "id": 195,
+      "meta_anns": {}
+    },
+    "199": {
+      "pretty_name": "Acquired Immunodeficiency Syndrome",
+      "cui": "C0001175",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "AIDS",
+      "detected_name": "aids",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 7323,
+      "end": 7327,
+      "icd10": [
+        {
+          "chapter": "B20",
+          "name": "Human immunodeficiency virus [HIV] disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-186705005",
+        "S-186715004",
+        "S-234644008",
+        "S-266201009",
+        "S-62479008"
+      ],
+      "id": 199,
+      "meta_anns": {}
+    },
+    "202": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disorder",
+      "detected_name": "disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 7346,
+      "end": 7354,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 202,
+      "meta_anns": {}
+    },
+    "207": {
+      "pretty_name": "Acquired Immunodeficiency Syndrome",
+      "cui": "C0001175",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "AIDS",
+      "detected_name": "aids",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 7387,
+      "end": 7391,
+      "icd10": [
+        {
+          "chapter": "B20",
+          "name": "Human immunodeficiency virus [HIV] disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-186705005",
+        "S-186715004",
+        "S-234644008",
+        "S-266201009",
+        "S-62479008"
+      ],
+      "id": 207,
+      "meta_anns": {}
+    },
+    "208": {
+      "pretty_name": "Anemia",
+      "cui": "C0002871",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Anemia",
+      "detected_name": "anemia",
+      "acc": 0.2276351740854441,
+      "context_similarity": 0.2276351740854441,
+      "start": 7417,
+      "end": 7423,
+      "icd10": [
+        {
+          "chapter": "D64.9",
+          "name": "Anemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154786001",
+        "S-154812000",
+        "S-191277004",
+        "S-267531008",
+        "S-271737000",
+        "S-64593003"
+      ],
+      "id": 208,
+      "meta_anns": {}
+    },
+    "221": {
+      "pretty_name": "Acquired Immunodeficiency Syndrome",
+      "cui": "C0001175",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "AIDS",
+      "detected_name": "aids",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 7954,
+      "end": 7958,
+      "icd10": [
+        {
+          "chapter": "B20",
+          "name": "Human immunodeficiency virus [HIV] disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-186705005",
+        "S-186715004",
+        "S-234644008",
+        "S-266201009",
+        "S-62479008"
+      ],
+      "id": 221,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

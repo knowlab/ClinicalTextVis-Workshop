@@ -1,0 +1,469 @@
+{
+  "entities": {
+    "35": {
+      "pretty_name": "Gall Bladder Diseases",
+      "cui": "C0016977",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gallbladder disease",
+      "detected_name": "gallbladder~disease",
+      "acc": 0.3940802731333584,
+      "context_similarity": 0.3940802731333584,
+      "start": 677,
+      "end": 696,
+      "icd10": [
+        {
+          "chapter": "K82.9",
+          "name": "Disease of gallbladder, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155807008",
+        "S-155826000",
+        "S-155829007",
+        "S-266535008",
+        "S-266542008",
+        "S-266543003",
+        "S-39621005"
+      ],
+      "id": 35,
+      "meta_anns": {}
+    },
+    "39": {
+      "pretty_name": "",
+      "cui": "C0240225",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "liver mass",
+      "detected_name": "liver~mass",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 723,
+      "end": 733,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-300332007"
+      ],
+      "id": 39,
+      "meta_anns": {}
+    },
+    "72": {
+      "pretty_name": "Colonic Diseases",
+      "cui": "C0009373",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "colon",
+      "detected_name": "colon",
+      "acc": 0.4035993983398299,
+      "context_similarity": 0.4035993983398299,
+      "start": 1488,
+      "end": 1493,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-128524007"
+      ],
+      "id": 72,
+      "meta_anns": {}
+    },
+    "76": {
+      "pretty_name": "Trichohepatoenteric Syndrome",
+      "cui": "C1857276",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "the syndrome",
+      "detected_name": "the~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1610,
+      "end": 1622,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-703406006"
+      ],
+      "id": 76,
+      "meta_anns": {}
+    },
+    "85": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1799,
+      "end": 1811,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 85,
+      "meta_anns": {}
+    },
+    "86": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.7939379339858359,
+      "context_similarity": 0.7939379339858359,
+      "start": 1813,
+      "end": 1821,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 86,
+      "meta_anns": {}
+    },
+    "90": {
+      "pretty_name": "Liver diseases",
+      "cui": "C0023895",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease, liver",
+      "detected_name": "disease~liver",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1829,
+      "end": 1843,
+      "icd10": [
+        {
+          "chapter": "K70-K77.9",
+          "name": "Diseases of liver"
+        },
+        {
+          "chapter": "K76.9",
+          "name": "Liver disease, unspecified"
+        },
+        {
+          "chapter": "K70-K77",
+          "name": "Diseases of liver (K70-K77)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155807008",
+        "S-155817003",
+        "S-155822003",
+        "S-197375001",
+        "S-197551000",
+        "S-235856003",
+        "S-266535008",
+        "S-62857009"
+      ],
+      "id": 90,
+      "meta_anns": {}
+    },
+    "93": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease",
+      "detected_name": "disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1844,
+      "end": 1851,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 93,
+      "meta_anns": {}
+    },
+    "121": {
+      "pretty_name": "Colonic Diseases",
+      "cui": "C0009373",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "colon",
+      "detected_name": "colon",
+      "acc": 0.9275237190255966,
+      "context_similarity": 0.9275237190255966,
+      "start": 2276,
+      "end": 2281,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-128524007"
+      ],
+      "id": 121,
+      "meta_anns": {}
+    },
+    "127": {
+      "pretty_name": "Colonic Diseases",
+      "cui": "C0009373",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "colon",
+      "detected_name": "colon",
+      "acc": 0.8472373922876366,
+      "context_similarity": 0.8472373922876366,
+      "start": 2358,
+      "end": 2363,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-128524007"
+      ],
+      "id": 127,
+      "meta_anns": {}
+    },
+    "136": {
+      "pretty_name": "Colonic Diseases",
+      "cui": "C0009373",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "colon",
+      "detected_name": "colon",
+      "acc": 0.4123514594058867,
+      "context_similarity": 0.4123514594058867,
+      "start": 2511,
+      "end": 2516,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-128524007"
+      ],
+      "id": 136,
+      "meta_anns": {}
+    },
+    "140": {
+      "pretty_name": "Hereditary Diseases",
+      "cui": "C0019247",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "genetic syndrome",
+      "detected_name": "genetic~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2583,
+      "end": 2599,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-264530000",
+        "S-32895009"
+      ],
+      "id": 140,
+      "meta_anns": {}
+    },
+    "142": {
+      "pretty_name": "Trichohepatoenteric Syndrome",
+      "cui": "C1857276",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "the syndrome",
+      "detected_name": "the~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2648,
+      "end": 2660,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-703406006"
+      ],
+      "id": 142,
+      "meta_anns": {}
+    },
+    "158": {
+      "pretty_name": "Deglutition Disorders",
+      "cui": "C0011168",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "swallowing difficulties",
+      "detected_name": "swallowing~difficulty",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2884,
+      "end": 2907,
+      "icd10": [
+        {
+          "chapter": "R13",
+          "name": "Dysphagia"
+        },
+        {
+          "chapter": "R13.10",
+          "name": "Dysphagia, unspecified"
+        },
+        {
+          "chapter": "R13.1",
+          "name": "Dysphagia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139289002",
+        "S-158429003",
+        "S-158430008",
+        "S-158431007",
+        "S-162022009",
+        "S-207121004",
+        "S-207122006",
+        "S-207123001",
+        "S-288939007",
+        "S-40739000"
+      ],
+      "id": 158,
+      "meta_anns": {}
+    },
+    "166": {
+      "pretty_name": "Paroxysmal nocturnal dyspnea",
+      "cui": "C1956415",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "PND",
+      "detected_name": "pnd",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2948,
+      "end": 2951,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-139198007",
+        "S-55442000"
+      ],
+      "id": 166,
+      "meta_anns": {}
+    },
+    "190": {
+      "pretty_name": "",
+      "cui": "C4039409",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "oropharyngeal lesions",
+      "detected_name": "oropharyngeal~lesion",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3342,
+      "end": 3363,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-33431000119109"
+      ],
+      "id": 190,
+      "meta_anns": {}
+    },
+    "247": {
+      "pretty_name": "",
+      "cui": "C0149711",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hilar adenopathy",
+      "detected_name": "hilar~adenopathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4304,
+      "end": 4320,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 247,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

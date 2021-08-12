@@ -1,0 +1,257 @@
+{
+  "entities": {
+    "4": {
+      "pretty_name": "Diabetes Mellitus, Insulin-Dependent",
+      "cui": "C0011854",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes mellitus, type 1",
+      "detected_name": "diabetes~mellitus~type~1",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 28,
+      "end": 53,
+      "icd10": [
+        {
+          "chapter": "E10",
+          "name": "Insulin-dependent diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154673001",
+        "S-190322003",
+        "S-190362004",
+        "S-267469001",
+        "S-46635009"
+      ],
+      "id": 4,
+      "meta_anns": {}
+    },
+    "8": {
+      "pretty_name": "Diabetic Neuropathies",
+      "cui": "C0011882",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetic neuropathy",
+      "detected_name": "diabetic~neuropathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 118,
+      "end": 137,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-154683002",
+        "S-190349003",
+        "S-190353001",
+        "S-193182005",
+        "S-230572002",
+        "S-267472008",
+        "S-866003"
+      ],
+      "id": 8,
+      "meta_anns": {}
+    },
+    "17": {
+      "pretty_name": "Hypoglycemia",
+      "cui": "C0020615",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "low blood sugar",
+      "detected_name": "low~blood~sugar",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 302,
+      "end": 317,
+      "icd10": [
+        {
+          "chapter": "E16.2",
+          "name": "Hypoglycaemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154691006",
+        "S-154693009",
+        "S-190433001",
+        "S-190436009",
+        "S-237630007",
+        "S-271327008",
+        "S-302866003",
+        "S-66694000"
+      ],
+      "id": 17,
+      "meta_anns": {}
+    },
+    "32": {
+      "pretty_name": "Hypoglycemia",
+      "cui": "C0020615",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypoglycemia",
+      "detected_name": "hypoglycemia",
+      "acc": 0.6137329283456856,
+      "context_similarity": 0.6137329283456856,
+      "start": 563,
+      "end": 575,
+      "icd10": [
+        {
+          "chapter": "E16.2",
+          "name": "Hypoglycaemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154691006",
+        "S-154693009",
+        "S-190433001",
+        "S-190436009",
+        "S-237630007",
+        "S-271327008",
+        "S-302866003",
+        "S-66694000"
+      ],
+      "id": 32,
+      "meta_anns": {}
+    },
+    "63": {
+      "pretty_name": "Gastroparesis",
+      "cui": "C0152020",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gastroparesis",
+      "detected_name": "gastroparesis",
+      "acc": 0.8162765577446898,
+      "context_similarity": 0.8162765577446898,
+      "start": 1461,
+      "end": 1474,
+      "icd10": [
+        {
+          "chapter": "K31.84",
+          "name": "Gastroparesis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196753007",
+        "S-235675006",
+        "S-77164002"
+      ],
+      "id": 63,
+      "meta_anns": {}
+    },
+    "88": {
+      "pretty_name": "Hepatolenticular Degeneration",
+      "cui": "C0019202",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "WD",
+      "detected_name": "wd",
+      "acc": 0.46037864196495243,
+      "context_similarity": 0.46037864196495243,
+      "start": 2112,
+      "end": 2114,
+      "icd10": [
+        {
+          "chapter": "E83.01",
+          "name": "Wilson's disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154751003",
+        "S-190823004",
+        "S-191710006",
+        "S-192640001",
+        "S-267504005",
+        "S-88518009"
+      ],
+      "id": 88,
+      "meta_anns": {}
+    },
+    "111": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "redness",
+      "detected_name": "redness",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2592,
+      "end": 2599,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 111,
+      "meta_anns": {}
+    },
+    "116": {
+      "pretty_name": "Leukocyte adhesion deficiency type 1",
+      "cui": "C0398738",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "LAD",
+      "detected_name": "lad",
+      "acc": 0.17821686038622347,
+      "context_similarity": 0.17821686038622347,
+      "start": 2664,
+      "end": 2667,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-234582006"
+      ],
+      "id": 116,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,64 @@
+{
+  "entities": {
+    "26": {
+      "pretty_name": "Deep Vein Thrombosis",
+      "cui": "C0149871",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "DVT",
+      "detected_name": "dvt",
+      "acc": 0.8307864695890339,
+      "context_similarity": 0.8307864695890339,
+      "start": 743,
+      "end": 746,
+      "icd10": [
+        {
+          "chapter": "I82.40",
+          "name": "Acute embolism and thrombosis of unspecified deep veins of lower extremity"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128053003",
+        "S-128057002",
+        "S-155454004",
+        "S-195403006",
+        "S-266328001"
+      ],
+      "id": 26,
+      "meta_anns": {}
+    },
+    "73": {
+      "pretty_name": "",
+      "cui": "C0085684",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "footdrop",
+      "detected_name": "footdrop",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1756,
+      "end": 1764,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-156867002",
+        "S-203599002",
+        "S-203625008",
+        "S-268137003",
+        "S-6077001"
+      ],
+      "id": 73,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

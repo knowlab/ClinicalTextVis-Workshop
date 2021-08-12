@@ -1,0 +1,57 @@
+{
+  "entities": {
+    "26": {
+      "pretty_name": "Cyst",
+      "cui": "C0010709",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cyst",
+      "detected_name": "cyst",
+      "acc": 0.4394875018001944,
+      "context_similarity": 0.4394875018001944,
+      "start": 401,
+      "end": 405,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-12494005",
+        "S-133846001",
+        "S-264515009",
+        "S-367643001",
+        "S-441457006"
+      ],
+      "id": 26,
+      "meta_anns": {}
+    },
+    "71": {
+      "pretty_name": "Anemia due to blood loss",
+      "cui": "C0948824",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Anemia secondary to blood loss",
+      "detected_name": "anemia~secondary~to~blood~loss",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1594,
+      "end": 1624,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-413532003",
+        "S-42626004",
+        "S-44252001"
+      ],
+      "id": 71,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

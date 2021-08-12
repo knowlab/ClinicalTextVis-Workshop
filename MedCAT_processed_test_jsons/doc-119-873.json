@@ -1,0 +1,182 @@
+{
+  "entities": {
+    "12": {
+      "pretty_name": "",
+      "cui": "C1960715",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "allergies to dairy products",
+      "detected_name": "allergy~to~dairy~product",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 252,
+      "end": 279,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-425525006"
+      ],
+      "id": 12,
+      "meta_anns": {}
+    },
+    "28": {
+      "pretty_name": "Disorder of eye",
+      "cui": "C0015397",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "eye",
+      "detected_name": "eye",
+      "acc": 0.5323643377477755,
+      "context_similarity": 0.5323643377477755,
+      "start": 445,
+      "end": 448,
+      "icd10": [
+        {
+          "chapter": "H44",
+          "name": "Disorders of globe"
+        },
+        {
+          "chapter": "H44.9",
+          "name": "Disorder of globe, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-111509007",
+        "S-155101007",
+        "S-155198005",
+        "S-193265001",
+        "S-193266000",
+        "S-193316008",
+        "S-194183009",
+        "S-264555006",
+        "S-366261005",
+        "S-371405004",
+        "S-371409005",
+        "S-79517001"
+      ],
+      "id": 28,
+      "meta_anns": {}
+    },
+    "38": {
+      "pretty_name": "Sexually Transmitted Diseases",
+      "cui": "C0036916",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "STD",
+      "detected_name": "std",
+      "acc": 0.9590443779977775,
+      "context_similarity": 0.9590443779977775,
+      "start": 559,
+      "end": 562,
+      "icd10": [
+        {
+          "chapter": "A50-A64.9",
+          "name": "Infections with a predominantly sexual mode of transmission"
+        },
+        {
+          "chapter": "A64",
+          "name": "Unspecified sexually transmitted disease"
+        },
+        {
+          "chapter": "A50-A64",
+          "name": "Infections with a predominantly sexual mode of transmission (A50-A64)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154378004",
+        "S-186831003",
+        "S-186949002",
+        "S-187348005",
+        "S-187367009",
+        "S-266208003",
+        "S-276972005",
+        "S-8098009"
+      ],
+      "id": 38,
+      "meta_anns": {}
+    },
+    "65": {
+      "pretty_name": "Varicosity",
+      "cui": "C0042345",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Varicosities",
+      "detected_name": "varicosity",
+      "acc": 0.28266402622525366,
+      "context_similarity": 0.28266402622525366,
+      "start": 1089,
+      "end": 1101,
+      "icd10": [
+        {
+          "chapter": "I83.90",
+          "name": "Asymptomatic varicose veins of unspecified lower extremity"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128060009",
+        "S-12856003",
+        "S-155468006",
+        "S-155482006",
+        "S-234053000",
+        "S-266331000",
+        "S-276504003",
+        "S-399989005"
+      ],
+      "id": 65,
+      "meta_anns": {}
+    },
+    "93": {
+      "pretty_name": "Onychomycosis",
+      "cui": "C0040261",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Onychomycosis",
+      "detected_name": "onychomycosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1594,
+      "end": 1607,
+      "icd10": [
+        {
+          "chapter": "B35.1",
+          "name": "Tinea unguium"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154397004",
+        "S-186988000",
+        "S-266149008",
+        "S-266215006",
+        "S-30757001",
+        "S-414941008"
+      ],
+      "id": 93,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

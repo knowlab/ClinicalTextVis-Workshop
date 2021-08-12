@@ -1,0 +1,430 @@
+{
+  "entities": {
+    "8": {
+      "pretty_name": "Aortic valve disorder",
+      "cui": "C1260873",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "aortic valve disease",
+      "detected_name": "aortic~valve~disease",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 140,
+      "end": 160,
+      "icd10": [
+        {
+          "chapter": "I35.9",
+          "name": "Aortic valve disorder, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-194988001",
+        "S-8722008"
+      ],
+      "id": 8,
+      "meta_anns": {}
+    },
+    "15": {
+      "pretty_name": "Paroxysmal atrial fibrillation",
+      "cui": "C0235480",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "paroxysmal atrial fibrillation",
+      "detected_name": "paroxysmal~atrial~fibrillation",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 296,
+      "end": 326,
+      "icd10": [
+        {
+          "chapter": "I48.0",
+          "name": "Paroxysmal atrial fibrillation"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-195081002",
+        "S-282825002"
+      ],
+      "id": 15,
+      "meta_anns": {}
+    },
+    "19": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "congestive heart failure",
+      "detected_name": "congestive~heart~failure",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 331,
+      "end": 355,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 19,
+      "meta_anns": {}
+    },
+    "26": {
+      "pretty_name": "Transient Ischemic Attack",
+      "cui": "C0007787",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "transient ischemic attack",
+      "detected_name": "transient~ischemic~attack",
+      "acc": 0.8346064883683689,
+      "context_similarity": 0.8346064883683689,
+      "start": 443,
+      "end": 468,
+      "icd10": [
+        {
+          "chapter": "G45.9",
+          "name": "Transient cerebral ischaemic attack, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155404005",
+        "S-195196001",
+        "S-195207009",
+        "S-266257000",
+        "S-266314007",
+        "S-313242003",
+        "S-38609002"
+      ],
+      "id": 26,
+      "meta_anns": {}
+    },
+    "40": {
+      "pretty_name": "Heart Diseases",
+      "cui": "C0018799",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "heart disease",
+      "detected_name": "heart~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 817,
+      "end": 830,
+      "icd10": [
+        {
+          "chapter": "I51.9",
+          "name": "Heart disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155263000",
+        "S-194707003",
+        "S-195152001",
+        "S-266275004",
+        "S-266311004",
+        "S-56265001"
+      ],
+      "id": 40,
+      "meta_anns": {}
+    },
+    "45": {
+      "pretty_name": "Diabetes Mellitus, Insulin-Dependent",
+      "cui": "C0011854",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Type I diabetes mellitus",
+      "detected_name": "type~i~diabetes~mellitus",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 871,
+      "end": 895,
+      "icd10": [
+        {
+          "chapter": "E10",
+          "name": "Insulin-dependent diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154673001",
+        "S-190322003",
+        "S-190362004",
+        "S-267469001",
+        "S-46635009"
+      ],
+      "id": 45,
+      "meta_anns": {}
+    },
+    "48": {
+      "pretty_name": "Hyperlipidemia",
+      "cui": "C0020473",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hyperlipidemia",
+      "detected_name": "hyperlipidemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 901,
+      "end": 915,
+      "icd10": [
+        {
+          "chapter": "E78.5",
+          "name": "Hyperlipidaemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154739000",
+        "S-154743001",
+        "S-190782002",
+        "S-267499005",
+        "S-55822004"
+      ],
+      "id": 48,
+      "meta_anns": {}
+    },
+    "49": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 921,
+      "end": 933,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 49,
+      "meta_anns": {}
+    },
+    "50": {
+      "pretty_name": "Morbid obesity",
+      "cui": "C0028756",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Morbid obesity",
+      "detected_name": "morbid~obesity",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 939,
+      "end": 953,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-190967003",
+        "S-238136002",
+        "S-389986000",
+        "S-83911000119104"
+      ],
+      "id": 50,
+      "meta_anns": {}
+    },
+    "54": {
+      "pretty_name": "Sleep Apnea Syndromes",
+      "cui": "C0037315",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Sleep apnea syndrome",
+      "detected_name": "sleep~apnea~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 959,
+      "end": 979,
+      "icd10": [
+        {
+          "chapter": "G47.3",
+          "name": "Sleep apnoea"
+        },
+        {
+          "chapter": "G47.30",
+          "name": "Sleep apnea, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155614007",
+        "S-194441007",
+        "S-196166002",
+        "S-206750008",
+        "S-313246000",
+        "S-73430006"
+      ],
+      "id": 54,
+      "meta_anns": {}
+    },
+    "74": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary artery disease",
+      "detected_name": "coronary~artery~disease",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1329,
+      "end": 1352,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 74,
+      "meta_anns": {}
+    },
+    "78": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "congestive heart failure",
+      "detected_name": "congestive~heart~failure",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1370,
+      "end": 1394,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 78,
+      "meta_anns": {}
+    },
+    "120": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obese",
+      "detected_name": "obese",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2089,
+      "end": 2094,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 120,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

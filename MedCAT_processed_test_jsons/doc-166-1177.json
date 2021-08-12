@@ -1,0 +1,147 @@
+{
+  "entities": {
+    "30": {
+      "pretty_name": "Kidney Failure, Acute",
+      "cui": "C0022660",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "acute renal failure",
+      "detected_name": "acute~renal~failure",
+      "acc": 0.3559578848485639,
+      "context_similarity": 0.3559578848485639,
+      "start": 523,
+      "end": 542,
+      "icd10": [
+        {
+          "chapter": "N17",
+          "name": "Acute renal failure"
+        },
+        {
+          "chapter": "N17.9",
+          "name": "Acute renal failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-14669001",
+        "S-155855008",
+        "S-197653006"
+      ],
+      "id": 30,
+      "meta_anns": {}
+    },
+    "66": {
+      "pretty_name": "Anemia",
+      "cui": "C0002871",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "anemia",
+      "detected_name": "anemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 927,
+      "end": 933,
+      "icd10": [
+        {
+          "chapter": "D64.9",
+          "name": "Anemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154786001",
+        "S-154812000",
+        "S-191277004",
+        "S-267531008",
+        "S-271737000",
+        "S-64593003"
+      ],
+      "id": 66,
+      "meta_anns": {}
+    },
+    "67": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 935,
+      "end": 947,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 67,
+      "meta_anns": {}
+    },
+    "143": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "erythema",
+      "detected_name": "erythema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2342,
+      "end": 2350,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 143,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

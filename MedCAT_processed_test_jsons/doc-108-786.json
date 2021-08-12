@@ -1,0 +1,474 @@
+{
+  "entities": {
+    "14": {
+      "pretty_name": "Hematuria",
+      "cui": "C0018965",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hematuria",
+      "detected_name": "hematuria",
+      "acc": 0.22751323643882793,
+      "context_similarity": 0.22751323643882793,
+      "start": 133,
+      "end": 142,
+      "icd10": [
+        {
+          "chapter": "R31",
+          "name": "Unspecified haematuria"
+        },
+        {
+          "chapter": "R31.9",
+          "name": "Hematuria, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139414003",
+        "S-139416001",
+        "S-155895005",
+        "S-162136002",
+        "S-197937006",
+        "S-266568001",
+        "S-267066000",
+        "S-267167006",
+        "S-267168001",
+        "S-307414005",
+        "S-34436003",
+        "S-53298000"
+      ],
+      "id": 14,
+      "meta_anns": {}
+    },
+    "18": {
+      "pretty_name": "Hematuria",
+      "cui": "C0018965",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hematuria",
+      "detected_name": "hematuria",
+      "acc": 0.18443270558352995,
+      "context_similarity": 0.18443270558352995,
+      "start": 250,
+      "end": 259,
+      "icd10": [
+        {
+          "chapter": "R31",
+          "name": "Unspecified haematuria"
+        },
+        {
+          "chapter": "R31.9",
+          "name": "Hematuria, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139414003",
+        "S-139416001",
+        "S-155895005",
+        "S-162136002",
+        "S-197937006",
+        "S-266568001",
+        "S-267066000",
+        "S-267167006",
+        "S-267168001",
+        "S-307414005",
+        "S-34436003",
+        "S-53298000"
+      ],
+      "id": 18,
+      "meta_anns": {}
+    },
+    "21": {
+      "pretty_name": "",
+      "cui": "C0020295",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hydronephrosis",
+      "detected_name": "hydronephrosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 307,
+      "end": 321,
+      "icd10": [
+        {
+          "chapter": "N13.30",
+          "name": "Unspecified hydronephrosis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155866001",
+        "S-197791000",
+        "S-43064006"
+      ],
+      "id": 21,
+      "meta_anns": {}
+    },
+    "59": {
+      "pretty_name": "Condyloma",
+      "cui": "C0302180",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "condyloma",
+      "detected_name": "condyloma",
+      "acc": 0.8559975828511733,
+      "context_similarity": 0.8559975828511733,
+      "start": 1463,
+      "end": 1472,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-19672005"
+      ],
+      "id": 59,
+      "meta_anns": {}
+    },
+    "60": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1474,
+      "end": 1486,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 60,
+      "meta_anns": {}
+    },
+    "62": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes mellitus",
+      "detected_name": "diabetes~mellitus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1488,
+      "end": 1505,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 62,
+      "meta_anns": {}
+    },
+    "63": {
+      "pretty_name": "Hyperlipidemia",
+      "cui": "C0020473",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hyperlipidemia",
+      "detected_name": "hyperlipidemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1507,
+      "end": 1521,
+      "icd10": [
+        {
+          "chapter": "E78.5",
+          "name": "Hyperlipidaemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154739000",
+        "S-154743001",
+        "S-190782002",
+        "S-267499005",
+        "S-55822004"
+      ],
+      "id": 63,
+      "meta_anns": {}
+    },
+    "65": {
+      "pretty_name": "Chronic Obstructive Airway Disease",
+      "cui": "C0024117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "COPD",
+      "detected_name": "copd",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1535,
+      "end": 1539,
+      "icd10": [
+        {
+          "chapter": "J44.9",
+          "name": "Chronic obstructive pulmonary disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13645005",
+        "S-155565006",
+        "S-155569000",
+        "S-155585005",
+        "S-155617000",
+        "S-195935004",
+        "S-195948000",
+        "S-196003006",
+        "S-413846005"
+      ],
+      "id": 65,
+      "meta_anns": {}
+    },
+    "66": {
+      "pretty_name": "Peripheral Vascular Diseases",
+      "cui": "C0085096",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "peripheral vascular disease",
+      "detected_name": "peripheral~vascular~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1541,
+      "end": 1568,
+      "icd10": [
+        {
+          "chapter": "I73.9",
+          "name": "Peripheral vascular disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155431008",
+        "S-155433006",
+        "S-195311000",
+        "S-195314008",
+        "S-266320008",
+        "S-266321007",
+        "S-399957001",
+        "S-400047006",
+        "S-91523003"
+      ],
+      "id": 66,
+      "meta_anns": {}
+    },
+    "71": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary artery disease",
+      "detected_name": "coronary~artery~disease",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1608,
+      "end": 1631,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 71,
+      "meta_anns": {}
+    },
+    "84": {
+      "pretty_name": "Gastric ulcer",
+      "cui": "C0038358",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "GU",
+      "detected_name": "gu",
+      "acc": 0.4940823584959222,
+      "context_similarity": 0.4940823584959222,
+      "start": 1863,
+      "end": 1865,
+      "icd10": [
+        {
+          "chapter": "K25",
+          "name": "Gastric ulcer"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155681009",
+        "S-155690002",
+        "S-196627009",
+        "S-196642007",
+        "S-196649003",
+        "S-196650003",
+        "S-266436006",
+        "S-397825006",
+        "S-6034002"
+      ],
+      "id": 84,
+      "meta_anns": {}
+    },
+    "105": {
+      "pretty_name": "Gastric ulcer",
+      "cui": "C0038358",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "GU",
+      "detected_name": "gu",
+      "acc": 0.5022706202792407,
+      "context_similarity": 0.5022706202792407,
+      "start": 2150,
+      "end": 2152,
+      "icd10": [
+        {
+          "chapter": "K25",
+          "name": "Gastric ulcer"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155681009",
+        "S-155690002",
+        "S-196627009",
+        "S-196642007",
+        "S-196649003",
+        "S-196650003",
+        "S-266436006",
+        "S-397825006",
+        "S-6034002"
+      ],
+      "id": 105,
+      "meta_anns": {}
+    },
+    "213": {
+      "pretty_name": "",
+      "cui": "C0341698",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "kidney atrophy",
+      "detected_name": "kidney~atrophy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4442,
+      "end": 4456,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-197659005",
+        "S-197676009",
+        "S-63463003"
+      ],
+      "id": 213,
+      "meta_anns": {}
+    },
+    "238": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease",
+      "detected_name": "disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 5235,
+      "end": 5242,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 238,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

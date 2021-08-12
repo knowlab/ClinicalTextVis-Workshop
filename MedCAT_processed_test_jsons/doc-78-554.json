@@ -1,0 +1,357 @@
+{
+  "entities": {
+    "85": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2007,
+      "end": 2019,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 85,
+      "meta_anns": {}
+    },
+    "87": {
+      "pretty_name": "Myocardial Infarction",
+      "cui": "C0027051",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "MI",
+      "detected_name": "mi",
+      "acc": 0.34850838414895025,
+      "context_similarity": 0.34850838414895025,
+      "start": 2046,
+      "end": 2048,
+      "icd10": [
+        {
+          "chapter": "I22",
+          "name": "Subsequent ST elevation (STEMI) and non-ST elevation (NSTEMI) myocardial infarction"
+        },
+        {
+          "chapter": "I21",
+          "name": "Acute myocardial infarction"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155304006",
+        "S-194796000",
+        "S-22298006",
+        "S-233824008",
+        "S-266288001",
+        "S-66514008"
+      ],
+      "id": 87,
+      "meta_anns": {}
+    },
+    "88": {
+      "pretty_name": "Osteoporosis",
+      "cui": "C0029456",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "osteoporosis",
+      "detected_name": "osteoporosis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2050,
+      "end": 2062,
+      "icd10": [
+        {
+          "chapter": "M81.9",
+          "name": "Osteoporosis, unspecified"
+        },
+        {
+          "chapter": "M81.0",
+          "name": "Age-related osteoporosis without current pathological fracture"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156825006",
+        "S-203428004",
+        "S-203440004",
+        "S-64859006"
+      ],
+      "id": 88,
+      "meta_anns": {}
+    },
+    "94": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabete",
+      "acc": 0.28879996450614803,
+      "context_similarity": 0.28879996450614803,
+      "start": 2142,
+      "end": 2150,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 94,
+      "meta_anns": {}
+    },
+    "97": {
+      "pretty_name": "Thyroid Diseases",
+      "cui": "C0040128",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "thyroid",
+      "detected_name": "thyroid",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2167,
+      "end": 2174,
+      "icd10": [
+        {
+          "chapter": "E00-E07.9",
+          "name": "Disorders of thyroid gland"
+        },
+        {
+          "chapter": "E07.9",
+          "name": "Disorder of thyroid, unspecified"
+        },
+        {
+          "chapter": "E00-E07",
+          "name": "Disorders of thyroid gland (E00-E07)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-14304000",
+        "S-154649009",
+        "S-190232008",
+        "S-190311002",
+        "S-191036006"
+      ],
+      "id": 97,
+      "meta_anns": {}
+    },
+    "207": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disorder",
+      "detected_name": "disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4562,
+      "end": 4570,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 207,
+      "meta_anns": {}
+    },
+    "212": {
+      "pretty_name": "Osteoporosis",
+      "cui": "C0029456",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Osteoporosis",
+      "detected_name": "osteoporosis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 4603,
+      "end": 4615,
+      "icd10": [
+        {
+          "chapter": "M81.9",
+          "name": "Osteoporosis, unspecified"
+        },
+        {
+          "chapter": "M81.0",
+          "name": "Age-related osteoporosis without current pathological fracture"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156825006",
+        "S-203428004",
+        "S-203440004",
+        "S-64859006"
+      ],
+      "id": 212,
+      "meta_anns": {}
+    },
+    "213": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.8278708110236364,
+      "context_similarity": 0.8278708110236364,
+      "start": 4617,
+      "end": 4629,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 213,
+      "meta_anns": {}
+    },
+    "218": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.4875791559493488,
+      "context_similarity": 0.4875791559493488,
+      "start": 4654,
+      "end": 4662,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 218,
+      "meta_anns": {}
+    },
+    "220": {
+      "pretty_name": "Myocardial Infarction",
+      "cui": "C0027051",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "MI",
+      "detected_name": "mi",
+      "acc": 0.8357367978416916,
+      "context_similarity": 0.8357367978416916,
+      "start": 4676,
+      "end": 4678,
+      "icd10": [
+        {
+          "chapter": "I22",
+          "name": "Subsequent ST elevation (STEMI) and non-ST elevation (NSTEMI) myocardial infarction"
+        },
+        {
+          "chapter": "I21",
+          "name": "Acute myocardial infarction"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155304006",
+        "S-194796000",
+        "S-22298006",
+        "S-233824008",
+        "S-266288001",
+        "S-66514008"
+      ],
+      "id": 220,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

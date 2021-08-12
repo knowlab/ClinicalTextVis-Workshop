@@ -1,0 +1,282 @@
+{
+  "entities": {
+    "23": {
+      "pretty_name": "",
+      "cui": "C0012813",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diverticulitis",
+      "detected_name": "diverticulitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 565,
+      "end": 579,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155779000",
+        "S-18126004",
+        "S-197095003",
+        "S-197102009",
+        "S-197103004",
+        "S-307496006"
+      ],
+      "id": 23,
+      "meta_anns": {}
+    },
+    "49": {
+      "pretty_name": "Gastroesophageal reflux disease",
+      "cui": "C0017168",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Gastroesophageal reflux disease",
+      "detected_name": "gastroesophageal~reflux~disease",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1566,
+      "end": 1597,
+      "icd10": [
+        {
+          "chapter": "K21",
+          "name": "Gastro-oesophageal reflux disease"
+        },
+        {
+          "chapter": "K21.9",
+          "name": "Gastro-esophageal reflux disease without esophagitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-235595009",
+        "S-266498005",
+        "S-54856001"
+      ],
+      "id": 49,
+      "meta_anns": {}
+    },
+    "53": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.7168837235329998,
+      "context_similarity": 0.7168837235329998,
+      "start": 1615,
+      "end": 1627,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 53,
+      "meta_anns": {}
+    },
+    "58": {
+      "pretty_name": "",
+      "cui": "C0152099",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "post cholecystectomy",
+      "detected_name": "post~cholecystectomy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1755,
+      "end": 1775,
+      "icd10": [
+        {
+          "chapter": "K91.5",
+          "name": "Postcholecystectomy syndrome"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-90782003"
+      ],
+      "id": 58,
+      "meta_anns": {}
+    },
+    "80": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.8262121352574968,
+      "context_similarity": 0.8262121352574968,
+      "start": 2084,
+      "end": 2092,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 80,
+      "meta_anns": {}
+    },
+    "82": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary artery disease",
+      "detected_name": "coronary~artery~disease",
+      "acc": 0.7907431070217186,
+      "context_similarity": 0.7907431070217186,
+      "start": 2112,
+      "end": 2135,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 82,
+      "meta_anns": {}
+    },
+    "109": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymphadenopathy",
+      "detected_name": "lymphadenopathy",
+      "acc": 0.5359951218866511,
+      "context_similarity": 0.5359951218866511,
+      "start": 2639,
+      "end": 2654,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 109,
+      "meta_anns": {}
+    },
+    "128": {
+      "pretty_name": "Perforation of colon",
+      "cui": "C0347646",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "perforated colon",
+      "detected_name": "perforated~colon",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3251,
+      "end": 3267,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-50257008"
+      ],
+      "id": 128,
+      "meta_anns": {}
+    },
+    "130": {
+      "pretty_name": "",
+      "cui": "C0012813",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diverticulitis",
+      "detected_name": "diverticulitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3273,
+      "end": 3287,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155779000",
+        "S-18126004",
+        "S-197095003",
+        "S-197102009",
+        "S-197103004",
+        "S-307496006"
+      ],
+      "id": 130,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

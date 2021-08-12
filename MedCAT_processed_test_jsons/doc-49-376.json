@@ -1,0 +1,214 @@
+{
+  "entities": {
+    "10": {
+      "pretty_name": "Rheumatoid Arthritis",
+      "cui": "C0003873",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "rheumatoid arthritis",
+      "detected_name": "rheumatoid~arthritis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 109,
+      "end": 129,
+      "icd10": [
+        {
+          "chapter": "M06.9",
+          "name": "Rheumatoid arthritis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156471009",
+        "S-156481008",
+        "S-287010008",
+        "S-69896004"
+      ],
+      "id": 10,
+      "meta_anns": {}
+    },
+    "41": {
+      "pretty_name": "",
+      "cui": "C0264267",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "nasal ulcer",
+      "detected_name": "nasal~ulcer",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 971,
+      "end": 982,
+      "icd10": [
+        {
+          "chapter": "J34.0",
+          "name": "Abscess, furuncle and carbuncle of nose"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-80497001"
+      ],
+      "id": 41,
+      "meta_anns": {}
+    },
+    "51": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1061,
+      "end": 1073,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 51,
+      "meta_anns": {}
+    },
+    "52": {
+      "pretty_name": "Peripheral Vascular Diseases",
+      "cui": "C0085096",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "peripheral vascular disease",
+      "detected_name": "peripheral~vascular~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1075,
+      "end": 1102,
+      "icd10": [
+        {
+          "chapter": "I73.9",
+          "name": "Peripheral vascular disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155431008",
+        "S-155433006",
+        "S-195311000",
+        "S-195314008",
+        "S-266320008",
+        "S-266321007",
+        "S-399957001",
+        "S-400047006",
+        "S-91523003"
+      ],
+      "id": 52,
+      "meta_anns": {}
+    },
+    "73": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymphadenopathy",
+      "detected_name": "lymphadenopathy",
+      "acc": 0.8643566798407307,
+      "context_similarity": 0.8643566798407307,
+      "start": 1351,
+      "end": 1366,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 73,
+      "meta_anns": {}
+    },
+    "93": {
+      "pretty_name": "Rheumatoid Arthritis",
+      "cui": "C0003873",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "rheumatoid arthritis",
+      "detected_name": "rheumatoid~arthritis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1723,
+      "end": 1743,
+      "icd10": [
+        {
+          "chapter": "M06.9",
+          "name": "Rheumatoid arthritis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156471009",
+        "S-156481008",
+        "S-287010008",
+        "S-69896004"
+      ],
+      "id": 93,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

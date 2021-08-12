@@ -1,0 +1,198 @@
+{
+  "entities": {
+    "2": {
+      "pretty_name": "Bone Cysts, Aneurysmal",
+      "cui": "C0152244",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ABC",
+      "detected_name": "abc",
+      "acc": 0.15742642390755968,
+      "context_similarity": 0.15742642390755968,
+      "start": 59,
+      "end": 62,
+      "icd10": [
+        {
+          "chapter": "M85.5",
+          "name": "Aneurysmal bone cyst"
+        },
+        {
+          "chapter": "M85.50",
+          "name": "Aneurysmal bone cyst, unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-203468000",
+        "S-76000001"
+      ],
+      "id": 2,
+      "meta_anns": {}
+    },
+    "7": {
+      "pretty_name": "",
+      "cui": "C0267176",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetic gastroparesis",
+      "detected_name": "diabetic~gastroparesis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 121,
+      "end": 143,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-34140002",
+        "S-713704004"
+      ],
+      "id": 7,
+      "meta_anns": {}
+    },
+    "55": {
+      "pretty_name": "Esophagitis",
+      "cui": "C0014868",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "esophagitis",
+      "detected_name": "esophagitis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1456,
+      "end": 1467,
+      "icd10": [
+        {
+          "chapter": "K20",
+          "name": "Oesophagitis"
+        },
+        {
+          "chapter": "K20.9",
+          "name": "Esophagitis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155673008",
+        "S-16761005",
+        "S-196605000",
+        "S-266498005"
+      ],
+      "id": 55,
+      "meta_anns": {}
+    },
+    "59": {
+      "pretty_name": "Hiatal Hernia",
+      "cui": "C3489393",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hiatal hernia",
+      "detected_name": "hiatal~hernia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1662,
+      "end": 1675,
+      "icd10": [
+        {
+          "chapter": "K46",
+          "name": "Unspecified abdominal hernia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155748004",
+        "S-196901006",
+        "S-196914007",
+        "S-266511003",
+        "S-309811003",
+        "S-84089009"
+      ],
+      "id": 59,
+      "meta_anns": {}
+    },
+    "79": {
+      "pretty_name": "Esophagitis",
+      "cui": "C0014868",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "esophagitis",
+      "detected_name": "esophagitis",
+      "acc": 0.5330361492985949,
+      "context_similarity": 0.5330361492985949,
+      "start": 2067,
+      "end": 2078,
+      "icd10": [
+        {
+          "chapter": "K20",
+          "name": "Oesophagitis"
+        },
+        {
+          "chapter": "K20.9",
+          "name": "Esophagitis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155673008",
+        "S-16761005",
+        "S-196605000",
+        "S-266498005"
+      ],
+      "id": 79,
+      "meta_anns": {}
+    },
+    "81": {
+      "pretty_name": "Hiatal Hernia",
+      "cui": "C3489393",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hiatal hernia",
+      "detected_name": "hiatal~hernia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2142,
+      "end": 2155,
+      "icd10": [
+        {
+          "chapter": "K46",
+          "name": "Unspecified abdominal hernia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155748004",
+        "S-196901006",
+        "S-196914007",
+        "S-266511003",
+        "S-309811003",
+        "S-84089009"
+      ],
+      "id": 81,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

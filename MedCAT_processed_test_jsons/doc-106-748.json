@@ -1,0 +1,307 @@
+{
+  "entities": {
+    "16": {
+      "pretty_name": "Paresthesia",
+      "cui": "C0030554",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tingling",
+      "detected_name": "tingling",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 850,
+      "end": 858,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-158228009",
+        "S-206857001",
+        "S-91019004"
+      ],
+      "id": 16,
+      "meta_anns": {}
+    },
+    "33": {
+      "pretty_name": "Chickenpox",
+      "cui": "C0008049",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "chicken pox",
+      "detected_name": "chicken~pox",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1115,
+      "end": 1126,
+      "icd10": [
+        {
+          "chapter": "B01",
+          "name": "Varicella [chickenpox]"
+        },
+        {
+          "chapter": "B01.9",
+          "name": "Varicella without complication"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154325003",
+        "S-186508005",
+        "S-38907003"
+      ],
+      "id": 33,
+      "meta_anns": {}
+    },
+    "50": {
+      "pretty_name": "Tetanus",
+      "cui": "C0039614",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tetanus",
+      "detected_name": "tetanus",
+      "acc": 0.8421262746219862,
+      "context_similarity": 0.8421262746219862,
+      "start": 1545,
+      "end": 1552,
+      "icd10": [
+        {
+          "chapter": "A35",
+          "name": "Other tetanus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154312006",
+        "S-276202003",
+        "S-76902006"
+      ],
+      "id": 50,
+      "meta_anns": {}
+    },
+    "54": {
+      "pretty_name": "Tetanus",
+      "cui": "C0039614",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tetanus",
+      "detected_name": "tetanus",
+      "acc": 0.610248468577,
+      "context_similarity": 0.610248468577,
+      "start": 1637,
+      "end": 1644,
+      "icd10": [
+        {
+          "chapter": "A35",
+          "name": "Other tetanus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154312006",
+        "S-276202003",
+        "S-76902006"
+      ],
+      "id": 54,
+      "meta_anns": {}
+    },
+    "62": {
+      "pretty_name": "Paresthesia",
+      "cui": "C0030554",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tingling",
+      "detected_name": "tingling",
+      "acc": 0.9545585850087386,
+      "context_similarity": 0.9545585850087386,
+      "start": 1767,
+      "end": 1775,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-158228009",
+        "S-206857001",
+        "S-91019004"
+      ],
+      "id": 62,
+      "meta_anns": {}
+    },
+    "90": {
+      "pretty_name": "Decompression Sickness",
+      "cui": "C0011119",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "bend",
+      "detected_name": "bend",
+      "acc": 0.3964390837649348,
+      "context_similarity": 0.3964390837649348,
+      "start": 2431,
+      "end": 2435,
+      "icd10": [
+        {
+          "chapter": "T70.3",
+          "name": "Effects of caisson disease [decompression sickness]"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-157734000",
+        "S-212952000",
+        "S-212955003",
+        "S-269425003",
+        "S-363738004",
+        "S-44016006",
+        "S-48620000",
+        "S-89684003"
+      ],
+      "id": 90,
+      "meta_anns": {}
+    },
+    "98": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "erythema",
+      "detected_name": "erythema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2601,
+      "end": 2609,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 98,
+      "meta_anns": {}
+    },
+    "103": {
+      "pretty_name": "",
+      "cui": "C0949036",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "fluctuance",
+      "detected_name": "fluctuance",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2718,
+      "end": 2728,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 103,
+      "meta_anns": {}
+    },
+    "123": {
+      "pretty_name": "Tetanus",
+      "cui": "C0039614",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tetanus",
+      "detected_name": "tetanus",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3264,
+      "end": 3271,
+      "icd10": [
+        {
+          "chapter": "A35",
+          "name": "Other tetanus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154312006",
+        "S-276202003",
+        "S-76902006"
+      ],
+      "id": 123,
+      "meta_anns": {}
+    },
+    "124": {
+      "pretty_name": "Diphtheria",
+      "cui": "C0012546",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diphtheria",
+      "detected_name": "diphtheria",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3272,
+      "end": 3282,
+      "icd10": [
+        {
+          "chapter": "A36",
+          "name": "Diphtheria"
+        },
+        {
+          "chapter": "A36.9",
+          "name": "Diphtheria, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154299004",
+        "S-186349009",
+        "S-187323007",
+        "S-276197005",
+        "S-3739008",
+        "S-397428000"
+      ],
+      "id": 124,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

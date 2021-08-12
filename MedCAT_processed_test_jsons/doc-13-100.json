@@ -1,0 +1,298 @@
+{
+  "entities": {
+    "7": {
+      "pretty_name": "Renal Insufficiency",
+      "cui": "C1565489",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "renal insufficiency",
+      "detected_name": "renal~insufficiency",
+      "acc": 0.4142630939174957,
+      "context_similarity": 0.4142630939174957,
+      "start": 269,
+      "end": 288,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-197657007",
+        "S-236423003"
+      ],
+      "id": 7,
+      "meta_anns": {}
+    },
+    "28": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease",
+      "detected_name": "disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 921,
+      "end": 928,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 28,
+      "meta_anns": {}
+    },
+    "34": {
+      "pretty_name": "Hiatal Hernia",
+      "cui": "C3489393",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hiatal hernia",
+      "detected_name": "hiatal~hernia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1058,
+      "end": 1071,
+      "icd10": [
+        {
+          "chapter": "K46",
+          "name": "Unspecified abdominal hernia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155748004",
+        "S-196901006",
+        "S-196914007",
+        "S-266511003",
+        "S-309811003",
+        "S-84089009"
+      ],
+      "id": 34,
+      "meta_anns": {}
+    },
+    "65": {
+      "pretty_name": "Simple renal cyst",
+      "cui": "C0268800",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "renal cyst",
+      "detected_name": "renal~cyst",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1713,
+      "end": 1723,
+      "icd10": [
+        {
+          "chapter": "Q61.0",
+          "name": "Congenital single renal cyst"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-77945009"
+      ],
+      "id": 65,
+      "meta_anns": {}
+    },
+    "92": {
+      "pretty_name": "",
+      "cui": "C0015458",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "HFA",
+      "detected_name": "hfa",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2597,
+      "end": 2600,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-29868009",
+        "S-718224004",
+        "S-95834000"
+      ],
+      "id": 92,
+      "meta_anns": {}
+    },
+    "137": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adenopathy",
+      "detected_name": "adenopathy",
+      "acc": 0.9488340187535089,
+      "context_similarity": 0.9488340187535089,
+      "start": 3630,
+      "end": 3640,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 137,
+      "meta_anns": {}
+    },
+    "168": {
+      "pretty_name": "Cyst",
+      "cui": "C0010709",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cyst",
+      "detected_name": "cyst",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 4222,
+      "end": 4226,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-12494005",
+        "S-133846001",
+        "S-264515009",
+        "S-367643001",
+        "S-441457006"
+      ],
+      "id": 168,
+      "meta_anns": {}
+    },
+    "172": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 4243,
+      "end": 4255,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 172,
+      "meta_anns": {}
+    },
+    "174": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease",
+      "detected_name": "disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4276,
+      "end": 4283,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 174,
+      "meta_anns": {}
+    },
+    "181": {
+      "pretty_name": "Cyst",
+      "cui": "C0010709",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cyst",
+      "detected_name": "cyst",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 4436,
+      "end": 4440,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-12494005",
+        "S-133846001",
+        "S-264515009",
+        "S-367643001",
+        "S-441457006"
+      ],
+      "id": 181,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

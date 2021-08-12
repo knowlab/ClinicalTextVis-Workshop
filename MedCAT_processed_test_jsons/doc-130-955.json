@@ -1,0 +1,422 @@
+{
+  "entities": {
+    "14": {
+      "pretty_name": "Heart Diseases",
+      "cui": "C0018799",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "heart disease",
+      "detected_name": "heart~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 149,
+      "end": 162,
+      "icd10": [
+        {
+          "chapter": "I51.9",
+          "name": "Heart disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155263000",
+        "S-194707003",
+        "S-195152001",
+        "S-266275004",
+        "S-266311004",
+        "S-56265001"
+      ],
+      "id": 14,
+      "meta_anns": {}
+    },
+    "17": {
+      "pretty_name": "Myocardial Infarction",
+      "cui": "C0027051",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "MI",
+      "detected_name": "mi",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 189,
+      "end": 191,
+      "icd10": [
+        {
+          "chapter": "I22",
+          "name": "Subsequent ST elevation (STEMI) and non-ST elevation (NSTEMI) myocardial infarction"
+        },
+        {
+          "chapter": "I21",
+          "name": "Acute myocardial infarction"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155304006",
+        "S-194796000",
+        "S-22298006",
+        "S-233824008",
+        "S-266288001",
+        "S-66514008"
+      ],
+      "id": 17,
+      "meta_anns": {}
+    },
+    "18": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary artery disease",
+      "detected_name": "coronary~artery~disease",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 196,
+      "end": 219,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 18,
+      "meta_anns": {}
+    },
+    "24": {
+      "pretty_name": "Hypercholesterolemia",
+      "cui": "C0020443",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypercholesterolemia",
+      "detected_name": "hypercholesterolemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 249,
+      "end": 269,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-13644009",
+        "S-154740003",
+        "S-267500001"
+      ],
+      "id": 24,
+      "meta_anns": {}
+    },
+    "26": {
+      "pretty_name": "Hyperthyroidism",
+      "cui": "C0020550",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hyperthyroidism",
+      "detected_name": "hyperthyroidism",
+      "acc": 0.509018676920943,
+      "context_similarity": 0.509018676920943,
+      "start": 308,
+      "end": 323,
+      "icd10": [
+        {
+          "chapter": "E05.9",
+          "name": "Thyrotoxicosis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154655004",
+        "S-190239004",
+        "S-267464006",
+        "S-34486009"
+      ],
+      "id": 26,
+      "meta_anns": {}
+    },
+    "30": {
+      "pretty_name": "",
+      "cui": "C0859969",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "chronic diverticulitis",
+      "detected_name": "chronic~diverticulitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 374,
+      "end": 396,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 30,
+      "meta_anns": {}
+    },
+    "59": {
+      "pretty_name": "",
+      "cui": "C0741923",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cardiac event",
+      "detected_name": "cardiac~event",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1141,
+      "end": 1154,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 59,
+      "meta_anns": {}
+    },
+    "77": {
+      "pretty_name": "Heart Diseases",
+      "cui": "C0018799",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "heart disease",
+      "detected_name": "heart~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1396,
+      "end": 1409,
+      "icd10": [
+        {
+          "chapter": "I51.9",
+          "name": "Heart disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155263000",
+        "S-194707003",
+        "S-195152001",
+        "S-266275004",
+        "S-266311004",
+        "S-56265001"
+      ],
+      "id": 77,
+      "meta_anns": {}
+    },
+    "83": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary artery disease",
+      "detected_name": "coronary~artery~disease",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1526,
+      "end": 1549,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 83,
+      "meta_anns": {}
+    },
+    "86": {
+      "pretty_name": "",
+      "cui": "C0042373",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "vascular",
+      "detected_name": "vascular",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1563,
+      "end": 1571,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-27550009"
+      ],
+      "id": 86,
+      "meta_anns": {}
+    },
+    "87": {
+      "pretty_name": "Cerebrovascular accident",
+      "cui": "C0038454",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "strokes",
+      "detected_name": "stroke",
+      "acc": 0.9812886756054511,
+      "context_similarity": 0.9812886756054511,
+      "start": 1572,
+      "end": 1579,
+      "icd10": [
+        {
+          "chapter": "I64",
+          "name": "Stroke, not specified as haemorrhage or infarction"
+        },
+        {
+          "chapter": "I63.9",
+          "name": "Cerebral infarction, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155388006",
+        "S-155405006",
+        "S-195208004",
+        "S-230690007",
+        "S-266312006",
+        "S-266315008",
+        "S-270883006",
+        "S-313267000",
+        "S-82797006"
+      ],
+      "id": 87,
+      "meta_anns": {}
+    },
+    "158": {
+      "pretty_name": "Hypercholesterolemia",
+      "cui": "C0020443",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypercholesterolemia",
+      "detected_name": "hypercholesterolemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2829,
+      "end": 2849,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-13644009",
+        "S-154740003",
+        "S-267500001"
+      ],
+      "id": 158,
+      "meta_anns": {}
+    },
+    "159": {
+      "pretty_name": "Hypothyroidism",
+      "cui": "C0020676",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypothyroidism",
+      "detected_name": "hypothyroidism",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2855,
+      "end": 2869,
+      "icd10": [
+        {
+          "chapter": "E03.9",
+          "name": "Hypothyroidism, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154660000",
+        "S-190274003",
+        "S-190290003",
+        "S-237572004",
+        "S-267377003",
+        "S-267465007",
+        "S-40930008"
+      ],
+      "id": 159,
+      "meta_anns": {}
+    },
+    "162": {
+      "pretty_name": "Thyroid Diseases",
+      "cui": "C0040128",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "thyroid",
+      "detected_name": "thyroid",
+      "acc": 0.49601550937553035,
+      "context_similarity": 0.49601550937553035,
+      "start": 2891,
+      "end": 2898,
+      "icd10": [
+        {
+          "chapter": "E00-E07.9",
+          "name": "Disorders of thyroid gland"
+        },
+        {
+          "chapter": "E07.9",
+          "name": "Disorder of thyroid, unspecified"
+        },
+        {
+          "chapter": "E00-E07",
+          "name": "Disorders of thyroid gland (E00-E07)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-14304000",
+        "S-154649009",
+        "S-190232008",
+        "S-190311002",
+        "S-191036006"
+      ],
+      "id": 162,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,49 @@
+{
+  "entities": {
+    "89": {
+      "pretty_name": "Inferior Wall Myocardial Infarction",
+      "cui": "C0340305",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "inferior myocardial infarction",
+      "detected_name": "inferior~myocardial~infarction",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2704,
+      "end": 2734,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194804002"
+      ],
+      "id": 89,
+      "meta_anns": {}
+    },
+    "92": {
+      "pretty_name": "minor",
+      "cui": "C1446899",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "minor",
+      "detected_name": "minor",
+      "acc": 0.9886573454439883,
+      "context_similarity": 0.9886573454439883,
+      "start": 2745,
+      "end": 2750,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 92,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

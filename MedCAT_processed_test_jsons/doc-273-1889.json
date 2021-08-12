@@ -1,0 +1,168 @@
+{
+  "entities": {
+    "4": {
+      "pretty_name": "Ureterolithiasis",
+      "cui": "C0041952",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ureteral stone",
+      "detected_name": "ureteral~stone",
+      "acc": 0.38929054055109746,
+      "context_similarity": 0.38929054055109746,
+      "start": 44,
+      "end": 58,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-31054009",
+        "S-95573009"
+      ],
+      "id": 4,
+      "meta_anns": {}
+    },
+    "10": {
+      "pretty_name": "Ureteral Calculi",
+      "cui": "C1456865",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ureteral stone",
+      "detected_name": "ureteral~stone",
+      "acc": 0.45014762711231415,
+      "context_similarity": 0.45014762711231415,
+      "start": 206,
+      "end": 220,
+      "icd10": [
+        {
+          "chapter": "N20.1",
+          "name": "Calculus of ureter"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155869008"
+      ],
+      "id": 10,
+      "meta_anns": {}
+    },
+    "17": {
+      "pretty_name": "Hematuria",
+      "cui": "C0018965",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hematuria",
+      "detected_name": "hematuria",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 488,
+      "end": 497,
+      "icd10": [
+        {
+          "chapter": "R31",
+          "name": "Unspecified haematuria"
+        },
+        {
+          "chapter": "R31.9",
+          "name": "Hematuria, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139414003",
+        "S-139416001",
+        "S-155895005",
+        "S-162136002",
+        "S-197937006",
+        "S-266568001",
+        "S-267066000",
+        "S-267167006",
+        "S-267168001",
+        "S-307414005",
+        "S-34436003",
+        "S-53298000"
+      ],
+      "id": 17,
+      "meta_anns": {}
+    },
+    "32": {
+      "pretty_name": "Epilepsy",
+      "cui": "C0014544",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "seizure disorder",
+      "detected_name": "seizure~disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 740,
+      "end": 756,
+      "icd10": [
+        {
+          "chapter": "G40",
+          "name": "Epilepsy"
+        },
+        {
+          "chapter": "G40.9",
+          "name": "Epilepsy, unspecified"
+        },
+        {
+          "chapter": "G40.909",
+          "name": "Epilepsy, unspecified, not intractable, without status epilepticus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128613002",
+        "S-155036009",
+        "S-155045005",
+        "S-193026007",
+        "S-246545002",
+        "S-267593008",
+        "S-267698007",
+        "S-271788002",
+        "S-84757009"
+      ],
+      "id": 32,
+      "meta_anns": {}
+    },
+    "71": {
+      "pretty_name": "Ureterolithiasis",
+      "cui": "C0041952",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ureteral stone",
+      "detected_name": "ureteral~stone",
+      "acc": 0.2976642280294618,
+      "context_similarity": 0.2976642280294618,
+      "start": 1332,
+      "end": 1346,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-31054009",
+        "S-95573009"
+      ],
+      "id": 71,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

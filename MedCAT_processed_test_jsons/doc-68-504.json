@@ -1,0 +1,77 @@
+{
+  "entities": {
+    "60": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "erythema",
+      "detected_name": "erythema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1346,
+      "end": 1354,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 60,
+      "meta_anns": {}
+    },
+    "105": {
+      "pretty_name": "",
+      "cui": "C0152517",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Viral gastroenteritis",
+      "detected_name": "viral~gastroenteritis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2395,
+      "end": 2416,
+      "icd10": [
+        {
+          "chapter": "A08.4",
+          "name": "Viral intestinal infection, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-111843007",
+        "S-154277007",
+        "S-154278002",
+        "S-186149001",
+        "S-186151002",
+        "S-186166004",
+        "S-266079003",
+        "S-266178009",
+        "S-266179001",
+        "S-66550001"
+      ],
+      "id": 105,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

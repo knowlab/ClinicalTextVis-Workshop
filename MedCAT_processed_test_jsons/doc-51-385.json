@@ -1,0 +1,58 @@
+{
+  "entities": {
+    "105": {
+      "pretty_name": "Compartment syndromes",
+      "cui": "C0009492",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "compartment syndrome",
+      "detected_name": "compartment~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2386,
+      "end": 2406,
+      "icd10": [
+        {
+          "chapter": "T79.A0",
+          "name": "Compartment syndrome, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-111245009",
+        "S-212379008",
+        "S-45781009"
+      ],
+      "id": 105,
+      "meta_anns": {}
+    },
+    "145": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disorder",
+      "detected_name": "disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3436,
+      "end": 3444,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 145,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

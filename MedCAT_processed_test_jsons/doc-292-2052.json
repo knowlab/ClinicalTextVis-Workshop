@@ -1,0 +1,607 @@
+{
+  "entities": {
+    "39": {
+      "pretty_name": "Recurrent urinary tract infection",
+      "cui": "C0262655",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "recurrent UTIs",
+      "detected_name": "recurrent~utis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1003,
+      "end": 1017,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-139466007",
+        "S-155901008",
+        "S-162183000",
+        "S-197924008",
+        "S-197927001",
+        "S-266636004",
+        "S-315242001"
+      ],
+      "id": 39,
+      "meta_anns": {}
+    },
+    "42": {
+      "pretty_name": "Urinary tract infection",
+      "cui": "C0042029",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "urinary tract infection",
+      "detected_name": "urinary~tract~infection",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1076,
+      "end": 1099,
+      "icd10": [
+        {
+          "chapter": "N39.0",
+          "name": "Urinary tract infection, site not specified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155896006",
+        "S-155897002",
+        "S-197924008",
+        "S-197930008",
+        "S-266634001",
+        "S-266635000",
+        "S-274110008",
+        "S-68566005"
+      ],
+      "id": 42,
+      "meta_anns": {}
+    },
+    "44": {
+      "pretty_name": "Incontinence",
+      "cui": "C0021167",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "incontinence",
+      "detected_name": "incontinence",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1118,
+      "end": 1130,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-48340000"
+      ],
+      "id": 44,
+      "meta_anns": {}
+    },
+    "50": {
+      "pretty_name": "",
+      "cui": "C0586324",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "right-sided CVA",
+      "detected_name": "right~sided~cva",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1274,
+      "end": 1289,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-195217004"
+      ],
+      "id": 50,
+      "meta_anns": {}
+    },
+    "52": {
+      "pretty_name": "Atrial Fibrillation",
+      "cui": "C0004238",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "atrial fibrillation",
+      "detected_name": "atrial~fibrillation",
+      "acc": 0.826806579518151,
+      "context_similarity": 0.826806579518151,
+      "start": 1304,
+      "end": 1323,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155364009",
+        "S-266306001",
+        "S-49436004"
+      ],
+      "id": 52,
+      "meta_anns": {}
+    },
+    "57": {
+      "pretty_name": "Neuropathy",
+      "cui": "C0442874",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "neuropathy",
+      "detected_name": "neuropathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1390,
+      "end": 1400,
+      "icd10": [
+        {
+          "chapter": "G62.9",
+          "name": "Polyneuropathy, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-193167000",
+        "S-264554005",
+        "S-277317008",
+        "S-277878001",
+        "S-386033004",
+        "S-42658009"
+      ],
+      "id": 57,
+      "meta_anns": {}
+    },
+    "59": {
+      "pretty_name": "Cerebrovascular accident",
+      "cui": "C0038454",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "stroke",
+      "detected_name": "stroke",
+      "acc": 0.7288985875181779,
+      "context_similarity": 0.7288985875181779,
+      "start": 1464,
+      "end": 1470,
+      "icd10": [
+        {
+          "chapter": "I64",
+          "name": "Stroke, not specified as haemorrhage or infarction"
+        },
+        {
+          "chapter": "I63.9",
+          "name": "Cerebral infarction, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155388006",
+        "S-155405006",
+        "S-195208004",
+        "S-230690007",
+        "S-266312006",
+        "S-266315008",
+        "S-270883006",
+        "S-313267000",
+        "S-82797006"
+      ],
+      "id": 59,
+      "meta_anns": {}
+    },
+    "63": {
+      "pretty_name": "Hypothyroidism",
+      "cui": "C0020676",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypothyroidism",
+      "detected_name": "hypothyroidism",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1494,
+      "end": 1508,
+      "icd10": [
+        {
+          "chapter": "E03.9",
+          "name": "Hypothyroidism, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154660000",
+        "S-190274003",
+        "S-190290003",
+        "S-237572004",
+        "S-267377003",
+        "S-267465007",
+        "S-40930008"
+      ],
+      "id": 63,
+      "meta_anns": {}
+    },
+    "81": {
+      "pretty_name": "",
+      "cui": "C0242073",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "chest congestion",
+      "detected_name": "chest~congestion",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1737,
+      "end": 1753,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-196118009",
+        "S-266408001",
+        "S-67599009"
+      ],
+      "id": 81,
+      "meta_anns": {}
+    },
+    "101": {
+      "pretty_name": "Recurrent urinary tract infection",
+      "cui": "C0262655",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "frequent urinary tract infection",
+      "detected_name": "frequent~urinary~tract~infection",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1924,
+      "end": 1956,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-139466007",
+        "S-155901008",
+        "S-162183000",
+        "S-197924008",
+        "S-197927001",
+        "S-266636004",
+        "S-315242001"
+      ],
+      "id": 101,
+      "meta_anns": {}
+    },
+    "177": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obese",
+      "detected_name": "obese",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3247,
+      "end": 3252,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 177,
+      "meta_anns": {}
+    },
+    "198": {
+      "pretty_name": "Urinary tract infection",
+      "cui": "C0042029",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "UTI",
+      "detected_name": "uti",
+      "acc": 0.33891262692024116,
+      "context_similarity": 0.33891262692024116,
+      "start": 3990,
+      "end": 3993,
+      "icd10": [
+        {
+          "chapter": "N39.0",
+          "name": "Urinary tract infection, site not specified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155896006",
+        "S-155897002",
+        "S-197924008",
+        "S-197930008",
+        "S-266634001",
+        "S-266635000",
+        "S-274110008",
+        "S-68566005"
+      ],
+      "id": 198,
+      "meta_anns": {}
+    },
+    "201": {
+      "pretty_name": "Cerebrovascular accident",
+      "cui": "C0038454",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Cerebrovascular accident",
+      "detected_name": "cerebrovascular~accident",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4016,
+      "end": 4040,
+      "icd10": [
+        {
+          "chapter": "I64",
+          "name": "Stroke, not specified as haemorrhage or infarction"
+        },
+        {
+          "chapter": "I63.9",
+          "name": "Cerebral infarction, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155388006",
+        "S-155405006",
+        "S-195208004",
+        "S-230690007",
+        "S-266312006",
+        "S-266315008",
+        "S-270883006",
+        "S-313267000",
+        "S-82797006"
+      ],
+      "id": 201,
+      "meta_anns": {}
+    },
+    "214": {
+      "pretty_name": "Urinary tract infection",
+      "cui": "C0042029",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "urinary tract infection",
+      "detected_name": "urinary~tract~infection",
+      "acc": 0.9031191456653413,
+      "context_similarity": 0.9031191456653413,
+      "start": 4464,
+      "end": 4487,
+      "icd10": [
+        {
+          "chapter": "N39.0",
+          "name": "Urinary tract infection, site not specified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155896006",
+        "S-155897002",
+        "S-197924008",
+        "S-197930008",
+        "S-266634001",
+        "S-266635000",
+        "S-274110008",
+        "S-68566005"
+      ],
+      "id": 214,
+      "meta_anns": {}
+    },
+    "218": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.24425575404057662,
+      "context_similarity": 0.24425575404057662,
+      "start": 4543,
+      "end": 4551,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 218,
+      "meta_anns": {}
+    },
+    "219": {
+      "pretty_name": "Hypoglycemia",
+      "cui": "C0020615",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypoglycemia",
+      "detected_name": "hypoglycemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 4568,
+      "end": 4580,
+      "icd10": [
+        {
+          "chapter": "E16.2",
+          "name": "Hypoglycaemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154691006",
+        "S-154693009",
+        "S-190433001",
+        "S-190436009",
+        "S-237630007",
+        "S-271327008",
+        "S-302866003",
+        "S-66694000"
+      ],
+      "id": 219,
+      "meta_anns": {}
+    },
+    "230": {
+      "pretty_name": "Neuropathy",
+      "cui": "C0442874",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Neuropathy",
+      "detected_name": "neuropathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4796,
+      "end": 4806,
+      "icd10": [
+        {
+          "chapter": "G62.9",
+          "name": "Polyneuropathy, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-193167000",
+        "S-264554005",
+        "S-277317008",
+        "S-277878001",
+        "S-386033004",
+        "S-42658009"
+      ],
+      "id": 230,
+      "meta_anns": {}
+    },
+    "234": {
+      "pretty_name": "Hypothyroidism",
+      "cui": "C0020676",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypothyroidism",
+      "detected_name": "hypothyroidism",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 4899,
+      "end": 4913,
+      "icd10": [
+        {
+          "chapter": "E03.9",
+          "name": "Hypothyroidism, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154660000",
+        "S-190274003",
+        "S-190290003",
+        "S-237572004",
+        "S-267377003",
+        "S-267465007",
+        "S-40930008"
+      ],
+      "id": 234,
+      "meta_anns": {}
+    },
+    "236": {
+      "pretty_name": "Hyperlipidemia",
+      "cui": "C0020473",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hyperlipidemia",
+      "detected_name": "hyperlipidemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 4939,
+      "end": 4953,
+      "icd10": [
+        {
+          "chapter": "E78.5",
+          "name": "Hyperlipidaemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154739000",
+        "S-154743001",
+        "S-190782002",
+        "S-267499005",
+        "S-55822004"
+      ],
+      "id": 236,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

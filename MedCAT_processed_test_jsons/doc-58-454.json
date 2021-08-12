@@ -1,0 +1,279 @@
+{
+  "entities": {
+    "34": {
+      "pretty_name": "Tetanus",
+      "cui": "C0039614",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tetanus",
+      "detected_name": "tetanus",
+      "acc": 0.18358658305062447,
+      "context_similarity": 0.18358658305062447,
+      "start": 965,
+      "end": 972,
+      "icd10": [
+        {
+          "chapter": "A35",
+          "name": "Other tetanus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154312006",
+        "S-276202003",
+        "S-76902006"
+      ],
+      "id": 34,
+      "meta_anns": {}
+    },
+    "72": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adenopathy",
+      "detected_name": "adenopathy",
+      "acc": 0.680709814218913,
+      "context_similarity": 0.680709814218913,
+      "start": 1885,
+      "end": 1895,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 72,
+      "meta_anns": {}
+    },
+    "87": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adenopathy",
+      "detected_name": "adenopathy",
+      "acc": 0.6630403856692805,
+      "context_similarity": 0.6630403856692805,
+      "start": 2094,
+      "end": 2104,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 87,
+      "meta_anns": {}
+    },
+    "99": {
+      "pretty_name": "Eczema",
+      "cui": "C0013595",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "eczematous dermatitis",
+      "detected_name": "eczematous~dermatitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2419,
+      "end": 2440,
+      "icd10": [
+        {
+          "chapter": "L30.9",
+          "name": "Dermatitis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156326000",
+        "S-156358005",
+        "S-200885007",
+        "S-238538009",
+        "S-267797006",
+        "S-267847004",
+        "S-281104002",
+        "S-43116000"
+      ],
+      "id": 99,
+      "meta_anns": {}
+    },
+    "102": {
+      "pretty_name": "Rhinitis",
+      "cui": "C0035455",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Rhinitis",
+      "detected_name": "rhinitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2526,
+      "end": 2534,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-70076002"
+      ],
+      "id": 102,
+      "meta_anns": {}
+    },
+    "103": {
+      "pretty_name": "Eczema",
+      "cui": "C0013595",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Eczematous dermatitis",
+      "detected_name": "eczematous~dermatitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2595,
+      "end": 2616,
+      "icd10": [
+        {
+          "chapter": "L30.9",
+          "name": "Dermatitis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156326000",
+        "S-156358005",
+        "S-200885007",
+        "S-238538009",
+        "S-267797006",
+        "S-267847004",
+        "S-281104002",
+        "S-43116000"
+      ],
+      "id": 103,
+      "meta_anns": {}
+    },
+    "106": {
+      "pretty_name": "",
+      "cui": "C0035460",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "vasomotor rhinitis",
+      "detected_name": "vasomotor~rhinitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2660,
+      "end": 2678,
+      "icd10": [
+        {
+          "chapter": "J30.0",
+          "name": "Vasomotor rhinitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155537009",
+        "S-266386004",
+        "S-8229003"
+      ],
+      "id": 106,
+      "meta_anns": {}
+    },
+    "116": {
+      "pretty_name": "Eczema",
+      "cui": "C0013595",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "eczematous dermatitis",
+      "detected_name": "eczematous~dermatitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2920,
+      "end": 2941,
+      "icd10": [
+        {
+          "chapter": "L30.9",
+          "name": "Dermatitis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156326000",
+        "S-156358005",
+        "S-200885007",
+        "S-238538009",
+        "S-267797006",
+        "S-267847004",
+        "S-281104002",
+        "S-43116000"
+      ],
+      "id": 116,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

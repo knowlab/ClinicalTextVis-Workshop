@@ -1,0 +1,658 @@
+{
+  "entities": {
+    "12": {
+      "pretty_name": "Hyperthyroidism",
+      "cui": "C0020550",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hyperthyroidism",
+      "detected_name": "hyperthyroidism",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 194,
+      "end": 209,
+      "icd10": [
+        {
+          "chapter": "E05.9",
+          "name": "Thyrotoxicosis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154655004",
+        "S-190239004",
+        "S-267464006",
+        "S-34486009"
+      ],
+      "id": 12,
+      "meta_anns": {}
+    },
+    "16": {
+      "pretty_name": "Atrial Fibrillation",
+      "cui": "C0004238",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "atrial fibrillation",
+      "detected_name": "atrial~fibrillation",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 250,
+      "end": 269,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155364009",
+        "S-266306001",
+        "S-49436004"
+      ],
+      "id": 16,
+      "meta_anns": {}
+    },
+    "18": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "congestive cardiac failure",
+      "detected_name": "congestive~cardiac~failure",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 274,
+      "end": 300,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 18,
+      "meta_anns": {}
+    },
+    "22": {
+      "pretty_name": "Atrial Fibrillation",
+      "cui": "C0004238",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "atrial fibrillation",
+      "detected_name": "atrial~fibrillation",
+      "acc": 0.9801690965978281,
+      "context_similarity": 0.9801690965978281,
+      "start": 408,
+      "end": 427,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155364009",
+        "S-266306001",
+        "S-49436004"
+      ],
+      "id": 22,
+      "meta_anns": {}
+    },
+    "25": {
+      "pretty_name": "Hyperthyroidism",
+      "cui": "C0020550",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hyperthyroidism",
+      "detected_name": "hyperthyroidism",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 441,
+      "end": 456,
+      "icd10": [
+        {
+          "chapter": "E05.9",
+          "name": "Thyrotoxicosis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154655004",
+        "S-190239004",
+        "S-267464006",
+        "S-34486009"
+      ],
+      "id": 25,
+      "meta_anns": {}
+    },
+    "26": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "congestive cardiac failure",
+      "detected_name": "congestive~cardiac~failure",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 475,
+      "end": 501,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 26,
+      "meta_anns": {}
+    },
+    "30": {
+      "pretty_name": "Atrial Fibrillation",
+      "cui": "C0004238",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "atrial fibrillation",
+      "detected_name": "atrial~fibrillation",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 600,
+      "end": 619,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155364009",
+        "S-266306001",
+        "S-49436004"
+      ],
+      "id": 30,
+      "meta_anns": {}
+    },
+    "34": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "congestive cardiac failure",
+      "detected_name": "congestive~cardiac~failure",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 721,
+      "end": 747,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 34,
+      "meta_anns": {}
+    },
+    "38": {
+      "pretty_name": "Hyperthyroidism",
+      "cui": "C0020550",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hyperthyroidism",
+      "detected_name": "hyperthyroidism",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 801,
+      "end": 816,
+      "icd10": [
+        {
+          "chapter": "E05.9",
+          "name": "Thyrotoxicosis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154655004",
+        "S-190239004",
+        "S-267464006",
+        "S-34486009"
+      ],
+      "id": 38,
+      "meta_anns": {}
+    },
+    "50": {
+      "pretty_name": "Hepatitis",
+      "cui": "C0019158",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hepatitis",
+      "detected_name": "hepatitis",
+      "acc": 0.4895429420081905,
+      "context_similarity": 0.4895429420081905,
+      "start": 1290,
+      "end": 1299,
+      "icd10": [
+        {
+          "chapter": "K75.9",
+          "name": "Inflammatory liver disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128241005",
+        "S-197351001",
+        "S-197353003",
+        "S-29001004"
+      ],
+      "id": 50,
+      "meta_anns": {}
+    },
+    "51": {
+      "pretty_name": "Hepatitis",
+      "cui": "C0019158",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hepatitis",
+      "detected_name": "hepatitis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1344,
+      "end": 1353,
+      "icd10": [
+        {
+          "chapter": "K75.9",
+          "name": "Inflammatory liver disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128241005",
+        "S-197351001",
+        "S-197353003",
+        "S-29001004"
+      ],
+      "id": 51,
+      "meta_anns": {}
+    },
+    "54": {
+      "pretty_name": "Hepatitis A",
+      "cui": "C0019159",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hepatitis A",
+      "detected_name": "hepatitis~a",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1385,
+      "end": 1396,
+      "icd10": [
+        {
+          "chapter": "B19",
+          "name": "Unspecified viral hepatitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154347003",
+        "S-40468003"
+      ],
+      "id": 54,
+      "meta_anns": {}
+    },
+    "94": {
+      "pretty_name": "Hyperthyroidism",
+      "cui": "C0020550",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hyperthyroidism",
+      "detected_name": "hyperthyroidism",
+      "acc": 0.7812566790874167,
+      "context_similarity": 0.7812566790874167,
+      "start": 2437,
+      "end": 2452,
+      "icd10": [
+        {
+          "chapter": "E05.9",
+          "name": "Thyrotoxicosis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154655004",
+        "S-190239004",
+        "S-267464006",
+        "S-34486009"
+      ],
+      "id": 94,
+      "meta_anns": {}
+    },
+    "98": {
+      "pretty_name": "Hyperthyroidism",
+      "cui": "C0020550",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hyperthyroidism",
+      "detected_name": "hyperthyroidism",
+      "acc": 0.8893200474208922,
+      "context_similarity": 0.8893200474208922,
+      "start": 2645,
+      "end": 2660,
+      "icd10": [
+        {
+          "chapter": "E05.9",
+          "name": "Thyrotoxicosis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154655004",
+        "S-190239004",
+        "S-267464006",
+        "S-34486009"
+      ],
+      "id": 98,
+      "meta_anns": {}
+    },
+    "99": {
+      "pretty_name": "Atrial Fibrillation",
+      "cui": "C0004238",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "atrial fibrillation",
+      "detected_name": "atrial~fibrillation",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2676,
+      "end": 2695,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155364009",
+        "S-266306001",
+        "S-49436004"
+      ],
+      "id": 99,
+      "meta_anns": {}
+    },
+    "105": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "congestive cardiac failure",
+      "detected_name": "congestive~cardiac~failure",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3035,
+      "end": 3061,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 105,
+      "meta_anns": {}
+    },
+    "107": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "congestive cardiac failure",
+      "detected_name": "congestive~cardiac~failure",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3077,
+      "end": 3103,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 107,
+      "meta_anns": {}
+    },
+    "124": {
+      "pretty_name": "Liver diseases",
+      "cui": "C0023895",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "liver",
+      "detected_name": "liver",
+      "acc": 0.38033762801769044,
+      "context_similarity": 0.38033762801769044,
+      "start": 3680,
+      "end": 3685,
+      "icd10": [
+        {
+          "chapter": "K70-K77.9",
+          "name": "Diseases of liver"
+        },
+        {
+          "chapter": "K76.9",
+          "name": "Liver disease, unspecified"
+        },
+        {
+          "chapter": "K70-K77",
+          "name": "Diseases of liver (K70-K77)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155807008",
+        "S-155817003",
+        "S-155822003",
+        "S-197375001",
+        "S-197551000",
+        "S-235856003",
+        "S-266535008",
+        "S-62857009"
+      ],
+      "id": 124,
+      "meta_anns": {}
+    },
+    "129": {
+      "pretty_name": "",
+      "cui": "C0267821",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hepatic congestion",
+      "detected_name": "hepatic~congestion",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3750,
+      "end": 3768,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-76281005"
+      ],
+      "id": 129,
+      "meta_anns": {}
+    },
+    "132": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "congestive cardiac failure",
+      "detected_name": "congestive~cardiac~failure",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3782,
+      "end": 3808,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 132,
+      "meta_anns": {}
+    },
+    "137": {
+      "pretty_name": "Hepatitis",
+      "cui": "C0019158",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hepatitis",
+      "detected_name": "hepatitis",
+      "acc": 0.5859466359499756,
+      "context_similarity": 0.5859466359499756,
+      "start": 3845,
+      "end": 3854,
+      "icd10": [
+        {
+          "chapter": "K75.9",
+          "name": "Inflammatory liver disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128241005",
+        "S-197351001",
+        "S-197353003",
+        "S-29001004"
+      ],
+      "id": 137,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

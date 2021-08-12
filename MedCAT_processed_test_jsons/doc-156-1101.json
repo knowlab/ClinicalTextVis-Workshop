@@ -1,0 +1,69 @@
+{
+  "entities": {
+    "91": {
+      "pretty_name": "Arthropathy",
+      "cui": "C0022408",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "arthrosis",
+      "detected_name": "arthrosis",
+      "acc": 0.6924010565343799,
+      "context_similarity": 0.6924010565343799,
+      "start": 2365,
+      "end": 2374,
+      "icd10": [
+        {
+          "chapter": "M00-M25.9",
+          "name": "Arthropathies"
+        },
+        {
+          "chapter": "M15-M19.9",
+          "name": "Arthrosis"
+        },
+        {
+          "chapter": "M25.9",
+          "name": "Joint disorder, unspecified"
+        },
+        {
+          "chapter": "M19.9",
+          "name": "Arthrosis, unspecified"
+        },
+        {
+          "chapter": "M12.9",
+          "name": "Arthropathy, unspecified"
+        },
+        {
+          "chapter": "M19.90",
+          "name": "Unspecified osteoarthritis, unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156508002",
+        "S-156514009",
+        "S-156616003",
+        "S-202059001",
+        "S-202061005",
+        "S-202073005",
+        "S-202634006",
+        "S-202635007",
+        "S-202645009",
+        "S-202647001",
+        "S-203747002",
+        "S-267904003",
+        "S-268051001",
+        "S-268056006",
+        "S-268070006",
+        "S-399269003",
+        "S-8316001"
+      ],
+      "id": 91,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

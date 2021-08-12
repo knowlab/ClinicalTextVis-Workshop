@@ -1,0 +1,266 @@
+{
+  "entities": {
+    "22": {
+      "pretty_name": "Tendinosis",
+      "cui": "C1568363",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tendinosis",
+      "detected_name": "tendinosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 716,
+      "end": 726,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-430671000124105",
+        "S-724152009"
+      ],
+      "id": 22,
+      "meta_anns": {}
+    },
+    "47": {
+      "pretty_name": "Synovitis",
+      "cui": "C0039103",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "synovitis",
+      "detected_name": "synovitis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1464,
+      "end": 1473,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-14107000",
+        "S-156666009",
+        "S-268092005",
+        "S-416209007"
+      ],
+      "id": 47,
+      "meta_anns": {}
+    },
+    "51": {
+      "pretty_name": "Tendinosis",
+      "cui": "C1568363",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tendinosis",
+      "detected_name": "tendinosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1648,
+      "end": 1658,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-430671000124105",
+        "S-724152009"
+      ],
+      "id": 51,
+      "meta_anns": {}
+    },
+    "65": {
+      "pretty_name": "",
+      "cui": "C0158322",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "calcaneal spur",
+      "detected_name": "calcaneal~spur",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2229,
+      "end": 2243,
+      "icd10": [
+        {
+          "chapter": "M77.3",
+          "name": "Calcaneal spur"
+        },
+        {
+          "chapter": "M77.30",
+          "name": "Calcaneal spur, unspecified foot"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156663001",
+        "S-268090002",
+        "S-55260003"
+      ],
+      "id": 65,
+      "meta_anns": {}
+    },
+    "67": {
+      "pretty_name": "Hyperemia",
+      "cui": "C0020452",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "engorgement",
+      "detected_name": "engorgement",
+      "acc": 0.4551558127979768,
+      "context_similarity": 0.4551558127979768,
+      "start": 2261,
+      "end": 2272,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-247441003",
+        "S-30098003"
+      ],
+      "id": 67,
+      "meta_anns": {}
+    },
+    "75": {
+      "pretty_name": "Tendinosis",
+      "cui": "C1568363",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Tendinosis",
+      "detected_name": "tendinosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2679,
+      "end": 2689,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-430671000124105",
+        "S-724152009"
+      ],
+      "id": 75,
+      "meta_anns": {}
+    },
+    "83": {
+      "pretty_name": "Synovitis",
+      "cui": "C0039103",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "synovitis",
+      "detected_name": "synovitis",
+      "acc": 0.9810266802002098,
+      "context_similarity": 0.9810266802002098,
+      "start": 2934,
+      "end": 2943,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-14107000",
+        "S-156666009",
+        "S-268092005",
+        "S-416209007"
+      ],
+      "id": 83,
+      "meta_anns": {}
+    },
+    "89": {
+      "pretty_name": "Tendinosis",
+      "cui": "C1568363",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tendinosis",
+      "detected_name": "tendinosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3202,
+      "end": 3212,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-430671000124105",
+        "S-724152009"
+      ],
+      "id": 89,
+      "meta_anns": {}
+    },
+    "94": {
+      "pretty_name": "",
+      "cui": "C0149756",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "plantar fasciitis",
+      "detected_name": "plantar~fasciitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3303,
+      "end": 3320,
+      "icd10": [
+        {
+          "chapter": "M72.2",
+          "name": "Plantar fascial fibromatosis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156725003",
+        "S-202882003",
+        "S-203056001",
+        "S-2482001"
+      ],
+      "id": 94,
+      "meta_anns": {}
+    },
+    "97": {
+      "pretty_name": "Hyperemia",
+      "cui": "C0020452",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "engorgement",
+      "detected_name": "engorgement",
+      "acc": 0.33955143311698455,
+      "context_similarity": 0.33955143311698455,
+      "start": 3329,
+      "end": 3340,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-247441003",
+        "S-30098003"
+      ],
+      "id": 97,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

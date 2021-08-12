@@ -1,0 +1,150 @@
+{
+  "entities": {
+    "4": {
+      "pretty_name": "Disorder of eye",
+      "cui": "C0015397",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "eye",
+      "detected_name": "eye",
+      "acc": 0.1750580775592695,
+      "context_similarity": 0.1750580775592695,
+      "start": 71,
+      "end": 74,
+      "icd10": [
+        {
+          "chapter": "H44",
+          "name": "Disorders of globe"
+        },
+        {
+          "chapter": "H44.9",
+          "name": "Disorder of globe, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-111509007",
+        "S-155101007",
+        "S-155198005",
+        "S-193265001",
+        "S-193266000",
+        "S-193316008",
+        "S-194183009",
+        "S-264555006",
+        "S-366261005",
+        "S-371405004",
+        "S-371409005",
+        "S-79517001"
+      ],
+      "id": 4,
+      "meta_anns": {}
+    },
+    "11": {
+      "pretty_name": "",
+      "cui": "C2697368",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "GI upset",
+      "detected_name": "gi~upset",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 166,
+      "end": 174,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-95516005"
+      ],
+      "id": 11,
+      "meta_anns": {}
+    },
+    "41": {
+      "pretty_name": "Sexually Transmitted Diseases",
+      "cui": "C0036916",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "STD",
+      "detected_name": "std",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 681,
+      "end": 684,
+      "icd10": [
+        {
+          "chapter": "A50-A64.9",
+          "name": "Infections with a predominantly sexual mode of transmission"
+        },
+        {
+          "chapter": "A64",
+          "name": "Unspecified sexually transmitted disease"
+        },
+        {
+          "chapter": "A50-A64",
+          "name": "Infections with a predominantly sexual mode of transmission (A50-A64)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154378004",
+        "S-186831003",
+        "S-186949002",
+        "S-187348005",
+        "S-187367009",
+        "S-266208003",
+        "S-276972005",
+        "S-8098009"
+      ],
+      "id": 41,
+      "meta_anns": {}
+    },
+    "90": {
+      "pretty_name": "orbit",
+      "cui": "C0029182",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Orbit",
+      "detected_name": "orbit",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1611,
+      "end": 1616,
+      "icd10": [
+        {
+          "chapter": "H05",
+          "name": "Disorders of orbit"
+        },
+        {
+          "chapter": "H05.9",
+          "name": "Disorder of orbit, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-11270005",
+        "S-155200004",
+        "S-194036005",
+        "S-267746003",
+        "S-371436007"
+      ],
+      "id": 90,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

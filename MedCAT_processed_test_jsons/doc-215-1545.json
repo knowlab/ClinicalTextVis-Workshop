@@ -1,0 +1,482 @@
+{
+  "entities": {
+    "32": {
+      "pretty_name": "Anorexia",
+      "cui": "C0003123",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "anorexia",
+      "detected_name": "anorexia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 581,
+      "end": 589,
+      "icd10": [
+        {
+          "chapter": "R63.0",
+          "name": "Anorexia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-158268008",
+        "S-158272007",
+        "S-206915006",
+        "S-206917003",
+        "S-79890006"
+      ],
+      "id": 32,
+      "meta_anns": {}
+    },
+    "45": {
+      "pretty_name": "",
+      "cui": "C0037284",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "skin lesions",
+      "detected_name": "skin~lesion",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 900,
+      "end": 912,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-156439002",
+        "S-201342000",
+        "S-201344004",
+        "S-95324001"
+      ],
+      "id": 45,
+      "meta_anns": {}
+    },
+    "49": {
+      "pretty_name": "Gigantism",
+      "cui": "C0017547",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "giant",
+      "detected_name": "giant",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1045,
+      "end": 1050,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-123111004",
+        "S-154698000",
+        "S-267480001",
+        "S-80849007",
+        "S-86073008"
+      ],
+      "id": 49,
+      "meta_anns": {}
+    },
+    "65": {
+      "pretty_name": "",
+      "cui": "C0149711",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hilar adenopathy",
+      "detected_name": "hilar~adenopathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1523,
+      "end": 1539,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 65,
+      "meta_anns": {}
+    },
+    "80": {
+      "pretty_name": "Acute post-streptococcal glomerulonephritis",
+      "cui": "C0403414",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Post-streptococcal glomerulonephritis",
+      "detected_name": "post~streptococcal~glomerulonephritis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2104,
+      "end": 2141,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-68544003"
+      ],
+      "id": 80,
+      "meta_anns": {}
+    },
+    "82": {
+      "pretty_name": "Kidney Failure, Chronic",
+      "cui": "C0022661",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "End stage renal disease",
+      "detected_name": "end~stage~renal~disease",
+      "acc": 0.503956068461996,
+      "context_similarity": 0.503956068461996,
+      "start": 2156,
+      "end": 2179,
+      "icd10": [
+        {
+          "chapter": "N18",
+          "name": "Chronic renal failure"
+        },
+        {
+          "chapter": "N18.9",
+          "name": "Chronic renal failure, unspecified"
+        },
+        {
+          "chapter": "N18.0",
+          "name": "End-stage renal disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155856009",
+        "S-197654000",
+        "S-197655004",
+        "S-197755007",
+        "S-46177005",
+        "S-90688005"
+      ],
+      "id": 82,
+      "meta_anns": {}
+    },
+    "90": {
+      "pretty_name": "",
+      "cui": "C0342269",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Steroid induced diabetes mellitus",
+      "detected_name": "steroid~induced~diabetes~mellitus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2277,
+      "end": 2310,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-190415007",
+        "S-190447002"
+      ],
+      "id": 90,
+      "meta_anns": {}
+    },
+    "93": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2314,
+      "end": 2326,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 93,
+      "meta_anns": {}
+    },
+    "154": {
+      "pretty_name": "Myocardial Infarction",
+      "cui": "C0027051",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "myocardial infarction",
+      "detected_name": "myocardial~infarction",
+      "acc": 0.958125487250318,
+      "context_similarity": 0.958125487250318,
+      "start": 3380,
+      "end": 3401,
+      "icd10": [
+        {
+          "chapter": "I22",
+          "name": "Subsequent ST elevation (STEMI) and non-ST elevation (NSTEMI) myocardial infarction"
+        },
+        {
+          "chapter": "I21",
+          "name": "Acute myocardial infarction"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155304006",
+        "S-194796000",
+        "S-22298006",
+        "S-233824008",
+        "S-266288001",
+        "S-66514008"
+      ],
+      "id": 154,
+      "meta_anns": {}
+    },
+    "157": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "congestive heart failure",
+      "detected_name": "congestive~heart~failure",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3443,
+      "end": 3467,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 157,
+      "meta_anns": {}
+    },
+    "165": {
+      "pretty_name": "Ulcer",
+      "cui": "C0041582",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ulcers",
+      "detected_name": "ulcer",
+      "acc": 0.6755647844476396,
+      "context_similarity": 0.6755647844476396,
+      "start": 3568,
+      "end": 3574,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-255321001",
+        "S-429040005",
+        "S-56208002"
+      ],
+      "id": 165,
+      "meta_anns": {}
+    },
+    "167": {
+      "pretty_name": "Liver diseases",
+      "cui": "C0023895",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "liver disease",
+      "detected_name": "liver~disease",
+      "acc": 0.7720727908077567,
+      "context_similarity": 0.7720727908077567,
+      "start": 3576,
+      "end": 3589,
+      "icd10": [
+        {
+          "chapter": "K70-K77.9",
+          "name": "Diseases of liver"
+        },
+        {
+          "chapter": "K76.9",
+          "name": "Liver disease, unspecified"
+        },
+        {
+          "chapter": "K70-K77",
+          "name": "Diseases of liver (K70-K77)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155807008",
+        "S-155817003",
+        "S-155822003",
+        "S-197375001",
+        "S-197551000",
+        "S-235856003",
+        "S-266535008",
+        "S-62857009"
+      ],
+      "id": 167,
+      "meta_anns": {}
+    },
+    "172": {
+      "pretty_name": "Cholelithiasis",
+      "cui": "C0008350",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gallstones",
+      "detected_name": "gallstone",
+      "acc": 0.6802133834763202,
+      "context_similarity": 0.6802133834763202,
+      "start": 3604,
+      "end": 3614,
+      "icd10": [
+        {
+          "chapter": "K80",
+          "name": "Cholelithiasis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155823008",
+        "S-197376000",
+        "S-197403005",
+        "S-197406002",
+        "S-266474003",
+        "S-266541001",
+        "S-44900007"
+      ],
+      "id": 172,
+      "meta_anns": {}
+    },
+    "189": {
+      "pretty_name": "",
+      "cui": "C0037284",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "skin lesions",
+      "detected_name": "skin~lesion",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3969,
+      "end": 3981,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-156439002",
+        "S-201342000",
+        "S-201344004",
+        "S-95324001"
+      ],
+      "id": 189,
+      "meta_anns": {}
+    },
+    "198": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymphadenopathy",
+      "detected_name": "lymphadenopathy",
+      "acc": 0.9899023916141066,
+      "context_similarity": 0.9899023916141066,
+      "start": 4098,
+      "end": 4113,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 198,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

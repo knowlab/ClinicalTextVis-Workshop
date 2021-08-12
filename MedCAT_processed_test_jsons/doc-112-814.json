@@ -1,0 +1,202 @@
+{
+  "entities": {
+    "6": {
+      "pretty_name": "Celiac Disease",
+      "cui": "C0007570",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "celiac sprue",
+      "detected_name": "celiac~sprue",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 37,
+      "end": 49,
+      "icd10": [
+        {
+          "chapter": "K90.0",
+          "name": "Coeliac disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155842007",
+        "S-197477005",
+        "S-197481005",
+        "S-23829007",
+        "S-266478000",
+        "S-396331005"
+      ],
+      "id": 6,
+      "meta_anns": {}
+    },
+    "25": {
+      "pretty_name": "Celiac Disease",
+      "cui": "C0007570",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "celiac sprue",
+      "detected_name": "celiac~sprue",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 396,
+      "end": 408,
+      "icd10": [
+        {
+          "chapter": "K90.0",
+          "name": "Coeliac disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155842007",
+        "S-197477005",
+        "S-197481005",
+        "S-23829007",
+        "S-266478000",
+        "S-396331005"
+      ],
+      "id": 25,
+      "meta_anns": {}
+    },
+    "54": {
+      "pretty_name": "Nephrolithiasis",
+      "cui": "C0392525",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "kidney stone",
+      "detected_name": "kidney~stone",
+      "acc": 0.15051218547989764,
+      "context_similarity": 0.15051218547989764,
+      "start": 969,
+      "end": 981,
+      "icd10": [
+        {
+          "chapter": "N20.0",
+          "name": "Calculus of kidney"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155868000",
+        "S-197793002",
+        "S-236707002",
+        "S-266623004",
+        "S-56491003"
+      ],
+      "id": 54,
+      "meta_anns": {}
+    },
+    "71": {
+      "pretty_name": "Celiac Disease",
+      "cui": "C0007570",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "celiac disease",
+      "detected_name": "celiac~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1231,
+      "end": 1245,
+      "icd10": [
+        {
+          "chapter": "K90.0",
+          "name": "Coeliac disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155842007",
+        "S-197477005",
+        "S-197481005",
+        "S-23829007",
+        "S-266478000",
+        "S-396331005"
+      ],
+      "id": 71,
+      "meta_anns": {}
+    },
+    "73": {
+      "pretty_name": "Arthritis",
+      "cui": "C0003864",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "inflammatory arthritis",
+      "detected_name": "inflammatory~arthritis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1323,
+      "end": 1345,
+      "icd10": [
+        {
+          "chapter": "M13.9",
+          "name": "Arthritis, unspecified"
+        },
+        {
+          "chapter": "M19.90",
+          "name": "Unspecified osteoarthritis, unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-202059001",
+        "S-363178003",
+        "S-372091005",
+        "S-3723001"
+      ],
+      "id": 73,
+      "meta_anns": {}
+    },
+    "90": {
+      "pretty_name": "Upper Respiratory Infections",
+      "cui": "C0041912",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cold",
+      "detected_name": "cold",
+      "acc": 0.46443125063745594,
+      "context_similarity": 0.46443125063745594,
+      "start": 1586,
+      "end": 1590,
+      "icd10": [
+        {
+          "chapter": "J06.9",
+          "name": "Acute upper respiratory infection, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155547007",
+        "S-195711002",
+        "S-266338006",
+        "S-54150009"
+      ],
+      "id": 90,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

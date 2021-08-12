@@ -1,0 +1,578 @@
+{
+  "entities": {
+    "10": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.6438434269410198,
+      "context_similarity": 0.6438434269410198,
+      "start": 144,
+      "end": 152,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 10,
+      "meta_anns": {}
+    },
+    "28": {
+      "pretty_name": "Hypercholesterolemia",
+      "cui": "C0020443",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "elevated cholesterol",
+      "detected_name": "elevated~cholesterol",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 415,
+      "end": 435,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-13644009",
+        "S-154740003",
+        "S-267500001"
+      ],
+      "id": 28,
+      "meta_anns": {}
+    },
+    "29": {
+      "pretty_name": "Coronary Arteriosclerosis",
+      "cui": "C0010054",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ASHD",
+      "detected_name": "ashd",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 455,
+      "end": 459,
+      "icd10": [
+        {
+          "chapter": "I25.1",
+          "name": "Atherosclerotic heart disease"
+        },
+        {
+          "chapter": "I25.10",
+          "name": "Atherosclerotic heart disease of native coronary artery without angina pectoris"
+        },
+        {
+          "chapter": "K76.1",
+          "name": "Chronic passive congestion of liver"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155315001",
+        "S-155316000",
+        "S-194795001",
+        "S-194841001",
+        "S-266231003",
+        "S-266290000",
+        "S-41702007",
+        "S-443502000",
+        "S-53741008"
+      ],
+      "id": 29,
+      "meta_anns": {}
+    },
+    "30": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 461,
+      "end": 473,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 30,
+      "meta_anns": {}
+    },
+    "31": {
+      "pretty_name": "Peripheral Vascular Diseases",
+      "cui": "C0085096",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "PVD",
+      "detected_name": "pvd",
+      "acc": 0.42351624859086184,
+      "context_similarity": 0.42351624859086184,
+      "start": 478,
+      "end": 481,
+      "icd10": [
+        {
+          "chapter": "I73.9",
+          "name": "Peripheral vascular disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155431008",
+        "S-155433006",
+        "S-195311000",
+        "S-195314008",
+        "S-266320008",
+        "S-266321007",
+        "S-399957001",
+        "S-400047006",
+        "S-91523003"
+      ],
+      "id": 31,
+      "meta_anns": {}
+    },
+    "33": {
+      "pretty_name": "Asthma",
+      "cui": "C0004096",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "asthma",
+      "detected_name": "asthma",
+      "acc": 0.586356982592541,
+      "context_similarity": 0.586356982592541,
+      "start": 505,
+      "end": 511,
+      "icd10": [
+        {
+          "chapter": "J45",
+          "name": "Asthma"
+        },
+        {
+          "chapter": "J45.9",
+          "name": "Asthma, unspecified"
+        },
+        {
+          "chapter": "J45.90",
+          "name": "Unspecified asthma"
+        },
+        {
+          "chapter": "J45.909",
+          "name": "Unspecified asthma, uncomplicated"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155574008",
+        "S-155579003",
+        "S-187687003",
+        "S-195967001",
+        "S-195979001",
+        "S-195983001",
+        "S-21341004",
+        "S-266365004",
+        "S-266398009",
+        "S-278517007"
+      ],
+      "id": 33,
+      "meta_anns": {}
+    },
+    "35": {
+      "pretty_name": "Infectious Lung Disorder",
+      "cui": "C0876973",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lung infections",
+      "detected_name": "lung~infection",
+      "acc": 0.18499188350734486,
+      "context_similarity": 0.18499188350734486,
+      "start": 513,
+      "end": 528,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-128601007"
+      ],
+      "id": 35,
+      "meta_anns": {}
+    },
+    "51": {
+      "pretty_name": "Peptic Ulcer",
+      "cui": "C0030920",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "peptic ulcer disease",
+      "detected_name": "peptic~ulcer~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 635,
+      "end": 655,
+      "icd10": [
+        {
+          "chapter": "K27",
+          "name": "Peptic ulcer, site unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13200003",
+        "S-155701001",
+        "S-155710009",
+        "S-196681007",
+        "S-196697002",
+        "S-196704007",
+        "S-196705008",
+        "S-266437002",
+        "S-266501005"
+      ],
+      "id": 51,
+      "meta_anns": {}
+    },
+    "55": {
+      "pretty_name": "Gastric ulcer",
+      "cui": "C0038358",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "GU",
+      "detected_name": "gu",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 657,
+      "end": 659,
+      "icd10": [
+        {
+          "chapter": "K25",
+          "name": "Gastric ulcer"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155681009",
+        "S-155690002",
+        "S-196627009",
+        "S-196642007",
+        "S-196649003",
+        "S-196650003",
+        "S-266436006",
+        "S-397825006",
+        "S-6034002"
+      ],
+      "id": 55,
+      "meta_anns": {}
+    },
+    "59": {
+      "pretty_name": "Urologic Diseases",
+      "cui": "C0042075",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Urinary tract disorder",
+      "detected_name": "urinary~tract~disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 685,
+      "end": 707,
+      "icd10": [
+        {
+          "chapter": "N39.9",
+          "name": "Disorder of urinary system, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128606002",
+        "S-155848006",
+        "S-155903006",
+        "S-197951006",
+        "S-266612003",
+        "S-307415006",
+        "S-41368006"
+      ],
+      "id": 59,
+      "meta_anns": {}
+    },
+    "62": {
+      "pretty_name": "Urinary Bladder Diseases",
+      "cui": "C0005686",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Bladder disorder",
+      "detected_name": "bladder~disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 727,
+      "end": 743,
+      "icd10": [
+        {
+          "chapter": "N32.9",
+          "name": "Bladder disorder, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155886002",
+        "S-155890000",
+        "S-197897007",
+        "S-266630005",
+        "S-42643001"
+      ],
+      "id": 62,
+      "meta_anns": {}
+    },
+    "65": {
+      "pretty_name": "Kidney Diseases",
+      "cui": "C0022658",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Kidney disorder",
+      "detected_name": "kidney~disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 748,
+      "end": 763,
+      "icd10": [
+        {
+          "chapter": "N08",
+          "name": "Glomerular disorders in diseases classified elsewhere"
+        },
+        {
+          "chapter": "N28.9",
+          "name": "Disorder of kidney and ureter, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155871008",
+        "S-266612003",
+        "S-266624005",
+        "S-266627003",
+        "S-274108006",
+        "S-90708001"
+      ],
+      "id": 65,
+      "meta_anns": {}
+    },
+    "70": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.6615202629722103,
+      "context_similarity": 0.6615202629722103,
+      "start": 800,
+      "end": 808,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 70,
+      "meta_anns": {}
+    },
+    "72": {
+      "pretty_name": "Thyroid Diseases",
+      "cui": "C0040128",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "thyroid abnormalities",
+      "detected_name": "thyroid~abnormality",
+      "acc": 0.8677717968479441,
+      "context_similarity": 0.8677717968479441,
+      "start": 856,
+      "end": 877,
+      "icd10": [
+        {
+          "chapter": "E00-E07.9",
+          "name": "Disorders of thyroid gland"
+        },
+        {
+          "chapter": "E07.9",
+          "name": "Disorder of thyroid, unspecified"
+        },
+        {
+          "chapter": "E00-E07",
+          "name": "Disorders of thyroid gland (E00-E07)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-14304000",
+        "S-154649009",
+        "S-190232008",
+        "S-190311002",
+        "S-191036006"
+      ],
+      "id": 72,
+      "meta_anns": {}
+    },
+    "77": {
+      "pretty_name": "",
+      "cui": "C0037284",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "skin lesions",
+      "detected_name": "skin~lesion",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 939,
+      "end": 951,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-156439002",
+        "S-201342000",
+        "S-201344004",
+        "S-95324001"
+      ],
+      "id": 77,
+      "meta_anns": {}
+    },
+    "145": {
+      "pretty_name": "Diabetes Mellitus, Non-Insulin-Dependent",
+      "cui": "C0011860",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Diabetes type II",
+      "detected_name": "diabetes~type~ii",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1961,
+      "end": 1977,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Non-insulin-dependent diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154672006",
+        "S-190323008",
+        "S-190384004",
+        "S-267468009",
+        "S-44054006"
+      ],
+      "id": 145,
+      "meta_anns": {}
+    },
+    "147": {
+      "pretty_name": "",
+      "cui": "C0149523",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Acute cystitis",
+      "detected_name": "acute~cystitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1993,
+      "end": 2007,
+      "icd10": [
+        {
+          "chapter": "N30.0",
+          "name": "Acute cystitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155883005",
+        "S-197833009",
+        "S-266628008",
+        "S-68226007"
+      ],
+      "id": 147,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,598 @@
+{
+  "entities": {
+    "7": {
+      "pretty_name": "",
+      "cui": "C0080032",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "malignant pleural effusion",
+      "detected_name": "malignant~pleural~effusion",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 297,
+      "end": 323,
+      "icd10": [
+        {
+          "chapter": "J91.0",
+          "name": "Malignant pleural effusion"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196095009",
+        "S-83270006"
+      ],
+      "id": 7,
+      "meta_anns": {}
+    },
+    "12": {
+      "pretty_name": "Pleural effusion disorder",
+      "cui": "C0032227",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pleural effusion",
+      "detected_name": "pleural~effusion",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 395,
+      "end": 411,
+      "icd10": [
+        {
+          "chapter": "J90",
+          "name": "Pleural effusion, not elsewhere classified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155606001",
+        "S-155608000",
+        "S-196097001",
+        "S-196101005",
+        "S-266407006",
+        "S-60046008"
+      ],
+      "id": 12,
+      "meta_anns": {}
+    },
+    "23": {
+      "pretty_name": "Pleural effusion disorder",
+      "cui": "C0032227",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pleural effusions",
+      "detected_name": "pleural~effusion",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 544,
+      "end": 561,
+      "icd10": [
+        {
+          "chapter": "J90",
+          "name": "Pleural effusion, not elsewhere classified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155606001",
+        "S-155608000",
+        "S-196097001",
+        "S-196101005",
+        "S-266407006",
+        "S-60046008"
+      ],
+      "id": 23,
+      "meta_anns": {}
+    },
+    "27": {
+      "pretty_name": "Pleural effusion disorder",
+      "cui": "C0032227",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pleural effusion",
+      "detected_name": "pleural~effusion",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 578,
+      "end": 594,
+      "icd10": [
+        {
+          "chapter": "J90",
+          "name": "Pleural effusion, not elsewhere classified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155606001",
+        "S-155608000",
+        "S-196097001",
+        "S-196101005",
+        "S-266407006",
+        "S-60046008"
+      ],
+      "id": 27,
+      "meta_anns": {}
+    },
+    "36": {
+      "pretty_name": "Paroxysmal atrial fibrillation",
+      "cui": "C0235480",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "paroxysmal atrial fibrillation",
+      "detected_name": "paroxysmal~atrial~fibrillation",
+      "acc": 0.9814371942024072,
+      "context_similarity": 0.9814371942024072,
+      "start": 803,
+      "end": 833,
+      "icd10": [
+        {
+          "chapter": "I48.0",
+          "name": "Paroxysmal atrial fibrillation"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-195081002",
+        "S-282825002"
+      ],
+      "id": 36,
+      "meta_anns": {}
+    },
+    "86": {
+      "pretty_name": "Left ventricular systolic dysfunction",
+      "cui": "C1277187",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Left ventricular systolic dysfunction",
+      "detected_name": "left~ventricular~systolic~dysfunction",
+      "acc": 0.5058675572413174,
+      "context_similarity": 0.5058675572413174,
+      "start": 1735,
+      "end": 1772,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-134401001",
+        "S-366829001",
+        "S-366910008"
+      ],
+      "id": 86,
+      "meta_anns": {}
+    },
+    "94": {
+      "pretty_name": "Pneumonia",
+      "cui": "C0032285",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pneumonia",
+      "detected_name": "pneumonia",
+      "acc": 0.37063663325858986,
+      "context_similarity": 0.37063663325858986,
+      "start": 1842,
+      "end": 1851,
+      "icd10": [
+        {
+          "chapter": "J18.9",
+          "name": "Pneumonia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155548002",
+        "S-155552002",
+        "S-155558003",
+        "S-233604007",
+        "S-266391003",
+        "S-274103002",
+        "S-60363000"
+      ],
+      "id": 94,
+      "meta_anns": {}
+    },
+    "98": {
+      "pretty_name": "Pleural effusion disorder",
+      "cui": "C0032227",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pleural effusions",
+      "detected_name": "pleural~effusion",
+      "acc": 0.40618552833155874,
+      "context_similarity": 0.40618552833155874,
+      "start": 1918,
+      "end": 1935,
+      "icd10": [
+        {
+          "chapter": "J90",
+          "name": "Pleural effusion, not elsewhere classified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155606001",
+        "S-155608000",
+        "S-196097001",
+        "S-196101005",
+        "S-266407006",
+        "S-60046008"
+      ],
+      "id": 98,
+      "meta_anns": {}
+    },
+    "103": {
+      "pretty_name": "Lung diseases",
+      "cui": "C0024115",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lung",
+      "detected_name": "lung",
+      "acc": 0.47893816823677315,
+      "context_similarity": 0.47893816823677315,
+      "start": 1997,
+      "end": 2001,
+      "icd10": [
+        {
+          "chapter": "J98.4",
+          "name": "Other disorders of lung"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196164004",
+        "S-19829001",
+        "S-266374002"
+      ],
+      "id": 103,
+      "meta_anns": {}
+    },
+    "149": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary artery disease",
+      "detected_name": "coronary~artery~disease",
+      "acc": 0.8280877155410734,
+      "context_similarity": 0.8280877155410734,
+      "start": 2530,
+      "end": 2553,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 149,
+      "meta_anns": {}
+    },
+    "152": {
+      "pretty_name": "",
+      "cui": "C0003949",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "asbestos",
+      "detected_name": "asbestos",
+      "acc": 0.10410400190422547,
+      "context_similarity": 0.10410400190422547,
+      "start": 2630,
+      "end": 2638,
+      "icd10": [
+        {
+          "chapter": "J61",
+          "name": "Pneumoconiosis due to asbestos and other mineral fibers"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155589004",
+        "S-196006003",
+        "S-22607003",
+        "S-266400008"
+      ],
+      "id": 152,
+      "meta_anns": {}
+    },
+    "174": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymphadenopathy",
+      "detected_name": "lymphadenopathy",
+      "acc": 0.8113140357338648,
+      "context_similarity": 0.8113140357338648,
+      "start": 3018,
+      "end": 3033,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 174,
+      "meta_anns": {}
+    },
+    "190": {
+      "pretty_name": "Deep Vein Thrombosis",
+      "cui": "C0149871",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "DVT",
+      "detected_name": "dvt",
+      "acc": 0.3077799601249891,
+      "context_similarity": 0.3077799601249891,
+      "start": 3352,
+      "end": 3355,
+      "icd10": [
+        {
+          "chapter": "I82.40",
+          "name": "Acute embolism and thrombosis of unspecified deep veins of lower extremity"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128053003",
+        "S-128057002",
+        "S-155454004",
+        "S-195403006",
+        "S-266328001"
+      ],
+      "id": 190,
+      "meta_anns": {}
+    },
+    "203": {
+      "pretty_name": "Lung diseases",
+      "cui": "C0024115",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lung",
+      "detected_name": "lung",
+      "acc": 0.7926442205984512,
+      "context_similarity": 0.7926442205984512,
+      "start": 3736,
+      "end": 3740,
+      "icd10": [
+        {
+          "chapter": "J98.4",
+          "name": "Other disorders of lung"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196164004",
+        "S-19829001",
+        "S-266374002"
+      ],
+      "id": 203,
+      "meta_anns": {}
+    },
+    "212": {
+      "pretty_name": "Lung diseases",
+      "cui": "C0024115",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lung",
+      "detected_name": "lung",
+      "acc": 0.4518801676720286,
+      "context_similarity": 0.4518801676720286,
+      "start": 3873,
+      "end": 3877,
+      "icd10": [
+        {
+          "chapter": "J98.4",
+          "name": "Other disorders of lung"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196164004",
+        "S-19829001",
+        "S-266374002"
+      ],
+      "id": 212,
+      "meta_anns": {}
+    },
+    "215": {
+      "pretty_name": "Chronic Obstructive Airway Disease",
+      "cui": "C0024117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Chronic obstructive pulmonary disease",
+      "detected_name": "chronic~obstructive~pulmonary~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3973,
+      "end": 4010,
+      "icd10": [
+        {
+          "chapter": "J44.9",
+          "name": "Chronic obstructive pulmonary disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13645005",
+        "S-155565006",
+        "S-155569000",
+        "S-155585005",
+        "S-155617000",
+        "S-195935004",
+        "S-195948000",
+        "S-196003006",
+        "S-413846005"
+      ],
+      "id": 215,
+      "meta_anns": {}
+    },
+    "220": {
+      "pretty_name": "Paroxysmal atrial fibrillation",
+      "cui": "C0235480",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Paroxysmal atrial fibrillation",
+      "detected_name": "paroxysmal~atrial~fibrillation",
+      "acc": 0.9180820221728472,
+      "context_similarity": 0.9180820221728472,
+      "start": 4016,
+      "end": 4046,
+      "icd10": [
+        {
+          "chapter": "I48.0",
+          "name": "Paroxysmal atrial fibrillation"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-195081002",
+        "S-282825002"
+      ],
+      "id": 220,
+      "meta_anns": {}
+    },
+    "223": {
+      "pretty_name": "",
+      "cui": "C0080032",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Malignant pleural effusion",
+      "detected_name": "malignant~pleural~effusion",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4052,
+      "end": 4078,
+      "icd10": [
+        {
+          "chapter": "J91.0",
+          "name": "Malignant pleural effusion"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196095009",
+        "S-83270006"
+      ],
+      "id": 223,
+      "meta_anns": {}
+    },
+    "230": {
+      "pretty_name": "Anemia of chronic disease",
+      "cui": "C0002873",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Anemia of chronic disease",
+      "detected_name": "anemia~of~chronic~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4121,
+      "end": 4146,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-234347009",
+        "S-31000119100",
+        "S-367511008",
+        "S-393572004",
+        "S-76032001"
+      ],
+      "id": 230,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

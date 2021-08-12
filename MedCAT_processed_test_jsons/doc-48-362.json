@@ -1,0 +1,631 @@
+{
+  "entities": {
+    "41": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 731,
+      "end": 743,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 41,
+      "meta_anns": {}
+    },
+    "46": {
+      "pretty_name": "Gestational Diabetes",
+      "cui": "C0085207",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gestational diabetes mellitus",
+      "detected_name": "gestational~diabetes~mellitus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 756,
+      "end": 785,
+      "icd10": [
+        {
+          "chapter": "O24.4",
+          "name": "Diabetes mellitus arising in pregnancy"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-11687002",
+        "S-199232003",
+        "S-237629002",
+        "S-359964007",
+        "S-393568003"
+      ],
+      "id": 46,
+      "meta_anns": {}
+    },
+    "53": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary artery disease",
+      "detected_name": "coronary~artery~disease",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 852,
+      "end": 875,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 53,
+      "meta_anns": {}
+    },
+    "58": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary disease",
+      "detected_name": "coronary~disease",
+      "acc": 0.9449840525531169,
+      "context_similarity": 0.9449840525531169,
+      "start": 915,
+      "end": 931,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 58,
+      "meta_anns": {}
+    },
+    "90": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1353,
+      "end": 1365,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 90,
+      "meta_anns": {}
+    },
+    "93": {
+      "pretty_name": "Gestational Diabetes",
+      "cui": "C0085207",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gestational diabetes mellitus",
+      "detected_name": "gestational~diabetes~mellitus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1367,
+      "end": 1396,
+      "icd10": [
+        {
+          "chapter": "O24.4",
+          "name": "Diabetes mellitus arising in pregnancy"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-11687002",
+        "S-199232003",
+        "S-237629002",
+        "S-359964007",
+        "S-393568003"
+      ],
+      "id": 93,
+      "meta_anns": {}
+    },
+    "97": {
+      "pretty_name": "",
+      "cui": "C0013537",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "eclampsia",
+      "detected_name": "eclampsia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1402,
+      "end": 1411,
+      "icd10": [
+        {
+          "chapter": "O15",
+          "name": "Eclampsia"
+        },
+        {
+          "chapter": "O15.9",
+          "name": "Eclampsia, unspecified as to time period"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156111007",
+        "S-15938005",
+        "S-198988006",
+        "S-198989003",
+        "S-198996001"
+      ],
+      "id": 97,
+      "meta_anns": {}
+    },
+    "110": {
+      "pretty_name": "Glaucoma",
+      "cui": "C0017601",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "glaucoma",
+      "detected_name": "glaucoma",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1585,
+      "end": 1593,
+      "icd10": [
+        {
+          "chapter": "H40-H42.9",
+          "name": "Glaucoma"
+        },
+        {
+          "chapter": "H40",
+          "name": "Glaucoma"
+        },
+        {
+          "chapter": "H40.9",
+          "name": "Glaucoma, unspecified"
+        },
+        {
+          "chapter": "H40-H42",
+          "name": "Glaucoma (H40-H42)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155120009",
+        "S-193569008",
+        "S-194631001",
+        "S-23986001"
+      ],
+      "id": 110,
+      "meta_anns": {}
+    },
+    "111": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "congestive heart",
+      "detected_name": "congestive~heart",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1615,
+      "end": 1631,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 111,
+      "meta_anns": {}
+    },
+    "118": {
+      "pretty_name": "Pneumonia",
+      "cui": "C0032285",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pneumonia",
+      "detected_name": "pneumonia",
+      "acc": 0.6149708304083099,
+      "context_similarity": 0.6149708304083099,
+      "start": 1677,
+      "end": 1686,
+      "icd10": [
+        {
+          "chapter": "J18.9",
+          "name": "Pneumonia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155548002",
+        "S-155552002",
+        "S-155558003",
+        "S-233604007",
+        "S-266391003",
+        "S-274103002",
+        "S-60363000"
+      ],
+      "id": 118,
+      "meta_anns": {}
+    },
+    "119": {
+      "pretty_name": "Coccidioidomycosis",
+      "cui": "C0009186",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "valley fever",
+      "detected_name": "valley~fever",
+      "acc": 0.6084386671391007,
+      "context_similarity": 0.6084386671391007,
+      "start": 1690,
+      "end": 1702,
+      "icd10": [
+        {
+          "chapter": "B38",
+          "name": "Coccidioidomycosis"
+        },
+        {
+          "chapter": "B38.9",
+          "name": "Coccidioidomycosis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154408001",
+        "S-187025009",
+        "S-187035003",
+        "S-187481007",
+        "S-266218008",
+        "S-442543009",
+        "S-60826002"
+      ],
+      "id": 119,
+      "meta_anns": {}
+    },
+    "127": {
+      "pretty_name": "Arthritis",
+      "cui": "C0003864",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "arthritis",
+      "detected_name": "arthritis",
+      "acc": 0.7011284476985977,
+      "context_similarity": 0.7011284476985977,
+      "start": 1830,
+      "end": 1839,
+      "icd10": [
+        {
+          "chapter": "M13.9",
+          "name": "Arthritis, unspecified"
+        },
+        {
+          "chapter": "M19.90",
+          "name": "Unspecified osteoarthritis, unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-202059001",
+        "S-363178003",
+        "S-372091005",
+        "S-3723001"
+      ],
+      "id": 127,
+      "meta_anns": {}
+    },
+    "131": {
+      "pretty_name": "Transient Ischemic Attack",
+      "cui": "C0007787",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "TIA",
+      "detected_name": "tia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1901,
+      "end": 1904,
+      "icd10": [
+        {
+          "chapter": "G45.9",
+          "name": "Transient cerebral ischaemic attack, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155404005",
+        "S-195196001",
+        "S-195207009",
+        "S-266257000",
+        "S-266314007",
+        "S-313242003",
+        "S-38609002"
+      ],
+      "id": 131,
+      "meta_anns": {}
+    },
+    "132": {
+      "pretty_name": "Cerebrovascular accident",
+      "cui": "C0038454",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "CVA",
+      "detected_name": "cva",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1910,
+      "end": 1913,
+      "icd10": [
+        {
+          "chapter": "I64",
+          "name": "Stroke, not specified as haemorrhage or infarction"
+        },
+        {
+          "chapter": "I63.9",
+          "name": "Cerebral infarction, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155388006",
+        "S-155405006",
+        "S-195208004",
+        "S-230690007",
+        "S-266312006",
+        "S-266315008",
+        "S-270883006",
+        "S-313267000",
+        "S-82797006"
+      ],
+      "id": 132,
+      "meta_anns": {}
+    },
+    "135": {
+      "pretty_name": "Epilepsy",
+      "cui": "C0014544",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "seizure disorder",
+      "detected_name": "seizure~disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1919,
+      "end": 1935,
+      "icd10": [
+        {
+          "chapter": "G40",
+          "name": "Epilepsy"
+        },
+        {
+          "chapter": "G40.9",
+          "name": "Epilepsy, unspecified"
+        },
+        {
+          "chapter": "G40.909",
+          "name": "Epilepsy, unspecified, not intractable, without status epilepticus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128613002",
+        "S-155036009",
+        "S-155045005",
+        "S-193026007",
+        "S-246545002",
+        "S-267593008",
+        "S-267698007",
+        "S-271788002",
+        "S-84757009"
+      ],
+      "id": 135,
+      "meta_anns": {}
+    },
+    "155": {
+      "pretty_name": "Sinus Tachycardia",
+      "cui": "C0039239",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "sinus tachycardia",
+      "detected_name": "sinus~tachycardia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2264,
+      "end": 2281,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-11092001",
+        "S-367107008"
+      ],
+      "id": 155,
+      "meta_anns": {}
+    },
+    "171": {
+      "pretty_name": "Heart Diseases",
+      "cui": "C0018799",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cardiac disease",
+      "detected_name": "cardiac~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2504,
+      "end": 2519,
+      "icd10": [
+        {
+          "chapter": "I51.9",
+          "name": "Heart disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155263000",
+        "S-194707003",
+        "S-195152001",
+        "S-266275004",
+        "S-266311004",
+        "S-56265001"
+      ],
+      "id": 171,
+      "meta_anns": {}
+    },
+    "174": {
+      "pretty_name": "Gestational Diabetes",
+      "cui": "C0085207",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gestational diabetes mellitus",
+      "detected_name": "gestational~diabetes~mellitus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2542,
+      "end": 2571,
+      "icd10": [
+        {
+          "chapter": "O24.4",
+          "name": "Diabetes mellitus arising in pregnancy"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-11687002",
+        "S-199232003",
+        "S-237629002",
+        "S-359964007",
+        "S-393568003"
+      ],
+      "id": 174,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

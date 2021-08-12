@@ -1,0 +1,100 @@
+{
+  "entities": {
+    "49": {
+      "pretty_name": "Ileus",
+      "cui": "C1258215",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ileus",
+      "detected_name": "ileus",
+      "acc": 0.8714775361023717,
+      "context_similarity": 0.8714775361023717,
+      "start": 715,
+      "end": 720,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-278524008",
+        "S-81060008"
+      ],
+      "id": 49,
+      "meta_anns": {}
+    },
+    "56": {
+      "pretty_name": "Kidney Calculi",
+      "cui": "C0022650",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "kidney stones",
+      "detected_name": "kidney~stone",
+      "acc": 0.12332267753670083,
+      "context_similarity": 0.12332267753670083,
+      "start": 817,
+      "end": 830,
+      "icd10": [
+        {
+          "chapter": "N20.0",
+          "name": "Calculus of kidney"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155867005",
+        "S-155868000",
+        "S-197792007",
+        "S-197793002",
+        "S-197795009",
+        "S-266622009",
+        "S-266623004",
+        "S-56491003",
+        "S-95570007"
+      ],
+      "id": 56,
+      "meta_anns": {}
+    },
+    "71": {
+      "pretty_name": "Urinary tract infection",
+      "cui": "C0042029",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "urinary tract infection",
+      "detected_name": "urinary~tract~infection",
+      "acc": 0.7464881086338737,
+      "context_similarity": 0.7464881086338737,
+      "start": 1069,
+      "end": 1092,
+      "icd10": [
+        {
+          "chapter": "N39.0",
+          "name": "Urinary tract infection, site not specified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155896006",
+        "S-155897002",
+        "S-197924008",
+        "S-197930008",
+        "S-266634001",
+        "S-266635000",
+        "S-274110008",
+        "S-68566005"
+      ],
+      "id": 71,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

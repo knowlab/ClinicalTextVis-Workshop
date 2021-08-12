@@ -1,0 +1,650 @@
+{
+  "entities": {
+    "3": {
+      "pretty_name": "Hematuria",
+      "cui": "C0018965",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Blood in urine",
+      "detected_name": "blood~in~urine",
+      "acc": 0.19245024349588855,
+      "context_similarity": 0.19245024349588855,
+      "start": 19,
+      "end": 33,
+      "icd10": [
+        {
+          "chapter": "R31",
+          "name": "Unspecified haematuria"
+        },
+        {
+          "chapter": "R31.9",
+          "name": "Hematuria, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139414003",
+        "S-139416001",
+        "S-155895005",
+        "S-162136002",
+        "S-197937006",
+        "S-266568001",
+        "S-267066000",
+        "S-267167006",
+        "S-267168001",
+        "S-307414005",
+        "S-34436003",
+        "S-53298000"
+      ],
+      "id": 3,
+      "meta_anns": {}
+    },
+    "15": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease",
+      "detected_name": "disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 132,
+      "end": 139,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 15,
+      "meta_anns": {}
+    },
+    "21": {
+      "pretty_name": "Hematuria",
+      "cui": "C0018965",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hematuria",
+      "detected_name": "hematuria",
+      "acc": 0.23458020570518115,
+      "context_similarity": 0.23458020570518115,
+      "start": 280,
+      "end": 289,
+      "icd10": [
+        {
+          "chapter": "R31",
+          "name": "Unspecified haematuria"
+        },
+        {
+          "chapter": "R31.9",
+          "name": "Hematuria, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139414003",
+        "S-139416001",
+        "S-155895005",
+        "S-162136002",
+        "S-197937006",
+        "S-266568001",
+        "S-267066000",
+        "S-267167006",
+        "S-267168001",
+        "S-307414005",
+        "S-34436003",
+        "S-53298000"
+      ],
+      "id": 21,
+      "meta_anns": {}
+    },
+    "27": {
+      "pretty_name": "",
+      "cui": "C0457949",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "chronic lower back pain",
+      "detected_name": "chronic~lower~back~pain",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 483,
+      "end": 506,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-278860009",
+        "S-389320000",
+        "S-390055001"
+      ],
+      "id": 27,
+      "meta_anns": {}
+    },
+    "31": {
+      "pretty_name": "Incontinence",
+      "cui": "C0021167",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "incontinence",
+      "detected_name": "incontinence",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 522,
+      "end": 534,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-48340000"
+      ],
+      "id": 31,
+      "meta_anns": {}
+    },
+    "96": {
+      "pretty_name": "Hematuria",
+      "cui": "C0018965",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hematuria",
+      "detected_name": "hematuria",
+      "acc": 0.7672948681821232,
+      "context_similarity": 0.7672948681821232,
+      "start": 1730,
+      "end": 1739,
+      "icd10": [
+        {
+          "chapter": "R31",
+          "name": "Unspecified haematuria"
+        },
+        {
+          "chapter": "R31.9",
+          "name": "Hematuria, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139414003",
+        "S-139416001",
+        "S-155895005",
+        "S-162136002",
+        "S-197937006",
+        "S-266568001",
+        "S-267066000",
+        "S-267167006",
+        "S-267168001",
+        "S-307414005",
+        "S-34436003",
+        "S-53298000"
+      ],
+      "id": 96,
+      "meta_anns": {}
+    },
+    "103": {
+      "pretty_name": "",
+      "cui": "C0457949",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "chronic lower back pain",
+      "detected_name": "chronic~lower~back~pain",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1962,
+      "end": 1985,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-278860009",
+        "S-389320000",
+        "S-390055001"
+      ],
+      "id": 103,
+      "meta_anns": {}
+    },
+    "119": {
+      "pretty_name": "Incontinence",
+      "cui": "C0021167",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "incontinence",
+      "detected_name": "incontinence",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2261,
+      "end": 2273,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-48340000"
+      ],
+      "id": 119,
+      "meta_anns": {}
+    },
+    "122": {
+      "pretty_name": "Paresthesia",
+      "cui": "C0030554",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "paresthesia",
+      "detected_name": "paresthesia",
+      "acc": 0.8599333429377558,
+      "context_similarity": 0.8599333429377558,
+      "start": 2304,
+      "end": 2315,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-158228009",
+        "S-206857001",
+        "S-91019004"
+      ],
+      "id": 122,
+      "meta_anns": {}
+    },
+    "132": {
+      "pretty_name": "Chronic Obstructive Airway Disease",
+      "cui": "C0024117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cold",
+      "detected_name": "cold",
+      "acc": 0.4036091608929008,
+      "context_similarity": 0.4036091608929008,
+      "start": 2409,
+      "end": 2413,
+      "icd10": [
+        {
+          "chapter": "J44.9",
+          "name": "Chronic obstructive pulmonary disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13645005",
+        "S-155565006",
+        "S-155569000",
+        "S-155585005",
+        "S-155617000",
+        "S-195935004",
+        "S-195948000",
+        "S-196003006",
+        "S-413846005"
+      ],
+      "id": 132,
+      "meta_anns": {}
+    },
+    "142": {
+      "pretty_name": "Hematuria",
+      "cui": "C0018965",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hematuria",
+      "detected_name": "hematuria",
+      "acc": 0.42375243572476773,
+      "context_similarity": 0.42375243572476773,
+      "start": 2563,
+      "end": 2572,
+      "icd10": [
+        {
+          "chapter": "R31",
+          "name": "Unspecified haematuria"
+        },
+        {
+          "chapter": "R31.9",
+          "name": "Hematuria, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139414003",
+        "S-139416001",
+        "S-155895005",
+        "S-162136002",
+        "S-197937006",
+        "S-266568001",
+        "S-267066000",
+        "S-267167006",
+        "S-267168001",
+        "S-307414005",
+        "S-34436003",
+        "S-53298000"
+      ],
+      "id": 142,
+      "meta_anns": {}
+    },
+    "151": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease",
+      "detected_name": "disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2630,
+      "end": 2637,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 151,
+      "meta_anns": {}
+    },
+    "241": {
+      "pretty_name": "",
+      "cui": "C0578736",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "inguinal lymphadenopathy",
+      "detected_name": "inguinal~lymphadenopathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4286,
+      "end": 4310,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-127199000"
+      ],
+      "id": 241,
+      "meta_anns": {}
+    },
+    "268": {
+      "pretty_name": "Lymphadenitis",
+      "cui": "C0024205",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymphadenitis",
+      "detected_name": "lymphadenitis",
+      "acc": 0.1717217081804696,
+      "context_similarity": 0.1717217081804696,
+      "start": 4844,
+      "end": 4857,
+      "icd10": [
+        {
+          "chapter": "I88.1",
+          "name": "Chronic lymphadenitis, except mesenteric"
+        },
+        {
+          "chapter": "I88.9",
+          "name": "Nonspecific lymphadenitis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154838000",
+        "S-19471005",
+        "S-274737001",
+        "S-287688007"
+      ],
+      "id": 268,
+      "meta_anns": {}
+    },
+    "312": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 6258,
+      "end": 6262,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 312,
+      "meta_anns": {}
+    },
+    "349": {
+      "pretty_name": "Urinary tract obstruction",
+      "cui": "C0178879",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "urinary obstruction",
+      "detected_name": "urinary~obstruction",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 7601,
+      "end": 7620,
+      "icd10": [
+        {
+          "chapter": "N13.9",
+          "name": "Obstructive and reflux uropathy, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-197936002",
+        "S-266567006",
+        "S-266636004",
+        "S-7163005"
+      ],
+      "id": 349,
+      "meta_anns": {}
+    },
+    "360": {
+      "pretty_name": "Hematuria",
+      "cui": "C0018965",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "HEMATURIA",
+      "detected_name": "hematuria",
+      "acc": 0.4232688473871584,
+      "context_similarity": 0.4232688473871584,
+      "start": 7825,
+      "end": 7834,
+      "icd10": [
+        {
+          "chapter": "R31",
+          "name": "Unspecified haematuria"
+        },
+        {
+          "chapter": "R31.9",
+          "name": "Hematuria, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139414003",
+        "S-139416001",
+        "S-155895005",
+        "S-162136002",
+        "S-197937006",
+        "S-266568001",
+        "S-267066000",
+        "S-267167006",
+        "S-267168001",
+        "S-307414005",
+        "S-34436003",
+        "S-53298000"
+      ],
+      "id": 360,
+      "meta_anns": {}
+    },
+    "367": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "DISEASE",
+      "detected_name": "disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 7889,
+      "end": 7896,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 367,
+      "meta_anns": {}
+    },
+    "368": {
+      "pretty_name": "Anemia",
+      "cui": "C0002871",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ANEMIA",
+      "detected_name": "anemia",
+      "acc": 0.8365201023736786,
+      "context_similarity": 0.8365201023736786,
+      "start": 7914,
+      "end": 7920,
+      "icd10": [
+        {
+          "chapter": "D64.9",
+          "name": "Anemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154786001",
+        "S-154812000",
+        "S-191277004",
+        "S-267531008",
+        "S-271737000",
+        "S-64593003"
+      ],
+      "id": 368,
+      "meta_anns": {}
+    },
+    "369": {
+      "pretty_name": "Urinary tract obstruction",
+      "cui": "C0178879",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "URINARY OBSTRUCTION",
+      "detected_name": "urinary~obstruction",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 7926,
+      "end": 7945,
+      "icd10": [
+        {
+          "chapter": "N13.9",
+          "name": "Obstructive and reflux uropathy, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-197936002",
+        "S-266567006",
+        "S-266636004",
+        "S-7163005"
+      ],
+      "id": 369,
+      "meta_anns": {}
+    },
+    "371": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "CONDITION",
+      "detected_name": "condition",
+      "acc": 0.22219879472051923,
+      "context_similarity": 0.22219879472051923,
+      "start": 7947,
+      "end": 7956,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 371,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

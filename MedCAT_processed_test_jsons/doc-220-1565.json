@@ -1,0 +1,276 @@
+{
+  "entities": {
+    "3": {
+      "pretty_name": "Rheumatoid Arthritis",
+      "cui": "C0003873",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "rheumatoid arthritis",
+      "detected_name": "rheumatoid~arthritis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 83,
+      "end": 103,
+      "icd10": [
+        {
+          "chapter": "M06.9",
+          "name": "Rheumatoid arthritis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156471009",
+        "S-156481008",
+        "S-287010008",
+        "S-69896004"
+      ],
+      "id": 3,
+      "meta_anns": {}
+    },
+    "35": {
+      "pretty_name": "",
+      "cui": "C2697368",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "GI upset",
+      "detected_name": "gi~upset",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 573,
+      "end": 581,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-95516005"
+      ],
+      "id": 35,
+      "meta_anns": {}
+    },
+    "46": {
+      "pretty_name": "Muscular Dystrophy",
+      "cui": "C0026850",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "MD",
+      "detected_name": "md",
+      "acc": 0.6917500507181109,
+      "context_similarity": 0.6917500507181109,
+      "start": 840,
+      "end": 842,
+      "icd10": [
+        {
+          "chapter": "G71.0",
+          "name": "Muscular dystrophy"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155095006",
+        "S-193225000",
+        "S-193236007",
+        "S-193257004",
+        "S-267712004",
+        "S-44292004",
+        "S-73297009"
+      ],
+      "id": 46,
+      "meta_anns": {}
+    },
+    "68": {
+      "pretty_name": "Rheumatoid Arthritis",
+      "cui": "C0003873",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "rheumatoid arthritis",
+      "detected_name": "rheumatoid~arthritis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1050,
+      "end": 1070,
+      "icd10": [
+        {
+          "chapter": "M06.9",
+          "name": "Rheumatoid arthritis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156471009",
+        "S-156481008",
+        "S-287010008",
+        "S-69896004"
+      ],
+      "id": 68,
+      "meta_anns": {}
+    },
+    "79": {
+      "pretty_name": "Sexually Transmitted Diseases",
+      "cui": "C0036916",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "STD",
+      "detected_name": "std",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1205,
+      "end": 1208,
+      "icd10": [
+        {
+          "chapter": "A50-A64.9",
+          "name": "Infections with a predominantly sexual mode of transmission"
+        },
+        {
+          "chapter": "A64",
+          "name": "Unspecified sexually transmitted disease"
+        },
+        {
+          "chapter": "A50-A64",
+          "name": "Infections with a predominantly sexual mode of transmission (A50-A64)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154378004",
+        "S-186831003",
+        "S-186949002",
+        "S-187348005",
+        "S-187367009",
+        "S-266208003",
+        "S-276972005",
+        "S-8098009"
+      ],
+      "id": 79,
+      "meta_anns": {}
+    },
+    "177": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adenopathy",
+      "detected_name": "adenopathy",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2849,
+      "end": 2859,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 177,
+      "meta_anns": {}
+    },
+    "209": {
+      "pretty_name": "Varicosity",
+      "cui": "C0042345",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "varicosities",
+      "detected_name": "varicosity",
+      "acc": 0.45746181148957415,
+      "context_similarity": 0.45746181148957415,
+      "start": 3524,
+      "end": 3536,
+      "icd10": [
+        {
+          "chapter": "I83.90",
+          "name": "Asymptomatic varicose veins of unspecified lower extremity"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128060009",
+        "S-12856003",
+        "S-155468006",
+        "S-155482006",
+        "S-234053000",
+        "S-266331000",
+        "S-276504003",
+        "S-399989005"
+      ],
+      "id": 209,
+      "meta_anns": {}
+    },
+    "261": {
+      "pretty_name": "Rheumatoid Arthritis",
+      "cui": "C0003873",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Rheumatoid arthritis",
+      "detected_name": "rheumatoid~arthritis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4471,
+      "end": 4491,
+      "icd10": [
+        {
+          "chapter": "M06.9",
+          "name": "Rheumatoid arthritis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156471009",
+        "S-156481008",
+        "S-287010008",
+        "S-69896004"
+      ],
+      "id": 261,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

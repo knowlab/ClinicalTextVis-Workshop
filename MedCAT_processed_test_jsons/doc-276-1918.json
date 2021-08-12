@@ -1,0 +1,41 @@
+{
+  "entities": {
+    "104": {
+      "pretty_name": "Chronic Obstructive Airway Disease",
+      "cui": "C0024117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cold",
+      "detected_name": "cold",
+      "acc": 0.7601363929527128,
+      "context_similarity": 0.7601363929527128,
+      "start": 1951,
+      "end": 1955,
+      "icd10": [
+        {
+          "chapter": "J44.9",
+          "name": "Chronic obstructive pulmonary disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13645005",
+        "S-155565006",
+        "S-155569000",
+        "S-155585005",
+        "S-155617000",
+        "S-195935004",
+        "S-195948000",
+        "S-196003006",
+        "S-413846005"
+      ],
+      "id": 104,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

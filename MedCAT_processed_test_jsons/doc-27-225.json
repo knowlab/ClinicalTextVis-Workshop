@@ -1,0 +1,833 @@
+{
+  "entities": {
+    "27": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obesity",
+      "detected_name": "obesity",
+      "acc": 0.8476913522649447,
+      "context_similarity": 0.8476913522649447,
+      "start": 646,
+      "end": 653,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 27,
+      "meta_anns": {}
+    },
+    "30": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 692,
+      "end": 704,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 30,
+      "meta_anns": {}
+    },
+    "31": {
+      "pretty_name": "Hypercholesterolemia",
+      "cui": "C0020443",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypercholesterolemia",
+      "detected_name": "hypercholesterolemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 709,
+      "end": 729,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-13644009",
+        "S-154740003",
+        "S-267500001"
+      ],
+      "id": 31,
+      "meta_anns": {}
+    },
+    "35": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 771,
+      "end": 783,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 35,
+      "meta_anns": {}
+    },
+    "40": {
+      "pretty_name": "Hypercholesterolemia",
+      "cui": "C0020443",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "high cholesterol",
+      "detected_name": "high~cholesterol",
+      "acc": 0.15793275044906413,
+      "context_similarity": 0.15793275044906413,
+      "start": 863,
+      "end": 879,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-13644009",
+        "S-154740003",
+        "S-267500001"
+      ],
+      "id": 40,
+      "meta_anns": {}
+    },
+    "44": {
+      "pretty_name": "Deep thrombophlebitis",
+      "cui": "C0151950",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "DVT",
+      "detected_name": "dvt",
+      "acc": 0.20372503181108986,
+      "context_similarity": 0.20372503181108986,
+      "start": 996,
+      "end": 999,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-16750002"
+      ],
+      "id": 44,
+      "meta_anns": {}
+    },
+    "47": {
+      "pretty_name": "Thyroid Diseases",
+      "cui": "C0040128",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "thyroid disease",
+      "detected_name": "thyroid~disease",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1062,
+      "end": 1077,
+      "icd10": [
+        {
+          "chapter": "E00-E07.9",
+          "name": "Disorders of thyroid gland"
+        },
+        {
+          "chapter": "E07.9",
+          "name": "Disorder of thyroid, unspecified"
+        },
+        {
+          "chapter": "E00-E07",
+          "name": "Disorders of thyroid gland (E00-E07)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-14304000",
+        "S-154649009",
+        "S-190232008",
+        "S-190311002",
+        "S-191036006"
+      ],
+      "id": 47,
+      "meta_anns": {}
+    },
+    "51": {
+      "pretty_name": "Cholelithiasis",
+      "cui": "C0008350",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gallstones",
+      "detected_name": "gallstone",
+      "acc": 0.719110572382383,
+      "context_similarity": 0.719110572382383,
+      "start": 1203,
+      "end": 1213,
+      "icd10": [
+        {
+          "chapter": "K80",
+          "name": "Cholelithiasis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155823008",
+        "S-197376000",
+        "S-197403005",
+        "S-197406002",
+        "S-266474003",
+        "S-266541001",
+        "S-44900007"
+      ],
+      "id": 51,
+      "meta_anns": {}
+    },
+    "87": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "high blood pressure",
+      "detected_name": "high~blood~pressure",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1905,
+      "end": 1924,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 87,
+      "meta_anns": {}
+    },
+    "91": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabete",
+      "acc": 0.2734401306660008,
+      "context_similarity": 0.2734401306660008,
+      "start": 1929,
+      "end": 1937,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 91,
+      "meta_anns": {}
+    },
+    "95": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "congestive heart failure",
+      "detected_name": "congestive~heart~failure",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1999,
+      "end": 2023,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 95,
+      "meta_anns": {}
+    },
+    "100": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "high blood pressure",
+      "detected_name": "high~blood~pressure",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2046,
+      "end": 2065,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 100,
+      "meta_anns": {}
+    },
+    "105": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.44175927426735745,
+      "context_similarity": 0.44175927426735745,
+      "start": 2079,
+      "end": 2087,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 105,
+      "meta_anns": {}
+    },
+    "127": {
+      "pretty_name": "Ulcerative Colitis",
+      "cui": "C0009324",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ulcerative colitis",
+      "detected_name": "ulcerative~colitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2490,
+      "end": 2508,
+      "icd10": [
+        {
+          "chapter": "K51",
+          "name": "Ulcerative colitis"
+        },
+        {
+          "chapter": "K51.9",
+          "name": "Ulcerative colitis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155764007",
+        "S-196985000",
+        "S-196988003",
+        "S-196996008",
+        "S-266447004",
+        "S-27701000",
+        "S-64766004",
+        "S-68195006"
+      ],
+      "id": 127,
+      "meta_anns": {}
+    },
+    "130": {
+      "pretty_name": "Crohn Disease",
+      "cui": "C0010346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Crohn disease",
+      "detected_name": "crohn~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2510,
+      "end": 2523,
+      "icd10": [
+        {
+          "chapter": "K50",
+          "name": "Crohn's disease [regional enteritis]"
+        },
+        {
+          "chapter": "K50.9",
+          "name": "Crohn's disease, unspecified"
+        },
+        {
+          "chapter": "K50.90",
+          "name": "Crohn's disease, unspecified, without complications"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155760003",
+        "S-196975001",
+        "S-196984001",
+        "S-266517004",
+        "S-34000006"
+      ],
+      "id": 130,
+      "meta_anns": {}
+    },
+    "133": {
+      "pretty_name": "Blood Coagulation Disorders",
+      "cui": "C0005779",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "bleeding diathesis",
+      "detected_name": "bleeding~diathesis",
+      "acc": 0.5008275523310379,
+      "context_similarity": 0.5008275523310379,
+      "start": 2525,
+      "end": 2543,
+      "icd10": [
+        {
+          "chapter": "D68.9",
+          "name": "Coagulation defect, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-127073005",
+        "S-154815003",
+        "S-191303002",
+        "S-267562007",
+        "S-362970003",
+        "S-64779008"
+      ],
+      "id": 133,
+      "meta_anns": {}
+    },
+    "135": {
+      "pretty_name": "Liver diseases",
+      "cui": "C0023895",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "liver disease",
+      "detected_name": "liver~disease",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2545,
+      "end": 2558,
+      "icd10": [
+        {
+          "chapter": "K70-K77.9",
+          "name": "Diseases of liver"
+        },
+        {
+          "chapter": "K76.9",
+          "name": "Liver disease, unspecified"
+        },
+        {
+          "chapter": "K70-K77",
+          "name": "Diseases of liver (K70-K77)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155807008",
+        "S-155817003",
+        "S-155822003",
+        "S-197375001",
+        "S-197551000",
+        "S-235856003",
+        "S-266535008",
+        "S-62857009"
+      ],
+      "id": 135,
+      "meta_anns": {}
+    },
+    "138": {
+      "pretty_name": "Kidney Diseases",
+      "cui": "C0022658",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "kidney disease",
+      "detected_name": "kidney~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2563,
+      "end": 2577,
+      "icd10": [
+        {
+          "chapter": "N08",
+          "name": "Glomerular disorders in diseases classified elsewhere"
+        },
+        {
+          "chapter": "N28.9",
+          "name": "Disorder of kidney and ureter, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155871008",
+        "S-266612003",
+        "S-266624005",
+        "S-266627003",
+        "S-274108006",
+        "S-90708001"
+      ],
+      "id": 138,
+      "meta_anns": {}
+    },
+    "145": {
+      "pretty_name": "Heart Diseases",
+      "cui": "C0018799",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cardiac disease",
+      "detected_name": "cardiac~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2603,
+      "end": 2618,
+      "icd10": [
+        {
+          "chapter": "I51.9",
+          "name": "Heart disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155263000",
+        "S-194707003",
+        "S-195152001",
+        "S-266275004",
+        "S-266311004",
+        "S-56265001"
+      ],
+      "id": 145,
+      "meta_anns": {}
+    },
+    "158": {
+      "pretty_name": "Cervical lymphadenopathy",
+      "cui": "C0235592",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cervical lymphadenopathy",
+      "detected_name": "cervical~lymphadenopathy",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2833,
+      "end": 2857,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-127086001"
+      ],
+      "id": 158,
+      "meta_anns": {}
+    },
+    "177": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obese",
+      "detected_name": "obese",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3230,
+      "end": 3235,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 177,
+      "meta_anns": {}
+    },
+    "189": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obesity",
+      "detected_name": "obesity",
+      "acc": 0.850674746367401,
+      "context_similarity": 0.850674746367401,
+      "start": 3504,
+      "end": 3511,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 189,
+      "meta_anns": {}
+    },
+    "192": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3544,
+      "end": 3556,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 192,
+      "meta_anns": {}
+    },
+    "193": {
+      "pretty_name": "Hypercholesterolemia",
+      "cui": "C0020443",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypercholesterolemia",
+      "detected_name": "hypercholesterolemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3561,
+      "end": 3581,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-13644009",
+        "S-154740003",
+        "S-267500001"
+      ],
+      "id": 193,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,41 @@
+{
+  "entities": {
+    "5": {
+      "pretty_name": "Hydrocephalus",
+      "cui": "C0020255",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hydrocephalus",
+      "detected_name": "hydrocephalus",
+      "acc": 0.8101266061799957,
+      "context_similarity": 0.8101266061799957,
+      "start": 161,
+      "end": 174,
+      "icd10": [
+        {
+          "chapter": "G91",
+          "name": "Hydrocephalus"
+        },
+        {
+          "chapter": "G91.9",
+          "name": "Hydrocephalus, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154995000",
+        "S-154997008",
+        "S-192807008",
+        "S-230745008",
+        "S-267687006"
+      ],
+      "id": 5,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

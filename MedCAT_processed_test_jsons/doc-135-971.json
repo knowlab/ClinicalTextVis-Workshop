@@ -1,0 +1,465 @@
+{
+  "entities": {
+    "0": {
+      "pretty_name": "Essential Tremor",
+      "cui": "C0270736",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Essential tremor",
+      "detected_name": "essential~tremor",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 22,
+      "end": 38,
+      "icd10": [
+        {
+          "chapter": "G25.0",
+          "name": "Essential tremor"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-192839001",
+        "S-609558009",
+        "S-632009"
+      ],
+      "id": 0,
+      "meta_anns": {}
+    },
+    "38": {
+      "pretty_name": "Migraine Disorders",
+      "cui": "C0149931",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "migraine headaches",
+      "detected_name": "migraine~headache",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 903,
+      "end": 921,
+      "icd10": [
+        {
+          "chapter": "G43",
+          "name": "Migraine"
+        },
+        {
+          "chapter": "G43.9",
+          "name": "Migraine, unspecified"
+        },
+        {
+          "chapter": "G43.909",
+          "name": "Migraine, unspecified, not intractable, without status migrainosus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155046006",
+        "S-155048007",
+        "S-193041007",
+        "S-267699004",
+        "S-37796009"
+      ],
+      "id": 38,
+      "meta_anns": {}
+    },
+    "42": {
+      "pretty_name": "Urinary Stress Incontinence",
+      "cui": "C0042025",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "stress incontinence",
+      "detected_name": "stress~incontinence",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 984,
+      "end": 1003,
+      "icd10": [
+        {
+          "chapter": "N39.3",
+          "name": "Stress incontinence"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139400003",
+        "S-14624007",
+        "S-156028007",
+        "S-162124008",
+        "S-197943008",
+        "S-22220005",
+        "S-266668007"
+      ],
+      "id": 42,
+      "meta_anns": {}
+    },
+    "56": {
+      "pretty_name": "Essential Tremor",
+      "cui": "C0270736",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Essential tremor",
+      "detected_name": "essential~tremor",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1218,
+      "end": 1234,
+      "icd10": [
+        {
+          "chapter": "G25.0",
+          "name": "Essential tremor"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-192839001",
+        "S-609558009",
+        "S-632009"
+      ],
+      "id": 56,
+      "meta_anns": {}
+    },
+    "60": {
+      "pretty_name": "Endometriosis",
+      "cui": "C0014175",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "endometriosis",
+      "detected_name": "endometriosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1255,
+      "end": 1268,
+      "icd10": [
+        {
+          "chapter": "N80",
+          "name": "Endometriosis"
+        },
+        {
+          "chapter": "N80.9",
+          "name": "Endometriosis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-103677003",
+        "S-11871002",
+        "S-129103003",
+        "S-155988000",
+        "S-198246007",
+        "S-198259004",
+        "S-266588002",
+        "S-396224008"
+      ],
+      "id": 60,
+      "meta_anns": {}
+    },
+    "62": {
+      "pretty_name": "Migraine Disorders",
+      "cui": "C0149931",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "migraine headaches",
+      "detected_name": "migraine~headache",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1270,
+      "end": 1288,
+      "icd10": [
+        {
+          "chapter": "G43",
+          "name": "Migraine"
+        },
+        {
+          "chapter": "G43.9",
+          "name": "Migraine, unspecified"
+        },
+        {
+          "chapter": "G43.909",
+          "name": "Migraine, unspecified, not intractable, without status migrainosus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155046006",
+        "S-155048007",
+        "S-193041007",
+        "S-267699004",
+        "S-37796009"
+      ],
+      "id": 62,
+      "meta_anns": {}
+    },
+    "67": {
+      "pretty_name": "Sensorineural Hearing Loss",
+      "cui": "C0018784",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "sensorineural deafness",
+      "detected_name": "sensorineural~deafness",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1312,
+      "end": 1334,
+      "icd10": [
+        {
+          "chapter": "H90.5",
+          "name": "Sensorineural hearing loss, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155256000",
+        "S-194421002",
+        "S-194427003",
+        "S-267770004",
+        "S-60700002"
+      ],
+      "id": 67,
+      "meta_anns": {}
+    },
+    "75": {
+      "pretty_name": "Anal Fissure",
+      "cui": "C0016167",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "anal fissure",
+      "detected_name": "anal~fissure",
+      "acc": 0.29692644966506754,
+      "context_similarity": 0.29692644966506754,
+      "start": 1512,
+      "end": 1524,
+      "icd10": [
+        {
+          "chapter": "K60.2",
+          "name": "Anal fissure, unspecified"
+        },
+        {
+          "chapter": "K62.81",
+          "name": "Anal sphincter tear (healed) (nontraumatic) (old)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155791009",
+        "S-197225001",
+        "S-20928004",
+        "S-30037006",
+        "S-54046004"
+      ],
+      "id": 75,
+      "meta_anns": {}
+    },
+    "80": {
+      "pretty_name": "Thrombocythemia, Essential",
+      "cui": "C0040028",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ET",
+      "detected_name": "et",
+      "acc": 0.7285444019510572,
+      "context_similarity": 0.7285444019510572,
+      "start": 1578,
+      "end": 1580,
+      "icd10": [
+        {
+          "chapter": "D47.3",
+          "name": "Essential (haemorrhagic) thrombocythaemia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-109994006",
+        "S-128844009",
+        "S-189508006",
+        "S-189513005",
+        "S-189514004",
+        "S-191333009",
+        "S-234499005",
+        "S-307652003",
+        "S-65471002"
+      ],
+      "id": 80,
+      "meta_anns": {}
+    },
+    "83": {
+      "pretty_name": "Lupus Erythematosus, Discoid",
+      "cui": "C0024138",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lupus",
+      "detected_name": "lupus",
+      "acc": 0.8066001287315379,
+      "context_similarity": 0.8066001287315379,
+      "start": 1621,
+      "end": 1626,
+      "icd10": [
+        {
+          "chapter": "L93.0",
+          "name": "Discoid lupus erythematosus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13902000",
+        "S-156365002",
+        "S-200938002",
+        "S-238927000"
+      ],
+      "id": 83,
+      "meta_anns": {}
+    },
+    "99": {
+      "pretty_name": "hearing impairment",
+      "cui": "C1384666",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hearing decreased",
+      "detected_name": "hearing~decreased",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1911,
+      "end": 1928,
+      "icd10": [
+        {
+          "chapter": "H91.9",
+          "name": "Hearing loss, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-103276001",
+        "S-111543003",
+        "S-15188001",
+        "S-155242002",
+        "S-155254002",
+        "S-194411005",
+        "S-267764005"
+      ],
+      "id": 99,
+      "meta_anns": {}
+    },
+    "109": {
+      "pretty_name": "Incontinence",
+      "cui": "C0021167",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "incontinence",
+      "detected_name": "incontinence",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2032,
+      "end": 2044,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-48340000"
+      ],
+      "id": 109,
+      "meta_anns": {}
+    },
+    "147": {
+      "pretty_name": "",
+      "cui": "C0015458",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Romberg",
+      "detected_name": "romberg",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2833,
+      "end": 2840,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-29868009",
+        "S-718224004",
+        "S-95834000"
+      ],
+      "id": 147,
+      "meta_anns": {}
+    },
+    "155": {
+      "pretty_name": "Essential Tremor",
+      "cui": "C0270736",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "essential tremor",
+      "detected_name": "essential~tremor",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3101,
+      "end": 3117,
+      "icd10": [
+        {
+          "chapter": "G25.0",
+          "name": "Essential tremor"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-192839001",
+        "S-609558009",
+        "S-632009"
+      ],
+      "id": 155,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

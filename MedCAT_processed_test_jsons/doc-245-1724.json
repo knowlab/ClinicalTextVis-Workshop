@@ -1,0 +1,533 @@
+{
+  "entities": {
+    "14": {
+      "pretty_name": "Migraine Disorders",
+      "cui": "C0149931",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "migraine headaches",
+      "detected_name": "migraine~headache",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 95,
+      "end": 113,
+      "icd10": [
+        {
+          "chapter": "G43",
+          "name": "Migraine"
+        },
+        {
+          "chapter": "G43.9",
+          "name": "Migraine, unspecified"
+        },
+        {
+          "chapter": "G43.909",
+          "name": "Migraine, unspecified, not intractable, without status migrainosus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155046006",
+        "S-155048007",
+        "S-193041007",
+        "S-267699004",
+        "S-37796009"
+      ],
+      "id": 14,
+      "meta_anns": {}
+    },
+    "36": {
+      "pretty_name": "Migraine Disorders",
+      "cui": "C0149931",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "migraine",
+      "detected_name": "migraine",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 654,
+      "end": 662,
+      "icd10": [
+        {
+          "chapter": "G43",
+          "name": "Migraine"
+        },
+        {
+          "chapter": "G43.9",
+          "name": "Migraine, unspecified"
+        },
+        {
+          "chapter": "G43.909",
+          "name": "Migraine, unspecified, not intractable, without status migrainosus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155046006",
+        "S-155048007",
+        "S-193041007",
+        "S-267699004",
+        "S-37796009"
+      ],
+      "id": 36,
+      "meta_anns": {}
+    },
+    "109": {
+      "pretty_name": "Neurocutaneous Syndromes",
+      "cui": "C0265316",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "neurocutaneous disorder",
+      "detected_name": "neurocutaneous~disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1938,
+      "end": 1961,
+      "icd10": [
+        {
+          "chapter": "Q85.9",
+          "name": "Phakomatosis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-78572006"
+      ],
+      "id": 109,
+      "meta_anns": {}
+    },
+    "143": {
+      "pretty_name": "",
+      "cui": "C0752149",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Intractable headaches",
+      "detected_name": "intractable~headache",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2557,
+      "end": 2578,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 143,
+      "meta_anns": {}
+    },
+    "145": {
+      "pretty_name": "Migraine Disorders",
+      "cui": "C0149931",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "migraines",
+      "detected_name": "migraine",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2601,
+      "end": 2610,
+      "icd10": [
+        {
+          "chapter": "G43",
+          "name": "Migraine"
+        },
+        {
+          "chapter": "G43.9",
+          "name": "Migraine, unspecified"
+        },
+        {
+          "chapter": "G43.909",
+          "name": "Migraine, unspecified, not intractable, without status migrainosus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155046006",
+        "S-155048007",
+        "S-193041007",
+        "S-267699004",
+        "S-37796009"
+      ],
+      "id": 145,
+      "meta_anns": {}
+    },
+    "146": {
+      "pretty_name": "Migraine with Prolonged Aura",
+      "cui": "C0338483",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Complicated migraines",
+      "detected_name": "complicated~migraine",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2613,
+      "end": 2634,
+      "icd10": [
+        {
+          "chapter": "G43.3",
+          "name": "Complicated migraine"
+        },
+        {
+          "chapter": "G43.1",
+          "name": "Migraine with aura"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-193039006",
+        "S-230463007"
+      ],
+      "id": 146,
+      "meta_anns": {}
+    },
+    "149": {
+      "pretty_name": "Sinusitis",
+      "cui": "C0037199",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "sinusitis",
+      "detected_name": "sinusitis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2667,
+      "end": 2676,
+      "icd10": [
+        {
+          "chapter": "J32",
+          "name": "Chronic sinusitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-195649005",
+        "S-275483004",
+        "S-36971009"
+      ],
+      "id": 149,
+      "meta_anns": {}
+    },
+    "151": {
+      "pretty_name": "Vasculitis",
+      "cui": "C0042384",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "vasculitis",
+      "detected_name": "vasculitis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2688,
+      "end": 2698,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-195375002",
+        "S-266325003",
+        "S-31996006",
+        "S-393589007"
+      ],
+      "id": 151,
+      "meta_anns": {}
+    },
+    "152": {
+      "pretty_name": "Arthritis",
+      "cui": "C0003864",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "arthritis",
+      "detected_name": "arthritis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2722,
+      "end": 2731,
+      "icd10": [
+        {
+          "chapter": "M13.9",
+          "name": "Arthritis, unspecified"
+        },
+        {
+          "chapter": "M19.90",
+          "name": "Unspecified osteoarthritis, unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-202059001",
+        "S-363178003",
+        "S-372091005",
+        "S-3723001"
+      ],
+      "id": 152,
+      "meta_anns": {}
+    },
+    "153": {
+      "pretty_name": "Lupus Erythematosus, Discoid",
+      "cui": "C0024138",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lupus",
+      "detected_name": "lupus",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2733,
+      "end": 2738,
+      "icd10": [
+        {
+          "chapter": "L93.0",
+          "name": "Discoid lupus erythematosus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13902000",
+        "S-156365002",
+        "S-200938002",
+        "S-238927000"
+      ],
+      "id": 153,
+      "meta_anns": {}
+    },
+    "154": {
+      "pretty_name": "Polyarthritis",
+      "cui": "C0162323",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "polyarthritis",
+      "detected_name": "polyarthritis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2740,
+      "end": 2753,
+      "icd10": [
+        {
+          "chapter": "M13.0",
+          "name": "Polyarthritis, unspecified"
+        },
+        {
+          "chapter": "M05-M14",
+          "name": "Inflammatory polyarthropathies (M05-M14)"
+        },
+        {
+          "chapter": "M06.4",
+          "name": "Inflammatory polyarthropathy"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156514009",
+        "S-201763001",
+        "S-201817003",
+        "S-202032009",
+        "S-203728000",
+        "S-268053003",
+        "S-268056006",
+        "S-30701005",
+        "S-41397009",
+        "S-416956002",
+        "S-417373000"
+      ],
+      "id": 154,
+      "meta_anns": {}
+    },
+    "155": {
+      "pretty_name": "Moyamoya Disease",
+      "cui": "C0026654",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "moyamoya",
+      "detected_name": "moyamoya",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2755,
+      "end": 2763,
+      "icd10": [
+        {
+          "chapter": "I67.5",
+          "name": "Moyamoya disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-69116000",
+        "S-89142007"
+      ],
+      "id": 155,
+      "meta_anns": {}
+    },
+    "158": {
+      "pretty_name": "Takayasu Arteritis",
+      "cui": "C0039263",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease, Takayasu",
+      "detected_name": "disease~takayasu",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2764,
+      "end": 2781,
+      "icd10": [
+        {
+          "chapter": "M31.4",
+          "name": "Aortic arch syndrome [Takayasu]"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155445002",
+        "S-195361009",
+        "S-266323005",
+        "S-359789008",
+        "S-42153001"
+      ],
+      "id": 158,
+      "meta_anns": {}
+    },
+    "161": {
+      "pretty_name": "Mucocutaneous Lymph Node Syndrome",
+      "cui": "C0026691",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Kawasaki disease",
+      "detected_name": "kawasaki~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2786,
+      "end": 2802,
+      "icd10": [
+        {
+          "chapter": "M30.3",
+          "name": "Mucocutaneous lymph node syndrome [Kawasaki]"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155444003",
+        "S-195348009",
+        "S-195349001",
+        "S-75053002"
+      ],
+      "id": 161,
+      "meta_anns": {}
+    },
+    "167": {
+      "pretty_name": "Migraine Disorders",
+      "cui": "C0149931",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "migraine",
+      "detected_name": "migraine",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2982,
+      "end": 2990,
+      "icd10": [
+        {
+          "chapter": "G43",
+          "name": "Migraine"
+        },
+        {
+          "chapter": "G43.9",
+          "name": "Migraine, unspecified"
+        },
+        {
+          "chapter": "G43.909",
+          "name": "Migraine, unspecified, not intractable, without status migrainosus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155046006",
+        "S-155048007",
+        "S-193041007",
+        "S-267699004",
+        "S-37796009"
+      ],
+      "id": 167,
+      "meta_anns": {}
+    },
+    "170": {
+      "pretty_name": "Vasculitis",
+      "cui": "C0042384",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "vasculitis",
+      "detected_name": "vasculitis",
+      "acc": 0.6626786103039217,
+      "context_similarity": 0.6626786103039217,
+      "start": 3052,
+      "end": 3062,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-195375002",
+        "S-266325003",
+        "S-31996006",
+        "S-393589007"
+      ],
+      "id": 170,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,599 @@
+{
+  "entities": {
+    "15": {
+      "pretty_name": "Pulmonary Embolism",
+      "cui": "C0034065",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "PE",
+      "detected_name": "pe",
+      "acc": 0.9394803394860884,
+      "context_similarity": 0.9394803394860884,
+      "start": 207,
+      "end": 209,
+      "icd10": [
+        {
+          "chapter": "I26",
+          "name": "Pulmonary embolism"
+        },
+        {
+          "chapter": "I26.99",
+          "name": "Other pulmonary embolism without acute cor pulmonale"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155326007",
+        "S-194882001",
+        "S-266292008",
+        "S-59282003"
+      ],
+      "id": 15,
+      "meta_anns": {}
+    },
+    "16": {
+      "pretty_name": "Deep thrombophlebitis",
+      "cui": "C0151950",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "DVT",
+      "detected_name": "dvt",
+      "acc": 0.8160258943544136,
+      "context_similarity": 0.8160258943544136,
+      "start": 211,
+      "end": 214,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-16750002"
+      ],
+      "id": 16,
+      "meta_anns": {}
+    },
+    "17": {
+      "pretty_name": "Hyperlipidemia",
+      "cui": "C0020473",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hyperlipidemia",
+      "detected_name": "hyperlipidemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 216,
+      "end": 230,
+      "icd10": [
+        {
+          "chapter": "E78.5",
+          "name": "Hyperlipidaemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154739000",
+        "S-154743001",
+        "S-190782002",
+        "S-267499005",
+        "S-55822004"
+      ],
+      "id": 17,
+      "meta_anns": {}
+    },
+    "18": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.9020104708089638,
+      "context_similarity": 0.9020104708089638,
+      "start": 236,
+      "end": 248,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 18,
+      "meta_anns": {}
+    },
+    "26": {
+      "pretty_name": "Hypersomnia",
+      "cui": "C0917799",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypersomnia",
+      "detected_name": "hypersomnia",
+      "acc": 0.8581510847361008,
+      "context_similarity": 0.8581510847361008,
+      "start": 554,
+      "end": 565,
+      "icd10": [
+        {
+          "chapter": "G47.10",
+          "name": "Hypersomnia, unspecified"
+        },
+        {
+          "chapter": "G47.1",
+          "name": "Hypersomnia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-158149000",
+        "S-158154009",
+        "S-191998008",
+        "S-206751007",
+        "S-230486000",
+        "S-270961006",
+        "S-309732001",
+        "S-77692006"
+      ],
+      "id": 26,
+      "meta_anns": {}
+    },
+    "42": {
+      "pretty_name": "Fish-Eye Disease",
+      "cui": "C0342895",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "fed",
+      "detected_name": "fed",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 799,
+      "end": 802,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-238092004"
+      ],
+      "id": 42,
+      "meta_anns": {}
+    },
+    "47": {
+      "pretty_name": "Oropharyngeal Dysphagia",
+      "cui": "C0267071",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "oropharyngeal dysphagia",
+      "detected_name": "oropharyngeal~dysphagia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 855,
+      "end": 878,
+      "icd10": [
+        {
+          "chapter": "R13.12",
+          "name": "Dysphagia, oropharyngeal phase"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-71457002"
+      ],
+      "id": 47,
+      "meta_anns": {}
+    },
+    "91": {
+      "pretty_name": "Pulmonary Embolism",
+      "cui": "C0034065",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "PE",
+      "detected_name": "pe",
+      "acc": 0.98178858012072,
+      "context_similarity": 0.98178858012072,
+      "start": 2204,
+      "end": 2206,
+      "icd10": [
+        {
+          "chapter": "I26",
+          "name": "Pulmonary embolism"
+        },
+        {
+          "chapter": "I26.99",
+          "name": "Other pulmonary embolism without acute cor pulmonale"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155326007",
+        "S-194882001",
+        "S-266292008",
+        "S-59282003"
+      ],
+      "id": 91,
+      "meta_anns": {}
+    },
+    "92": {
+      "pretty_name": "Deep thrombophlebitis",
+      "cui": "C0151950",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "DVT",
+      "detected_name": "dvt",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2208,
+      "end": 2211,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-16750002"
+      ],
+      "id": 92,
+      "meta_anns": {}
+    },
+    "93": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.4717296484854986,
+      "context_similarity": 0.4717296484854986,
+      "start": 2213,
+      "end": 2225,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 93,
+      "meta_anns": {}
+    },
+    "94": {
+      "pretty_name": "Inappropriate ADH Syndrome",
+      "cui": "C0021141",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "SIADH",
+      "detected_name": "siadh",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2227,
+      "end": 2232,
+      "icd10": [
+        {
+          "chapter": "E22.2",
+          "name": "Syndrome of inappropriate secretion of antidiuretic hormone"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-389983008",
+        "S-55004003"
+      ],
+      "id": 94,
+      "meta_anns": {}
+    },
+    "102": {
+      "pretty_name": "Cerebrovascular accident",
+      "cui": "C0038454",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "strokes",
+      "detected_name": "stroke",
+      "acc": 0.8738532320251208,
+      "context_similarity": 0.8738532320251208,
+      "start": 2293,
+      "end": 2300,
+      "icd10": [
+        {
+          "chapter": "I64",
+          "name": "Stroke, not specified as haemorrhage or infarction"
+        },
+        {
+          "chapter": "I63.9",
+          "name": "Cerebral infarction, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155388006",
+        "S-155405006",
+        "S-195208004",
+        "S-230690007",
+        "S-266312006",
+        "S-266315008",
+        "S-270883006",
+        "S-313267000",
+        "S-82797006"
+      ],
+      "id": 102,
+      "meta_anns": {}
+    },
+    "142": {
+      "pretty_name": "",
+      "cui": "C4304406",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "JOHNSON SYNDROME",
+      "detected_name": "johnson~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2888,
+      "end": 2904,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-719825000"
+      ],
+      "id": 142,
+      "meta_anns": {}
+    },
+    "151": {
+      "pretty_name": "Lung diseases",
+      "cui": "C0024115",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lung",
+      "detected_name": "lung",
+      "acc": 0.39361538813477537,
+      "context_similarity": 0.39361538813477537,
+      "start": 2980,
+      "end": 2984,
+      "icd10": [
+        {
+          "chapter": "J98.4",
+          "name": "Other disorders of lung"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196164004",
+        "S-19829001",
+        "S-266374002"
+      ],
+      "id": 151,
+      "meta_anns": {}
+    },
+    "156": {
+      "pretty_name": "Heart Diseases",
+      "cui": "C0018799",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "heart disease",
+      "detected_name": "heart~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3038,
+      "end": 3051,
+      "icd10": [
+        {
+          "chapter": "I51.9",
+          "name": "Heart disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155263000",
+        "S-194707003",
+        "S-195152001",
+        "S-266275004",
+        "S-266311004",
+        "S-56265001"
+      ],
+      "id": 156,
+      "meta_anns": {}
+    },
+    "207": {
+      "pretty_name": "Central Nervous System Infection",
+      "cui": "C0007684",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "CNS infection",
+      "detected_name": "cns~infection",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4454,
+      "end": 4467,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-128117002"
+      ],
+      "id": 207,
+      "meta_anns": {}
+    },
+    "226": {
+      "pretty_name": "Pulmonary Embolism",
+      "cui": "C0034065",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "PE",
+      "detected_name": "pe",
+      "acc": 0.532780997229414,
+      "context_similarity": 0.532780997229414,
+      "start": 4780,
+      "end": 4782,
+      "icd10": [
+        {
+          "chapter": "I26",
+          "name": "Pulmonary embolism"
+        },
+        {
+          "chapter": "I26.99",
+          "name": "Other pulmonary embolism without acute cor pulmonale"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155326007",
+        "S-194882001",
+        "S-266292008",
+        "S-59282003"
+      ],
+      "id": 226,
+      "meta_anns": {}
+    },
+    "227": {
+      "pretty_name": "Deep thrombophlebitis",
+      "cui": "C0151950",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "DVT",
+      "detected_name": "dvt",
+      "acc": 0.4375554724260554,
+      "context_similarity": 0.4375554724260554,
+      "start": 4784,
+      "end": 4787,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-16750002"
+      ],
+      "id": 227,
+      "meta_anns": {}
+    },
+    "228": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.2537259425046603,
+      "context_similarity": 0.2537259425046603,
+      "start": 4793,
+      "end": 4805,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 228,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,400 @@
+{
+  "entities": {
+    "6": {
+      "pretty_name": "Immune thrombocytopenic purpura",
+      "cui": "C0398650",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "frank",
+      "detected_name": "frank",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 197,
+      "end": 202,
+      "icd10": [
+        {
+          "chapter": "D69.3",
+          "name": "Immune thrombocytopenic purpura"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13172003",
+        "S-154825008",
+        "S-191315003",
+        "S-191316002",
+        "S-234490009",
+        "S-267567001",
+        "S-32273002"
+      ],
+      "id": 6,
+      "meta_anns": {}
+    },
+    "46": {
+      "pretty_name": "Synovitis",
+      "cui": "C0039103",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "synovitis",
+      "detected_name": "synovitis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1548,
+      "end": 1557,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-14107000",
+        "S-156666009",
+        "S-268092005",
+        "S-416209007"
+      ],
+      "id": 46,
+      "meta_anns": {}
+    },
+    "49": {
+      "pretty_name": "Synovitis",
+      "cui": "C0039103",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "synovitis",
+      "detected_name": "synovitis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1632,
+      "end": 1641,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-14107000",
+        "S-156666009",
+        "S-268092005",
+        "S-416209007"
+      ],
+      "id": 49,
+      "meta_anns": {}
+    },
+    "60": {
+      "pretty_name": "Ptosis",
+      "cui": "C0033377",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "prolapse",
+      "detected_name": "prolapse",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2141,
+      "end": 2149,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-29696001"
+      ],
+      "id": 60,
+      "meta_anns": {}
+    },
+    "66": {
+      "pretty_name": "",
+      "cui": "C0039520",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tenosynovitis",
+      "detected_name": "tenosynovitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2271,
+      "end": 2284,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-156666009",
+        "S-240035004",
+        "S-268092005",
+        "S-67801009"
+      ],
+      "id": 66,
+      "meta_anns": {}
+    },
+    "90": {
+      "pretty_name": "",
+      "cui": "C0039520",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tenosynovitis",
+      "detected_name": "tenosynovitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3016,
+      "end": 3029,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-156666009",
+        "S-240035004",
+        "S-268092005",
+        "S-67801009"
+      ],
+      "id": 90,
+      "meta_anns": {}
+    },
+    "95": {
+      "pretty_name": "",
+      "cui": "C0039520",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tenosynovitis",
+      "detected_name": "tenosynovitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3189,
+      "end": 3202,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-156666009",
+        "S-240035004",
+        "S-268092005",
+        "S-67801009"
+      ],
+      "id": 95,
+      "meta_anns": {}
+    },
+    "96": {
+      "pretty_name": "Juvenile osteochondrosis of foot, NOS",
+      "cui": "C0158444",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Haglund’s",
+      "detected_name": "haglund~s",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3332,
+      "end": 3341,
+      "icd10": [
+        {
+          "chapter": "M92.6",
+          "name": "Juvenile osteochondrosis of tarsus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-203392007",
+        "S-203393002",
+        "S-203397001",
+        "S-32491009"
+      ],
+      "id": 96,
+      "meta_anns": {}
+    },
+    "99": {
+      "pretty_name": "",
+      "cui": "C0158322",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "calcaneal spur",
+      "detected_name": "calcaneal~spur",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3372,
+      "end": 3386,
+      "icd10": [
+        {
+          "chapter": "M77.3",
+          "name": "Calcaneal spur"
+        },
+        {
+          "chapter": "M77.30",
+          "name": "Calcaneal spur, unspecified foot"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156663001",
+        "S-268090002",
+        "S-55260003"
+      ],
+      "id": 99,
+      "meta_anns": {}
+    },
+    "120": {
+      "pretty_name": "Synovitis",
+      "cui": "C0039103",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "synovitis",
+      "detected_name": "synovitis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3916,
+      "end": 3925,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-14107000",
+        "S-156666009",
+        "S-268092005",
+        "S-416209007"
+      ],
+      "id": 120,
+      "meta_anns": {}
+    },
+    "134": {
+      "pretty_name": "Synovitis",
+      "cui": "C0039103",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "synovitis",
+      "detected_name": "synovitis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 4150,
+      "end": 4159,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-14107000",
+        "S-156666009",
+        "S-268092005",
+        "S-416209007"
+      ],
+      "id": 134,
+      "meta_anns": {}
+    },
+    "143": {
+      "pretty_name": "",
+      "cui": "C0158322",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "calcaneal spur",
+      "detected_name": "calcaneal~spur",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4491,
+      "end": 4505,
+      "icd10": [
+        {
+          "chapter": "M77.3",
+          "name": "Calcaneal spur"
+        },
+        {
+          "chapter": "M77.30",
+          "name": "Calcaneal spur, unspecified foot"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156663001",
+        "S-268090002",
+        "S-55260003"
+      ],
+      "id": 143,
+      "meta_anns": {}
+    },
+    "146": {
+      "pretty_name": "Tendinosis",
+      "cui": "C1568363",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tendinosis",
+      "detected_name": "tendinosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4553,
+      "end": 4563,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-430671000124105",
+        "S-724152009"
+      ],
+      "id": 146,
+      "meta_anns": {}
+    },
+    "147": {
+      "pretty_name": "",
+      "cui": "C0039503",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tendinitis",
+      "detected_name": "tendinitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4594,
+      "end": 4604,
+      "icd10": [
+        {
+          "chapter": "M77.9",
+          "name": "Enthesopathy, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156665008",
+        "S-202893001",
+        "S-267996008",
+        "S-268091003",
+        "S-312785002",
+        "S-34840004"
+      ],
+      "id": 147,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

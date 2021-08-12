@@ -1,0 +1,391 @@
+{
+  "entities": {
+    "6": {
+      "pretty_name": "Gall Bladder Diseases",
+      "cui": "C0016977",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "GALL BLADDER",
+      "detected_name": "gall~bladder",
+      "acc": 0.30325329724851796,
+      "context_similarity": 0.30325329724851796,
+      "start": 58,
+      "end": 70,
+      "icd10": [
+        {
+          "chapter": "K82.9",
+          "name": "Disease of gallbladder, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155807008",
+        "S-155826000",
+        "S-155829007",
+        "S-266535008",
+        "S-266542008",
+        "S-266543003",
+        "S-39621005"
+      ],
+      "id": 6,
+      "meta_anns": {}
+    },
+    "12": {
+      "pretty_name": "Food intolerance",
+      "cui": "C0149696",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "food intolerance",
+      "detected_name": "food~intolerance",
+      "acc": 0.7379969330405394,
+      "context_similarity": 0.7379969330405394,
+      "start": 156,
+      "end": 172,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-235719002",
+        "S-75051000"
+      ],
+      "id": 12,
+      "meta_anns": {}
+    },
+    "32": {
+      "pretty_name": "Cholelithiasis",
+      "cui": "C0008350",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cholelithiasis",
+      "detected_name": "cholelithiasis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 476,
+      "end": 490,
+      "icd10": [
+        {
+          "chapter": "K80",
+          "name": "Cholelithiasis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155823008",
+        "S-197376000",
+        "S-197403005",
+        "S-197406002",
+        "S-266474003",
+        "S-266541001",
+        "S-44900007"
+      ],
+      "id": 32,
+      "meta_anns": {}
+    },
+    "90": {
+      "pretty_name": "Paroxysmal nocturnal dyspnea",
+      "cui": "C1956415",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "PND",
+      "detected_name": "pnd",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1317,
+      "end": 1320,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-139198007",
+        "S-55442000"
+      ],
+      "id": 90,
+      "meta_anns": {}
+    },
+    "92": {
+      "pretty_name": "Transient Ischemic Attack",
+      "cui": "C0007787",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "TIA",
+      "detected_name": "tia",
+      "acc": 0.33845936832463863,
+      "context_similarity": 0.33845936832463863,
+      "start": 1333,
+      "end": 1336,
+      "icd10": [
+        {
+          "chapter": "G45.9",
+          "name": "Transient cerebral ischaemic attack, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155404005",
+        "S-195196001",
+        "S-195207009",
+        "S-266257000",
+        "S-266314007",
+        "S-313242003",
+        "S-38609002"
+      ],
+      "id": 92,
+      "meta_anns": {}
+    },
+    "93": {
+      "pretty_name": "Cerebrovascular accident",
+      "cui": "C0038454",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "stroke",
+      "detected_name": "stroke",
+      "acc": 0.38760577665143825,
+      "context_similarity": 0.38760577665143825,
+      "start": 1340,
+      "end": 1346,
+      "icd10": [
+        {
+          "chapter": "I64",
+          "name": "Stroke, not specified as haemorrhage or infarction"
+        },
+        {
+          "chapter": "I63.9",
+          "name": "Cerebral infarction, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155388006",
+        "S-155405006",
+        "S-195208004",
+        "S-230690007",
+        "S-266312006",
+        "S-266315008",
+        "S-270883006",
+        "S-313267000",
+        "S-82797006"
+      ],
+      "id": 93,
+      "meta_anns": {}
+    },
+    "94": {
+      "pretty_name": "",
+      "cui": "C0376288",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "amaurosis",
+      "detected_name": "amaurosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1348,
+      "end": 1357,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-70449006"
+      ],
+      "id": 94,
+      "meta_anns": {}
+    },
+    "102": {
+      "pretty_name": "",
+      "cui": "C0155874",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "bronchitis, emphysema",
+      "detected_name": "bronchitis~emphysema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1421,
+      "end": 1442,
+      "icd10": [
+        {
+          "chapter": "J44",
+          "name": "Other chronic obstructive pulmonary disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-185086009",
+        "S-195950008",
+        "S-195952000",
+        "S-71435009"
+      ],
+      "id": 102,
+      "meta_anns": {}
+    },
+    "104": {
+      "pretty_name": "Tuberculosis",
+      "cui": "C0041296",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "TB",
+      "detected_name": "tb",
+      "acc": 0.8098685334950726,
+      "context_similarity": 0.8098685334950726,
+      "start": 1444,
+      "end": 1446,
+      "icd10": [
+        {
+          "chapter": "A15-A19.9",
+          "name": "Tuberculosis"
+        },
+        {
+          "chapter": "A15-A19",
+          "name": "Tuberculosis (A15-A19)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154281007",
+        "S-154292008",
+        "S-186282009",
+        "S-187285000",
+        "S-263912007",
+        "S-371569005",
+        "S-373576009",
+        "S-56717001"
+      ],
+      "id": 104,
+      "meta_anns": {}
+    },
+    "126": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adenopathy",
+      "detected_name": "adenopathy",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1853,
+      "end": 1863,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 126,
+      "meta_anns": {}
+    },
+    "162": {
+      "pretty_name": "",
+      "cui": "C0037284",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "skin lesions",
+      "detected_name": "skin~lesion",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2382,
+      "end": 2394,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-156439002",
+        "S-201342000",
+        "S-201344004",
+        "S-95324001"
+      ],
+      "id": 162,
+      "meta_anns": {}
+    },
+    "166": {
+      "pretty_name": "Gall Bladder Diseases",
+      "cui": "C0016977",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Gall Bladder Disease",
+      "detected_name": "gall~bladder~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2422,
+      "end": 2442,
+      "icd10": [
+        {
+          "chapter": "K82.9",
+          "name": "Disease of gallbladder, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155807008",
+        "S-155826000",
+        "S-155829007",
+        "S-266535008",
+        "S-266542008",
+        "S-266543003",
+        "S-39621005"
+      ],
+      "id": 166,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

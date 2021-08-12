@@ -1,0 +1,648 @@
+{
+  "entities": {
+    "62": {
+      "pretty_name": "Pressure Ulcer",
+      "cui": "C0011127",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "decubitus ulcers",
+      "detected_name": "decubitus~ulcer",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1910,
+      "end": 1926,
+      "icd10": [
+        {
+          "chapter": "L89",
+          "name": "Decubitus ulcer"
+        },
+        {
+          "chapter": "L89.9",
+          "name": "Pressure ulcer of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-142668003",
+        "S-156424003",
+        "S-165258002",
+        "S-201248003",
+        "S-28103007",
+        "S-399912005",
+        "S-400192002",
+        "S-418172001",
+        "S-420226006",
+        "S-90144002"
+      ],
+      "id": 62,
+      "meta_anns": {}
+    },
+    "68": {
+      "pretty_name": "Atrophic condition of skin",
+      "cui": "C0151514",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "atrophic",
+      "detected_name": "atrophic",
+      "acc": 0.4221458463904027,
+      "context_similarity": 0.4221458463904027,
+      "start": 2067,
+      "end": 2075,
+      "icd10": [
+        {
+          "chapter": "L90",
+          "name": "Atrophic disorders of skin"
+        },
+        {
+          "chapter": "L90.9",
+          "name": "Atrophic disorder of skin, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156391001",
+        "S-16343004",
+        "S-201090001",
+        "S-267857003",
+        "S-399979006",
+        "S-400190005"
+      ],
+      "id": 68,
+      "meta_anns": {}
+    },
+    "79": {
+      "pretty_name": "Lordosis",
+      "cui": "C0024003",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lordosis",
+      "detected_name": "lordosis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2242,
+      "end": 2250,
+      "icd10": [
+        {
+          "chapter": "M40.5",
+          "name": "Lordosis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-203666008",
+        "S-203808008",
+        "S-249710008",
+        "S-61960001"
+      ],
+      "id": 79,
+      "meta_anns": {}
+    },
+    "86": {
+      "pretty_name": "Osteoporosis",
+      "cui": "C0029456",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "osteoporosis",
+      "detected_name": "osteoporosis",
+      "acc": 0.8829688916314122,
+      "context_similarity": 0.8829688916314122,
+      "start": 2449,
+      "end": 2461,
+      "icd10": [
+        {
+          "chapter": "M81.9",
+          "name": "Osteoporosis, unspecified"
+        },
+        {
+          "chapter": "M81.0",
+          "name": "Age-related osteoporosis without current pathological fracture"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156825006",
+        "S-203428004",
+        "S-203440004",
+        "S-64859006"
+      ],
+      "id": 86,
+      "meta_anns": {}
+    },
+    "142": {
+      "pretty_name": "Arteriosclerosis",
+      "cui": "C0003850",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "atherosclerosis",
+      "detected_name": "atherosclerosis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 4331,
+      "end": 4346,
+      "icd10": [
+        {
+          "chapter": "I70",
+          "name": "Atherosclerosis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-107671003",
+        "S-155414001",
+        "S-155418003",
+        "S-195251000",
+        "S-195257001",
+        "S-266318005",
+        "S-28960008",
+        "S-72092001"
+      ],
+      "id": 142,
+      "meta_anns": {}
+    },
+    "143": {
+      "pretty_name": "Atherosclerosis",
+      "cui": "C0004153",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "atherosclerosis",
+      "detected_name": "atherosclerosis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 4392,
+      "end": 4407,
+      "icd10": [
+        {
+          "chapter": "I70",
+          "name": "Atherosclerosis"
+        },
+        {
+          "chapter": "I25.1",
+          "name": "Atherosclerotic heart disease of native coronary artery"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155382007",
+        "S-155414001",
+        "S-194848007",
+        "S-195251000",
+        "S-266318005",
+        "S-38716007"
+      ],
+      "id": 143,
+      "meta_anns": {}
+    },
+    "155": {
+      "pretty_name": "Anthracosis",
+      "cui": "C0003165",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "anthracosis",
+      "detected_name": "anthracosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4701,
+      "end": 4712,
+      "icd10": [
+        {
+          "chapter": "J60",
+          "name": "Coalworker's pneumoconiosis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155588007",
+        "S-29422001"
+      ],
+      "id": 155,
+      "meta_anns": {}
+    },
+    "157": {
+      "pretty_name": "Cyst",
+      "cui": "C0010709",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cysts",
+      "detected_name": "cyst",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 4722,
+      "end": 4727,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-12494005",
+        "S-133846001",
+        "S-264515009",
+        "S-367643001",
+        "S-441457006"
+      ],
+      "id": 157,
+      "meta_anns": {}
+    },
+    "177": {
+      "pretty_name": "Cyst",
+      "cui": "C0010709",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cysts",
+      "detected_name": "cyst",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 5529,
+      "end": 5534,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-12494005",
+        "S-133846001",
+        "S-264515009",
+        "S-367643001",
+        "S-441457006"
+      ],
+      "id": 177,
+      "meta_anns": {}
+    },
+    "179": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "enlarged lymph nodes",
+      "detected_name": "enlarged~lymph~node",
+      "acc": 0.5449891151424193,
+      "context_similarity": 0.5449891151424193,
+      "start": 5552,
+      "end": 5572,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 179,
+      "meta_anns": {}
+    },
+    "218": {
+      "pretty_name": "",
+      "cui": "C0027269",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "nabothian cysts",
+      "detected_name": "nabothian~cyst",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 6608,
+      "end": 6623,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-156029004",
+        "S-198209008",
+        "S-198211004",
+        "S-237086008",
+        "S-24565001"
+      ],
+      "id": 218,
+      "meta_anns": {}
+    },
+    "241": {
+      "pretty_name": "Petechiae",
+      "cui": "C0031256",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "petechiae",
+      "detected_name": "petechiae",
+      "acc": 0.5161042240400491,
+      "context_similarity": 0.5161042240400491,
+      "start": 7209,
+      "end": 7218,
+      "icd10": [
+        {
+          "chapter": "R23.3",
+          "name": "Spontaneous ecchymoses"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-141618008",
+        "S-158259006",
+        "S-164431004",
+        "S-206906004",
+        "S-271813007",
+        "S-50091001"
+      ],
+      "id": 241,
+      "meta_anns": {}
+    },
+    "276": {
+      "pretty_name": "Cyst",
+      "cui": "C0010709",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cysts",
+      "detected_name": "cyst",
+      "acc": 0.856570617108759,
+      "context_similarity": 0.856570617108759,
+      "start": 8139,
+      "end": 8144,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-12494005",
+        "S-133846001",
+        "S-264515009",
+        "S-367643001",
+        "S-441457006"
+      ],
+      "id": 276,
+      "meta_anns": {}
+    },
+    "323": {
+      "pretty_name": "Atrophic condition of skin",
+      "cui": "C0151514",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "atrophic",
+      "detected_name": "atrophic",
+      "acc": 0.38424367437963436,
+      "context_similarity": 0.38424367437963436,
+      "start": 9348,
+      "end": 9356,
+      "icd10": [
+        {
+          "chapter": "L90",
+          "name": "Atrophic disorders of skin"
+        },
+        {
+          "chapter": "L90.9",
+          "name": "Atrophic disorder of skin, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156391001",
+        "S-16343004",
+        "S-201090001",
+        "S-267857003",
+        "S-399979006",
+        "S-400190005"
+      ],
+      "id": 323,
+      "meta_anns": {}
+    },
+    "348": {
+      "pretty_name": "",
+      "cui": "C0741949",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cardiovascular pathology",
+      "detected_name": "cardiovascular~pathology",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 9903,
+      "end": 9927,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 348,
+      "meta_anns": {}
+    },
+    "350": {
+      "pretty_name": "Bronchopneumonia",
+      "cui": "C0006285",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "bronchopneumonia",
+      "detected_name": "bronchopneumonia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 9969,
+      "end": 9985,
+      "icd10": [
+        {
+          "chapter": "J18.0",
+          "name": "Bronchopneumonia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155551009",
+        "S-195914001",
+        "S-266352008",
+        "S-396285007",
+        "S-67814005"
+      ],
+      "id": 350,
+      "meta_anns": {}
+    },
+    "363": {
+      "pretty_name": "Melanosis",
+      "cui": "C0025209",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Melanosis",
+      "detected_name": "melanosis",
+      "acc": 0.5474170379579434,
+      "context_similarity": 0.5474170379579434,
+      "start": 10183,
+      "end": 10192,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-156438005",
+        "S-239082002",
+        "S-267870007",
+        "S-414662006",
+        "S-48010006"
+      ],
+      "id": 363,
+      "meta_anns": {}
+    },
+    "368": {
+      "pretty_name": "Cyst",
+      "cui": "C0010709",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cyst",
+      "detected_name": "cyst",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 10276,
+      "end": 10280,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-12494005",
+        "S-133846001",
+        "S-264515009",
+        "S-367643001",
+        "S-441457006"
+      ],
+      "id": 368,
+      "meta_anns": {}
+    },
+    "370": {
+      "pretty_name": "",
+      "cui": "C1142307",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Paratubal cyst",
+      "detected_name": "paratubal~cyst",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 10300,
+      "end": 10314,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 370,
+      "meta_anns": {}
+    },
+    "384": {
+      "pretty_name": "",
+      "cui": "C0333980",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Focal nodular hyperplasia",
+      "detected_name": "focal~nodular~hyperplasia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 10439,
+      "end": 10464,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-22995004"
+      ],
+      "id": 384,
+      "meta_anns": {}
+    },
+    "391": {
+      "pretty_name": "Renal tubular necrosis",
+      "cui": "C1720775",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Tubular necrosis",
+      "detected_name": "tubular~necrosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 10532,
+      "end": 10548,
+      "icd10": [
+        {
+          "chapter": "N17.0",
+          "name": "Acute kidney failure with tubular necrosis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 391,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

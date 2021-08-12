@@ -1,0 +1,663 @@
+{
+  "entities": {
+    "15": {
+      "pretty_name": "Gastroparesis",
+      "cui": "C0152020",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gastroparesis",
+      "detected_name": "gastroparesis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 216,
+      "end": 229,
+      "icd10": [
+        {
+          "chapter": "K31.84",
+          "name": "Gastroparesis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196753007",
+        "S-235675006",
+        "S-77164002"
+      ],
+      "id": 15,
+      "meta_anns": {}
+    },
+    "16": {
+      "pretty_name": "Gastritis",
+      "cui": "C0017152",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gastritis",
+      "detected_name": "gastritis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 325,
+      "end": 334,
+      "icd10": [
+        {
+          "chapter": "K29.7",
+          "name": "Gastritis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155711008",
+        "S-196743006",
+        "S-235653009",
+        "S-266503008",
+        "S-4556007"
+      ],
+      "id": 16,
+      "meta_anns": {}
+    },
+    "17": {
+      "pretty_name": "Esophagitis",
+      "cui": "C0014868",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "esophagitis",
+      "detected_name": "esophagitis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 339,
+      "end": 350,
+      "icd10": [
+        {
+          "chapter": "K20",
+          "name": "Oesophagitis"
+        },
+        {
+          "chapter": "K20.9",
+          "name": "Esophagitis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155673008",
+        "S-16761005",
+        "S-196605000",
+        "S-266498005"
+      ],
+      "id": 17,
+      "meta_anns": {}
+    },
+    "21": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 492,
+      "end": 504,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 21,
+      "meta_anns": {}
+    },
+    "23": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes mellitus",
+      "detected_name": "diabetes~mellitus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 506,
+      "end": 523,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 23,
+      "meta_anns": {}
+    },
+    "50": {
+      "pretty_name": "poorly controlled diabetes mellitus",
+      "cui": "C0554876",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Diabetes mellitus (poorly controlled",
+      "detected_name": "diabetes~mellitus~poorly~controlled",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1150,
+      "end": 1186,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 50,
+      "meta_anns": {}
+    },
+    "52": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1192,
+      "end": 1204,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 52,
+      "meta_anns": {}
+    },
+    "54": {
+      "pretty_name": "Chronic Kidney Diseases",
+      "cui": "C1561643",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Chronic renal insufficiency",
+      "detected_name": "chronic~renal~insufficiency",
+      "acc": 0.40719836617901795,
+      "context_similarity": 0.40719836617901795,
+      "start": 1229,
+      "end": 1256,
+      "icd10": [
+        {
+          "chapter": "N18.9",
+          "name": "Chronic kidney disease, unspecified"
+        },
+        {
+          "chapter": "N18",
+          "name": "Chronic kidney disease (CKD)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-236425005",
+        "S-709044004"
+      ],
+      "id": 54,
+      "meta_anns": {}
+    },
+    "58": {
+      "pretty_name": "",
+      "cui": "C0342500",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Adrenal mass",
+      "detected_name": "adrenal~mass",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1261,
+      "end": 1273,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-237783006"
+      ],
+      "id": 58,
+      "meta_anns": {}
+    },
+    "60": {
+      "pretty_name": "Sleep Apnea, Obstructive",
+      "cui": "C0520679",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Obstructive sleep apnea",
+      "detected_name": "obstructive~sleep~apnea",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1278,
+      "end": 1301,
+      "icd10": [
+        {
+          "chapter": "G47.33",
+          "name": "Obstructive sleep apnea (adult) (pediatric)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-194441007",
+        "S-196167006",
+        "S-78275009"
+      ],
+      "id": 60,
+      "meta_anns": {}
+    },
+    "64": {
+      "pretty_name": "Arthritis",
+      "cui": "C0003864",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Arthritis",
+      "detected_name": "arthritis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1306,
+      "end": 1315,
+      "icd10": [
+        {
+          "chapter": "M13.9",
+          "name": "Arthritis, unspecified"
+        },
+        {
+          "chapter": "M19.90",
+          "name": "Unspecified osteoarthritis, unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-202059001",
+        "S-363178003",
+        "S-372091005",
+        "S-3723001"
+      ],
+      "id": 64,
+      "meta_anns": {}
+    },
+    "65": {
+      "pretty_name": "Hyperlipidemia",
+      "cui": "C0020473",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hyperlipidemia",
+      "detected_name": "hyperlipidemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1320,
+      "end": 1334,
+      "icd10": [
+        {
+          "chapter": "E78.5",
+          "name": "Hyperlipidaemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154739000",
+        "S-154743001",
+        "S-190782002",
+        "S-267499005",
+        "S-55822004"
+      ],
+      "id": 65,
+      "meta_anns": {}
+    },
+    "68": {
+      "pretty_name": "Ovarian Cysts",
+      "cui": "C0029927",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ovarian cyst",
+      "detected_name": "ovarian~cyst",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1373,
+      "end": 1385,
+      "icd10": [
+        {
+          "chapter": "N83.209",
+          "name": "Unspecified ovarian cyst, unspecified side"
+        },
+        {
+          "chapter": "N83.20",
+          "name": "Unspecified ovarian cysts"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155996005",
+        "S-155999003",
+        "S-198292005",
+        "S-198298009",
+        "S-79883001"
+      ],
+      "id": 68,
+      "meta_anns": {}
+    },
+    "71": {
+      "pretty_name": "Esophagitis",
+      "cui": "C0014868",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "esophagitis",
+      "detected_name": "esophagitis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1505,
+      "end": 1516,
+      "icd10": [
+        {
+          "chapter": "K20",
+          "name": "Oesophagitis"
+        },
+        {
+          "chapter": "K20.9",
+          "name": "Esophagitis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155673008",
+        "S-16761005",
+        "S-196605000",
+        "S-266498005"
+      ],
+      "id": 71,
+      "meta_anns": {}
+    },
+    "72": {
+      "pretty_name": "Gastritis",
+      "cui": "C0017152",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gastritis",
+      "detected_name": "gastritis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1521,
+      "end": 1530,
+      "icd10": [
+        {
+          "chapter": "K29.7",
+          "name": "Gastritis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155711008",
+        "S-196743006",
+        "S-235653009",
+        "S-266503008",
+        "S-4556007"
+      ],
+      "id": 72,
+      "meta_anns": {}
+    },
+    "73": {
+      "pretty_name": "Diverticulosis",
+      "cui": "C1510475",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diverticular disease",
+      "detected_name": "diverticular~disease",
+      "acc": 0.5788560883917238,
+      "context_similarity": 0.5788560883917238,
+      "start": 1570,
+      "end": 1590,
+      "icd10": [
+        {
+          "chapter": "K57",
+          "name": "Diverticular disease of intestine"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155781003",
+        "S-197094004",
+        "S-197116004",
+        "S-271365001",
+        "S-31113003",
+        "S-63532004",
+        "S-735594002"
+      ],
+      "id": 73,
+      "meta_anns": {}
+    },
+    "79": {
+      "pretty_name": "Renal Artery Stenosis",
+      "cui": "C0035067",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "renal artery stenosis",
+      "detected_name": "renal~artery~stenosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1690,
+      "end": 1711,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-204481003",
+        "S-282664001",
+        "S-302233006",
+        "S-83122005"
+      ],
+      "id": 79,
+      "meta_anns": {}
+    },
+    "108": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.5992367340005351,
+      "context_similarity": 0.5992367340005351,
+      "start": 2155,
+      "end": 2163,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 108,
+      "meta_anns": {}
+    },
+    "145": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obese",
+      "detected_name": "obese",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2796,
+      "end": 2801,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 145,
+      "meta_anns": {}
+    },
+    "160": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymphadenopathy",
+      "detected_name": "lymphadenopathy",
+      "acc": 0.9654059947637934,
+      "context_similarity": 0.9654059947637934,
+      "start": 3125,
+      "end": 3140,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 160,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

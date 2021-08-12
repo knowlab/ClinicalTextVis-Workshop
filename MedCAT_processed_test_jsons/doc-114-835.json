@@ -1,0 +1,484 @@
+{
+  "entities": {
+    "13": {
+      "pretty_name": "Chronic Obstructive Airway Disease",
+      "cui": "C0024117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "chronic obstructive pulmonary disease",
+      "detected_name": "chronic~obstructive~pulmonary~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 248,
+      "end": 285,
+      "icd10": [
+        {
+          "chapter": "J44.9",
+          "name": "Chronic obstructive pulmonary disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13645005",
+        "S-155565006",
+        "S-155569000",
+        "S-155585005",
+        "S-155617000",
+        "S-195935004",
+        "S-195948000",
+        "S-196003006",
+        "S-413846005"
+      ],
+      "id": 13,
+      "meta_anns": {}
+    },
+    "18": {
+      "pretty_name": "Pulmonary Emphysema",
+      "cui": "C0034067",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "emphysema",
+      "detected_name": "emphysema",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 290,
+      "end": 299,
+      "icd10": [
+        {
+          "chapter": "J43",
+          "name": "Emphysema"
+        },
+        {
+          "chapter": "J43.9",
+          "name": "Emphysema, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155573002",
+        "S-87433001"
+      ],
+      "id": 18,
+      "meta_anns": {}
+    },
+    "24": {
+      "pretty_name": "Pneumonitis",
+      "cui": "C3714636",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pneumonia",
+      "detected_name": "pneumonia",
+      "acc": 0.1850198079786144,
+      "context_similarity": 0.1850198079786144,
+      "start": 494,
+      "end": 503,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-205237003",
+        "S-60363000"
+      ],
+      "id": 24,
+      "meta_anns": {}
+    },
+    "45": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 895,
+      "end": 907,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 45,
+      "meta_anns": {}
+    },
+    "46": {
+      "pretty_name": "Pulmonary Emphysema",
+      "cui": "C0034067",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "emphysema",
+      "detected_name": "emphysema",
+      "acc": 0.4912233159909246,
+      "context_similarity": 0.4912233159909246,
+      "start": 912,
+      "end": 921,
+      "icd10": [
+        {
+          "chapter": "J43",
+          "name": "Emphysema"
+        },
+        {
+          "chapter": "J43.9",
+          "name": "Emphysema, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155573002",
+        "S-87433001"
+      ],
+      "id": 46,
+      "meta_anns": {}
+    },
+    "93": {
+      "pretty_name": "Sinus Tachycardia",
+      "cui": "C0039239",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "sinus tachycardia",
+      "detected_name": "sinus~tachycardia",
+      "acc": 0.6650057538430642,
+      "context_similarity": 0.6650057538430642,
+      "start": 1782,
+      "end": 1799,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-11092001",
+        "S-367107008"
+      ],
+      "id": 93,
+      "meta_anns": {}
+    },
+    "124": {
+      "pretty_name": "Pneumothorax",
+      "cui": "C0032326",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pneumothorax",
+      "detected_name": "pneumothorax",
+      "acc": 0.6188963542802177,
+      "context_similarity": 0.6188963542802177,
+      "start": 2408,
+      "end": 2420,
+      "icd10": [
+        {
+          "chapter": "J93",
+          "name": "Pneumothorax"
+        },
+        {
+          "chapter": "J93.9",
+          "name": "Pneumothorax, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155609008",
+        "S-155612006",
+        "S-196106000",
+        "S-36118008"
+      ],
+      "id": 124,
+      "meta_anns": {}
+    },
+    "199": {
+      "pretty_name": "Pneumonia",
+      "cui": "C0032285",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pneumonia",
+      "detected_name": "pneumonia",
+      "acc": 0.47055047895180413,
+      "context_similarity": 0.47055047895180413,
+      "start": 4915,
+      "end": 4924,
+      "icd10": [
+        {
+          "chapter": "J18.9",
+          "name": "Pneumonia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155548002",
+        "S-155552002",
+        "S-155558003",
+        "S-233604007",
+        "S-266391003",
+        "S-274103002",
+        "S-60363000"
+      ],
+      "id": 199,
+      "meta_anns": {}
+    },
+    "200": {
+      "pretty_name": "Sepsis",
+      "cui": "C0243026",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "sepsis",
+      "detected_name": "sepsis",
+      "acc": 0.9361404465194125,
+      "context_similarity": 0.9361404465194125,
+      "start": 4928,
+      "end": 4934,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-186392004",
+        "S-445101001",
+        "S-91302008"
+      ],
+      "id": 200,
+      "meta_anns": {}
+    },
+    "227": {
+      "pretty_name": "Respiratory Failure",
+      "cui": "C1145670",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "respiratory failure",
+      "detected_name": "respiratory~failure",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 5722,
+      "end": 5741,
+      "icd10": [
+        {
+          "chapter": "J96.9",
+          "name": "Respiratory failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-158731006",
+        "S-158734003",
+        "S-196165003",
+        "S-207552005",
+        "S-207555007",
+        "S-409622000",
+        "S-51395007"
+      ],
+      "id": 227,
+      "meta_anns": {}
+    },
+    "231": {
+      "pretty_name": "Pneumonia",
+      "cui": "C0032285",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pneumonia",
+      "detected_name": "pneumonia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 5797,
+      "end": 5806,
+      "icd10": [
+        {
+          "chapter": "J18.9",
+          "name": "Pneumonia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155548002",
+        "S-155552002",
+        "S-155558003",
+        "S-233604007",
+        "S-266391003",
+        "S-274103002",
+        "S-60363000"
+      ],
+      "id": 231,
+      "meta_anns": {}
+    },
+    "233": {
+      "pretty_name": "Pneumonia",
+      "cui": "C0032285",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pneumonia",
+      "detected_name": "pneumonia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 5841,
+      "end": 5850,
+      "icd10": [
+        {
+          "chapter": "J18.9",
+          "name": "Pneumonia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155548002",
+        "S-155552002",
+        "S-155558003",
+        "S-233604007",
+        "S-266391003",
+        "S-274103002",
+        "S-60363000"
+      ],
+      "id": 233,
+      "meta_anns": {}
+    },
+    "236": {
+      "pretty_name": "Septicemia",
+      "cui": "C0036690",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "sepsis",
+      "detected_name": "sepsis",
+      "acc": 0.1632653825876751,
+      "context_similarity": 0.1632653825876751,
+      "start": 5916,
+      "end": 5922,
+      "icd10": [
+        {
+          "chapter": "A41.9",
+          "name": "Septicaemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-105592009",
+        "S-154313001",
+        "S-186392004",
+        "S-187333004",
+        "S-266089004",
+        "S-40555009",
+        "S-91302008"
+      ],
+      "id": 236,
+      "meta_anns": {}
+    },
+    "246": {
+      "pretty_name": "Respiratory Failure",
+      "cui": "C1145670",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Respiratory failure",
+      "detected_name": "respiratory~failure",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 6120,
+      "end": 6139,
+      "icd10": [
+        {
+          "chapter": "J96.9",
+          "name": "Respiratory failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-158731006",
+        "S-158734003",
+        "S-196165003",
+        "S-207552005",
+        "S-207555007",
+        "S-409622000",
+        "S-51395007"
+      ],
+      "id": 246,
+      "meta_anns": {}
+    },
+    "249": {
+      "pretty_name": "",
+      "cui": "C0730607",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "severe chronic obstructive pulmonary disease",
+      "detected_name": "severe~chronic~obstructive~pulmonary~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 6153,
+      "end": 6197,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155584009",
+        "S-195998004",
+        "S-313299006"
+      ],
+      "id": 249,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

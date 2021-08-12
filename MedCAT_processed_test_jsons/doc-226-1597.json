@@ -1,0 +1,423 @@
+{
+  "entities": {
+    "2": {
+      "pretty_name": "",
+      "cui": "C0263118",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Buttock abscess",
+      "detected_name": "buttock~abscess",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 19,
+      "end": 34,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-200752006",
+        "S-64576003"
+      ],
+      "id": 2,
+      "meta_anns": {}
+    },
+    "18": {
+      "pretty_name": "Hyperglycemia",
+      "cui": "C0020456",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "elevated blood sugars",
+      "detected_name": "elevated~blood~sugar",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 440,
+      "end": 461,
+      "icd10": [
+        {
+          "chapter": "R73.9",
+          "name": "Hyperglycaemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-144187006",
+        "S-154719004",
+        "S-207289007",
+        "S-207643008",
+        "S-237598005",
+        "S-270004003",
+        "S-315299009",
+        "S-390730002",
+        "S-80394007"
+      ],
+      "id": 18,
+      "meta_anns": {}
+    },
+    "30": {
+      "pretty_name": "Diabetes Mellitus, Non-Insulin-Dependent",
+      "cui": "C0011860",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Diabetes type II",
+      "detected_name": "diabetes~type~ii",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 569,
+      "end": 585,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Non-insulin-dependent diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154672006",
+        "S-190323008",
+        "S-190384004",
+        "S-267468009",
+        "S-44054006"
+      ],
+      "id": 30,
+      "meta_anns": {}
+    },
+    "34": {
+      "pretty_name": "Hypercholesterolemia",
+      "cui": "C0020443",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "high cholesterol",
+      "detected_name": "high~cholesterol",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 606,
+      "end": 622,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-13644009",
+        "S-154740003",
+        "S-267500001"
+      ],
+      "id": 34,
+      "meta_anns": {}
+    },
+    "51": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.9257188126454232,
+      "context_similarity": 0.9257188126454232,
+      "start": 783,
+      "end": 791,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 51,
+      "meta_anns": {}
+    },
+    "52": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 793,
+      "end": 805,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 52,
+      "meta_anns": {}
+    },
+    "53": {
+      "pretty_name": "Cerebrovascular accident",
+      "cui": "C0038454",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "stroke",
+      "detected_name": "stroke",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 807,
+      "end": 813,
+      "icd10": [
+        {
+          "chapter": "I64",
+          "name": "Stroke, not specified as haemorrhage or infarction"
+        },
+        {
+          "chapter": "I63.9",
+          "name": "Cerebral infarction, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155388006",
+        "S-155405006",
+        "S-195208004",
+        "S-230690007",
+        "S-266312006",
+        "S-266315008",
+        "S-270883006",
+        "S-313267000",
+        "S-82797006"
+      ],
+      "id": 53,
+      "meta_anns": {}
+    },
+    "54": {
+      "pretty_name": "Parkinson Disease",
+      "cui": "C0030567",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Parkinson disease",
+      "detected_name": "parkinson~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 815,
+      "end": 832,
+      "icd10": [
+        {
+          "chapter": "G20",
+          "name": "Parkinson's disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154999006",
+        "S-155000006",
+        "S-155002003",
+        "S-192825001",
+        "S-192831003",
+        "S-49049000"
+      ],
+      "id": 54,
+      "meta_anns": {}
+    },
+    "57": {
+      "pretty_name": "Heart Diseases",
+      "cui": "C0018799",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "heart disease",
+      "detected_name": "heart~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 838,
+      "end": 851,
+      "icd10": [
+        {
+          "chapter": "I51.9",
+          "name": "Heart disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155263000",
+        "S-194707003",
+        "S-195152001",
+        "S-266275004",
+        "S-266311004",
+        "S-56265001"
+      ],
+      "id": 57,
+      "meta_anns": {}
+    },
+    "73": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adenopathy",
+      "detected_name": "adenopathy",
+      "acc": 0.5326498092605833,
+      "context_similarity": 0.5326498092605833,
+      "start": 1207,
+      "end": 1217,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 73,
+      "meta_anns": {}
+    },
+    "83": {
+      "pretty_name": "Abscess",
+      "cui": "C0000833",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "abscess",
+      "detected_name": "abscess",
+      "acc": 0.23229540548855926,
+      "context_similarity": 0.23229540548855926,
+      "start": 1410,
+      "end": 1417,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-128477000",
+        "S-156308003",
+        "S-200694004",
+        "S-267831001",
+        "S-44132006"
+      ],
+      "id": 83,
+      "meta_anns": {}
+    },
+    "86": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "erythema",
+      "detected_name": "erythema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1584,
+      "end": 1592,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 86,
+      "meta_anns": {}
+    },
+    "88": {
+      "pretty_name": "",
+      "cui": "C0263118",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "buttock abscess",
+      "detected_name": "buttock~abscess",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1622,
+      "end": 1637,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-200752006",
+        "S-64576003"
+      ],
+      "id": 88,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,784 @@
+{
+  "entities": {
+    "6": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "CHF",
+      "detected_name": "chf",
+      "acc": 0.4546489874100176,
+      "context_similarity": 0.4546489874100176,
+      "start": 108,
+      "end": 111,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 6,
+      "meta_anns": {}
+    },
+    "7": {
+      "pretty_name": "Lymphedema",
+      "cui": "C0024236",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymphedema",
+      "detected_name": "lymphedema",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 116,
+      "end": 126,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155485008",
+        "S-195486001",
+        "S-234097001",
+        "S-266334008",
+        "S-30213001"
+      ],
+      "id": 7,
+      "meta_anns": {}
+    },
+    "11": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obesity",
+      "detected_name": "obesity",
+      "acc": 0.8801258271038126,
+      "context_similarity": 0.8801258271038126,
+      "start": 154,
+      "end": 161,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 11,
+      "meta_anns": {}
+    },
+    "12": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 163,
+      "end": 175,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 12,
+      "meta_anns": {}
+    },
+    "16": {
+      "pretty_name": "",
+      "cui": "C0457949",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "chronic low back pain",
+      "detected_name": "chronic~low~back~pain",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 190,
+      "end": 211,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-278860009",
+        "S-389320000",
+        "S-390055001"
+      ],
+      "id": 16,
+      "meta_anns": {}
+    },
+    "25": {
+      "pretty_name": "Lung diseases",
+      "cui": "C0024115",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lung",
+      "detected_name": "lung",
+      "acc": 0.28715696851227385,
+      "context_similarity": 0.28715696851227385,
+      "start": 254,
+      "end": 258,
+      "icd10": [
+        {
+          "chapter": "J98.4",
+          "name": "Other disorders of lung"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196164004",
+        "S-19829001",
+        "S-266374002"
+      ],
+      "id": 25,
+      "meta_anns": {}
+    },
+    "30": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabete",
+      "acc": 0.11213216990257503,
+      "context_similarity": 0.11213216990257503,
+      "start": 384,
+      "end": 392,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 30,
+      "meta_anns": {}
+    },
+    "31": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabete",
+      "acc": 0.20633812828406248,
+      "context_similarity": 0.20633812828406248,
+      "start": 437,
+      "end": 445,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 31,
+      "meta_anns": {}
+    },
+    "48": {
+      "pretty_name": "Lung diseases",
+      "cui": "C0024115",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lung",
+      "detected_name": "lung",
+      "acc": 0.9446129111678438,
+      "context_similarity": 0.9446129111678438,
+      "start": 1008,
+      "end": 1012,
+      "icd10": [
+        {
+          "chapter": "J98.4",
+          "name": "Other disorders of lung"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196164004",
+        "S-19829001",
+        "S-266374002"
+      ],
+      "id": 48,
+      "meta_anns": {}
+    },
+    "49": {
+      "pretty_name": "Chronic Obstructive Airway Disease",
+      "cui": "C0024117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "COPD",
+      "detected_name": "copd",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1014,
+      "end": 1018,
+      "icd10": [
+        {
+          "chapter": "J44.9",
+          "name": "Chronic obstructive pulmonary disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13645005",
+        "S-155565006",
+        "S-155569000",
+        "S-155585005",
+        "S-155617000",
+        "S-195935004",
+        "S-195948000",
+        "S-196003006",
+        "S-413846005"
+      ],
+      "id": 49,
+      "meta_anns": {}
+    },
+    "50": {
+      "pretty_name": "Bilateral cataracts",
+      "cui": "C0521707",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "bilateral cataracts",
+      "detected_name": "bilateral~cataract",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1020,
+      "end": 1039,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-193618003",
+        "S-95722004"
+      ],
+      "id": 50,
+      "meta_anns": {}
+    },
+    "61": {
+      "pretty_name": "Umbilical hernia",
+      "cui": "C0019322",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "umbilical hernia",
+      "detected_name": "umbilical~hernia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1153,
+      "end": 1169,
+      "icd10": [
+        {
+          "chapter": "K42",
+          "name": "Umbilical hernia"
+        },
+        {
+          "chapter": "K42.9",
+          "name": "Umbilical hernia without obstruction or gangrene"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155753009",
+        "S-196854005",
+        "S-196871006",
+        "S-196874003",
+        "S-196875002",
+        "S-266514006",
+        "S-396347007",
+        "S-49324006"
+      ],
+      "id": 61,
+      "meta_anns": {}
+    },
+    "104": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes mellitus",
+      "detected_name": "diabetes~mellitus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1771,
+      "end": 1788,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 104,
+      "meta_anns": {}
+    },
+    "117": {
+      "pretty_name": "Chronic obstructive pulmonary disease of horses",
+      "cui": "C3714496",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "COPD",
+      "detected_name": "copd",
+      "acc": 0.2761972644813624,
+      "context_similarity": 0.2761972644813624,
+      "start": 2026,
+      "end": 2030,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-10169006"
+      ],
+      "id": 117,
+      "meta_anns": {}
+    },
+    "144": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obese",
+      "detected_name": "obese",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2428,
+      "end": 2433,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 144,
+      "meta_anns": {}
+    },
+    "177": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obese",
+      "detected_name": "obese",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2949,
+      "end": 2954,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 177,
+      "meta_anns": {}
+    },
+    "191": {
+      "pretty_name": "Diabetes Mellitus, Non-Insulin-Dependent",
+      "cui": "C0011860",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Diabetes mellitus, type 2",
+      "detected_name": "diabetes~mellitus~type~2",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3177,
+      "end": 3202,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Non-insulin-dependent diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154672006",
+        "S-190323008",
+        "S-190384004",
+        "S-267468009",
+        "S-44054006"
+      ],
+      "id": 191,
+      "meta_anns": {}
+    },
+    "209": {
+      "pretty_name": "Peripheral Neuropathy",
+      "cui": "C0031117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Neuropathy, peripheral",
+      "detected_name": "neuropathy~peripheral",
+      "acc": 0.1446622997359009,
+      "context_similarity": 0.1446622997359009,
+      "start": 3530,
+      "end": 3552,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155064004",
+        "S-155080009",
+        "S-155100008",
+        "S-193088006",
+        "S-193264002",
+        "S-264554005",
+        "S-267706009",
+        "S-302226006",
+        "S-42658009"
+      ],
+      "id": 209,
+      "meta_anns": {}
+    },
+    "211": {
+      "pretty_name": "Lymphedema",
+      "cui": "C0024236",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Lymphedema",
+      "detected_name": "lymphedema",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3609,
+      "end": 3619,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155485008",
+        "S-195486001",
+        "S-234097001",
+        "S-266334008",
+        "S-30213001"
+      ],
+      "id": 211,
+      "meta_anns": {}
+    },
+    "212": {
+      "pretty_name": "",
+      "cui": "C0742020",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Recurrent cellulitis",
+      "detected_name": "recurrent~cellulitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3625,
+      "end": 3645,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-698567002"
+      ],
+      "id": 212,
+      "meta_anns": {}
+    },
+    "215": {
+      "pretty_name": "Morbid obesity",
+      "cui": "C0028756",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Obesity, morbid",
+      "detected_name": "obesity~morbid",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3651,
+      "end": 3666,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-190967003",
+        "S-238136002",
+        "S-389986000",
+        "S-83911000119104"
+      ],
+      "id": 215,
+      "meta_anns": {}
+    },
+    "221": {
+      "pretty_name": "Lymphedema",
+      "cui": "C0024236",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Lymphedema",
+      "detected_name": "lymphedema",
+      "acc": 0.457374904901936,
+      "context_similarity": 0.457374904901936,
+      "start": 3921,
+      "end": 3931,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155485008",
+        "S-195486001",
+        "S-234097001",
+        "S-266334008",
+        "S-30213001"
+      ],
+      "id": 221,
+      "meta_anns": {}
+    },
+    "222": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.43715782487509536,
+      "context_similarity": 0.43715782487509536,
+      "start": 3977,
+      "end": 3989,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 222,
+      "meta_anns": {}
+    },
+    "228": {
+      "pretty_name": "Umbilical hernia",
+      "cui": "C0019322",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Umbilical hernia",
+      "detected_name": "umbilical~hernia",
+      "acc": 0.9148273268973501,
+      "context_similarity": 0.9148273268973501,
+      "start": 4119,
+      "end": 4135,
+      "icd10": [
+        {
+          "chapter": "K42",
+          "name": "Umbilical hernia"
+        },
+        {
+          "chapter": "K42.9",
+          "name": "Umbilical hernia without obstruction or gangrene"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155753009",
+        "S-196854005",
+        "S-196871006",
+        "S-196874003",
+        "S-196875002",
+        "S-266514006",
+        "S-396347007",
+        "S-49324006"
+      ],
+      "id": 228,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

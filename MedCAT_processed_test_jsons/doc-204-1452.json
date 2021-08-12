@@ -1,0 +1,401 @@
+{
+  "entities": {
+    "1": {
+      "pretty_name": "Acne",
+      "cui": "C0702166",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "acne",
+      "detected_name": "acne",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 176,
+      "end": 180,
+      "icd10": [
+        {
+          "chapter": "L70",
+          "name": "Acne"
+        },
+        {
+          "chapter": "L70.9",
+          "name": "Acne, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-11381005",
+        "S-201229002",
+        "S-201408008"
+      ],
+      "id": 1,
+      "meta_anns": {}
+    },
+    "6": {
+      "pretty_name": "Acne",
+      "cui": "C0702166",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "acne",
+      "detected_name": "acne",
+      "acc": 0.23629304037581828,
+      "context_similarity": 0.23629304037581828,
+      "start": 329,
+      "end": 333,
+      "icd10": [
+        {
+          "chapter": "L70",
+          "name": "Acne"
+        },
+        {
+          "chapter": "L70.9",
+          "name": "Acne, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-11381005",
+        "S-201229002",
+        "S-201408008"
+      ],
+      "id": 6,
+      "meta_anns": {}
+    },
+    "7": {
+      "pretty_name": "Folliculitis",
+      "cui": "C0016436",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "folliculitis",
+      "detected_name": "folliculitis",
+      "acc": 0.4102240446305184,
+      "context_similarity": 0.4102240446305184,
+      "start": 345,
+      "end": 357,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-13600006",
+        "S-156411003",
+        "S-201177005",
+        "S-201183008",
+        "S-267863007",
+        "S-721130001"
+      ],
+      "id": 7,
+      "meta_anns": {}
+    },
+    "24": {
+      "pretty_name": "Hay fever",
+      "cui": "C0018621",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hay fever",
+      "detected_name": "hay~fever",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 795,
+      "end": 804,
+      "icd10": [
+        {
+          "chapter": "J30.1",
+          "name": "Allergic rhinitis due to pollen"
+        },
+        {
+          "chapter": "J30",
+          "name": "Vasomotor and allergic rhinitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155536000",
+        "S-155537009",
+        "S-195818002",
+        "S-21719001",
+        "S-266386004",
+        "S-278515004",
+        "S-300910009",
+        "S-367498001",
+        "S-444316004",
+        "S-70369002"
+      ],
+      "id": 24,
+      "meta_anns": {}
+    },
+    "26": {
+      "pretty_name": "Eczema",
+      "cui": "C0013595",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "eczema",
+      "detected_name": "eczema",
+      "acc": 0.7623896003438675,
+      "context_similarity": 0.7623896003438675,
+      "start": 806,
+      "end": 812,
+      "icd10": [
+        {
+          "chapter": "L30.9",
+          "name": "Dermatitis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156326000",
+        "S-156358005",
+        "S-200885007",
+        "S-238538009",
+        "S-267797006",
+        "S-267847004",
+        "S-281104002",
+        "S-43116000"
+      ],
+      "id": 26,
+      "meta_anns": {}
+    },
+    "28": {
+      "pretty_name": "Urticaria",
+      "cui": "C0042109",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hives",
+      "detected_name": "hive",
+      "acc": 0.34840375830397224,
+      "context_similarity": 0.34840375830397224,
+      "start": 825,
+      "end": 830,
+      "icd10": [
+        {
+          "chapter": "L50",
+          "name": "Urticaria"
+        },
+        {
+          "chapter": "L50.9",
+          "name": "Urticaria, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-126485001",
+        "S-156427005",
+        "S-157756002",
+        "S-201272008",
+        "S-247472004",
+        "S-267818006",
+        "S-267868003",
+        "S-269433002",
+        "S-64305001"
+      ],
+      "id": 28,
+      "meta_anns": {}
+    },
+    "33": {
+      "pretty_name": "",
+      "cui": "C0033860",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "psoriasis",
+      "detected_name": "psoriasis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 872,
+      "end": 881,
+      "icd10": [
+        {
+          "chapter": "L40",
+          "name": "Psoriasis"
+        },
+        {
+          "chapter": "L40.9",
+          "name": "Psoriasis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156369008",
+        "S-156371008",
+        "S-200961000",
+        "S-200978009",
+        "S-267851002",
+        "S-9014002"
+      ],
+      "id": 33,
+      "meta_anns": {}
+    },
+    "54": {
+      "pretty_name": "Acne",
+      "cui": "C0702166",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "acne",
+      "detected_name": "acne",
+      "acc": 0.6669236002382837,
+      "context_similarity": 0.6669236002382837,
+      "start": 1220,
+      "end": 1224,
+      "icd10": [
+        {
+          "chapter": "L70",
+          "name": "Acne"
+        },
+        {
+          "chapter": "L70.9",
+          "name": "Acne, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-11381005",
+        "S-201229002",
+        "S-201408008"
+      ],
+      "id": 54,
+      "meta_anns": {}
+    },
+    "58": {
+      "pretty_name": "Folliculitis",
+      "cui": "C0016436",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "folliculitis",
+      "detected_name": "folliculitis",
+      "acc": 0.21512524450533604,
+      "context_similarity": 0.21512524450533604,
+      "start": 1288,
+      "end": 1300,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-13600006",
+        "S-156411003",
+        "S-201177005",
+        "S-201183008",
+        "S-267863007",
+        "S-721130001"
+      ],
+      "id": 58,
+      "meta_anns": {}
+    },
+    "63": {
+      "pretty_name": "Acne",
+      "cui": "C0702166",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Acne",
+      "detected_name": "acne",
+      "acc": 0.12505890426773192,
+      "context_similarity": 0.12505890426773192,
+      "start": 1361,
+      "end": 1365,
+      "icd10": [
+        {
+          "chapter": "L70",
+          "name": "Acne"
+        },
+        {
+          "chapter": "L70.9",
+          "name": "Acne, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-11381005",
+        "S-201229002",
+        "S-201408008"
+      ],
+      "id": 63,
+      "meta_anns": {}
+    },
+    "64": {
+      "pretty_name": "Folliculitis",
+      "cui": "C0016436",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "folliculitis",
+      "detected_name": "folliculitis",
+      "acc": 0.23978903504220217,
+      "context_similarity": 0.23978903504220217,
+      "start": 1371,
+      "end": 1383,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-13600006",
+        "S-156411003",
+        "S-201177005",
+        "S-201183008",
+        "S-267863007",
+        "S-721130001"
+      ],
+      "id": 64,
+      "meta_anns": {}
+    },
+    "65": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "condition",
+      "detected_name": "condition",
+      "acc": 0.5205707210498967,
+      "context_similarity": 0.5205707210498967,
+      "start": 1410,
+      "end": 1419,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 65,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,211 @@
+{
+  "entities": {
+    "39": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Coronary artery disease",
+      "detected_name": "coronary~artery~disease",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 967,
+      "end": 990,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 39,
+      "meta_anns": {}
+    },
+    "42": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 996,
+      "end": 1008,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 42,
+      "meta_anns": {}
+    },
+    "43": {
+      "pretty_name": "Hypothyroidism",
+      "cui": "C0020676",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypothyroidism",
+      "detected_name": "hypothyroidism",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1014,
+      "end": 1028,
+      "icd10": [
+        {
+          "chapter": "E03.9",
+          "name": "Hypothyroidism, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154660000",
+        "S-190274003",
+        "S-190290003",
+        "S-237572004",
+        "S-267377003",
+        "S-267465007",
+        "S-40930008"
+      ],
+      "id": 43,
+      "meta_anns": {}
+    },
+    "88": {
+      "pretty_name": "Dental caries",
+      "cui": "C0011334",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "decay",
+      "detected_name": "decay",
+      "acc": 0.49463423463702805,
+      "context_similarity": 0.49463423463702805,
+      "start": 2022,
+      "end": 2027,
+      "icd10": [
+        {
+          "chapter": "K02",
+          "name": "Dental caries"
+        },
+        {
+          "chapter": "K02.9",
+          "name": "Dental caries, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155632007",
+        "S-196307002",
+        "S-80967001"
+      ],
+      "id": 88,
+      "meta_anns": {}
+    },
+    "92": {
+      "pretty_name": "",
+      "cui": "C0949036",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "fluctuance",
+      "detected_name": "fluctuance",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2250,
+      "end": 2260,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 92,
+      "meta_anns": {}
+    },
+    "108": {
+      "pretty_name": "Tooth Infection",
+      "cui": "C0877046",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "dental infection",
+      "detected_name": "dental~infection",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2855,
+      "end": 2871,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-196338001",
+        "S-427898007"
+      ],
+      "id": 108,
+      "meta_anns": {}
+    },
+    "115": {
+      "pretty_name": "Dental abscess",
+      "cui": "C0518988",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "dental abscess",
+      "detected_name": "dental~abscess",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2911,
+      "end": 2925,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155639003",
+        "S-196340006",
+        "S-299709002",
+        "S-34597006"
+      ],
+      "id": 115,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

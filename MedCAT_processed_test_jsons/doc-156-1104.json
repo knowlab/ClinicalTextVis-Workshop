@@ -1,0 +1,37 @@
+{
+  "entities": {
+    "5": {
+      "pretty_name": "Dermatologic disorders",
+      "cui": "C0037274",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "of skin disease",
+      "detected_name": "of~skin~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 200,
+      "end": 215,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-156292006",
+        "S-156396006",
+        "S-156400006",
+        "S-156445005",
+        "S-200580005",
+        "S-267859000",
+        "S-267860005",
+        "S-267873009",
+        "S-80659006",
+        "S-95320005"
+      ],
+      "id": 5,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

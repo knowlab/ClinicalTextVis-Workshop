@@ -1,0 +1,188 @@
+{
+  "entities": {
+    "11": {
+      "pretty_name": "",
+      "cui": "C1335437",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "plexopathy",
+      "detected_name": "plexopathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 513,
+      "end": 523,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 11,
+      "meta_anns": {}
+    },
+    "12": {
+      "pretty_name": "Neuritis",
+      "cui": "C0027813",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "neuritis",
+      "detected_name": "neuritis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 574,
+      "end": 582,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-123254001",
+        "S-128192007",
+        "S-203116001",
+        "S-247378004",
+        "S-84299009"
+      ],
+      "id": 12,
+      "meta_anns": {}
+    },
+    "17": {
+      "pretty_name": "",
+      "cui": "C4543028",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "right suprascapular neuropathy",
+      "detected_name": "right~suprascapular~neuropathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 700,
+      "end": 730,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-16026471000119103"
+      ],
+      "id": 17,
+      "meta_anns": {}
+    },
+    "20": {
+      "pretty_name": "Radiculopathy",
+      "cui": "C0700594",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "radiculopathy",
+      "detected_name": "radiculopathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 745,
+      "end": 758,
+      "icd10": [
+        {
+          "chapter": "M54.1",
+          "name": "Radiculopathy"
+        },
+        {
+          "chapter": "M54.10",
+          "name": "Radiculopathy, site unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-394640000",
+        "S-72274001"
+      ],
+      "id": 20,
+      "meta_anns": {}
+    },
+    "74": {
+      "pretty_name": "Shoulder Impingement Syndrome",
+      "cui": "C0376685",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "shoulder impingement syndrome",
+      "detected_name": "shoulder~impingement~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2076,
+      "end": 2105,
+      "icd10": [
+        {
+          "chapter": "M75.4",
+          "name": "Impingement syndrome of shoulder"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128498000",
+        "S-202849001",
+        "S-202851002",
+        "S-239960007",
+        "S-366831005"
+      ],
+      "id": 74,
+      "meta_anns": {}
+    },
+    "77": {
+      "pretty_name": "",
+      "cui": "C4543028",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "right suprascapular neuropathy",
+      "detected_name": "right~suprascapular~neuropathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2107,
+      "end": 2137,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-16026471000119103"
+      ],
+      "id": 77,
+      "meta_anns": {}
+    },
+    "84": {
+      "pretty_name": "",
+      "cui": "C3662000",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "suprascapular neuropathy",
+      "detected_name": "suprascapular~neuropathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2417,
+      "end": 2441,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-4109002",
+        "S-609601001"
+      ],
+      "id": 84,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

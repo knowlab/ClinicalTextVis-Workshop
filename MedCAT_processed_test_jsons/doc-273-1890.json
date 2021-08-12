@@ -1,0 +1,170 @@
+{
+  "entities": {
+    "7": {
+      "pretty_name": "Bone Cysts, Aneurysmal",
+      "cui": "C0152244",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ABC",
+      "detected_name": "abc",
+      "acc": 0.11411806276431151,
+      "context_similarity": 0.11411806276431151,
+      "start": 70,
+      "end": 73,
+      "icd10": [
+        {
+          "chapter": "M85.5",
+          "name": "Aneurysmal bone cyst"
+        },
+        {
+          "chapter": "M85.50",
+          "name": "Aneurysmal bone cyst, unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-203468000",
+        "S-76000001"
+      ],
+      "id": 7,
+      "meta_anns": {}
+    },
+    "8": {
+      "pretty_name": "Alzheimer's Disease",
+      "cui": "C0002395",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Alzheimer",
+      "detected_name": "alzheimer",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 103,
+      "end": 112,
+      "icd10": [
+        {
+          "chapter": "G30",
+          "name": "Alzheimer's disease"
+        },
+        {
+          "chapter": "G30.9",
+          "name": "Alzheimer's disease, unspecified"
+        },
+        {
+          "chapter": "F00",
+          "name": "Dementia in Alzheimer's disease"
+        },
+        {
+          "chapter": "F00.9",
+          "name": "Dementia in Alzheimer's disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154998003",
+        "S-267688001",
+        "S-26929004",
+        "S-73768007"
+      ],
+      "id": 8,
+      "meta_anns": {}
+    },
+    "11": {
+      "pretty_name": "Alzheimer's Disease",
+      "cui": "C0002395",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Alzheimer",
+      "detected_name": "alzheimer",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 194,
+      "end": 203,
+      "icd10": [
+        {
+          "chapter": "G30",
+          "name": "Alzheimer's disease"
+        },
+        {
+          "chapter": "G30.9",
+          "name": "Alzheimer's disease, unspecified"
+        },
+        {
+          "chapter": "F00",
+          "name": "Dementia in Alzheimer's disease"
+        },
+        {
+          "chapter": "F00.9",
+          "name": "Dementia in Alzheimer's disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154998003",
+        "S-267688001",
+        "S-26929004",
+        "S-73768007"
+      ],
+      "id": 11,
+      "meta_anns": {}
+    },
+    "39": {
+      "pretty_name": "",
+      "cui": "C0019125",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hemotympanum",
+      "detected_name": "hemotympanum",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1110,
+      "end": 1122,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-111536009"
+      ],
+      "id": 39,
+      "meta_anns": {}
+    },
+    "89": {
+      "pretty_name": "Syndrome",
+      "cui": "C0039082",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "syndrome",
+      "detected_name": "syndrome",
+      "acc": 0.7348428216139685,
+      "context_similarity": 0.7348428216139685,
+      "start": 2384,
+      "end": 2392,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 89,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

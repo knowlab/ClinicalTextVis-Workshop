@@ -1,0 +1,43 @@
+{
+  "entities": {
+    "15": {
+      "pretty_name": "Bacterial Infections",
+      "cui": "C0004623",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "bacterial infection",
+      "detected_name": "bacterial~infection",
+      "acc": 0.6545484546128977,
+      "context_similarity": 0.6545484546128977,
+      "start": 458,
+      "end": 477,
+      "icd10": [
+        {
+          "chapter": "A49",
+          "name": "Bacterial infection of unspecified site"
+        },
+        {
+          "chapter": "A49.9",
+          "name": "Bacterial infection, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154318005",
+        "S-186470002",
+        "S-187347000",
+        "S-266182006",
+        "S-266187000",
+        "S-301811001",
+        "S-87628006"
+      ],
+      "id": 15,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

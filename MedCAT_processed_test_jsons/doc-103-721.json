@@ -1,0 +1,393 @@
+{
+  "entities": {
+    "36": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "high blood pressure",
+      "detected_name": "high~blood~pressure",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1026,
+      "end": 1045,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 36,
+      "meta_anns": {}
+    },
+    "40": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.434274119558204,
+      "context_similarity": 0.434274119558204,
+      "start": 1047,
+      "end": 1055,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 40,
+      "meta_anns": {}
+    },
+    "42": {
+      "pretty_name": "Heart Diseases",
+      "cui": "C0018799",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "heart disease",
+      "detected_name": "heart~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1057,
+      "end": 1070,
+      "icd10": [
+        {
+          "chapter": "I51.9",
+          "name": "Heart disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155263000",
+        "S-194707003",
+        "S-195152001",
+        "S-266275004",
+        "S-266311004",
+        "S-56265001"
+      ],
+      "id": 42,
+      "meta_anns": {}
+    },
+    "45": {
+      "pretty_name": "Lung diseases",
+      "cui": "C0024115",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lung",
+      "detected_name": "lung",
+      "acc": 0.8369721365300149,
+      "context_similarity": 0.8369721365300149,
+      "start": 1072,
+      "end": 1076,
+      "icd10": [
+        {
+          "chapter": "J98.4",
+          "name": "Other disorders of lung"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196164004",
+        "S-19829001",
+        "S-266374002"
+      ],
+      "id": 45,
+      "meta_anns": {}
+    },
+    "48": {
+      "pretty_name": "Thyroid Diseases",
+      "cui": "C0040128",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease, thyroid",
+      "detected_name": "disease~thyroid",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1077,
+      "end": 1093,
+      "icd10": [
+        {
+          "chapter": "E00-E07.9",
+          "name": "Disorders of thyroid gland"
+        },
+        {
+          "chapter": "E07.9",
+          "name": "Disorder of thyroid, unspecified"
+        },
+        {
+          "chapter": "E00-E07",
+          "name": "Disorders of thyroid gland (E00-E07)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-14304000",
+        "S-154649009",
+        "S-190232008",
+        "S-190311002",
+        "S-191036006"
+      ],
+      "id": 48,
+      "meta_anns": {}
+    },
+    "84": {
+      "pretty_name": "",
+      "cui": "C0264180",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "grade 1 spondylolisthesis",
+      "detected_name": "grade~1~spondylolisthesis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1960,
+      "end": 1985,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-316912003",
+        "S-44494000"
+      ],
+      "id": 84,
+      "meta_anns": {}
+    },
+    "92": {
+      "pretty_name": "Common Cold",
+      "cui": "C0009443",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cold",
+      "detected_name": "cold",
+      "acc": 0.5987612632839169,
+      "context_similarity": 0.5987612632839169,
+      "start": 2199,
+      "end": 2203,
+      "icd10": [
+        {
+          "chapter": "J00",
+          "name": "Acute nasopharyngitis [common cold]"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155497009",
+        "S-195648002",
+        "S-232341009",
+        "S-232342002",
+        "S-266377009",
+        "S-54150009",
+        "S-82272006"
+      ],
+      "id": 92,
+      "meta_anns": {}
+    },
+    "110": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obese",
+      "detected_name": "obese",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2780,
+      "end": 2785,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 110,
+      "meta_anns": {}
+    },
+    "143": {
+      "pretty_name": "Paresthesia",
+      "cui": "C0030554",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tingling",
+      "detected_name": "tingling",
+      "acc": 0.7712332744685564,
+      "context_similarity": 0.7712332744685564,
+      "start": 3948,
+      "end": 3956,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-158228009",
+        "S-206857001",
+        "S-91019004"
+      ],
+      "id": 143,
+      "meta_anns": {}
+    },
+    "148": {
+      "pretty_name": "Paresthesia",
+      "cui": "C0030554",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tingling",
+      "detected_name": "tingling",
+      "acc": 0.604138113833373,
+      "context_similarity": 0.604138113833373,
+      "start": 4111,
+      "end": 4119,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-158228009",
+        "S-206857001",
+        "S-91019004"
+      ],
+      "id": 148,
+      "meta_anns": {}
+    },
+    "152": {
+      "pretty_name": "Paresthesia",
+      "cui": "C0030554",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tingling",
+      "detected_name": "tingling",
+      "acc": 0.49996886542678315,
+      "context_similarity": 0.49996886542678315,
+      "start": 4254,
+      "end": 4262,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-158228009",
+        "S-206857001",
+        "S-91019004"
+      ],
+      "id": 152,
+      "meta_anns": {}
+    },
+    "159": {
+      "pretty_name": "Paresthesia",
+      "cui": "C0030554",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tingling",
+      "detected_name": "tingling",
+      "acc": 0.8088570708739435,
+      "context_similarity": 0.8088570708739435,
+      "start": 4550,
+      "end": 4558,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-158228009",
+        "S-206857001",
+        "S-91019004"
+      ],
+      "id": 159,
+      "meta_anns": {}
+    },
+    "198": {
+      "pretty_name": "Paresthesia",
+      "cui": "C0030554",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "paraesthesia",
+      "detected_name": "paraesthesia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 5544,
+      "end": 5556,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-158228009",
+        "S-206857001",
+        "S-91019004"
+      ],
+      "id": 198,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

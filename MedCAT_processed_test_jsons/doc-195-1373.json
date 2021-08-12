@@ -1,0 +1,177 @@
+{
+  "entities": {
+    "20": {
+      "pretty_name": "",
+      "cui": "C0039503",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tendinitis",
+      "detected_name": "tendinitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 982,
+      "end": 992,
+      "icd10": [
+        {
+          "chapter": "M77.9",
+          "name": "Enthesopathy, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156665008",
+        "S-202893001",
+        "S-267996008",
+        "S-268091003",
+        "S-312785002",
+        "S-34840004"
+      ],
+      "id": 20,
+      "meta_anns": {}
+    },
+    "29": {
+      "pretty_name": "minor",
+      "cui": "C1446899",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "minor",
+      "detected_name": "minor",
+      "acc": 0.9431314483831736,
+      "context_similarity": 0.9431314483831736,
+      "start": 1290,
+      "end": 1295,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 29,
+      "meta_anns": {}
+    },
+    "39": {
+      "pretty_name": "Cyst",
+      "cui": "C0010709",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cyst",
+      "detected_name": "cyst",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1629,
+      "end": 1633,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-12494005",
+        "S-133846001",
+        "S-264515009",
+        "S-367643001",
+        "S-441457006"
+      ],
+      "id": 39,
+      "meta_anns": {}
+    },
+    "51": {
+      "pretty_name": "",
+      "cui": "C0039503",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tendinitis",
+      "detected_name": "tendinitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1963,
+      "end": 1973,
+      "icd10": [
+        {
+          "chapter": "M77.9",
+          "name": "Enthesopathy, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156665008",
+        "S-202893001",
+        "S-267996008",
+        "S-268091003",
+        "S-312785002",
+        "S-34840004"
+      ],
+      "id": 51,
+      "meta_anns": {}
+    },
+    "55": {
+      "pretty_name": "minor",
+      "cui": "C1446899",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "minor",
+      "detected_name": "minor",
+      "acc": 0.9610870895797082,
+      "context_similarity": 0.9610870895797082,
+      "start": 2094,
+      "end": 2099,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 55,
+      "meta_anns": {}
+    },
+    "58": {
+      "pretty_name": "Osteophyte",
+      "cui": "C1956089",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "osteophyte",
+      "detected_name": "osteophyte",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2233,
+      "end": 2243,
+      "icd10": [
+        {
+          "chapter": "M25.7",
+          "name": "Osteophyte"
+        },
+        {
+          "chapter": "M77.9",
+          "name": "Enthesopathy, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-202620006",
+        "S-202894007",
+        "S-235231000119100",
+        "S-239952006",
+        "S-393603002",
+        "S-88998003"
+      ],
+      "id": 58,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,607 @@
+{
+  "entities": {
+    "3": {
+      "pretty_name": "Crohn Disease",
+      "cui": "C0010346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Crohn's disease",
+      "detected_name": "crohn~s~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 39,
+      "end": 54,
+      "icd10": [
+        {
+          "chapter": "K50",
+          "name": "Crohn's disease [regional enteritis]"
+        },
+        {
+          "chapter": "K50.9",
+          "name": "Crohn's disease, unspecified"
+        },
+        {
+          "chapter": "K50.90",
+          "name": "Crohn's disease, unspecified, without complications"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155760003",
+        "S-196975001",
+        "S-196984001",
+        "S-266517004",
+        "S-34000006"
+      ],
+      "id": 3,
+      "meta_anns": {}
+    },
+    "57": {
+      "pretty_name": "Crohn Disease",
+      "cui": "C0010346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Crohn's disease",
+      "detected_name": "crohn~s~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1480,
+      "end": 1495,
+      "icd10": [
+        {
+          "chapter": "K50",
+          "name": "Crohn's disease [regional enteritis]"
+        },
+        {
+          "chapter": "K50.9",
+          "name": "Crohn's disease, unspecified"
+        },
+        {
+          "chapter": "K50.90",
+          "name": "Crohn's disease, unspecified, without complications"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155760003",
+        "S-196975001",
+        "S-196984001",
+        "S-266517004",
+        "S-34000006"
+      ],
+      "id": 57,
+      "meta_anns": {}
+    },
+    "60": {
+      "pretty_name": "Hepatitis",
+      "cui": "C0019158",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hepatitis",
+      "detected_name": "hepatitis",
+      "acc": 0.6368092592046463,
+      "context_similarity": 0.6368092592046463,
+      "start": 1583,
+      "end": 1592,
+      "icd10": [
+        {
+          "chapter": "K75.9",
+          "name": "Inflammatory liver disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128241005",
+        "S-197351001",
+        "S-197353003",
+        "S-29001004"
+      ],
+      "id": 60,
+      "meta_anns": {}
+    },
+    "66": {
+      "pretty_name": "Migraine Disorders",
+      "cui": "C0149931",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "migraine-type headaches",
+      "detected_name": "migraine~type~headache",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1686,
+      "end": 1709,
+      "icd10": [
+        {
+          "chapter": "G43",
+          "name": "Migraine"
+        },
+        {
+          "chapter": "G43.9",
+          "name": "Migraine, unspecified"
+        },
+        {
+          "chapter": "G43.909",
+          "name": "Migraine, unspecified, not intractable, without status migrainosus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155046006",
+        "S-155048007",
+        "S-193041007",
+        "S-267699004",
+        "S-37796009"
+      ],
+      "id": 66,
+      "meta_anns": {}
+    },
+    "98": {
+      "pretty_name": "Crohn Disease",
+      "cui": "C0010346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Crohn's disease",
+      "detected_name": "crohn~s~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2383,
+      "end": 2398,
+      "icd10": [
+        {
+          "chapter": "K50",
+          "name": "Crohn's disease [regional enteritis]"
+        },
+        {
+          "chapter": "K50.9",
+          "name": "Crohn's disease, unspecified"
+        },
+        {
+          "chapter": "K50.90",
+          "name": "Crohn's disease, unspecified, without complications"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155760003",
+        "S-196975001",
+        "S-196984001",
+        "S-266517004",
+        "S-34000006"
+      ],
+      "id": 98,
+      "meta_anns": {}
+    },
+    "103": {
+      "pretty_name": "",
+      "cui": "C0042847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "vitamin B12 deficiency",
+      "detected_name": "vitamin~b12~deficiency",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2400,
+      "end": 2422,
+      "icd10": [
+        {
+          "chapter": "E53.8",
+          "name": "Deficiency of other specified B group vitamins"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-124904006",
+        "S-190634004"
+      ],
+      "id": 103,
+      "meta_anns": {}
+    },
+    "119": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "erythema",
+      "detected_name": "erythema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2847,
+      "end": 2855,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 119,
+      "meta_anns": {}
+    },
+    "124": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymph node enlargement",
+      "detected_name": "lymph~node~enlargement",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2921,
+      "end": 2943,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 124,
+      "meta_anns": {}
+    },
+    "145": {
+      "pretty_name": "Crohn Disease",
+      "cui": "C0010346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Crohn's disease",
+      "detected_name": "crohn~s~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3347,
+      "end": 3362,
+      "icd10": [
+        {
+          "chapter": "K50",
+          "name": "Crohn's disease [regional enteritis]"
+        },
+        {
+          "chapter": "K50.9",
+          "name": "Crohn's disease, unspecified"
+        },
+        {
+          "chapter": "K50.90",
+          "name": "Crohn's disease, unspecified, without complications"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155760003",
+        "S-196975001",
+        "S-196984001",
+        "S-266517004",
+        "S-34000006"
+      ],
+      "id": 145,
+      "meta_anns": {}
+    },
+    "150": {
+      "pretty_name": "Intestinal Obstruction",
+      "cui": "C0021843",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "bowel obstruction",
+      "detected_name": "bowel~obstruction",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3439,
+      "end": 3456,
+      "icd10": [
+        {
+          "chapter": "K56.60",
+          "name": "Unspecified intestinal obstruction"
+        },
+        {
+          "chapter": "K56.609",
+          "name": "Unspecified intestinal obstruction, unspecified as to partial versus complete obstruction"
+        },
+        {
+          "chapter": "K56.69",
+          "name": "Other intestinal obstruction"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155771002",
+        "S-155777003",
+        "S-197072007",
+        "S-197073002",
+        "S-197074008",
+        "S-197080000",
+        "S-266523009",
+        "S-81060008"
+      ],
+      "id": 150,
+      "meta_anns": {}
+    },
+    "155": {
+      "pretty_name": "Hepatitis",
+      "cui": "C0019158",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hepatitis",
+      "detected_name": "hepatitis",
+      "acc": 0.29788742185706896,
+      "context_similarity": 0.29788742185706896,
+      "start": 3517,
+      "end": 3526,
+      "icd10": [
+        {
+          "chapter": "K75.9",
+          "name": "Inflammatory liver disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128241005",
+        "S-197351001",
+        "S-197353003",
+        "S-29001004"
+      ],
+      "id": 155,
+      "meta_anns": {}
+    },
+    "162": {
+      "pretty_name": "Thrombophlebitis",
+      "cui": "C0040046",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "thrombophlebitis",
+      "detected_name": "thrombophlebitis",
+      "acc": 0.4820534811401376,
+      "context_similarity": 0.4820534811401376,
+      "start": 3639,
+      "end": 3655,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-195433004",
+        "S-64156001"
+      ],
+      "id": 162,
+      "meta_anns": {}
+    },
+    "167": {
+      "pretty_name": "Intestinal Obstruction",
+      "cui": "C0021843",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "bowel obstruction",
+      "detected_name": "bowel~obstruction",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3797,
+      "end": 3814,
+      "icd10": [
+        {
+          "chapter": "K56.60",
+          "name": "Unspecified intestinal obstruction"
+        },
+        {
+          "chapter": "K56.609",
+          "name": "Unspecified intestinal obstruction, unspecified as to partial versus complete obstruction"
+        },
+        {
+          "chapter": "K56.69",
+          "name": "Other intestinal obstruction"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155771002",
+        "S-155777003",
+        "S-197072007",
+        "S-197073002",
+        "S-197074008",
+        "S-197080000",
+        "S-266523009",
+        "S-81060008"
+      ],
+      "id": 167,
+      "meta_anns": {}
+    },
+    "188": {
+      "pretty_name": "Migraine Disorders",
+      "cui": "C0149931",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "migraines",
+      "detected_name": "migraine",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4405,
+      "end": 4414,
+      "icd10": [
+        {
+          "chapter": "G43",
+          "name": "Migraine"
+        },
+        {
+          "chapter": "G43.9",
+          "name": "Migraine, unspecified"
+        },
+        {
+          "chapter": "G43.909",
+          "name": "Migraine, unspecified, not intractable, without status migrainosus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155046006",
+        "S-155048007",
+        "S-193041007",
+        "S-267699004",
+        "S-37796009"
+      ],
+      "id": 188,
+      "meta_anns": {}
+    },
+    "195": {
+      "pretty_name": "Migraine Disorders",
+      "cui": "C0149931",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "migraine headaches",
+      "detected_name": "migraine~headache",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4546,
+      "end": 4564,
+      "icd10": [
+        {
+          "chapter": "G43",
+          "name": "Migraine"
+        },
+        {
+          "chapter": "G43.9",
+          "name": "Migraine, unspecified"
+        },
+        {
+          "chapter": "G43.909",
+          "name": "Migraine, unspecified, not intractable, without status migrainosus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155046006",
+        "S-155048007",
+        "S-193041007",
+        "S-267699004",
+        "S-37796009"
+      ],
+      "id": 195,
+      "meta_anns": {}
+    },
+    "198": {
+      "pretty_name": "Liver diseases",
+      "cui": "C0023895",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "liver disease",
+      "detected_name": "liver~disease",
+      "acc": 0.35371536649594537,
+      "context_similarity": 0.35371536649594537,
+      "start": 4597,
+      "end": 4610,
+      "icd10": [
+        {
+          "chapter": "K70-K77.9",
+          "name": "Diseases of liver"
+        },
+        {
+          "chapter": "K76.9",
+          "name": "Liver disease, unspecified"
+        },
+        {
+          "chapter": "K70-K77",
+          "name": "Diseases of liver (K70-K77)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155807008",
+        "S-155817003",
+        "S-155822003",
+        "S-197375001",
+        "S-197551000",
+        "S-235856003",
+        "S-266535008",
+        "S-62857009"
+      ],
+      "id": 198,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

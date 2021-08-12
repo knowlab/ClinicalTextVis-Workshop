@@ -1,0 +1,722 @@
+{
+  "entities": {
+    "15": {
+      "pretty_name": "Liver Cirrhosis",
+      "cui": "C0023890",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "liver cirrhosis",
+      "detected_name": "liver~cirrhosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 289,
+      "end": 304,
+      "icd10": [
+        {
+          "chapter": "K74.60",
+          "name": "Unspecified cirrhosis of liver"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155809006",
+        "S-197309008",
+        "S-19943007",
+        "S-235891006",
+        "S-266537000"
+      ],
+      "id": 15,
+      "meta_anns": {}
+    },
+    "28": {
+      "pretty_name": "Virus Diseases",
+      "cui": "C0042769",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "viral infection",
+      "detected_name": "viral~infection",
+      "acc": 0.39686672773292814,
+      "context_similarity": 0.39686672773292814,
+      "start": 906,
+      "end": 921,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        },
+        {
+          "chapter": "B34.9",
+          "name": "Viral infection, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154319002",
+        "S-154372003",
+        "S-186754003",
+        "S-187471008",
+        "S-266116004",
+        "S-266188005",
+        "S-34014006"
+      ],
+      "id": 28,
+      "meta_anns": {}
+    },
+    "55": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymphadenopathy",
+      "detected_name": "lymphadenopathy",
+      "acc": 0.9765849443295189,
+      "context_similarity": 0.9765849443295189,
+      "start": 1290,
+      "end": 1305,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 55,
+      "meta_anns": {}
+    },
+    "103": {
+      "pretty_name": "Hepatitis",
+      "cui": "C0019158",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hepatitis",
+      "detected_name": "hepatitis",
+      "acc": 0.330627205965773,
+      "context_similarity": 0.330627205965773,
+      "start": 2175,
+      "end": 2184,
+      "icd10": [
+        {
+          "chapter": "K75.9",
+          "name": "Inflammatory liver disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128241005",
+        "S-197351001",
+        "S-197353003",
+        "S-29001004"
+      ],
+      "id": 103,
+      "meta_anns": {}
+    },
+    "112": {
+      "pretty_name": "Liver Cirrhosis",
+      "cui": "C0023890",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "liver cirrhosis",
+      "detected_name": "liver~cirrhosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2520,
+      "end": 2535,
+      "icd10": [
+        {
+          "chapter": "K74.60",
+          "name": "Unspecified cirrhosis of liver"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155809006",
+        "S-197309008",
+        "S-19943007",
+        "S-235891006",
+        "S-266537000"
+      ],
+      "id": 112,
+      "meta_anns": {}
+    },
+    "119": {
+      "pretty_name": "",
+      "cui": "C1298685",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "chronic pain syndrome",
+      "detected_name": "chronic~pain~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2590,
+      "end": 2611,
+      "icd10": [
+        {
+          "chapter": "G89.4",
+          "name": "Chronic pain syndrome"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-373621006"
+      ],
+      "id": 119,
+      "meta_anns": {}
+    },
+    "142": {
+      "pretty_name": "End Stage Liver Disease",
+      "cui": "C0745744",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "End-stage liver disease",
+      "detected_name": "end~stage~liver~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3060,
+      "end": 3083,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-434031000124107",
+        "S-708248004"
+      ],
+      "id": 142,
+      "meta_anns": {}
+    },
+    "148": {
+      "pretty_name": "Liver Cirrhosis",
+      "cui": "C0023890",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "liver cirrhosis",
+      "detected_name": "liver~cirrhosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3134,
+      "end": 3149,
+      "icd10": [
+        {
+          "chapter": "K74.60",
+          "name": "Unspecified cirrhosis of liver"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155809006",
+        "S-197309008",
+        "S-19943007",
+        "S-235891006",
+        "S-266537000"
+      ],
+      "id": 148,
+      "meta_anns": {}
+    },
+    "151": {
+      "pretty_name": "Hepatitis",
+      "cui": "C0019158",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hepatitis",
+      "detected_name": "hepatitis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3167,
+      "end": 3176,
+      "icd10": [
+        {
+          "chapter": "K75.9",
+          "name": "Inflammatory liver disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128241005",
+        "S-197351001",
+        "S-197353003",
+        "S-29001004"
+      ],
+      "id": 151,
+      "meta_anns": {}
+    },
+    "159": {
+      "pretty_name": "Hepatitis",
+      "cui": "C0019158",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hepatitis",
+      "detected_name": "hepatitis",
+      "acc": 0.5438991645150776,
+      "context_similarity": 0.5438991645150776,
+      "start": 3711,
+      "end": 3720,
+      "icd10": [
+        {
+          "chapter": "K75.9",
+          "name": "Inflammatory liver disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128241005",
+        "S-197351001",
+        "S-197353003",
+        "S-29001004"
+      ],
+      "id": 159,
+      "meta_anns": {}
+    },
+    "166": {
+      "pretty_name": "Hepatitis",
+      "cui": "C0019158",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hepatitis",
+      "detected_name": "hepatitis",
+      "acc": 0.6307887348432405,
+      "context_similarity": 0.6307887348432405,
+      "start": 3933,
+      "end": 3942,
+      "icd10": [
+        {
+          "chapter": "K75.9",
+          "name": "Inflammatory liver disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128241005",
+        "S-197351001",
+        "S-197353003",
+        "S-29001004"
+      ],
+      "id": 166,
+      "meta_anns": {}
+    },
+    "168": {
+      "pretty_name": "Hepatitis A",
+      "cui": "C0019159",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hepatitis A",
+      "detected_name": "hepatitis~a",
+      "acc": 0.2940233249381596,
+      "context_similarity": 0.2940233249381596,
+      "start": 4001,
+      "end": 4012,
+      "icd10": [
+        {
+          "chapter": "B19",
+          "name": "Unspecified viral hepatitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154347003",
+        "S-40468003"
+      ],
+      "id": 168,
+      "meta_anns": {}
+    },
+    "171": {
+      "pretty_name": "End Stage Liver Disease",
+      "cui": "C0745744",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "end-stage liver disease",
+      "detected_name": "end~stage~liver~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4086,
+      "end": 4109,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-434031000124107",
+        "S-708248004"
+      ],
+      "id": 171,
+      "meta_anns": {}
+    },
+    "177": {
+      "pretty_name": "Hepatitis C",
+      "cui": "C0019196",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hepatitis C",
+      "detected_name": "hepatitis~c",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 4155,
+      "end": 4166,
+      "icd10": [
+        {
+          "chapter": "B19.20",
+          "name": "Unspecified viral hepatitis C without hepatic coma"
+        },
+        {
+          "chapter": "B19.2",
+          "name": "Unspecified viral hepatitis C"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-123324009",
+        "S-154349000",
+        "S-186634008",
+        "S-186643004",
+        "S-50711007"
+      ],
+      "id": 177,
+      "meta_anns": {}
+    },
+    "182": {
+      "pretty_name": "Liver Cirrhosis",
+      "cui": "C0023890",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "liver cirrhosis",
+      "detected_name": "liver~cirrhosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4259,
+      "end": 4274,
+      "icd10": [
+        {
+          "chapter": "K74.60",
+          "name": "Unspecified cirrhosis of liver"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155809006",
+        "S-197309008",
+        "S-19943007",
+        "S-235891006",
+        "S-266537000"
+      ],
+      "id": 182,
+      "meta_anns": {}
+    },
+    "185": {
+      "pretty_name": "Primary sclerosing cholangitis",
+      "cui": "C0566602",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "PSC",
+      "detected_name": "psc",
+      "acc": 0.643024881783409,
+      "context_similarity": 0.643024881783409,
+      "start": 4351,
+      "end": 4354,
+      "icd10": [
+        {
+          "chapter": "K83.01",
+          "name": "Primary sclerosing cholangitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-197441003",
+        "S-4032000"
+      ],
+      "id": 185,
+      "meta_anns": {}
+    },
+    "188": {
+      "pretty_name": "Hepatolenticular Degeneration",
+      "cui": "C0019202",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Wilson disease",
+      "detected_name": "wilson~disease",
+      "acc": 0.5971705839621227,
+      "context_similarity": 0.5971705839621227,
+      "start": 4392,
+      "end": 4406,
+      "icd10": [
+        {
+          "chapter": "E83.01",
+          "name": "Wilson's disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154751003",
+        "S-190823004",
+        "S-191710006",
+        "S-192640001",
+        "S-267504005",
+        "S-88518009"
+      ],
+      "id": 188,
+      "meta_anns": {}
+    },
+    "194": {
+      "pretty_name": "Lung diseases",
+      "cui": "C0024115",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lung",
+      "detected_name": "lung",
+      "acc": 0.39573997514005765,
+      "context_similarity": 0.39573997514005765,
+      "start": 4604,
+      "end": 4608,
+      "icd10": [
+        {
+          "chapter": "J98.4",
+          "name": "Other disorders of lung"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196164004",
+        "S-19829001",
+        "S-266374002"
+      ],
+      "id": 194,
+      "meta_anns": {}
+    },
+    "197": {
+      "pretty_name": "End Stage Liver Disease",
+      "cui": "C0745744",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "end-stage liver disease",
+      "detected_name": "end~stage~liver~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4626,
+      "end": 4649,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-434031000124107",
+        "S-708248004"
+      ],
+      "id": 197,
+      "meta_anns": {}
+    },
+    "206": {
+      "pretty_name": "Encephalopathies",
+      "cui": "C0085584",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "encephalopathy",
+      "detected_name": "encephalopathy",
+      "acc": 0.9141904755334764,
+      "context_similarity": 0.9141904755334764,
+      "start": 4860,
+      "end": 4874,
+      "icd10": [
+        {
+          "chapter": "G93.4",
+          "name": "Encephalopathy, unspecified"
+        },
+        {
+          "chapter": "G93.40",
+          "name": "Encephalopathy, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155053002",
+        "S-193051008",
+        "S-76011009",
+        "S-81308009"
+      ],
+      "id": 206,
+      "meta_anns": {}
+    },
+    "209": {
+      "pretty_name": "Blood Coagulation Disorders",
+      "cui": "C0005779",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coagulopathy",
+      "detected_name": "coagulopathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4923,
+      "end": 4935,
+      "icd10": [
+        {
+          "chapter": "D68.9",
+          "name": "Coagulation defect, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-127073005",
+        "S-154815003",
+        "S-191303002",
+        "S-267562007",
+        "S-362970003",
+        "S-64779008"
+      ],
+      "id": 209,
+      "meta_anns": {}
+    },
+    "212": {
+      "pretty_name": "Varicosity",
+      "cui": "C0042345",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "varices",
+      "detected_name": "varix",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 5072,
+      "end": 5079,
+      "icd10": [
+        {
+          "chapter": "I83.90",
+          "name": "Asymptomatic varicose veins of unspecified lower extremity"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128060009",
+        "S-12856003",
+        "S-155468006",
+        "S-155482006",
+        "S-234053000",
+        "S-266331000",
+        "S-276504003",
+        "S-399989005"
+      ],
+      "id": 212,
+      "meta_anns": {}
+    },
+    "227": {
+      "pretty_name": "End Stage Liver Disease",
+      "cui": "C0745744",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "end-stage liver disease",
+      "detected_name": "end~stage~liver~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 5452,
+      "end": 5475,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-434031000124107",
+        "S-708248004"
+      ],
+      "id": 227,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

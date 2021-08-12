@@ -1,0 +1,450 @@
+{
+  "entities": {
+    "4": {
+      "pretty_name": "Sleep Apnea, Obstructive",
+      "cui": "C0520679",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obstructive sleep apnea syndrome",
+      "detected_name": "obstructive~sleep~apnea~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 28,
+      "end": 60,
+      "icd10": [
+        {
+          "chapter": "G47.33",
+          "name": "Obstructive sleep apnea (adult) (pediatric)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-194441007",
+        "S-196167006",
+        "S-78275009"
+      ],
+      "id": 4,
+      "meta_anns": {}
+    },
+    "11": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obese",
+      "detected_name": "obese",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 105,
+      "end": 110,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 11,
+      "meta_anns": {}
+    },
+    "15": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 178,
+      "end": 190,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 15,
+      "meta_anns": {}
+    },
+    "32": {
+      "pretty_name": "",
+      "cui": "C0028734",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "nocturia",
+      "detected_name": "nocturia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 579,
+      "end": 587,
+      "icd10": [
+        {
+          "chapter": "R35.1",
+          "name": "Nocturia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139394000",
+        "S-158475006",
+        "S-207178007",
+        "S-6408001"
+      ],
+      "id": 32,
+      "meta_anns": {}
+    },
+    "42": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 746,
+      "end": 758,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 42,
+      "meta_anns": {}
+    },
+    "43": {
+      "pretty_name": "Gastritis",
+      "cui": "C0017152",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gastritis",
+      "detected_name": "gastritis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 760,
+      "end": 769,
+      "icd10": [
+        {
+          "chapter": "K29.7",
+          "name": "Gastritis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155711008",
+        "S-196743006",
+        "S-235653009",
+        "S-266503008",
+        "S-4556007"
+      ],
+      "id": 43,
+      "meta_anns": {}
+    },
+    "86": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obese",
+      "detected_name": "obese",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1416,
+      "end": 1421,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 86,
+      "meta_anns": {}
+    },
+    "98": {
+      "pretty_name": "",
+      "cui": "C0267045",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "scalloped tongue",
+      "detected_name": "scalloped~tongue",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1643,
+      "end": 1659,
+      "icd10": [
+        {
+          "chapter": "K14.8",
+          "name": "Other diseases of tongue"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-79831008"
+      ],
+      "id": 98,
+      "meta_anns": {}
+    },
+    "110": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obese",
+      "detected_name": "obese",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1831,
+      "end": 1836,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 110,
+      "meta_anns": {}
+    },
+    "124": {
+      "pretty_name": "Sleep Apnea, Obstructive",
+      "cui": "C0520679",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obstructive sleep apnea syndrome",
+      "detected_name": "obstructive~sleep~apnea~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1969,
+      "end": 2001,
+      "icd10": [
+        {
+          "chapter": "G47.33",
+          "name": "Obstructive sleep apnea (adult) (pediatric)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-194441007",
+        "S-196167006",
+        "S-78275009"
+      ],
+      "id": 124,
+      "meta_anns": {}
+    },
+    "131": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2007,
+      "end": 2019,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 131,
+      "meta_anns": {}
+    },
+    "132": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Obesity",
+      "detected_name": "obesity",
+      "acc": 0.6587099089042621,
+      "context_similarity": 0.6587099089042621,
+      "start": 2025,
+      "end": 2032,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 132,
+      "meta_anns": {}
+    },
+    "141": {
+      "pretty_name": "Sleep Apnea, Obstructive",
+      "cui": "C0520679",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obstructive sleep apnea syndrome",
+      "detected_name": "obstructive~sleep~apnea~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2126,
+      "end": 2158,
+      "icd10": [
+        {
+          "chapter": "G47.33",
+          "name": "Obstructive sleep apnea (adult) (pediatric)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-194441007",
+        "S-196167006",
+        "S-78275009"
+      ],
+      "id": 141,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

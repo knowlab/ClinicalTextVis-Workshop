@@ -1,0 +1,473 @@
+{
+  "entities": {
+    "11": {
+      "pretty_name": "",
+      "cui": "C2748518",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lumbar scoliosis",
+      "detected_name": "lumbar~scoliosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 250,
+      "end": 266,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 11,
+      "meta_anns": {}
+    },
+    "13": {
+      "pretty_name": "",
+      "cui": "C0152089",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "post laminectomy syndrome",
+      "detected_name": "post~laminectomy~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 267,
+      "end": 292,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-156629003",
+        "S-156637006",
+        "S-202721003",
+        "S-202722005",
+        "S-202726008",
+        "S-268076000",
+        "S-27151001"
+      ],
+      "id": 13,
+      "meta_anns": {}
+    },
+    "15": {
+      "pretty_name": "",
+      "cui": "C0158288",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lumbar spinal stenosis",
+      "detected_name": "lumbar~spinal~stenosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 294,
+      "end": 316,
+      "icd10": [
+        {
+          "chapter": "M48.061",
+          "name": "Spinal stenosis, lumbar region without neurogenic claudication"
+        },
+        {
+          "chapter": "M48.06",
+          "name": "Spinal stenosis, lumbar region"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-18347007"
+      ],
+      "id": 15,
+      "meta_anns": {}
+    },
+    "18": {
+      "pretty_name": "Radiculopathy",
+      "cui": "C0700594",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "radiculopathy",
+      "detected_name": "radiculopathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 340,
+      "end": 353,
+      "icd10": [
+        {
+          "chapter": "M54.1",
+          "name": "Radiculopathy"
+        },
+        {
+          "chapter": "M54.10",
+          "name": "Radiculopathy, site unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-394640000",
+        "S-72274001"
+      ],
+      "id": 18,
+      "meta_anns": {}
+    },
+    "29": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease",
+      "detected_name": "disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 680,
+      "end": 687,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 29,
+      "meta_anns": {}
+    },
+    "42": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1221,
+      "end": 1225,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 42,
+      "meta_anns": {}
+    },
+    "65": {
+      "pretty_name": "Degenerative polyarthritis",
+      "cui": "C0029408",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "degenerative joint disease",
+      "detected_name": "degenerative~joint~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1921,
+      "end": 1947,
+      "icd10": [
+        {
+          "chapter": "M15-M19",
+          "name": "Osteoarthritis (M15-M19)"
+        },
+        {
+          "chapter": "M19.9",
+          "name": "Osteoarthritis, unspecified site"
+        },
+        {
+          "chapter": "M19.90",
+          "name": "Unspecified osteoarthritis, unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156486003",
+        "S-156496007",
+        "S-201818008",
+        "S-201886002",
+        "S-201887006",
+        "S-201917002",
+        "S-224729007",
+        "S-225655006",
+        "S-226586002",
+        "S-227588009",
+        "S-267888004",
+        "S-267893001",
+        "S-396275006",
+        "S-80843008"
+      ],
+      "id": 65,
+      "meta_anns": {}
+    },
+    "86": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymphadenopathy",
+      "detected_name": "lymphadenopathy",
+      "acc": 0.7069748238240767,
+      "context_similarity": 0.7069748238240767,
+      "start": 2335,
+      "end": 2350,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 86,
+      "meta_anns": {}
+    },
+    "88": {
+      "pretty_name": "",
+      "cui": "C2748518",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lumbar scoliosis",
+      "detected_name": "lumbar~scoliosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2384,
+      "end": 2400,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 88,
+      "meta_anns": {}
+    },
+    "106": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease",
+      "detected_name": "disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2811,
+      "end": 2818,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 106,
+      "meta_anns": {}
+    },
+    "109": {
+      "pretty_name": "Syndrome",
+      "cui": "C0039082",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "syndrome",
+      "detected_name": "syndrome",
+      "acc": 0.747528517410058,
+      "context_similarity": 0.747528517410058,
+      "start": 2863,
+      "end": 2871,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 109,
+      "meta_anns": {}
+    },
+    "110": {
+      "pretty_name": "",
+      "cui": "C0158288",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lumbar spinal stenosis",
+      "detected_name": "lumbar~spinal~stenosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2873,
+      "end": 2895,
+      "icd10": [
+        {
+          "chapter": "M48.061",
+          "name": "Spinal stenosis, lumbar region without neurogenic claudication"
+        },
+        {
+          "chapter": "M48.06",
+          "name": "Spinal stenosis, lumbar region"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-18347007"
+      ],
+      "id": 110,
+      "meta_anns": {}
+    },
+    "113": {
+      "pretty_name": "Radiculopathy",
+      "cui": "C0700594",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "radiculopathy",
+      "detected_name": "radiculopathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2917,
+      "end": 2930,
+      "icd10": [
+        {
+          "chapter": "M54.1",
+          "name": "Radiculopathy"
+        },
+        {
+          "chapter": "M54.10",
+          "name": "Radiculopathy, site unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-394640000",
+        "S-72274001"
+      ],
+      "id": 113,
+      "meta_anns": {}
+    },
+    "117": {
+      "pretty_name": "",
+      "cui": "C2748518",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lumbar scoliosis",
+      "detected_name": "lumbar~scoliosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2963,
+      "end": 2979,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 117,
+      "meta_anns": {}
+    },
+    "119": {
+      "pretty_name": "",
+      "cui": "C0152089",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "post laminectomy syndrome",
+      "detected_name": "post~laminectomy~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2980,
+      "end": 3005,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-156629003",
+        "S-156637006",
+        "S-202721003",
+        "S-202722005",
+        "S-202726008",
+        "S-268076000",
+        "S-27151001"
+      ],
+      "id": 119,
+      "meta_anns": {}
+    },
+    "125": {
+      "pretty_name": "",
+      "cui": "C1298685",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Chronic pain syndrome",
+      "detected_name": "chronic~pain~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3113,
+      "end": 3134,
+      "icd10": [
+        {
+          "chapter": "G89.4",
+          "name": "Chronic pain syndrome"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-373621006"
+      ],
+      "id": 125,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

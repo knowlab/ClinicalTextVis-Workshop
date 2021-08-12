@@ -1,0 +1,188 @@
+{
+  "entities": {
+    "1": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obese",
+      "detected_name": "obese",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 43,
+      "end": 48,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 1,
+      "meta_anns": {}
+    },
+    "7": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary disease",
+      "detected_name": "coronary~disease",
+      "acc": 0.6242741133445789,
+      "context_similarity": 0.6242741133445789,
+      "start": 95,
+      "end": 111,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 7,
+      "meta_anns": {}
+    },
+    "15": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease",
+      "detected_name": "disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 155,
+      "end": 162,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 15,
+      "meta_anns": {}
+    },
+    "18": {
+      "pretty_name": "Acute myocardial infarction",
+      "cui": "C0155626",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "acute myocardial infarction",
+      "detected_name": "acute~myocardial~infarction",
+      "acc": 0.7388771787809829,
+      "context_similarity": 0.7388771787809829,
+      "start": 237,
+      "end": 264,
+      "icd10": [
+        {
+          "chapter": "I21",
+          "name": "Acute myocardial infarction"
+        },
+        {
+          "chapter": "I21.9",
+          "name": "Acute myocardial infarction, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155304006",
+        "S-194796000",
+        "S-194811003",
+        "S-266288001",
+        "S-57054005"
+      ],
+      "id": 18,
+      "meta_anns": {}
+    },
+    "90": {
+      "pretty_name": "Myocardial Infarction",
+      "cui": "C0027051",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "myocardial infarction",
+      "detected_name": "myocardial~infarction",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2327,
+      "end": 2348,
+      "icd10": [
+        {
+          "chapter": "I22",
+          "name": "Subsequent ST elevation (STEMI) and non-ST elevation (NSTEMI) myocardial infarction"
+        },
+        {
+          "chapter": "I21",
+          "name": "Acute myocardial infarction"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155304006",
+        "S-194796000",
+        "S-22298006",
+        "S-233824008",
+        "S-266288001",
+        "S-66514008"
+      ],
+      "id": 90,
+      "meta_anns": {}
+    },
+    "110": {
+      "pretty_name": "",
+      "cui": "C0587044",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "left ventricular thrombus",
+      "detected_name": "left~ventricular~thrombus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2717,
+      "end": 2742,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-195148001",
+        "S-309519009"
+      ],
+      "id": 110,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

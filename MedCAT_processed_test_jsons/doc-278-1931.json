@@ -1,0 +1,41 @@
+{
+  "entities": {
+    "39": {
+      "pretty_name": "Vasovagal syncope",
+      "cui": "C0042420",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "vasovagal syncope",
+      "detected_name": "vasovagal~syncope",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 816,
+      "end": 833,
+      "icd10": [
+        {
+          "chapter": "R55",
+          "name": "Syncope and collapse"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-127380002",
+        "S-139534004",
+        "S-158136005",
+        "S-162265001",
+        "S-206728007",
+        "S-230663003",
+        "S-29423006",
+        "S-398652001",
+        "S-398665005"
+      ],
+      "id": 39,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

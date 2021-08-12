@@ -1,0 +1,392 @@
+{
+  "entities": {
+    "28": {
+      "pretty_name": "Galactorrhea",
+      "cui": "C3665358",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "nipple discharge",
+      "detected_name": "nipple~discharge",
+      "acc": 0.17771194382454733,
+      "context_similarity": 0.17771194382454733,
+      "start": 602,
+      "end": 618,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155965001"
+      ],
+      "id": 28,
+      "meta_anns": {}
+    },
+    "73": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease",
+      "detected_name": "disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1538,
+      "end": 1545,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 73,
+      "meta_anns": {}
+    },
+    "82": {
+      "pretty_name": "Synovial Cyst",
+      "cui": "C0085648",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ganglion cyst",
+      "detected_name": "ganglion~cyst",
+      "acc": 0.5066981582075498,
+      "context_similarity": 0.5066981582075498,
+      "start": 1700,
+      "end": 1713,
+      "icd10": [
+        {
+          "chapter": "M71.3",
+          "name": "Other bursal cyst"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-123250005",
+        "S-156687004",
+        "S-202937001",
+        "S-240205003",
+        "S-270543007",
+        "S-71307009"
+      ],
+      "id": 82,
+      "meta_anns": {}
+    },
+    "97": {
+      "pretty_name": "",
+      "cui": "C0743841",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "febrile illnesses",
+      "detected_name": "febrile~illness",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1908,
+      "end": 1925,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-416113008"
+      ],
+      "id": 97,
+      "meta_anns": {}
+    },
+    "107": {
+      "pretty_name": "Restless Legs Syndrome",
+      "cui": "C0035258",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "restless leg syndrome",
+      "detected_name": "restless~leg~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1977,
+      "end": 1998,
+      "icd10": [
+        {
+          "chapter": "G25.81",
+          "name": "Restless legs syndrome"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-32914008",
+        "S-393579008"
+      ],
+      "id": 107,
+      "meta_anns": {}
+    },
+    "127": {
+      "pretty_name": "",
+      "cui": "C0003949",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "asbestosis",
+      "detected_name": "asbestosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2179,
+      "end": 2189,
+      "icd10": [
+        {
+          "chapter": "J61",
+          "name": "Pneumoconiosis due to asbestos and other mineral fibers"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155589004",
+        "S-196006003",
+        "S-22607003",
+        "S-266400008"
+      ],
+      "id": 127,
+      "meta_anns": {}
+    },
+    "128": {
+      "pretty_name": "",
+      "cui": "C0003949",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "asbestos",
+      "detected_name": "asbestos",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2193,
+      "end": 2201,
+      "icd10": [
+        {
+          "chapter": "J61",
+          "name": "Pneumoconiosis due to asbestos and other mineral fibers"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155589004",
+        "S-196006003",
+        "S-22607003",
+        "S-266400008"
+      ],
+      "id": 128,
+      "meta_anns": {}
+    },
+    "150": {
+      "pretty_name": "Retraction of nipple",
+      "cui": "C0221370",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "nipple retractions",
+      "detected_name": "nipple~retraction",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2768,
+      "end": 2786,
+      "icd10": [
+        {
+          "chapter": "N64.53",
+          "name": "Retraction of nipple"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155961005",
+        "S-156284002",
+        "S-198118000",
+        "S-198119008",
+        "S-271955004",
+        "S-31845005"
+      ],
+      "id": 150,
+      "meta_anns": {}
+    },
+    "156": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adenopathy",
+      "detected_name": "adenopathy",
+      "acc": 0.8243127738331961,
+      "context_similarity": 0.8243127738331961,
+      "start": 2909,
+      "end": 2919,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 156,
+      "meta_anns": {}
+    },
+    "164": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adenopathy",
+      "detected_name": "adenopathy",
+      "acc": 0.9751773243346691,
+      "context_similarity": 0.9751773243346691,
+      "start": 3058,
+      "end": 3068,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 164,
+      "meta_anns": {}
+    },
+    "201": {
+      "pretty_name": "Local disease",
+      "cui": "C0277565",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "local",
+      "detected_name": "local",
+      "acc": 0.8737317642318145,
+      "context_similarity": 0.8737317642318145,
+      "start": 4054,
+      "end": 4059,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-74217003"
+      ],
+      "id": 201,
+      "meta_anns": {}
+    },
+    "203": {
+      "pretty_name": "Lymphedema",
+      "cui": "C0024236",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymphedema",
+      "detected_name": "lymphedema",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 4112,
+      "end": 4122,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155485008",
+        "S-195486001",
+        "S-234097001",
+        "S-266334008",
+        "S-30213001"
+      ],
+      "id": 203,
+      "meta_anns": {}
+    },
+    "206": {
+      "pretty_name": "Paresthesia",
+      "cui": "C0030554",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "paresthesias",
+      "detected_name": "paresthesias",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4155,
+      "end": 4167,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-158228009",
+        "S-206857001",
+        "S-91019004"
+      ],
+      "id": 206,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

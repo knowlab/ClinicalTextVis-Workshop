@@ -1,0 +1,35 @@
+{
+  "entities": {
+    "54": {
+      "pretty_name": "Tetanus",
+      "cui": "C0039614",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Tetanus",
+      "detected_name": "tetanus",
+      "acc": 0.3864109633419738,
+      "context_similarity": 0.3864109633419738,
+      "start": 1528,
+      "end": 1535,
+      "icd10": [
+        {
+          "chapter": "A35",
+          "name": "Other tetanus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154312006",
+        "S-276202003",
+        "S-76902006"
+      ],
+      "id": 54,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

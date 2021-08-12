@@ -1,0 +1,55 @@
+{
+  "entities": {
+    "31": {
+      "pretty_name": "Cyst",
+      "cui": "C0010709",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cysts",
+      "detected_name": "cyst",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1065,
+      "end": 1070,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-12494005",
+        "S-133846001",
+        "S-264515009",
+        "S-367643001",
+        "S-441457006"
+      ],
+      "id": 31,
+      "meta_anns": {}
+    },
+    "33": {
+      "pretty_name": "",
+      "cui": "C0001314",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "acute disease",
+      "detected_name": "acute~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1089,
+      "end": 1102,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-2704003"
+      ],
+      "id": 33,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

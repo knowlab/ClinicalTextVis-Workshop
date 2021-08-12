@@ -1,0 +1,273 @@
+{
+  "entities": {
+    "11": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 302,
+      "end": 306,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 11,
+      "meta_anns": {}
+    },
+    "15": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disorder",
+      "detected_name": "disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 533,
+      "end": 541,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 15,
+      "meta_anns": {}
+    },
+    "29": {
+      "pretty_name": "Photopsia",
+      "cui": "C0085635",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "flashes",
+      "detected_name": "flash",
+      "acc": 0.49635738194088064,
+      "context_similarity": 0.49635738194088064,
+      "start": 836,
+      "end": 843,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-193649008",
+        "S-56170001"
+      ],
+      "id": 29,
+      "meta_anns": {}
+    },
+    "45": {
+      "pretty_name": "Incontinence",
+      "cui": "C0021167",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "incontinence",
+      "detected_name": "incontinence",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1061,
+      "end": 1073,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-48340000"
+      ],
+      "id": 45,
+      "meta_anns": {}
+    },
+    "46": {
+      "pretty_name": "Alopecia",
+      "cui": "C0002170",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hair loss",
+      "detected_name": "hair~loss",
+      "acc": 0.33966292918204855,
+      "context_similarity": 0.33966292918204855,
+      "start": 1075,
+      "end": 1084,
+      "icd10": [
+        {
+          "chapter": "L65.9",
+          "name": "Nonscarring hair loss, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156408004",
+        "S-201129005",
+        "S-201130000",
+        "S-201157003",
+        "S-267810004",
+        "S-270504008",
+        "S-278040002",
+        "S-56317004"
+      ],
+      "id": 46,
+      "meta_anns": {}
+    },
+    "48": {
+      "pretty_name": "Sinusitis",
+      "cui": "C0037199",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "sinusitis",
+      "detected_name": "sinusitis",
+      "acc": 0.48128178020181434,
+      "context_similarity": 0.48128178020181434,
+      "start": 1135,
+      "end": 1144,
+      "icd10": [
+        {
+          "chapter": "J32",
+          "name": "Chronic sinusitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-195649005",
+        "S-275483004",
+        "S-36971009"
+      ],
+      "id": 48,
+      "meta_anns": {}
+    },
+    "55": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "DM",
+      "detected_name": "dm",
+      "acc": 0.6240024509620666,
+      "context_similarity": 0.6240024509620666,
+      "start": 1250,
+      "end": 1252,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 55,
+      "meta_anns": {}
+    },
+    "70": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adenopathy",
+      "detected_name": "adenopathy",
+      "acc": 0.5497065487409093,
+      "context_similarity": 0.5497065487409093,
+      "start": 1511,
+      "end": 1521,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 70,
+      "meta_anns": {}
+    },
+    "77": {
+      "pretty_name": "",
+      "cui": "C0740421",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Postsurgical menopause",
+      "detected_name": "postsurgical~menopause",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1617,
+      "end": 1639,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-371036001"
+      ],
+      "id": 77,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

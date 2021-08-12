@@ -1,0 +1,113 @@
+{
+  "entities": {
+    "22": {
+      "pretty_name": "Transient Ischemic Attack",
+      "cui": "C0007787",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "TIA",
+      "detected_name": "tia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 489,
+      "end": 492,
+      "icd10": [
+        {
+          "chapter": "G45.9",
+          "name": "Transient cerebral ischaemic attack, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155404005",
+        "S-195196001",
+        "S-195207009",
+        "S-266257000",
+        "S-266314007",
+        "S-313242003",
+        "S-38609002"
+      ],
+      "id": 22,
+      "meta_anns": {}
+    },
+    "33": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes mellitus",
+      "detected_name": "diabetes~mellitus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 562,
+      "end": 579,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 33,
+      "meta_anns": {}
+    },
+    "186": {
+      "pretty_name": "Decompression Sickness",
+      "cui": "C0011119",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "bend",
+      "detected_name": "bend",
+      "acc": 0.1337593549975403,
+      "context_similarity": 0.1337593549975403,
+      "start": 5097,
+      "end": 5101,
+      "icd10": [
+        {
+          "chapter": "T70.3",
+          "name": "Effects of caisson disease [decompression sickness]"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-157734000",
+        "S-212952000",
+        "S-212955003",
+        "S-269425003",
+        "S-363738004",
+        "S-44016006",
+        "S-48620000",
+        "S-89684003"
+      ],
+      "id": 186,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

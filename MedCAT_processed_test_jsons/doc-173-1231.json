@@ -1,0 +1,804 @@
+{
+  "entities": {
+    "0": {
+      "pretty_name": "Hepatic Encephalopathy",
+      "cui": "C0019151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hepatic encephalopathy",
+      "detected_name": "hepatic~encephalopathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 24,
+      "end": 46,
+      "icd10": [
+        {
+          "chapter": "K72",
+          "name": "Hepatic failure, not elsewhere classified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-123049003",
+        "S-13920009",
+        "S-197332007",
+        "S-449902003"
+      ],
+      "id": 0,
+      "meta_anns": {}
+    },
+    "9": {
+      "pretty_name": "Liver Cirrhosis, Alcoholic",
+      "cui": "C0023891",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "alcohol cirrhosis",
+      "detected_name": "alcohol~cirrhosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 139,
+      "end": 156,
+      "icd10": [
+        {
+          "chapter": "K70.3",
+          "name": "Alcoholic cirrhosis of liver"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155811002",
+        "S-197280008",
+        "S-235894003",
+        "S-266467008",
+        "S-420054005",
+        "S-75393009"
+      ],
+      "id": 9,
+      "meta_anns": {}
+    },
+    "14": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 239,
+      "end": 243,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 14,
+      "meta_anns": {}
+    },
+    "55": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1315,
+      "end": 1319,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 55,
+      "meta_anns": {}
+    },
+    "59": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1440,
+      "end": 1444,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 59,
+      "meta_anns": {}
+    },
+    "60": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1482,
+      "end": 1486,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 60,
+      "meta_anns": {}
+    },
+    "72": {
+      "pretty_name": "Liver Cirrhosis",
+      "cui": "C0023890",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Liver cirrhosis",
+      "detected_name": "liver~cirrhosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1661,
+      "end": 1676,
+      "icd10": [
+        {
+          "chapter": "K74.60",
+          "name": "Unspecified cirrhosis of liver"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155809006",
+        "S-197309008",
+        "S-19943007",
+        "S-235891006",
+        "S-266537000"
+      ],
+      "id": 72,
+      "meta_anns": {}
+    },
+    "78": {
+      "pretty_name": "Intracranial Hemorrhage",
+      "cui": "C0151699",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "intracranial hemorrhage",
+      "detected_name": "intracranial~hemorrhage",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1767,
+      "end": 1790,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-1386000",
+        "S-195178005"
+      ],
+      "id": 78,
+      "meta_anns": {}
+    },
+    "80": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1796,
+      "end": 1800,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 80,
+      "meta_anns": {}
+    },
+    "85": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1929,
+      "end": 1933,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 85,
+      "meta_anns": {}
+    },
+    "96": {
+      "pretty_name": "Intracranial Hemorrhage",
+      "cui": "C0151699",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "intracranial hemorrhage",
+      "detected_name": "intracranial~hemorrhage",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2166,
+      "end": 2189,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-1386000",
+        "S-195178005"
+      ],
+      "id": 96,
+      "meta_anns": {}
+    },
+    "124": {
+      "pretty_name": "Liver diseases",
+      "cui": "C0023895",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "liver disease",
+      "detected_name": "liver~disease",
+      "acc": 0.16172401330739858,
+      "context_similarity": 0.16172401330739858,
+      "start": 2619,
+      "end": 2632,
+      "icd10": [
+        {
+          "chapter": "K70-K77.9",
+          "name": "Diseases of liver"
+        },
+        {
+          "chapter": "K76.9",
+          "name": "Liver disease, unspecified"
+        },
+        {
+          "chapter": "K70-K77",
+          "name": "Diseases of liver (K70-K77)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155807008",
+        "S-155817003",
+        "S-155822003",
+        "S-197375001",
+        "S-197551000",
+        "S-235856003",
+        "S-266535008",
+        "S-62857009"
+      ],
+      "id": 124,
+      "meta_anns": {}
+    },
+    "128": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2691,
+      "end": 2695,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 128,
+      "meta_anns": {}
+    },
+    "129": {
+      "pretty_name": "Gilbert Disease",
+      "cui": "C0017551",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Gilbert",
+      "detected_name": "gilbert",
+      "acc": 0.15260131536540855,
+      "context_similarity": 0.15260131536540855,
+      "start": 2706,
+      "end": 2713,
+      "icd10": [
+        {
+          "chapter": "E80.4",
+          "name": "Gilbert's syndrome"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154770008",
+        "S-267509000",
+        "S-27503000"
+      ],
+      "id": 129,
+      "meta_anns": {}
+    },
+    "163": {
+      "pretty_name": "Alcoholic Liver Diseases",
+      "cui": "C0023896",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "alcoholic liver disease",
+      "detected_name": "alcoholic~liver~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3059,
+      "end": 3082,
+      "icd10": [
+        {
+          "chapter": "K70",
+          "name": "Alcoholic liver disease"
+        },
+        {
+          "chapter": "K70.9",
+          "name": "Alcoholic liver disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155809006",
+        "S-266537000",
+        "S-41309000"
+      ],
+      "id": 163,
+      "meta_anns": {}
+    },
+    "169": {
+      "pretty_name": "Hematuria",
+      "cui": "C0018965",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hematuria",
+      "detected_name": "hematuria",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3101,
+      "end": 3110,
+      "icd10": [
+        {
+          "chapter": "R31",
+          "name": "Unspecified haematuria"
+        },
+        {
+          "chapter": "R31.9",
+          "name": "Hematuria, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139414003",
+        "S-139416001",
+        "S-155895005",
+        "S-162136002",
+        "S-197937006",
+        "S-266568001",
+        "S-267066000",
+        "S-267167006",
+        "S-267168001",
+        "S-307414005",
+        "S-34436003",
+        "S-53298000"
+      ],
+      "id": 169,
+      "meta_anns": {}
+    },
+    "190": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabete",
+      "acc": 0.32170145118645066,
+      "context_similarity": 0.32170145118645066,
+      "start": 3386,
+      "end": 3394,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 190,
+      "meta_anns": {}
+    },
+    "221": {
+      "pretty_name": "Dental caries",
+      "cui": "C0011334",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cavity",
+      "detected_name": "cavity",
+      "acc": 0.40569289438182254,
+      "context_similarity": 0.40569289438182254,
+      "start": 4019,
+      "end": 4025,
+      "icd10": [
+        {
+          "chapter": "K02",
+          "name": "Dental caries"
+        },
+        {
+          "chapter": "K02.9",
+          "name": "Dental caries, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155632007",
+        "S-196307002",
+        "S-80967001"
+      ],
+      "id": 221,
+      "meta_anns": {}
+    },
+    "223": {
+      "pretty_name": "Oral candidiasis",
+      "cui": "C0006849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "thrush",
+      "detected_name": "thrush",
+      "acc": 0.7560878268748288,
+      "context_similarity": 0.7560878268748288,
+      "start": 4043,
+      "end": 4049,
+      "icd10": [
+        {
+          "chapter": "B37.0",
+          "name": "Candidal stomatitis"
+        },
+        {
+          "chapter": "B37.9",
+          "name": "Candidiasis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-187005005",
+        "S-187006006",
+        "S-367093001",
+        "S-78048006",
+        "S-79740000"
+      ],
+      "id": 223,
+      "meta_anns": {}
+    },
+    "230": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymphadenopathy",
+      "detected_name": "lymphadenopathy",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 4165,
+      "end": 4180,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 230,
+      "meta_anns": {}
+    },
+    "243": {
+      "pretty_name": "Skin Ulcer",
+      "cui": "C0037299",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "skin ulcerations",
+      "detected_name": "skin~ulceration",
+      "acc": 0.954027668091069,
+      "context_similarity": 0.954027668091069,
+      "start": 4441,
+      "end": 4457,
+      "icd10": [
+        {
+          "chapter": "L98.4",
+          "name": "Non-pressure chronic ulcer of skin, not elsewhere classified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-201257009",
+        "S-46742003"
+      ],
+      "id": 243,
+      "meta_anns": {}
+    },
+    "246": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "erythema",
+      "detected_name": "erythema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4469,
+      "end": 4477,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 246,
+      "meta_anns": {}
+    },
+    "251": {
+      "pretty_name": "Liver Cirrhosis",
+      "cui": "C0023890",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "liver cirrhosis",
+      "detected_name": "liver~cirrhosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4567,
+      "end": 4582,
+      "icd10": [
+        {
+          "chapter": "K74.60",
+          "name": "Unspecified cirrhosis of liver"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155809006",
+        "S-197309008",
+        "S-19943007",
+        "S-235891006",
+        "S-266537000"
+      ],
+      "id": 251,
+      "meta_anns": {}
+    },
+    "256": {
+      "pretty_name": "Abscess",
+      "cui": "C0000833",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "abscess",
+      "detected_name": "abscess",
+      "acc": 0.24192224954096303,
+      "context_similarity": 0.24192224954096303,
+      "start": 4638,
+      "end": 4645,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-128477000",
+        "S-156308003",
+        "S-200694004",
+        "S-267831001",
+        "S-44132006"
+      ],
+      "id": 256,
+      "meta_anns": {}
+    },
+    "266": {
+      "pretty_name": "",
+      "cui": "C0154694",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "spastic hemiparesis",
+      "detected_name": "spastic~hemiparesis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4831,
+      "end": 4850,
+      "icd10": [
+        {
+          "chapter": "G81.1",
+          "name": "Spastic hemiplegia"
+        },
+        {
+          "chapter": "G81.10",
+          "name": "Spastic hemiplegia affecting unspecified side"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-192943001",
+        "S-267589002",
+        "S-79633009"
+      ],
+      "id": 266,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,273 @@
+{
+  "entities": {
+    "8": {
+      "pretty_name": "Hematuria",
+      "cui": "C0018965",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hematuria",
+      "detected_name": "hematuria",
+      "acc": 0.41029638045068195,
+      "context_similarity": 0.41029638045068195,
+      "start": 82,
+      "end": 91,
+      "icd10": [
+        {
+          "chapter": "R31",
+          "name": "Unspecified haematuria"
+        },
+        {
+          "chapter": "R31.9",
+          "name": "Hematuria, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139414003",
+        "S-139416001",
+        "S-155895005",
+        "S-162136002",
+        "S-197937006",
+        "S-266568001",
+        "S-267066000",
+        "S-267167006",
+        "S-267168001",
+        "S-307414005",
+        "S-34436003",
+        "S-53298000"
+      ],
+      "id": 8,
+      "meta_anns": {}
+    },
+    "19": {
+      "pretty_name": "Hematuria",
+      "cui": "C0018965",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hematuria",
+      "detected_name": "hematuria",
+      "acc": 0.684241367539322,
+      "context_similarity": 0.684241367539322,
+      "start": 470,
+      "end": 479,
+      "icd10": [
+        {
+          "chapter": "R31",
+          "name": "Unspecified haematuria"
+        },
+        {
+          "chapter": "R31.9",
+          "name": "Hematuria, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139414003",
+        "S-139416001",
+        "S-155895005",
+        "S-162136002",
+        "S-197937006",
+        "S-266568001",
+        "S-267066000",
+        "S-267167006",
+        "S-267168001",
+        "S-307414005",
+        "S-34436003",
+        "S-53298000"
+      ],
+      "id": 19,
+      "meta_anns": {}
+    },
+    "25": {
+      "pretty_name": "Blood Coagulation Disorders",
+      "cui": "C0005779",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coagulopathy",
+      "detected_name": "coagulopathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 651,
+      "end": 663,
+      "icd10": [
+        {
+          "chapter": "D68.9",
+          "name": "Coagulation defect, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-127073005",
+        "S-154815003",
+        "S-191303002",
+        "S-267562007",
+        "S-362970003",
+        "S-64779008"
+      ],
+      "id": 25,
+      "meta_anns": {}
+    },
+    "29": {
+      "pretty_name": "Blood Coagulation Disorders",
+      "cui": "C0005779",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coagulopathy",
+      "detected_name": "coagulopathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 799,
+      "end": 811,
+      "icd10": [
+        {
+          "chapter": "D68.9",
+          "name": "Coagulation defect, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-127073005",
+        "S-154815003",
+        "S-191303002",
+        "S-267562007",
+        "S-362970003",
+        "S-64779008"
+      ],
+      "id": 29,
+      "meta_anns": {}
+    },
+    "32": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "condition",
+      "detected_name": "condition",
+      "acc": 0.20276949476208966,
+      "context_similarity": 0.20276949476208966,
+      "start": 845,
+      "end": 854,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 32,
+      "meta_anns": {}
+    },
+    "74": {
+      "pretty_name": "Paresthesia",
+      "cui": "C0030554",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tingling",
+      "detected_name": "tingling",
+      "acc": 0.9431033503047077,
+      "context_similarity": 0.9431033503047077,
+      "start": 1346,
+      "end": 1354,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-158228009",
+        "S-206857001",
+        "S-91019004"
+      ],
+      "id": 74,
+      "meta_anns": {}
+    },
+    "121": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "erythema",
+      "detected_name": "erythema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2142,
+      "end": 2150,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 121,
+      "meta_anns": {}
+    },
+    "154": {
+      "pretty_name": "Blood Coagulation Disorders",
+      "cui": "C0005779",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coagulopathy",
+      "detected_name": "coagulopathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2868,
+      "end": 2880,
+      "icd10": [
+        {
+          "chapter": "D68.9",
+          "name": "Coagulation defect, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-127073005",
+        "S-154815003",
+        "S-191303002",
+        "S-267562007",
+        "S-362970003",
+        "S-64779008"
+      ],
+      "id": 154,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

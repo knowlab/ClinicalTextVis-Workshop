@@ -1,0 +1,859 @@
+{
+  "entities": {
+    "0": {
+      "pretty_name": "Paroxysmal atrial fibrillation",
+      "cui": "C0235480",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Paroxysmal atrial fibrillation",
+      "detected_name": "paroxysmal~atrial~fibrillation",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 14,
+      "end": 44,
+      "icd10": [
+        {
+          "chapter": "I48.0",
+          "name": "Paroxysmal atrial fibrillation"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-195081002",
+        "S-282825002"
+      ],
+      "id": 0,
+      "meta_anns": {}
+    },
+    "28": {
+      "pretty_name": "Atrial fibrillation with rapid ventricular response",
+      "cui": "C1142306",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "atrial fibrillation with rapid ventricular response",
+      "detected_name": "atrial~fibrillation~with~rapid~ventricular~response",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 515,
+      "end": 566,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-120041000119109"
+      ],
+      "id": 28,
+      "meta_anns": {}
+    },
+    "42": {
+      "pretty_name": "Aortic sclerosis",
+      "cui": "C1331537",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "aortic sclerosis",
+      "detected_name": "aortic~sclerosis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 911,
+      "end": 927,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-67754003"
+      ],
+      "id": 42,
+      "meta_anns": {}
+    },
+    "45": {
+      "pretty_name": "Pericardial effusion",
+      "cui": "C0031039",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pericardial effusion",
+      "detected_name": "pericardial~effusion",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 956,
+      "end": 976,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-373945007",
+        "S-70370001"
+      ],
+      "id": 45,
+      "meta_anns": {}
+    },
+    "48": {
+      "pretty_name": "Tricuspid Valve Insufficiency",
+      "cui": "C0040961",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tricuspid regurgitation",
+      "detected_name": "tricuspid~regurgitation",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1024,
+      "end": 1047,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-111287006",
+        "S-155347006",
+        "S-251009000",
+        "S-266298007"
+      ],
+      "id": 48,
+      "meta_anns": {}
+    },
+    "107": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.527821695472356,
+      "context_similarity": 0.527821695472356,
+      "start": 1956,
+      "end": 1964,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 107,
+      "meta_anns": {}
+    },
+    "128": {
+      "pretty_name": "Paroxysmal nocturnal dyspnea",
+      "cui": "C1956415",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "paroxysmal nocturnal dyspnea",
+      "detected_name": "paroxysmal~nocturnal~dyspnea",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2445,
+      "end": 2473,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-139198007",
+        "S-55442000"
+      ],
+      "id": 128,
+      "meta_anns": {}
+    },
+    "144": {
+      "pretty_name": "Blood Coagulation Disorders",
+      "cui": "C0005779",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coagulopathy",
+      "detected_name": "coagulopathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2675,
+      "end": 2687,
+      "icd10": [
+        {
+          "chapter": "D68.9",
+          "name": "Coagulation defect, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-127073005",
+        "S-154815003",
+        "S-191303002",
+        "S-267562007",
+        "S-362970003",
+        "S-64779008"
+      ],
+      "id": 144,
+      "meta_anns": {}
+    },
+    "146": {
+      "pretty_name": "Blood Coagulation Disorders",
+      "cui": "C0005779",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "bleeding diathesis",
+      "detected_name": "bleeding~diathesis",
+      "acc": 0.7968460562820374,
+      "context_similarity": 0.7968460562820374,
+      "start": 2691,
+      "end": 2709,
+      "icd10": [
+        {
+          "chapter": "D68.9",
+          "name": "Coagulation defect, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-127073005",
+        "S-154815003",
+        "S-191303002",
+        "S-267562007",
+        "S-362970003",
+        "S-64779008"
+      ],
+      "id": 146,
+      "meta_anns": {}
+    },
+    "147": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disorder",
+      "detected_name": "disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2726,
+      "end": 2734,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 147,
+      "meta_anns": {}
+    },
+    "155": {
+      "pretty_name": "Pneumonia",
+      "cui": "C0032285",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pneumonias",
+      "detected_name": "pneumonia",
+      "acc": 0.6772071606130794,
+      "context_similarity": 0.6772071606130794,
+      "start": 2811,
+      "end": 2821,
+      "icd10": [
+        {
+          "chapter": "J18.9",
+          "name": "Pneumonia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155548002",
+        "S-155552002",
+        "S-155558003",
+        "S-233604007",
+        "S-266391003",
+        "S-274103002",
+        "S-60363000"
+      ],
+      "id": 155,
+      "meta_anns": {}
+    },
+    "156": {
+      "pretty_name": "Bronchitis",
+      "cui": "C0006277",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "bronchitis",
+      "detected_name": "bronchitis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2823,
+      "end": 2833,
+      "icd10": [
+        {
+          "chapter": "J40",
+          "name": "Bronchitis, not specified as acute or chronic"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155616009",
+        "S-195936003",
+        "S-195940007",
+        "S-266354009",
+        "S-32398004"
+      ],
+      "id": 156,
+      "meta_anns": {}
+    },
+    "157": {
+      "pretty_name": "Reactive airway disease",
+      "cui": "C3714497",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "reactive airway disease",
+      "detected_name": "reactive~airway~disease",
+      "acc": 0.502358186896889,
+      "context_similarity": 0.502358186896889,
+      "start": 2835,
+      "end": 2858,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-991000119106"
+      ],
+      "id": 157,
+      "meta_anns": {}
+    },
+    "165": {
+      "pretty_name": "",
+      "cui": "C0003949",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "asbestos",
+      "detected_name": "asbestos",
+      "acc": 0.7008933388171488,
+      "context_similarity": 0.7008933388171488,
+      "start": 2872,
+      "end": 2880,
+      "icd10": [
+        {
+          "chapter": "J61",
+          "name": "Pneumoconiosis due to asbestos and other mineral fibers"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155589004",
+        "S-196006003",
+        "S-22607003",
+        "S-266400008"
+      ],
+      "id": 165,
+      "meta_anns": {}
+    },
+    "166": {
+      "pretty_name": "Tuberculosis",
+      "cui": "C0041296",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tuberculosis",
+      "detected_name": "tuberculosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2884,
+      "end": 2896,
+      "icd10": [
+        {
+          "chapter": "A15-A19.9",
+          "name": "Tuberculosis"
+        },
+        {
+          "chapter": "A15-A19",
+          "name": "Tuberculosis (A15-A19)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154281007",
+        "S-154292008",
+        "S-186282009",
+        "S-187285000",
+        "S-263912007",
+        "S-371569005",
+        "S-373576009",
+        "S-56717001"
+      ],
+      "id": 166,
+      "meta_anns": {}
+    },
+    "173": {
+      "pretty_name": "Gastroesophageal reflux disease",
+      "cui": "C0017168",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gastroesophageal reflux disease",
+      "detected_name": "gastroesophageal~reflux~disease",
+      "acc": 0.7815227130710407,
+      "context_similarity": 0.7815227130710407,
+      "start": 2961,
+      "end": 2992,
+      "icd10": [
+        {
+          "chapter": "K21",
+          "name": "Gastro-oesophageal reflux disease"
+        },
+        {
+          "chapter": "K21.9",
+          "name": "Gastro-esophageal reflux disease without esophagitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-235595009",
+        "S-266498005",
+        "S-54856001"
+      ],
+      "id": 173,
+      "meta_anns": {}
+    },
+    "180": {
+      "pretty_name": "Hepatobiliary Disorder",
+      "cui": "C0267792",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hepatobiliary disease",
+      "detected_name": "hepatobiliary~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3008,
+      "end": 3029,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 180,
+      "meta_anns": {}
+    },
+    "185": {
+      "pretty_name": "Nephrolithiasis",
+      "cui": "C0392525",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "nephrolithiasis",
+      "detected_name": "nephrolithiasis",
+      "acc": 0.2624949261077027,
+      "context_similarity": 0.2624949261077027,
+      "start": 3080,
+      "end": 3095,
+      "icd10": [
+        {
+          "chapter": "N20.0",
+          "name": "Calculus of kidney"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155868000",
+        "S-197793002",
+        "S-236707002",
+        "S-266623004",
+        "S-56491003"
+      ],
+      "id": 185,
+      "meta_anns": {}
+    },
+    "186": {
+      "pretty_name": "Hematuria",
+      "cui": "C0018965",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hematuria",
+      "detected_name": "hematuria",
+      "acc": 0.872745914290705,
+      "context_similarity": 0.872745914290705,
+      "start": 3099,
+      "end": 3108,
+      "icd10": [
+        {
+          "chapter": "R31",
+          "name": "Unspecified haematuria"
+        },
+        {
+          "chapter": "R31.9",
+          "name": "Hematuria, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139414003",
+        "S-139416001",
+        "S-155895005",
+        "S-162136002",
+        "S-197937006",
+        "S-266568001",
+        "S-267066000",
+        "S-267167006",
+        "S-267168001",
+        "S-307414005",
+        "S-34436003",
+        "S-53298000"
+      ],
+      "id": 186,
+      "meta_anns": {}
+    },
+    "205": {
+      "pretty_name": "Transient Ischemic Attack",
+      "cui": "C0007787",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "transient ischemic attack (TIA",
+      "detected_name": "transient~ischemic~attack~tia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3275,
+      "end": 3305,
+      "icd10": [
+        {
+          "chapter": "G45.9",
+          "name": "Transient cerebral ischaemic attack, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155404005",
+        "S-195196001",
+        "S-195207009",
+        "S-266257000",
+        "S-266314007",
+        "S-313242003",
+        "S-38609002"
+      ],
+      "id": 205,
+      "meta_anns": {}
+    },
+    "210": {
+      "pretty_name": "Cerebrovascular accident",
+      "cui": "C0038454",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "stroke",
+      "detected_name": "stroke",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3320,
+      "end": 3326,
+      "icd10": [
+        {
+          "chapter": "I64",
+          "name": "Stroke, not specified as haemorrhage or infarction"
+        },
+        {
+          "chapter": "I63.9",
+          "name": "Cerebral infarction, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155388006",
+        "S-155405006",
+        "S-195208004",
+        "S-230690007",
+        "S-266312006",
+        "S-266315008",
+        "S-270883006",
+        "S-313267000",
+        "S-82797006"
+      ],
+      "id": 210,
+      "meta_anns": {}
+    },
+    "216": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disorders",
+      "detected_name": "disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3404,
+      "end": 3413,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 216,
+      "meta_anns": {}
+    },
+    "240": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymphadenopathy",
+      "detected_name": "lymphadenopathy",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 4129,
+      "end": 4144,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 240,
+      "meta_anns": {}
+    },
+    "252": {
+      "pretty_name": "Chronic obstructive pulmonary disease of horses",
+      "cui": "C3714496",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "heave",
+      "detected_name": "heave",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4450,
+      "end": 4455,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-10169006"
+      ],
+      "id": 252,
+      "meta_anns": {}
+    },
+    "265": {
+      "pretty_name": "Atrial Fibrillation",
+      "cui": "C0004238",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "atrial fibrillation",
+      "detected_name": "atrial~fibrillation",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 4682,
+      "end": 4701,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155364009",
+        "S-266306001",
+        "S-49436004"
+      ],
+      "id": 265,
+      "meta_anns": {}
+    },
+    "292": {
+      "pretty_name": "Paroxysmal atrial fibrillation",
+      "cui": "C0235480",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "paroxysmal atrial fibrillation",
+      "detected_name": "paroxysmal~atrial~fibrillation",
+      "acc": 0.46168884460294335,
+      "context_similarity": 0.46168884460294335,
+      "start": 5178,
+      "end": 5208,
+      "icd10": [
+        {
+          "chapter": "I48.0",
+          "name": "Paroxysmal atrial fibrillation"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-195081002",
+        "S-282825002"
+      ],
+      "id": 292,
+      "meta_anns": {}
+    },
+    "298": {
+      "pretty_name": "Atrial Fibrillation",
+      "cui": "C0004238",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Atrial fibrillation",
+      "detected_name": "atrial~fibrillation",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 5418,
+      "end": 5437,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155364009",
+        "S-266306001",
+        "S-49436004"
+      ],
+      "id": 298,
+      "meta_anns": {}
+    },
+    "333": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Congestive heart failure",
+      "detected_name": "congestive~heart~failure",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 6623,
+      "end": 6647,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 333,
+      "meta_anns": {}
+    },
+    "341": {
+      "pretty_name": "Renal Insufficiency",
+      "cui": "C1565489",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "renal insufficiency",
+      "detected_name": "renal~insufficiency",
+      "acc": 0.5559888253133441,
+      "context_similarity": 0.5559888253133441,
+      "start": 6734,
+      "end": 6753,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-197657007",
+        "S-236423003"
+      ],
+      "id": 341,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,534 @@
+{
+  "entities": {
+    "29": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease",
+      "detected_name": "disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 806,
+      "end": 813,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 29,
+      "meta_anns": {}
+    },
+    "37": {
+      "pretty_name": "Hepatitis C",
+      "cui": "C0019196",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hepatitis C",
+      "detected_name": "hepatitis~c",
+      "acc": 0.4803660198143896,
+      "context_similarity": 0.4803660198143896,
+      "start": 886,
+      "end": 897,
+      "icd10": [
+        {
+          "chapter": "B19.20",
+          "name": "Unspecified viral hepatitis C without hepatic coma"
+        },
+        {
+          "chapter": "B19.2",
+          "name": "Unspecified viral hepatitis C"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-123324009",
+        "S-154349000",
+        "S-186634008",
+        "S-186643004",
+        "S-50711007"
+      ],
+      "id": 37,
+      "meta_anns": {}
+    },
+    "45": {
+      "pretty_name": "Virus Diseases",
+      "cui": "C0042769",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "viral illness",
+      "detected_name": "viral~illness",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1099,
+      "end": 1112,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        },
+        {
+          "chapter": "B34.9",
+          "name": "Viral infection, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154319002",
+        "S-154372003",
+        "S-186754003",
+        "S-187471008",
+        "S-266116004",
+        "S-266188005",
+        "S-34014006"
+      ],
+      "id": 45,
+      "meta_anns": {}
+    },
+    "57": {
+      "pretty_name": "Common Cold",
+      "cui": "C0009443",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cold",
+      "detected_name": "cold",
+      "acc": 0.6455940790207979,
+      "context_similarity": 0.6455940790207979,
+      "start": 1300,
+      "end": 1304,
+      "icd10": [
+        {
+          "chapter": "J00",
+          "name": "Acute nasopharyngitis [common cold]"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155497009",
+        "S-195648002",
+        "S-232341009",
+        "S-232342002",
+        "S-266377009",
+        "S-54150009",
+        "S-82272006"
+      ],
+      "id": 57,
+      "meta_anns": {}
+    },
+    "85": {
+      "pretty_name": "Intervertebral Disc Degeneration",
+      "cui": "C0158266",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "degenerative disc disease",
+      "detected_name": "degenerative~disc~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1738,
+      "end": 1763,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-202714003",
+        "S-77547008"
+      ],
+      "id": 85,
+      "meta_anns": {}
+    },
+    "109": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "erythema",
+      "detected_name": "erythema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2251,
+      "end": 2259,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 109,
+      "meta_anns": {}
+    },
+    "114": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adenopathy",
+      "detected_name": "adenopathy",
+      "acc": 0.7332471355437662,
+      "context_similarity": 0.7332471355437662,
+      "start": 2353,
+      "end": 2363,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 114,
+      "meta_anns": {}
+    },
+    "147": {
+      "pretty_name": "Hepatitis C",
+      "cui": "C0019196",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hepatitis C",
+      "detected_name": "hepatitis~c",
+      "acc": 0.7666007894146325,
+      "context_similarity": 0.7666007894146325,
+      "start": 2896,
+      "end": 2907,
+      "icd10": [
+        {
+          "chapter": "B19.20",
+          "name": "Unspecified viral hepatitis C without hepatic coma"
+        },
+        {
+          "chapter": "B19.2",
+          "name": "Unspecified viral hepatitis C"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-123324009",
+        "S-154349000",
+        "S-186634008",
+        "S-186643004",
+        "S-50711007"
+      ],
+      "id": 147,
+      "meta_anns": {}
+    },
+    "150": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease",
+      "detected_name": "disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2954,
+      "end": 2961,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 150,
+      "meta_anns": {}
+    },
+    "154": {
+      "pretty_name": "Hepatitis B",
+      "cui": "C0019163",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hepatitis B",
+      "detected_name": "hepatitis~b",
+      "acc": 0.3463414748948279,
+      "context_similarity": 0.3463414748948279,
+      "start": 3080,
+      "end": 3091,
+      "icd10": [
+        {
+          "chapter": "A64",
+          "name": "Unspecified sexually transmitted disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154348008",
+        "S-186625003",
+        "S-266195001",
+        "S-66071002"
+      ],
+      "id": 154,
+      "meta_anns": {}
+    },
+    "157": {
+      "pretty_name": "Tetanus",
+      "cui": "C0039614",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tetanus",
+      "detected_name": "tetanus",
+      "acc": 0.5627505218601484,
+      "context_similarity": 0.5627505218601484,
+      "start": 3200,
+      "end": 3207,
+      "icd10": [
+        {
+          "chapter": "A35",
+          "name": "Other tetanus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154312006",
+        "S-276202003",
+        "S-76902006"
+      ],
+      "id": 157,
+      "meta_anns": {}
+    },
+    "163": {
+      "pretty_name": "",
+      "cui": "C0267797",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "acute hepatitis",
+      "detected_name": "acute~hepatitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3401,
+      "end": 3416,
+      "icd10": [
+        {
+          "chapter": "B17.9",
+          "name": "Acute viral hepatitis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-37871000"
+      ],
+      "id": 163,
+      "meta_anns": {}
+    },
+    "168": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymphadenopathy",
+      "detected_name": "lymphadenopathy",
+      "acc": 0.5269799763228245,
+      "context_similarity": 0.5269799763228245,
+      "start": 3471,
+      "end": 3486,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 168,
+      "meta_anns": {}
+    },
+    "178": {
+      "pretty_name": "Hepatitis C",
+      "cui": "C0019196",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hepatitis C",
+      "detected_name": "hepatitis~c",
+      "acc": 0.9062478691278646,
+      "context_similarity": 0.9062478691278646,
+      "start": 3638,
+      "end": 3649,
+      "icd10": [
+        {
+          "chapter": "B19.20",
+          "name": "Unspecified viral hepatitis C without hepatic coma"
+        },
+        {
+          "chapter": "B19.2",
+          "name": "Unspecified viral hepatitis C"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-123324009",
+        "S-154349000",
+        "S-186634008",
+        "S-186643004",
+        "S-50711007"
+      ],
+      "id": 178,
+      "meta_anns": {}
+    },
+    "181": {
+      "pretty_name": "Local disease",
+      "cui": "C0277565",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "local",
+      "detected_name": "local",
+      "acc": 0.17433408840844622,
+      "context_similarity": 0.17433408840844622,
+      "start": 3698,
+      "end": 3703,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-74217003"
+      ],
+      "id": 181,
+      "meta_anns": {}
+    },
+    "199": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease",
+      "detected_name": "disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4047,
+      "end": 4054,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 199,
+      "meta_anns": {}
+    },
+    "211": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease",
+      "detected_name": "disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4398,
+      "end": 4405,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 211,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

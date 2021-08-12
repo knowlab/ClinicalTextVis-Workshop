@@ -1,0 +1,178 @@
+{
+  "entities": {
+    "10": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "redness",
+      "detected_name": "redness",
+      "acc": 0.7686917673200729,
+      "context_similarity": 0.7686917673200729,
+      "start": 202,
+      "end": 209,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 10,
+      "meta_anns": {}
+    },
+    "44": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "erythema",
+      "detected_name": "erythema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 758,
+      "end": 766,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 44,
+      "meta_anns": {}
+    },
+    "55": {
+      "pretty_name": "",
+      "cui": "C0024225",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymphangitis",
+      "detected_name": "lymphangitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1039,
+      "end": 1051,
+      "icd10": [
+        {
+          "chapter": "I89.1",
+          "name": "Lymphangitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-1415005",
+        "S-266335009"
+      ],
+      "id": 55,
+      "meta_anns": {}
+    },
+    "67": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "redness",
+      "detected_name": "redness",
+      "acc": 0.47679168060771004,
+      "context_similarity": 0.47679168060771004,
+      "start": 1290,
+      "end": 1297,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 67,
+      "meta_anns": {}
+    },
+    "70": {
+      "pretty_name": "Contact Dermatitis",
+      "cui": "C0011616",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "contact dermatitis",
+      "detected_name": "contact~dermatitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1398,
+      "end": 1416,
+      "icd10": [
+        {
+          "chapter": "L25",
+          "name": "Unspecified contact dermatitis"
+        },
+        {
+          "chapter": "L25.9",
+          "name": "Unspecified contact dermatitis, unspecified cause"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156338009",
+        "S-156348006",
+        "S-200780008",
+        "S-200883000",
+        "S-200889001",
+        "S-267842005",
+        "S-267846008",
+        "S-40275004"
+      ],
+      "id": 70,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,360 @@
+{
+  "entities": {
+    "3": {
+      "pretty_name": "Acne",
+      "cui": "C0702166",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "acne",
+      "detected_name": "acne",
+      "acc": 0.4991679778901492,
+      "context_similarity": 0.4991679778901492,
+      "start": 79,
+      "end": 83,
+      "icd10": [
+        {
+          "chapter": "L70",
+          "name": "Acne"
+        },
+        {
+          "chapter": "L70.9",
+          "name": "Acne, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-11381005",
+        "S-201229002",
+        "S-201408008"
+      ],
+      "id": 3,
+      "meta_anns": {}
+    },
+    "19": {
+      "pretty_name": "",
+      "cui": "C0030824",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "allergies to penicillin",
+      "detected_name": "allergy~to~penicillin",
+      "acc": 0.4523367146695257,
+      "context_similarity": 0.4523367146695257,
+      "start": 480,
+      "end": 503,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-91936005"
+      ],
+      "id": 19,
+      "meta_anns": {}
+    },
+    "38": {
+      "pretty_name": "Chickenpox",
+      "cui": "C0008049",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "chickenpox",
+      "detected_name": "chickenpox",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 809,
+      "end": 819,
+      "icd10": [
+        {
+          "chapter": "B01",
+          "name": "Varicella [chickenpox]"
+        },
+        {
+          "chapter": "B01.9",
+          "name": "Varicella without complication"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154325003",
+        "S-186508005",
+        "S-38907003"
+      ],
+      "id": 38,
+      "meta_anns": {}
+    },
+    "39": {
+      "pretty_name": "Measles",
+      "cui": "C0025007",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "measles",
+      "detected_name": "measle",
+      "acc": 0.16477955773423125,
+      "context_similarity": 0.16477955773423125,
+      "start": 825,
+      "end": 832,
+      "icd10": [
+        {
+          "chapter": "B05",
+          "name": "Measles"
+        },
+        {
+          "chapter": "B05.9",
+          "name": "Measles without complication"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-14189004",
+        "S-154338006"
+      ],
+      "id": 39,
+      "meta_anns": {}
+    },
+    "53": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disorder",
+      "detected_name": "disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 951,
+      "end": 959,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 53,
+      "meta_anns": {}
+    },
+    "62": {
+      "pretty_name": "Sexually Transmitted Diseases",
+      "cui": "C0036916",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "STD",
+      "detected_name": "std",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1210,
+      "end": 1213,
+      "icd10": [
+        {
+          "chapter": "A50-A64.9",
+          "name": "Infections with a predominantly sexual mode of transmission"
+        },
+        {
+          "chapter": "A64",
+          "name": "Unspecified sexually transmitted disease"
+        },
+        {
+          "chapter": "A50-A64",
+          "name": "Infections with a predominantly sexual mode of transmission (A50-A64)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154378004",
+        "S-186831003",
+        "S-186949002",
+        "S-187348005",
+        "S-187367009",
+        "S-266208003",
+        "S-276972005",
+        "S-8098009"
+      ],
+      "id": 62,
+      "meta_anns": {}
+    },
+    "65": {
+      "pretty_name": "Acne",
+      "cui": "C0702166",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "acne",
+      "detected_name": "acne",
+      "acc": 0.6960962547923019,
+      "context_similarity": 0.6960962547923019,
+      "start": 1295,
+      "end": 1299,
+      "icd10": [
+        {
+          "chapter": "L70",
+          "name": "Acne"
+        },
+        {
+          "chapter": "L70.9",
+          "name": "Acne, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-11381005",
+        "S-201229002",
+        "S-201408008"
+      ],
+      "id": 65,
+      "meta_anns": {}
+    },
+    "97": {
+      "pretty_name": "",
+      "cui": "C0263472",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "bromhidrosis",
+      "detected_name": "bromhidrosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1966,
+      "end": 1978,
+      "icd10": [
+        {
+          "chapter": "L75.0",
+          "name": "Bromhidrosis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-238755006",
+        "S-65382006"
+      ],
+      "id": 97,
+      "meta_anns": {}
+    },
+    "102": {
+      "pretty_name": "Acne",
+      "cui": "C0702166",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Acne vulgaris",
+      "detected_name": "acne~vulgaris",
+      "acc": 0.16382686953121095,
+      "context_similarity": 0.16382686953121095,
+      "start": 2024,
+      "end": 2037,
+      "icd10": [
+        {
+          "chapter": "L70",
+          "name": "Acne"
+        },
+        {
+          "chapter": "L70.9",
+          "name": "Acne, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-11381005",
+        "S-201229002",
+        "S-201408008"
+      ],
+      "id": 102,
+      "meta_anns": {}
+    },
+    "106": {
+      "pretty_name": "Acne",
+      "cui": "C0702166",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "acne",
+      "detected_name": "acne",
+      "acc": 0.30635452225349336,
+      "context_similarity": 0.30635452225349336,
+      "start": 2137,
+      "end": 2141,
+      "icd10": [
+        {
+          "chapter": "L70",
+          "name": "Acne"
+        },
+        {
+          "chapter": "L70.9",
+          "name": "Acne, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-11381005",
+        "S-201229002",
+        "S-201408008"
+      ],
+      "id": 106,
+      "meta_anns": {}
+    },
+    "107": {
+      "pretty_name": "Acne",
+      "cui": "C0702166",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "acne",
+      "detected_name": "acne",
+      "acc": 0.21706109503760473,
+      "context_similarity": 0.21706109503760473,
+      "start": 2160,
+      "end": 2164,
+      "icd10": [
+        {
+          "chapter": "L70",
+          "name": "Acne"
+        },
+        {
+          "chapter": "L70.9",
+          "name": "Acne, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-11381005",
+        "S-201229002",
+        "S-201408008"
+      ],
+      "id": 107,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

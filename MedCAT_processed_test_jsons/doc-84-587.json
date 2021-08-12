@@ -1,0 +1,111 @@
+{
+  "entities": {
+    "13": {
+      "pretty_name": "Parkinson Disease",
+      "cui": "C0030567",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Parkinson's",
+      "detected_name": "parkinson~s",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 363,
+      "end": 374,
+      "icd10": [
+        {
+          "chapter": "G20",
+          "name": "Parkinson's disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154999006",
+        "S-155000006",
+        "S-155002003",
+        "S-192825001",
+        "S-192831003",
+        "S-49049000"
+      ],
+      "id": 13,
+      "meta_anns": {}
+    },
+    "36": {
+      "pretty_name": "Cerebrovascular accident",
+      "cui": "C0038454",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "stroke",
+      "detected_name": "stroke",
+      "acc": 0.885432919179756,
+      "context_similarity": 0.885432919179756,
+      "start": 1075,
+      "end": 1081,
+      "icd10": [
+        {
+          "chapter": "I64",
+          "name": "Stroke, not specified as haemorrhage or infarction"
+        },
+        {
+          "chapter": "I63.9",
+          "name": "Cerebral infarction, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155388006",
+        "S-155405006",
+        "S-195208004",
+        "S-230690007",
+        "S-266312006",
+        "S-266315008",
+        "S-270883006",
+        "S-313267000",
+        "S-82797006"
+      ],
+      "id": 36,
+      "meta_anns": {}
+    },
+    "43": {
+      "pretty_name": "Parkinson Disease",
+      "cui": "C0030567",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Parkinson's",
+      "detected_name": "parkinson~s",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1162,
+      "end": 1173,
+      "icd10": [
+        {
+          "chapter": "G20",
+          "name": "Parkinson's disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154999006",
+        "S-155000006",
+        "S-155002003",
+        "S-192825001",
+        "S-192831003",
+        "S-49049000"
+      ],
+      "id": 43,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,42 @@
+{
+  "entities": {
+    "55": {
+      "pretty_name": "Comatose",
+      "cui": "C0009421",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coma",
+      "detected_name": "coma",
+      "acc": 0.41526798373606855,
+      "context_similarity": 0.41526798373606855,
+      "start": 1139,
+      "end": 1143,
+      "icd10": [
+        {
+          "chapter": "R40.2",
+          "name": "Coma, unspecified"
+        },
+        {
+          "chapter": "R40.20",
+          "name": "Unspecified coma"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-158120008",
+        "S-206710005",
+        "S-206715000",
+        "S-307760008",
+        "S-371632003",
+        "S-50061006"
+      ],
+      "id": 55,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

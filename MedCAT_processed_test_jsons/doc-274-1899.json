@@ -1,0 +1,317 @@
+{
+  "entities": {
+    "18": {
+      "pretty_name": "hearing impairment",
+      "cui": "C1384666",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hard of hearing",
+      "detected_name": "hard~of~hearing",
+      "acc": 0.2938416056024983,
+      "context_similarity": 0.2938416056024983,
+      "start": 234,
+      "end": 249,
+      "icd10": [
+        {
+          "chapter": "H91.9",
+          "name": "Hearing loss, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-103276001",
+        "S-111543003",
+        "S-15188001",
+        "S-155242002",
+        "S-155254002",
+        "S-194411005",
+        "S-267764005"
+      ],
+      "id": 18,
+      "meta_anns": {}
+    },
+    "40": {
+      "pretty_name": "hearing impairment",
+      "cui": "C1384666",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hard of hearing",
+      "detected_name": "hard~of~hearing",
+      "acc": 0.28499695215525744,
+      "context_similarity": 0.28499695215525744,
+      "start": 751,
+      "end": 766,
+      "icd10": [
+        {
+          "chapter": "H91.9",
+          "name": "Hearing loss, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-103276001",
+        "S-111543003",
+        "S-15188001",
+        "S-155242002",
+        "S-155254002",
+        "S-194411005",
+        "S-267764005"
+      ],
+      "id": 40,
+      "meta_anns": {}
+    },
+    "46": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 819,
+      "end": 831,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 46,
+      "meta_anns": {}
+    },
+    "47": {
+      "pretty_name": "Diverticulosis",
+      "cui": "C1510475",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diverticulosis",
+      "detected_name": "diverticulosis",
+      "acc": 0.6897741533844179,
+      "context_similarity": 0.6897741533844179,
+      "start": 833,
+      "end": 847,
+      "icd10": [
+        {
+          "chapter": "K57",
+          "name": "Diverticular disease of intestine"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155781003",
+        "S-197094004",
+        "S-197116004",
+        "S-271365001",
+        "S-31113003",
+        "S-63532004",
+        "S-735594002"
+      ],
+      "id": 47,
+      "meta_anns": {}
+    },
+    "108": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "erythema",
+      "detected_name": "erythema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1736,
+      "end": 1744,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 108,
+      "meta_anns": {}
+    },
+    "137": {
+      "pretty_name": "Pancreatitis",
+      "cui": "C0030305",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Pancreatitis",
+      "detected_name": "pancreatitis",
+      "acc": 0.5401283149759831,
+      "context_similarity": 0.5401283149759831,
+      "start": 2325,
+      "end": 2337,
+      "icd10": [
+        {
+          "chapter": "K85.9",
+          "name": "Acute pancreatitis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-197461009",
+        "S-393591004",
+        "S-75694006"
+      ],
+      "id": 137,
+      "meta_anns": {}
+    },
+    "143": {
+      "pretty_name": "Hyperglycemia",
+      "cui": "C0020456",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hyperglycemia",
+      "detected_name": "hyperglycemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2501,
+      "end": 2514,
+      "icd10": [
+        {
+          "chapter": "R73.9",
+          "name": "Hyperglycaemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-144187006",
+        "S-154719004",
+        "S-207289007",
+        "S-207643008",
+        "S-237598005",
+        "S-270004003",
+        "S-315299009",
+        "S-390730002",
+        "S-80394007"
+      ],
+      "id": 143,
+      "meta_anns": {}
+    },
+    "157": {
+      "pretty_name": "Kidney Failure",
+      "cui": "C0035078",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Renal failure",
+      "detected_name": "renal~failure",
+      "acc": 0.24198103182818742,
+      "context_similarity": 0.24198103182818742,
+      "start": 2782,
+      "end": 2795,
+      "icd10": [
+        {
+          "chapter": "N17-N19.9",
+          "name": "Renal failure"
+        },
+        {
+          "chapter": "N19",
+          "name": "Unspecified renal failure"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156092003",
+        "S-197656003",
+        "S-198524000",
+        "S-266553002",
+        "S-266616000",
+        "S-42399005",
+        "S-723188008"
+      ],
+      "id": 157,
+      "meta_anns": {}
+    },
+    "162": {
+      "pretty_name": "Hypercalcemia",
+      "cui": "C0020437",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypercalcemia",
+      "detected_name": "hypercalcemia",
+      "acc": 0.4926996338058145,
+      "context_similarity": 0.4926996338058145,
+      "start": 2969,
+      "end": 2982,
+      "icd10": [
+        {
+          "chapter": "E83.52",
+          "name": "Hypercalcemia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154752005",
+        "S-166702002",
+        "S-267505006",
+        "S-66931009"
+      ],
+      "id": 162,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

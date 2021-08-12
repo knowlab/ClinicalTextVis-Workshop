@@ -1,0 +1,98 @@
+{
+  "entities": {
+    "1": {
+      "pretty_name": "Diabetes Mellitus, Insulin-Dependent",
+      "cui": "C0011854",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "type I diabetes",
+      "detected_name": "type~i~diabete",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 108,
+      "end": 123,
+      "icd10": [
+        {
+          "chapter": "E10",
+          "name": "Insulin-dependent diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154673001",
+        "S-190322003",
+        "S-190362004",
+        "S-267469001",
+        "S-46635009"
+      ],
+      "id": 1,
+      "meta_anns": {}
+    },
+    "4": {
+      "pretty_name": "Diabetic Ketoacidosis",
+      "cui": "C0011880",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "DKA",
+      "detected_name": "dka",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 193,
+      "end": 196,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-190328004",
+        "S-24927004",
+        "S-267467004",
+        "S-420422005"
+      ],
+      "id": 4,
+      "meta_anns": {}
+    },
+    "17": {
+      "pretty_name": "Common Cold",
+      "cui": "C0009443",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cold",
+      "detected_name": "cold",
+      "acc": 0.6355576228462778,
+      "context_similarity": 0.6355576228462778,
+      "start": 660,
+      "end": 664,
+      "icd10": [
+        {
+          "chapter": "J00",
+          "name": "Acute nasopharyngitis [common cold]"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155497009",
+        "S-195648002",
+        "S-232341009",
+        "S-232342002",
+        "S-266377009",
+        "S-54150009",
+        "S-82272006"
+      ],
+      "id": 17,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

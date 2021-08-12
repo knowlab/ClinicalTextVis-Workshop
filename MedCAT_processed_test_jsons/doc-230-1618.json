@@ -1,0 +1,67 @@
+{
+  "entities": {
+    "2": {
+      "pretty_name": "Polycythemia",
+      "cui": "C0032461",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Polycythemia",
+      "detected_name": "polycythemia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 19,
+      "end": 31,
+      "icd10": [
+        {
+          "chapter": "D75.1",
+          "name": "Secondary polycythemia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-109992005",
+        "S-127062003",
+        "S-165401000",
+        "S-44865000"
+      ],
+      "id": 2,
+      "meta_anns": {}
+    },
+    "12": {
+      "pretty_name": "Polycythemia",
+      "cui": "C0032461",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "polycythemia",
+      "detected_name": "polycythemia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 129,
+      "end": 141,
+      "icd10": [
+        {
+          "chapter": "D75.1",
+          "name": "Secondary polycythemia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-109992005",
+        "S-127062003",
+        "S-165401000",
+        "S-44865000"
+      ],
+      "id": 12,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,28 @@
+{
+  "entities": {
+    "3": {
+      "pretty_name": "Diabetic Foot",
+      "cui": "C0206172",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetic foot",
+      "detected_name": "diabetic~foot",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 79,
+      "end": 92,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-280137006"
+      ],
+      "id": 3,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

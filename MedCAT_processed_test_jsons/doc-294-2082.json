@@ -1,0 +1,957 @@
+{
+  "entities": {
+    "6": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 87,
+      "end": 91,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 6,
+      "meta_anns": {}
+    },
+    "31": {
+      "pretty_name": "Deglutition Disorders",
+      "cui": "C0011168",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "dysphagia",
+      "detected_name": "dysphagia",
+      "acc": 0.6954572319530128,
+      "context_similarity": 0.6954572319530128,
+      "start": 733,
+      "end": 742,
+      "icd10": [
+        {
+          "chapter": "R13",
+          "name": "Dysphagia"
+        },
+        {
+          "chapter": "R13.10",
+          "name": "Dysphagia, unspecified"
+        },
+        {
+          "chapter": "R13.1",
+          "name": "Dysphagia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139289002",
+        "S-158429003",
+        "S-158430008",
+        "S-158431007",
+        "S-162022009",
+        "S-207121004",
+        "S-207122006",
+        "S-207123001",
+        "S-288939007",
+        "S-40739000"
+      ],
+      "id": 31,
+      "meta_anns": {}
+    },
+    "70": {
+      "pretty_name": "Kidney Failure, Acute",
+      "cui": "C0022660",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "acute renal failure",
+      "detected_name": "acute~renal~failure",
+      "acc": 0.16503033528802427,
+      "context_similarity": 0.16503033528802427,
+      "start": 1646,
+      "end": 1665,
+      "icd10": [
+        {
+          "chapter": "N17",
+          "name": "Acute renal failure"
+        },
+        {
+          "chapter": "N17.9",
+          "name": "Acute renal failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-14669001",
+        "S-155855008",
+        "S-197653006"
+      ],
+      "id": 70,
+      "meta_anns": {}
+    },
+    "73": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1694,
+      "end": 1698,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 73,
+      "meta_anns": {}
+    },
+    "85": {
+      "pretty_name": "Hypothyroidism",
+      "cui": "C0020676",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypothyroidism",
+      "detected_name": "hypothyroidism",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1817,
+      "end": 1831,
+      "icd10": [
+        {
+          "chapter": "E03.9",
+          "name": "Hypothyroidism, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154660000",
+        "S-190274003",
+        "S-190290003",
+        "S-237572004",
+        "S-267377003",
+        "S-267465007",
+        "S-40930008"
+      ],
+      "id": 85,
+      "meta_anns": {}
+    },
+    "86": {
+      "pretty_name": "Anemia",
+      "cui": "C0002871",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "anemia",
+      "detected_name": "anemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1833,
+      "end": 1839,
+      "icd10": [
+        {
+          "chapter": "D64.9",
+          "name": "Anemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154786001",
+        "S-154812000",
+        "S-191277004",
+        "S-267531008",
+        "S-271737000",
+        "S-64593003"
+      ],
+      "id": 86,
+      "meta_anns": {}
+    },
+    "87": {
+      "pretty_name": "Thrombocytopenia",
+      "cui": "C0040034",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "thrombocytopenia",
+      "detected_name": "thrombocytopenia",
+      "acc": 0.8657175562469279,
+      "context_similarity": 0.8657175562469279,
+      "start": 1841,
+      "end": 1857,
+      "icd10": [
+        {
+          "chapter": "D69.6",
+          "name": "Thrombocytopenia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-142969008",
+        "S-154827000",
+        "S-165556002",
+        "S-191326009",
+        "S-302215000",
+        "S-415116008",
+        "S-70786006"
+      ],
+      "id": 87,
+      "meta_anns": {}
+    },
+    "88": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1859,
+      "end": 1871,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 88,
+      "meta_anns": {}
+    },
+    "89": {
+      "pretty_name": "Bell Palsy",
+      "cui": "C0376175",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Bells palsy",
+      "detected_name": "bells~palsy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1873,
+      "end": 1884,
+      "icd10": [
+        {
+          "chapter": "G51.0",
+          "name": "Bell's palsy"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155070005",
+        "S-193093009",
+        "S-267703001",
+        "S-79359001"
+      ],
+      "id": 89,
+      "meta_anns": {}
+    },
+    "117": {
+      "pretty_name": "Colonic Diseases",
+      "cui": "C0009373",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "colon",
+      "detected_name": "colon",
+      "acc": 0.7670230087790283,
+      "context_similarity": 0.7670230087790283,
+      "start": 2232,
+      "end": 2237,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-128524007"
+      ],
+      "id": 117,
+      "meta_anns": {}
+    },
+    "139": {
+      "pretty_name": "Hematuria",
+      "cui": "C0018965",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hematuria",
+      "detected_name": "hematuria",
+      "acc": 0.9618791214696928,
+      "context_similarity": 0.9618791214696928,
+      "start": 2468,
+      "end": 2477,
+      "icd10": [
+        {
+          "chapter": "R31",
+          "name": "Unspecified haematuria"
+        },
+        {
+          "chapter": "R31.9",
+          "name": "Hematuria, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139414003",
+        "S-139416001",
+        "S-155895005",
+        "S-162136002",
+        "S-197937006",
+        "S-266568001",
+        "S-267066000",
+        "S-267167006",
+        "S-267168001",
+        "S-307414005",
+        "S-34436003",
+        "S-53298000"
+      ],
+      "id": 139,
+      "meta_anns": {}
+    },
+    "147": {
+      "pretty_name": "Blood Coagulation Disorders",
+      "cui": "C0005779",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "clotting disorders",
+      "detected_name": "clotting~disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2541,
+      "end": 2559,
+      "icd10": [
+        {
+          "chapter": "D68.9",
+          "name": "Coagulation defect, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-127073005",
+        "S-154815003",
+        "S-191303002",
+        "S-267562007",
+        "S-362970003",
+        "S-64779008"
+      ],
+      "id": 147,
+      "meta_anns": {}
+    },
+    "170": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymphadenopathy",
+      "detected_name": "lymphadenopathy",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2882,
+      "end": 2897,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 170,
+      "meta_anns": {}
+    },
+    "172": {
+      "pretty_name": "Ptosis",
+      "cui": "C0033377",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ptosis",
+      "detected_name": "ptosis",
+      "acc": 0.88204355522151,
+      "context_similarity": 0.88204355522151,
+      "start": 2970,
+      "end": 2976,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-29696001"
+      ],
+      "id": 172,
+      "meta_anns": {}
+    },
+    "185": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adenopathy",
+      "detected_name": "adenopathy",
+      "acc": 0.44522919124133215,
+      "context_similarity": 0.44522919124133215,
+      "start": 3254,
+      "end": 3264,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 185,
+      "meta_anns": {}
+    },
+    "197": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obese",
+      "detected_name": "obese",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3437,
+      "end": 3442,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 197,
+      "meta_anns": {}
+    },
+    "209": {
+      "pretty_name": "Anemia, Sickle Cell",
+      "cui": "C0002895",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "SCDs",
+      "detected_name": "scds",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3735,
+      "end": 3739,
+      "icd10": [
+        {
+          "chapter": "D57.1",
+          "name": "Sickle-cell disease without crisis"
+        },
+        {
+          "chapter": "D57",
+          "name": "Sickle-cell disorders"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-127040003",
+        "S-154798006",
+        "S-191194009",
+        "S-191195005",
+        "S-191199004",
+        "S-276267006",
+        "S-417357006",
+        "S-80046004"
+      ],
+      "id": 209,
+      "meta_anns": {}
+    },
+    "250": {
+      "pretty_name": "Dehydration",
+      "cui": "C0011175",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "dehydration",
+      "detected_name": "dehydration",
+      "acc": 0.7558633749433232,
+      "context_similarity": 0.7558633749433232,
+      "start": 4532,
+      "end": 4543,
+      "icd10": [
+        {
+          "chapter": "E86.0",
+          "name": "Dehydration"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154759001",
+        "S-34095006",
+        "S-37472003"
+      ],
+      "id": 250,
+      "meta_anns": {}
+    },
+    "253": {
+      "pretty_name": "Kidney Failure",
+      "cui": "C0035078",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "renal failure",
+      "detected_name": "renal~failure",
+      "acc": 0.4068332869242347,
+      "context_similarity": 0.4068332869242347,
+      "start": 4580,
+      "end": 4593,
+      "icd10": [
+        {
+          "chapter": "N17-N19.9",
+          "name": "Renal failure"
+        },
+        {
+          "chapter": "N19",
+          "name": "Unspecified renal failure"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156092003",
+        "S-197656003",
+        "S-198524000",
+        "S-266553002",
+        "S-266616000",
+        "S-42399005",
+        "S-723188008"
+      ],
+      "id": 253,
+      "meta_anns": {}
+    },
+    "254": {
+      "pretty_name": "",
+      "cui": "C0563238",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "viral gastritis",
+      "detected_name": "viral~gastritis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4611,
+      "end": 4626,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-285344007"
+      ],
+      "id": 254,
+      "meta_anns": {}
+    },
+    "257": {
+      "pretty_name": "Gastroesophageal reflux disease",
+      "cui": "C0017168",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gastroesophageal reflux disease",
+      "detected_name": "gastroesophageal~reflux~disease",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 4660,
+      "end": 4691,
+      "icd10": [
+        {
+          "chapter": "K21",
+          "name": "Gastro-oesophageal reflux disease"
+        },
+        {
+          "chapter": "K21.9",
+          "name": "Gastro-esophageal reflux disease without esophagitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-235595009",
+        "S-266498005",
+        "S-54856001"
+      ],
+      "id": 257,
+      "meta_anns": {}
+    },
+    "265": {
+      "pretty_name": "Peptic Ulcer",
+      "cui": "C0030920",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "peptic ulcer disease",
+      "detected_name": "peptic~ulcer~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4758,
+      "end": 4778,
+      "icd10": [
+        {
+          "chapter": "K27",
+          "name": "Peptic ulcer, site unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13200003",
+        "S-155701001",
+        "S-155710009",
+        "S-196681007",
+        "S-196697002",
+        "S-196704007",
+        "S-196705008",
+        "S-266437002",
+        "S-266501005"
+      ],
+      "id": 265,
+      "meta_anns": {}
+    },
+    "276": {
+      "pretty_name": "Anemia",
+      "cui": "C0002871",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "anemia",
+      "detected_name": "anemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 4918,
+      "end": 4924,
+      "icd10": [
+        {
+          "chapter": "D64.9",
+          "name": "Anemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154786001",
+        "S-154812000",
+        "S-191277004",
+        "S-267531008",
+        "S-271737000",
+        "S-64593003"
+      ],
+      "id": 276,
+      "meta_anns": {}
+    },
+    "277": {
+      "pretty_name": "Thrombocytopenia",
+      "cui": "C0040034",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "thrombocytopenia",
+      "detected_name": "thrombocytopenia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 4936,
+      "end": 4952,
+      "icd10": [
+        {
+          "chapter": "D69.6",
+          "name": "Thrombocytopenia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-142969008",
+        "S-154827000",
+        "S-165556002",
+        "S-191326009",
+        "S-302215000",
+        "S-415116008",
+        "S-70786006"
+      ],
+      "id": 277,
+      "meta_anns": {}
+    },
+    "295": {
+      "pretty_name": "Liver diseases",
+      "cui": "C0023895",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "liver disease",
+      "detected_name": "liver~disease",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 5189,
+      "end": 5202,
+      "icd10": [
+        {
+          "chapter": "K70-K77.9",
+          "name": "Diseases of liver"
+        },
+        {
+          "chapter": "K76.9",
+          "name": "Liver disease, unspecified"
+        },
+        {
+          "chapter": "K70-K77",
+          "name": "Diseases of liver (K70-K77)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155807008",
+        "S-155817003",
+        "S-155822003",
+        "S-197375001",
+        "S-197551000",
+        "S-235856003",
+        "S-266535008",
+        "S-62857009"
+      ],
+      "id": 295,
+      "meta_anns": {}
+    },
+    "299": {
+      "pretty_name": "Kidney Failure, Acute",
+      "cui": "C0022660",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Acute renal failure",
+      "detected_name": "acute~renal~failure",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 5234,
+      "end": 5253,
+      "icd10": [
+        {
+          "chapter": "N17",
+          "name": "Acute renal failure"
+        },
+        {
+          "chapter": "N17.9",
+          "name": "Acute renal failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-14669001",
+        "S-155855008",
+        "S-197653006"
+      ],
+      "id": 299,
+      "meta_anns": {}
+    },
+    "320": {
+      "pretty_name": "Urologic Diseases",
+      "cui": "C0042075",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "renal",
+      "detected_name": "renal",
+      "acc": 0.1493083417876443,
+      "context_similarity": 0.1493083417876443,
+      "start": 5659,
+      "end": 5664,
+      "icd10": [
+        {
+          "chapter": "N39.9",
+          "name": "Disorder of urinary system, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128606002",
+        "S-155848006",
+        "S-155903006",
+        "S-197951006",
+        "S-266612003",
+        "S-307415006",
+        "S-41368006"
+      ],
+      "id": 320,
+      "meta_anns": {}
+    },
+    "327": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "condition",
+      "detected_name": "condition",
+      "acc": 0.3651914748925024,
+      "context_similarity": 0.3651914748925024,
+      "start": 5899,
+      "end": 5908,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 327,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,177 @@
+{
+  "entities": {
+    "33": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disorder",
+      "detected_name": "disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 985,
+      "end": 993,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 33,
+      "meta_anns": {}
+    },
+    "48": {
+      "pretty_name": "Migraine Disorders",
+      "cui": "C0149931",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "migraine headaches",
+      "detected_name": "migraine~headache",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1324,
+      "end": 1342,
+      "icd10": [
+        {
+          "chapter": "G43",
+          "name": "Migraine"
+        },
+        {
+          "chapter": "G43.9",
+          "name": "Migraine, unspecified"
+        },
+        {
+          "chapter": "G43.909",
+          "name": "Migraine, unspecified, not intractable, without status migrainosus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155046006",
+        "S-155048007",
+        "S-193041007",
+        "S-267699004",
+        "S-37796009"
+      ],
+      "id": 48,
+      "meta_anns": {}
+    },
+    "95": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disorder",
+      "detected_name": "disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2529,
+      "end": 2537,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 95,
+      "meta_anns": {}
+    },
+    "111": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disorder",
+      "detected_name": "disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2773,
+      "end": 2781,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 111,
+      "meta_anns": {}
+    },
+    "131": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disorder",
+      "detected_name": "disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2969,
+      "end": 2977,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 131,
+      "meta_anns": {}
+    },
+    "138": {
+      "pretty_name": "Migraine Disorders",
+      "cui": "C0149931",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "migraine headaches",
+      "detected_name": "migraine~headache",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3009,
+      "end": 3027,
+      "icd10": [
+        {
+          "chapter": "G43",
+          "name": "Migraine"
+        },
+        {
+          "chapter": "G43.9",
+          "name": "Migraine, unspecified"
+        },
+        {
+          "chapter": "G43.909",
+          "name": "Migraine, unspecified, not intractable, without status migrainosus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155046006",
+        "S-155048007",
+        "S-193041007",
+        "S-267699004",
+        "S-37796009"
+      ],
+      "id": 138,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

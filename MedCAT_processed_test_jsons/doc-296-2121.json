@@ -1,0 +1,415 @@
+{
+  "entities": {
+    "35": {
+      "pretty_name": "Ulcerative Colitis",
+      "cui": "C0009324",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ulcerative colitis",
+      "detected_name": "ulcerative~colitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1036,
+      "end": 1054,
+      "icd10": [
+        {
+          "chapter": "K51",
+          "name": "Ulcerative colitis"
+        },
+        {
+          "chapter": "K51.9",
+          "name": "Ulcerative colitis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155764007",
+        "S-196985000",
+        "S-196988003",
+        "S-196996008",
+        "S-266447004",
+        "S-27701000",
+        "S-64766004",
+        "S-68195006"
+      ],
+      "id": 35,
+      "meta_anns": {}
+    },
+    "43": {
+      "pretty_name": "Rheumatic Fever",
+      "cui": "C0035436",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "rheumatic fever",
+      "detected_name": "rheumatic~fever",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1201,
+      "end": 1216,
+      "icd10": [
+        {
+          "chapter": "I00-I02.9",
+          "name": "Acute rheumatic fever"
+        },
+        {
+          "chapter": "I00-I02",
+          "name": "Acute rheumatic fever (I00-I02)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155264006",
+        "S-155274009",
+        "S-194718003",
+        "S-195528001",
+        "S-26424001",
+        "S-266276003",
+        "S-274095001",
+        "S-58718002",
+        "S-81077008"
+      ],
+      "id": 43,
+      "meta_anns": {}
+    },
+    "60": {
+      "pretty_name": "",
+      "cui": "C0003949",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "asbestos",
+      "detected_name": "asbestos",
+      "acc": 0.5478886647566813,
+      "context_similarity": 0.5478886647566813,
+      "start": 1436,
+      "end": 1444,
+      "icd10": [
+        {
+          "chapter": "J61",
+          "name": "Pneumoconiosis due to asbestos and other mineral fibers"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155589004",
+        "S-196006003",
+        "S-22607003",
+        "S-266400008"
+      ],
+      "id": 60,
+      "meta_anns": {}
+    },
+    "66": {
+      "pretty_name": "Pneumonia",
+      "cui": "C0032285",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pneumonia",
+      "detected_name": "pneumonia",
+      "acc": 0.33571909198014327,
+      "context_similarity": 0.33571909198014327,
+      "start": 1571,
+      "end": 1580,
+      "icd10": [
+        {
+          "chapter": "J18.9",
+          "name": "Pneumonia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155548002",
+        "S-155552002",
+        "S-155558003",
+        "S-233604007",
+        "S-266391003",
+        "S-274103002",
+        "S-60363000"
+      ],
+      "id": 66,
+      "meta_anns": {}
+    },
+    "69": {
+      "pretty_name": "Alzheimer's Disease",
+      "cui": "C0002395",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Alzheimer disease",
+      "detected_name": "alzheimer~disease",
+      "acc": 0.4971834976956817,
+      "context_similarity": 0.4971834976956817,
+      "start": 1602,
+      "end": 1619,
+      "icd10": [
+        {
+          "chapter": "G30",
+          "name": "Alzheimer's disease"
+        },
+        {
+          "chapter": "G30.9",
+          "name": "Alzheimer's disease, unspecified"
+        },
+        {
+          "chapter": "F00",
+          "name": "Dementia in Alzheimer's disease"
+        },
+        {
+          "chapter": "F00.9",
+          "name": "Dementia in Alzheimer's disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154998003",
+        "S-267688001",
+        "S-26929004",
+        "S-73768007"
+      ],
+      "id": 69,
+      "meta_anns": {}
+    },
+    "78": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes mellitus",
+      "detected_name": "diabetes~mellitus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1751,
+      "end": 1768,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 78,
+      "meta_anns": {}
+    },
+    "79": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1770,
+      "end": 1782,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 79,
+      "meta_anns": {}
+    },
+    "80": {
+      "pretty_name": "Hypercholesterolemia",
+      "cui": "C0020443",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypercholesterolemia",
+      "detected_name": "hypercholesterolemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1788,
+      "end": 1808,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-13644009",
+        "S-154740003",
+        "S-267500001"
+      ],
+      "id": 80,
+      "meta_anns": {}
+    },
+    "82": {
+      "pretty_name": "Metabolic Syndrome X",
+      "cui": "C0524620",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "metabolic syndrome X",
+      "detected_name": "metabolic~syndrome~x",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1843,
+      "end": 1863,
+      "icd10": [
+        {
+          "chapter": "E88.81",
+          "name": "Metabolic syndrome"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-190394009",
+        "S-237602007"
+      ],
+      "id": 82,
+      "meta_anns": {}
+    },
+    "92": {
+      "pretty_name": "Bilateral cataracts",
+      "cui": "C0521707",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "bilateral cataract",
+      "detected_name": "bilateral~cataract",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2116,
+      "end": 2134,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-193618003",
+        "S-95722004"
+      ],
+      "id": 92,
+      "meta_anns": {}
+    },
+    "135": {
+      "pretty_name": "Chronic obstructive pulmonary disease of horses",
+      "cui": "C3714496",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "heaves",
+      "detected_name": "heaves",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3023,
+      "end": 3029,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-10169006"
+      ],
+      "id": 135,
+      "meta_anns": {}
+    },
+    "144": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adenopathy",
+      "detected_name": "adenopathy",
+      "acc": 0.6403604023991305,
+      "context_similarity": 0.6403604023991305,
+      "start": 3142,
+      "end": 3152,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 144,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

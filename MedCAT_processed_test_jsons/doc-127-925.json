@@ -1,0 +1,272 @@
+{
+  "entities": {
+    "14": {
+      "pretty_name": "Paresthesia",
+      "cui": "C0030554",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tingling",
+      "detected_name": "tingling",
+      "acc": 0.6641055427010081,
+      "context_similarity": 0.6641055427010081,
+      "start": 175,
+      "end": 183,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-158228009",
+        "S-206857001",
+        "S-91019004"
+      ],
+      "id": 14,
+      "meta_anns": {}
+    },
+    "42": {
+      "pretty_name": "Chickenpox",
+      "cui": "C0008049",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "chickenpox",
+      "detected_name": "chickenpox",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 871,
+      "end": 881,
+      "icd10": [
+        {
+          "chapter": "B01",
+          "name": "Varicella [chickenpox]"
+        },
+        {
+          "chapter": "B01.9",
+          "name": "Varicella without complication"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154325003",
+        "S-186508005",
+        "S-38907003"
+      ],
+      "id": 42,
+      "meta_anns": {}
+    },
+    "45": {
+      "pretty_name": "Infection of ear",
+      "cui": "C0699744",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ear infections",
+      "detected_name": "ear~infection",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 896,
+      "end": 910,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-129127001",
+        "S-194291009"
+      ],
+      "id": 45,
+      "meta_anns": {}
+    },
+    "65": {
+      "pretty_name": "Sexually Transmitted Diseases",
+      "cui": "C0036916",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "STD",
+      "detected_name": "std",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1142,
+      "end": 1145,
+      "icd10": [
+        {
+          "chapter": "A50-A64.9",
+          "name": "Infections with a predominantly sexual mode of transmission"
+        },
+        {
+          "chapter": "A64",
+          "name": "Unspecified sexually transmitted disease"
+        },
+        {
+          "chapter": "A50-A64",
+          "name": "Infections with a predominantly sexual mode of transmission (A50-A64)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154378004",
+        "S-186831003",
+        "S-186949002",
+        "S-187348005",
+        "S-187367009",
+        "S-266208003",
+        "S-276972005",
+        "S-8098009"
+      ],
+      "id": 65,
+      "meta_anns": {}
+    },
+    "79": {
+      "pretty_name": "Migraine Disorders",
+      "cui": "C0149931",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "headaches/migraines",
+      "detected_name": "headache~migraine",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1255,
+      "end": 1274,
+      "icd10": [
+        {
+          "chapter": "G43",
+          "name": "Migraine"
+        },
+        {
+          "chapter": "G43.9",
+          "name": "Migraine, unspecified"
+        },
+        {
+          "chapter": "G43.909",
+          "name": "Migraine, unspecified, not intractable, without status migrainosus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155046006",
+        "S-155048007",
+        "S-193041007",
+        "S-267699004",
+        "S-37796009"
+      ],
+      "id": 79,
+      "meta_anns": {}
+    },
+    "95": {
+      "pretty_name": "Varicosity",
+      "cui": "C0042345",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Varicosities",
+      "detected_name": "varicosity",
+      "acc": 0.5956663928581951,
+      "context_similarity": 0.5956663928581951,
+      "start": 1761,
+      "end": 1773,
+      "icd10": [
+        {
+          "chapter": "I83.90",
+          "name": "Asymptomatic varicose veins of unspecified lower extremity"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128060009",
+        "S-12856003",
+        "S-155468006",
+        "S-155482006",
+        "S-234053000",
+        "S-266331000",
+        "S-276504003",
+        "S-399989005"
+      ],
+      "id": 95,
+      "meta_anns": {}
+    },
+    "97": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "erythema",
+      "detected_name": "erythema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1874,
+      "end": 1882,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 97,
+      "meta_anns": {}
+    },
+    "117": {
+      "pretty_name": "",
+      "cui": "C0040259",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Tinea pedis",
+      "detected_name": "tinea~pedis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2227,
+      "end": 2238,
+      "icd10": [
+        {
+          "chapter": "B35.3",
+          "name": "Tinea pedis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154399001",
+        "S-186993002",
+        "S-271427009",
+        "S-6020002"
+      ],
+      "id": 117,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

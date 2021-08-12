@@ -1,0 +1,568 @@
+{
+  "entities": {
+    "8": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.7270547975787358,
+      "context_similarity": 0.7270547975787358,
+      "start": 149,
+      "end": 161,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 8,
+      "meta_anns": {}
+    },
+    "19": {
+      "pretty_name": "Decompression Sickness",
+      "cui": "C0011119",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "bends",
+      "detected_name": "bend",
+      "acc": 0.38639008758098065,
+      "context_similarity": 0.38639008758098065,
+      "start": 322,
+      "end": 327,
+      "icd10": [
+        {
+          "chapter": "T70.3",
+          "name": "Effects of caisson disease [decompression sickness]"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-157734000",
+        "S-212952000",
+        "S-212955003",
+        "S-269425003",
+        "S-363738004",
+        "S-44016006",
+        "S-48620000",
+        "S-89684003"
+      ],
+      "id": 19,
+      "meta_anns": {}
+    },
+    "28": {
+      "pretty_name": "Degenerative polyarthritis",
+      "cui": "C0029408",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "osteoarthritis",
+      "detected_name": "osteoarthritis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 426,
+      "end": 440,
+      "icd10": [
+        {
+          "chapter": "M15-M19",
+          "name": "Osteoarthritis (M15-M19)"
+        },
+        {
+          "chapter": "M19.9",
+          "name": "Osteoarthritis, unspecified site"
+        },
+        {
+          "chapter": "M19.90",
+          "name": "Unspecified osteoarthritis, unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156486003",
+        "S-156496007",
+        "S-201818008",
+        "S-201886002",
+        "S-201887006",
+        "S-201917002",
+        "S-224729007",
+        "S-225655006",
+        "S-226586002",
+        "S-227588009",
+        "S-267888004",
+        "S-267893001",
+        "S-396275006",
+        "S-80843008"
+      ],
+      "id": 28,
+      "meta_anns": {}
+    },
+    "35": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary disease",
+      "detected_name": "coronary~disease",
+      "acc": 0.3087425599896615,
+      "context_similarity": 0.3087425599896615,
+      "start": 649,
+      "end": 665,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 35,
+      "meta_anns": {}
+    },
+    "37": {
+      "pretty_name": "Cerebrovascular accident",
+      "cui": "C0038454",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "stroke",
+      "detected_name": "stroke",
+      "acc": 0.7943790153067241,
+      "context_similarity": 0.7943790153067241,
+      "start": 669,
+      "end": 675,
+      "icd10": [
+        {
+          "chapter": "I64",
+          "name": "Stroke, not specified as haemorrhage or infarction"
+        },
+        {
+          "chapter": "I63.9",
+          "name": "Cerebral infarction, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155388006",
+        "S-155405006",
+        "S-195208004",
+        "S-230690007",
+        "S-266312006",
+        "S-266315008",
+        "S-270883006",
+        "S-313267000",
+        "S-82797006"
+      ],
+      "id": 37,
+      "meta_anns": {}
+    },
+    "39": {
+      "pretty_name": "Heart Diseases",
+      "cui": "C0018799",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cardiac disease",
+      "detected_name": "cardiac~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 715,
+      "end": 730,
+      "icd10": [
+        {
+          "chapter": "I51.9",
+          "name": "Heart disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155263000",
+        "S-194707003",
+        "S-195152001",
+        "S-266275004",
+        "S-266311004",
+        "S-56265001"
+      ],
+      "id": 39,
+      "meta_anns": {}
+    },
+    "59": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.4941409256318728,
+      "context_similarity": 0.4941409256318728,
+      "start": 1177,
+      "end": 1185,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 59,
+      "meta_anns": {}
+    },
+    "82": {
+      "pretty_name": "Arthritis",
+      "cui": "C0003864",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "arthritis",
+      "detected_name": "arthritis",
+      "acc": 0.5325084709208029,
+      "context_similarity": 0.5325084709208029,
+      "start": 1612,
+      "end": 1621,
+      "icd10": [
+        {
+          "chapter": "M13.9",
+          "name": "Arthritis, unspecified"
+        },
+        {
+          "chapter": "M19.90",
+          "name": "Unspecified osteoarthritis, unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-202059001",
+        "S-363178003",
+        "S-372091005",
+        "S-3723001"
+      ],
+      "id": 82,
+      "meta_anns": {}
+    },
+    "89": {
+      "pretty_name": "Osteoporosis",
+      "cui": "C0029456",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "osteoporosis",
+      "detected_name": "osteoporosis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1789,
+      "end": 1801,
+      "icd10": [
+        {
+          "chapter": "M81.9",
+          "name": "Osteoporosis, unspecified"
+        },
+        {
+          "chapter": "M81.0",
+          "name": "Age-related osteoporosis without current pathological fracture"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156825006",
+        "S-203428004",
+        "S-203440004",
+        "S-64859006"
+      ],
+      "id": 89,
+      "meta_anns": {}
+    },
+    "116": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2171,
+      "end": 2183,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 116,
+      "meta_anns": {}
+    },
+    "118": {
+      "pretty_name": "",
+      "cui": "C0948403",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Myofascitis",
+      "detected_name": "myofascitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2205,
+      "end": 2216,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 118,
+      "meta_anns": {}
+    },
+    "121": {
+      "pretty_name": "Osteoarthritis, Knee",
+      "cui": "C0409959",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "osteoarthritis of the knee",
+      "detected_name": "osteoarthritis~of~the~knee",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2241,
+      "end": 2267,
+      "icd10": [
+        {
+          "chapter": "M17",
+          "name": "Osteoarthritis of knee"
+        },
+        {
+          "chapter": "M17.9",
+          "name": "Osteoarthritis of knee, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156493004",
+        "S-201893003",
+        "S-201908002",
+        "S-239856005",
+        "S-239873007"
+      ],
+      "id": 121,
+      "meta_anns": {}
+    },
+    "172": {
+      "pretty_name": "First degree atrioventricular block",
+      "cui": "C0085614",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "first degree AV block",
+      "detected_name": "first~degree~av~block",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3312,
+      "end": 3333,
+      "icd10": [
+        {
+          "chapter": "I44.0",
+          "name": "Atrioventricular block, first degree"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-14256006",
+        "S-195041009",
+        "S-270492004"
+      ],
+      "id": 172,
+      "meta_anns": {}
+    },
+    "181": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.4061922071388293,
+      "context_similarity": 0.4061922071388293,
+      "start": 3402,
+      "end": 3414,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 181,
+      "meta_anns": {}
+    },
+    "188": {
+      "pretty_name": "Cerebrovascular accident",
+      "cui": "C0038454",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cerebrovascular accident",
+      "detected_name": "cerebrovascular~accident",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3455,
+      "end": 3479,
+      "icd10": [
+        {
+          "chapter": "I64",
+          "name": "Stroke, not specified as haemorrhage or infarction"
+        },
+        {
+          "chapter": "I63.9",
+          "name": "Cerebral infarction, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155388006",
+        "S-155405006",
+        "S-195208004",
+        "S-230690007",
+        "S-266312006",
+        "S-266315008",
+        "S-270883006",
+        "S-313267000",
+        "S-82797006"
+      ],
+      "id": 188,
+      "meta_anns": {}
+    },
+    "194": {
+      "pretty_name": "Osteoarthritis, Knee",
+      "cui": "C0409959",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Osteoarthritis of the knee",
+      "detected_name": "osteoarthritis~of~the~knee",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3523,
+      "end": 3549,
+      "icd10": [
+        {
+          "chapter": "M17",
+          "name": "Osteoarthritis of knee"
+        },
+        {
+          "chapter": "M17.9",
+          "name": "Osteoarthritis of knee, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156493004",
+        "S-201893003",
+        "S-201908002",
+        "S-239856005",
+        "S-239873007"
+      ],
+      "id": 194,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

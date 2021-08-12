@@ -1,0 +1,305 @@
+{
+  "entities": {
+    "0": {
+      "pretty_name": "Pneumothorax",
+      "cui": "C0032326",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Pneumothorax",
+      "detected_name": "pneumothorax",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 27,
+      "end": 39,
+      "icd10": [
+        {
+          "chapter": "J93",
+          "name": "Pneumothorax"
+        },
+        {
+          "chapter": "J93.9",
+          "name": "Pneumothorax, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155609008",
+        "S-155612006",
+        "S-196106000",
+        "S-36118008"
+      ],
+      "id": 0,
+      "meta_anns": {}
+    },
+    "2": {
+      "pretty_name": "Pulmonary Emphysema",
+      "cui": "C0034067",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "emphysema",
+      "detected_name": "emphysema",
+      "acc": 0.7173301354804498,
+      "context_similarity": 0.7173301354804498,
+      "start": 57,
+      "end": 66,
+      "icd10": [
+        {
+          "chapter": "J43",
+          "name": "Emphysema"
+        },
+        {
+          "chapter": "J43.9",
+          "name": "Emphysema, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155573002",
+        "S-87433001"
+      ],
+      "id": 2,
+      "meta_anns": {}
+    },
+    "22": {
+      "pretty_name": "Pulmonary Emphysema",
+      "cui": "C0034067",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "emphysema",
+      "detected_name": "emphysema",
+      "acc": 0.6812924896618588,
+      "context_similarity": 0.6812924896618588,
+      "start": 463,
+      "end": 472,
+      "icd10": [
+        {
+          "chapter": "J43",
+          "name": "Emphysema"
+        },
+        {
+          "chapter": "J43.9",
+          "name": "Emphysema, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155573002",
+        "S-87433001"
+      ],
+      "id": 22,
+      "meta_anns": {}
+    },
+    "23": {
+      "pretty_name": "Pneumothorax",
+      "cui": "C0032326",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pneumothorax",
+      "detected_name": "pneumothorax",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 494,
+      "end": 506,
+      "icd10": [
+        {
+          "chapter": "J93",
+          "name": "Pneumothorax"
+        },
+        {
+          "chapter": "J93.9",
+          "name": "Pneumothorax, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155609008",
+        "S-155612006",
+        "S-196106000",
+        "S-36118008"
+      ],
+      "id": 23,
+      "meta_anns": {}
+    },
+    "56": {
+      "pretty_name": "Pulmonary Emphysema",
+      "cui": "C0034067",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "emphysema",
+      "detected_name": "emphysema",
+      "acc": 0.3923209008806793,
+      "context_similarity": 0.3923209008806793,
+      "start": 1244,
+      "end": 1253,
+      "icd10": [
+        {
+          "chapter": "J43",
+          "name": "Emphysema"
+        },
+        {
+          "chapter": "J43.9",
+          "name": "Emphysema, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155573002",
+        "S-87433001"
+      ],
+      "id": 56,
+      "meta_anns": {}
+    },
+    "61": {
+      "pretty_name": "Pulmonary Emphysema",
+      "cui": "C0034067",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "emphysema",
+      "detected_name": "emphysema",
+      "acc": 0.17086122328589404,
+      "context_similarity": 0.17086122328589404,
+      "start": 1337,
+      "end": 1346,
+      "icd10": [
+        {
+          "chapter": "J43",
+          "name": "Emphysema"
+        },
+        {
+          "chapter": "J43.9",
+          "name": "Emphysema, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155573002",
+        "S-87433001"
+      ],
+      "id": 61,
+      "meta_anns": {}
+    },
+    "65": {
+      "pretty_name": "Pulmonary Emphysema",
+      "cui": "C0034067",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "emphysema",
+      "detected_name": "emphysema",
+      "acc": 0.8728067271286901,
+      "context_similarity": 0.8728067271286901,
+      "start": 1489,
+      "end": 1498,
+      "icd10": [
+        {
+          "chapter": "J43",
+          "name": "Emphysema"
+        },
+        {
+          "chapter": "J43.9",
+          "name": "Emphysema, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155573002",
+        "S-87433001"
+      ],
+      "id": 65,
+      "meta_anns": {}
+    },
+    "66": {
+      "pretty_name": "Pneumothorax",
+      "cui": "C0032326",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pneumothorax",
+      "detected_name": "pneumothorax",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1523,
+      "end": 1535,
+      "icd10": [
+        {
+          "chapter": "J93",
+          "name": "Pneumothorax"
+        },
+        {
+          "chapter": "J93.9",
+          "name": "Pneumothorax, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155609008",
+        "S-155612006",
+        "S-196106000",
+        "S-36118008"
+      ],
+      "id": 66,
+      "meta_anns": {}
+    },
+    "71": {
+      "pretty_name": "Lung diseases",
+      "cui": "C0024115",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lung",
+      "detected_name": "lung",
+      "acc": 0.6548372700029526,
+      "context_similarity": 0.6548372700029526,
+      "start": 1608,
+      "end": 1612,
+      "icd10": [
+        {
+          "chapter": "J98.4",
+          "name": "Other disorders of lung"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196164004",
+        "S-19829001",
+        "S-266374002"
+      ],
+      "id": 71,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

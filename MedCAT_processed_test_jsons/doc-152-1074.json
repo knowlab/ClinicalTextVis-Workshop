@@ -1,0 +1,572 @@
+{
+  "entities": {
+    "8": {
+      "pretty_name": "Colonic Diseases",
+      "cui": "C0009373",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "colon",
+      "detected_name": "colon",
+      "acc": 0.8088427440678346,
+      "context_similarity": 0.8088427440678346,
+      "start": 143,
+      "end": 148,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-128524007"
+      ],
+      "id": 8,
+      "meta_anns": {}
+    },
+    "18": {
+      "pretty_name": "Colonic Diseases",
+      "cui": "C0009373",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "colon",
+      "detected_name": "colon",
+      "acc": 0.6580109300259029,
+      "context_similarity": 0.6580109300259029,
+      "start": 378,
+      "end": 383,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-128524007"
+      ],
+      "id": 18,
+      "meta_anns": {}
+    },
+    "25": {
+      "pretty_name": "Esophageal Diseases",
+      "cui": "C0014852",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "esophagus",
+      "detected_name": "esophagus",
+      "acc": 0.5449345499865332,
+      "context_similarity": 0.5449345499865332,
+      "start": 442,
+      "end": 451,
+      "icd10": [
+        {
+          "chapter": "K22.9",
+          "name": "Disease of oesophagus, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155671005",
+        "S-155680005",
+        "S-196626000",
+        "S-266497000",
+        "S-37657006"
+      ],
+      "id": 25,
+      "meta_anns": {}
+    },
+    "37": {
+      "pretty_name": "Deglutition Disorders",
+      "cui": "C0011168",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "dysphagia",
+      "detected_name": "dysphagia",
+      "acc": 0.20375322274329427,
+      "context_similarity": 0.20375322274329427,
+      "start": 761,
+      "end": 770,
+      "icd10": [
+        {
+          "chapter": "R13",
+          "name": "Dysphagia"
+        },
+        {
+          "chapter": "R13.10",
+          "name": "Dysphagia, unspecified"
+        },
+        {
+          "chapter": "R13.1",
+          "name": "Dysphagia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139289002",
+        "S-158429003",
+        "S-158430008",
+        "S-158431007",
+        "S-162022009",
+        "S-207121004",
+        "S-207122006",
+        "S-207123001",
+        "S-288939007",
+        "S-40739000"
+      ],
+      "id": 37,
+      "meta_anns": {}
+    },
+    "40": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 844,
+      "end": 856,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 40,
+      "meta_anns": {}
+    },
+    "43": {
+      "pretty_name": "Diabetes Mellitus, Non-Insulin-Dependent",
+      "cui": "C0011860",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adult-onset diabetes mellitus",
+      "detected_name": "adult~onset~diabetes~mellitus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 858,
+      "end": 887,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Non-insulin-dependent diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154672006",
+        "S-190323008",
+        "S-190384004",
+        "S-267468009",
+        "S-44054006"
+      ],
+      "id": 43,
+      "meta_anns": {}
+    },
+    "46": {
+      "pretty_name": "Hyperlipidemia",
+      "cui": "C0020473",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hyperlipidemia",
+      "detected_name": "hyperlipidemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 889,
+      "end": 903,
+      "icd10": [
+        {
+          "chapter": "E78.5",
+          "name": "Hyperlipidaemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154739000",
+        "S-154743001",
+        "S-190782002",
+        "S-267499005",
+        "S-55822004"
+      ],
+      "id": 46,
+      "meta_anns": {}
+    },
+    "49": {
+      "pretty_name": "Restless Legs Syndrome",
+      "cui": "C0035258",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "restless legs syndrome",
+      "detected_name": "restless~legs~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 909,
+      "end": 931,
+      "icd10": [
+        {
+          "chapter": "G25.81",
+          "name": "Restless legs syndrome"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-32914008",
+        "S-393579008"
+      ],
+      "id": 49,
+      "meta_anns": {}
+    },
+    "66": {
+      "pretty_name": "Restless Legs Syndrome",
+      "cui": "C0035258",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "restless legs syndrome",
+      "detected_name": "restless~legs~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1183,
+      "end": 1205,
+      "icd10": [
+        {
+          "chapter": "G25.81",
+          "name": "Restless legs syndrome"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-32914008",
+        "S-393579008"
+      ],
+      "id": 66,
+      "meta_anns": {}
+    },
+    "89": {
+      "pretty_name": "Colonic Diseases",
+      "cui": "C0009373",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "colon",
+      "detected_name": "colon",
+      "acc": 0.8643235195798256,
+      "context_similarity": 0.8643235195798256,
+      "start": 1495,
+      "end": 1500,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-128524007"
+      ],
+      "id": 89,
+      "meta_anns": {}
+    },
+    "98": {
+      "pretty_name": "prostatitis",
+      "cui": "C0033581",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "prostatitis",
+      "detected_name": "prostatitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1695,
+      "end": 1706,
+      "icd10": [
+        {
+          "chapter": "N41",
+          "name": "Inflammatory diseases of prostate"
+        },
+        {
+          "chapter": "N41.9",
+          "name": "Inflammatory disease of prostate, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155907007",
+        "S-155911001",
+        "S-197962006",
+        "S-197971002",
+        "S-266637008",
+        "S-9713002"
+      ],
+      "id": 98,
+      "meta_anns": {}
+    },
+    "99": {
+      "pretty_name": "Benign Prostatic Hyperplasia",
+      "cui": "C1704272",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "benign prostatic hypertrophy",
+      "detected_name": "benign~prostatic~hypertrophy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1712,
+      "end": 1740,
+      "icd10": [
+        {
+          "chapter": "N40",
+          "name": "Benign prostatic hyperplasia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-266569009",
+        "S-367483003",
+        "S-61059009"
+      ],
+      "id": 99,
+      "meta_anns": {}
+    },
+    "107": {
+      "pretty_name": "prostatitis",
+      "cui": "C0033581",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "prostatitis",
+      "detected_name": "prostatitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1801,
+      "end": 1812,
+      "icd10": [
+        {
+          "chapter": "N41",
+          "name": "Inflammatory diseases of prostate"
+        },
+        {
+          "chapter": "N41.9",
+          "name": "Inflammatory disease of prostate, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155907007",
+        "S-155911001",
+        "S-197962006",
+        "S-197971002",
+        "S-266637008",
+        "S-9713002"
+      ],
+      "id": 107,
+      "meta_anns": {}
+    },
+    "115": {
+      "pretty_name": "Restless Legs Syndrome",
+      "cui": "C0035258",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "restless legs syndrome",
+      "detected_name": "restless~legs~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1908,
+      "end": 1930,
+      "icd10": [
+        {
+          "chapter": "G25.81",
+          "name": "Restless legs syndrome"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-32914008",
+        "S-393579008"
+      ],
+      "id": 115,
+      "meta_anns": {}
+    },
+    "133": {
+      "pretty_name": "",
+      "cui": "C4039409",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "oropharyngeal lesions",
+      "detected_name": "oropharyngeal~lesion",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2278,
+      "end": 2299,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-33431000119109"
+      ],
+      "id": 133,
+      "meta_anns": {}
+    },
+    "136": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymphadenopathy",
+      "detected_name": "lymphadenopathy",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2325,
+      "end": 2340,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 136,
+      "meta_anns": {}
+    },
+    "186": {
+      "pretty_name": "",
+      "cui": "C0265034",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "internal hemorrhoids",
+      "detected_name": "internal~hemorrhoid",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3058,
+      "end": 3078,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-90458007"
+      ],
+      "id": 186,
+      "meta_anns": {}
+    },
+    "204": {
+      "pretty_name": "Barrett Esophagus",
+      "cui": "C0004763",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Barrett's esophagus",
+      "detected_name": "barrett~s~esophagus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3343,
+      "end": 3362,
+      "icd10": [
+        {
+          "chapter": "K22.70",
+          "name": "Barrett's esophagus without dysplasia"
+        },
+        {
+          "chapter": "K22.7",
+          "name": "Barrett's esophagus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155679007",
+        "S-196603007",
+        "S-196609006",
+        "S-235597001",
+        "S-302914006",
+        "S-76355008"
+      ],
+      "id": 204,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

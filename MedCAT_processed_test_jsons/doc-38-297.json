@@ -1,0 +1,149 @@
+{
+  "entities": {
+    "7": {
+      "pretty_name": "Chronic Kidney Diseases",
+      "cui": "C1561643",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "chronic kidney disease",
+      "detected_name": "chronic~kidney~disease",
+      "acc": 0.8084623337886865,
+      "context_similarity": 0.8084623337886865,
+      "start": 110,
+      "end": 132,
+      "icd10": [
+        {
+          "chapter": "N18.9",
+          "name": "Chronic kidney disease, unspecified"
+        },
+        {
+          "chapter": "N18",
+          "name": "Chronic kidney disease (CKD)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-236425005",
+        "S-709044004"
+      ],
+      "id": 7,
+      "meta_anns": {}
+    },
+    "12": {
+      "pretty_name": "",
+      "cui": "C0027719",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "nephrosclerosis",
+      "detected_name": "nephrosclerosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 146,
+      "end": 161,
+      "icd10": [
+        {
+          "chapter": "I12",
+          "name": "Hypertensive chronic kidney disease"
+        },
+        {
+          "chapter": "N26.9",
+          "name": "Renal sclerosis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-194773000",
+        "S-197658002",
+        "S-197662008",
+        "S-32916005"
+      ],
+      "id": 12,
+      "meta_anns": {}
+    },
+    "27": {
+      "pretty_name": "Hematuria",
+      "cui": "C0018965",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hematuria",
+      "detected_name": "hematuria",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 464,
+      "end": 473,
+      "icd10": [
+        {
+          "chapter": "R31",
+          "name": "Unspecified haematuria"
+        },
+        {
+          "chapter": "R31.9",
+          "name": "Hematuria, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139414003",
+        "S-139416001",
+        "S-155895005",
+        "S-162136002",
+        "S-197937006",
+        "S-266568001",
+        "S-267066000",
+        "S-267167006",
+        "S-267168001",
+        "S-307414005",
+        "S-34436003",
+        "S-53298000"
+      ],
+      "id": 27,
+      "meta_anns": {}
+    },
+    "34": {
+      "pretty_name": "Chronic Kidney Diseases",
+      "cui": "C1561643",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "chronic kidney disease",
+      "detected_name": "chronic~kidney~disease",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 607,
+      "end": 629,
+      "icd10": [
+        {
+          "chapter": "N18.9",
+          "name": "Chronic kidney disease, unspecified"
+        },
+        {
+          "chapter": "N18",
+          "name": "Chronic kidney disease (CKD)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-236425005",
+        "S-709044004"
+      ],
+      "id": 34,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

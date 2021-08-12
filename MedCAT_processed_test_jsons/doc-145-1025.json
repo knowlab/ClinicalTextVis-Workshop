@@ -1,0 +1,208 @@
+{
+  "entities": {
+    "7": {
+      "pretty_name": "Deglutition Disorders",
+      "cui": "C0011168",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "dysphagia",
+      "detected_name": "dysphagia",
+      "acc": 0.9294115287879747,
+      "context_similarity": 0.9294115287879747,
+      "start": 93,
+      "end": 102,
+      "icd10": [
+        {
+          "chapter": "R13",
+          "name": "Dysphagia"
+        },
+        {
+          "chapter": "R13.10",
+          "name": "Dysphagia, unspecified"
+        },
+        {
+          "chapter": "R13.1",
+          "name": "Dysphagia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139289002",
+        "S-158429003",
+        "S-158430008",
+        "S-158431007",
+        "S-162022009",
+        "S-207121004",
+        "S-207122006",
+        "S-207123001",
+        "S-288939007",
+        "S-40739000"
+      ],
+      "id": 7,
+      "meta_anns": {}
+    },
+    "30": {
+      "pretty_name": "Eosinophilic esophagitis",
+      "cui": "C0341106",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "eosinophilic esophagitis",
+      "detected_name": "eosinophilic~esophagitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 660,
+      "end": 684,
+      "icd10": [
+        {
+          "chapter": "K20.0",
+          "name": "Eosinophilic esophagitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-235599003"
+      ],
+      "id": 30,
+      "meta_anns": {}
+    },
+    "38": {
+      "pretty_name": "Eosinophilic esophagitis",
+      "cui": "C0341106",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "eosinophilic esophagitis",
+      "detected_name": "eosinophilic~esophagitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 923,
+      "end": 947,
+      "icd10": [
+        {
+          "chapter": "K20.0",
+          "name": "Eosinophilic esophagitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-235599003"
+      ],
+      "id": 38,
+      "meta_anns": {}
+    },
+    "41": {
+      "pretty_name": "Barrett Esophagus",
+      "cui": "C0004763",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Barrett",
+      "detected_name": "barrett",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 976,
+      "end": 983,
+      "icd10": [
+        {
+          "chapter": "K22.70",
+          "name": "Barrett's esophagus without dysplasia"
+        },
+        {
+          "chapter": "K22.7",
+          "name": "Barrett's esophagus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155679007",
+        "S-196603007",
+        "S-196609006",
+        "S-235597001",
+        "S-302914006",
+        "S-76355008"
+      ],
+      "id": 41,
+      "meta_anns": {}
+    },
+    "61": {
+      "pretty_name": "Eosinophilic esophagitis",
+      "cui": "C0341106",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "eosinophilic esophagitis",
+      "detected_name": "eosinophilic~esophagitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1427,
+      "end": 1451,
+      "icd10": [
+        {
+          "chapter": "K20.0",
+          "name": "Eosinophilic esophagitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-235599003"
+      ],
+      "id": 61,
+      "meta_anns": {}
+    },
+    "65": {
+      "pretty_name": "Barrett Esophagus",
+      "cui": "C0004763",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Barrett",
+      "detected_name": "barrett",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1579,
+      "end": 1586,
+      "icd10": [
+        {
+          "chapter": "K22.70",
+          "name": "Barrett's esophagus without dysplasia"
+        },
+        {
+          "chapter": "K22.7",
+          "name": "Barrett's esophagus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155679007",
+        "S-196603007",
+        "S-196609006",
+        "S-235597001",
+        "S-302914006",
+        "S-76355008"
+      ],
+      "id": 65,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,1068 @@
+{
+  "entities": {
+    "2": {
+      "pretty_name": "Deglutition Disorders",
+      "cui": "C0011168",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Dysphagia",
+      "detected_name": "dysphagia",
+      "acc": 0.388214468282677,
+      "context_similarity": 0.388214468282677,
+      "start": 19,
+      "end": 28,
+      "icd10": [
+        {
+          "chapter": "R13",
+          "name": "Dysphagia"
+        },
+        {
+          "chapter": "R13.10",
+          "name": "Dysphagia, unspecified"
+        },
+        {
+          "chapter": "R13.1",
+          "name": "Dysphagia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139289002",
+        "S-158429003",
+        "S-158430008",
+        "S-158431007",
+        "S-162022009",
+        "S-207121004",
+        "S-207122006",
+        "S-207123001",
+        "S-288939007",
+        "S-40739000"
+      ],
+      "id": 2,
+      "meta_anns": {}
+    },
+    "15": {
+      "pretty_name": "Hepatitis B",
+      "cui": "C0019163",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hepatitis B",
+      "detected_name": "hepatitis~b",
+      "acc": 0.7888258087368258,
+      "context_similarity": 0.7888258087368258,
+      "start": 176,
+      "end": 187,
+      "icd10": [
+        {
+          "chapter": "A64",
+          "name": "Unspecified sexually transmitted disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154348008",
+        "S-186625003",
+        "S-266195001",
+        "S-66071002"
+      ],
+      "id": 15,
+      "meta_anns": {}
+    },
+    "19": {
+      "pretty_name": "Heart failure",
+      "cui": "C0018801",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "heart failure",
+      "detected_name": "heart~failure",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 222,
+      "end": 235,
+      "icd10": [
+        {
+          "chapter": "I50",
+          "name": "Heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155374007",
+        "S-155375008",
+        "S-155377000",
+        "S-195117009",
+        "S-266248006",
+        "S-266308000",
+        "S-84114007"
+      ],
+      "id": 19,
+      "meta_anns": {}
+    },
+    "20": {
+      "pretty_name": "Chronic Obstructive Airway Disease",
+      "cui": "C0024117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "COPD",
+      "detected_name": "copd",
+      "acc": 0.7661692565013641,
+      "context_similarity": 0.7661692565013641,
+      "start": 237,
+      "end": 241,
+      "icd10": [
+        {
+          "chapter": "J44.9",
+          "name": "Chronic obstructive pulmonary disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13645005",
+        "S-155565006",
+        "S-155569000",
+        "S-155585005",
+        "S-155617000",
+        "S-195935004",
+        "S-195948000",
+        "S-196003006",
+        "S-413846005"
+      ],
+      "id": 20,
+      "meta_anns": {}
+    },
+    "36": {
+      "pretty_name": "Deglutition Disorders",
+      "cui": "C0011168",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "dysphagia",
+      "detected_name": "dysphagia",
+      "acc": 0.42908862857523844,
+      "context_similarity": 0.42908862857523844,
+      "start": 516,
+      "end": 525,
+      "icd10": [
+        {
+          "chapter": "R13",
+          "name": "Dysphagia"
+        },
+        {
+          "chapter": "R13.10",
+          "name": "Dysphagia, unspecified"
+        },
+        {
+          "chapter": "R13.1",
+          "name": "Dysphagia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139289002",
+        "S-158429003",
+        "S-158430008",
+        "S-158431007",
+        "S-162022009",
+        "S-207121004",
+        "S-207122006",
+        "S-207123001",
+        "S-288939007",
+        "S-40739000"
+      ],
+      "id": 36,
+      "meta_anns": {}
+    },
+    "64": {
+      "pretty_name": "Deglutition Disorders",
+      "cui": "C0011168",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "dysphagia",
+      "detected_name": "dysphagia",
+      "acc": 0.29573988439391485,
+      "context_similarity": 0.29573988439391485,
+      "start": 977,
+      "end": 986,
+      "icd10": [
+        {
+          "chapter": "R13",
+          "name": "Dysphagia"
+        },
+        {
+          "chapter": "R13.10",
+          "name": "Dysphagia, unspecified"
+        },
+        {
+          "chapter": "R13.1",
+          "name": "Dysphagia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139289002",
+        "S-158429003",
+        "S-158430008",
+        "S-158431007",
+        "S-162022009",
+        "S-207121004",
+        "S-207122006",
+        "S-207123001",
+        "S-288939007",
+        "S-40739000"
+      ],
+      "id": 64,
+      "meta_anns": {}
+    },
+    "84": {
+      "pretty_name": "Asthma",
+      "cui": "C0004096",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Asthma",
+      "detected_name": "asthma",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1181,
+      "end": 1187,
+      "icd10": [
+        {
+          "chapter": "J45",
+          "name": "Asthma"
+        },
+        {
+          "chapter": "J45.9",
+          "name": "Asthma, unspecified"
+        },
+        {
+          "chapter": "J45.90",
+          "name": "Unspecified asthma"
+        },
+        {
+          "chapter": "J45.909",
+          "name": "Unspecified asthma, uncomplicated"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155574008",
+        "S-155579003",
+        "S-187687003",
+        "S-195967001",
+        "S-195979001",
+        "S-195983001",
+        "S-21341004",
+        "S-266365004",
+        "S-266398009",
+        "S-278517007"
+      ],
+      "id": 84,
+      "meta_anns": {}
+    },
+    "86": {
+      "pretty_name": "Hepatitis C",
+      "cui": "C0019196",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hepatitis C",
+      "detected_name": "hepatitis~c",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1193,
+      "end": 1204,
+      "icd10": [
+        {
+          "chapter": "B19.20",
+          "name": "Unspecified viral hepatitis C without hepatic coma"
+        },
+        {
+          "chapter": "B19.2",
+          "name": "Unspecified viral hepatitis C"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-123324009",
+        "S-154349000",
+        "S-186634008",
+        "S-186643004",
+        "S-50711007"
+      ],
+      "id": 86,
+      "meta_anns": {}
+    },
+    "92": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.40064531503957734,
+      "context_similarity": 0.40064531503957734,
+      "start": 1383,
+      "end": 1395,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 92,
+      "meta_anns": {}
+    },
+    "101": {
+      "pretty_name": "Cyst",
+      "cui": "C0010709",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cyst",
+      "detected_name": "cyst",
+      "acc": 0.5141398375412266,
+      "context_similarity": 0.5141398375412266,
+      "start": 1517,
+      "end": 1521,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-12494005",
+        "S-133846001",
+        "S-264515009",
+        "S-367643001",
+        "S-441457006"
+      ],
+      "id": 101,
+      "meta_anns": {}
+    },
+    "109": {
+      "pretty_name": "Cirrhosis",
+      "cui": "C1623038",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cirrhosis",
+      "detected_name": "cirrhosis",
+      "acc": 0.7992058140973499,
+      "context_similarity": 0.7992058140973499,
+      "start": 1586,
+      "end": 1595,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 109,
+      "meta_anns": {}
+    },
+    "124": {
+      "pretty_name": "Heart Diseases",
+      "cui": "C0018799",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cardiac disease",
+      "detected_name": "cardiac~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1697,
+      "end": 1712,
+      "icd10": [
+        {
+          "chapter": "I51.9",
+          "name": "Heart disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155263000",
+        "S-194707003",
+        "S-195152001",
+        "S-266275004",
+        "S-266311004",
+        "S-56265001"
+      ],
+      "id": 124,
+      "meta_anns": {}
+    },
+    "170": {
+      "pretty_name": "Acute respiratory distress",
+      "cui": "C0748355",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "acute respiratory distress",
+      "detected_name": "acute~respiratory~distress",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2639,
+      "end": 2665,
+      "icd10": [
+        {
+          "chapter": "R06.03",
+          "name": "Acute respiratory distress"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-111281007",
+        "S-373895009"
+      ],
+      "id": 170,
+      "meta_anns": {}
+    },
+    "184": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "erythema",
+      "detected_name": "erythema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2872,
+      "end": 2880,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 184,
+      "meta_anns": {}
+    },
+    "187": {
+      "pretty_name": "Erythema",
+      "cui": "C0041834",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "erythema",
+      "detected_name": "erythema",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2905,
+      "end": 2913,
+      "icd10": [
+        {
+          "chapter": "L53.9",
+          "name": "Erythematous condition, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156360007",
+        "S-156368000",
+        "S-200954004",
+        "S-247441003",
+        "S-267850001",
+        "S-444827008",
+        "S-70819003",
+        "S-86735004"
+      ],
+      "id": 187,
+      "meta_anns": {}
+    },
+    "197": {
+      "pretty_name": "Cervical lymphadenopathy",
+      "cui": "C0235592",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cervical lymphadenopathy",
+      "detected_name": "cervical~lymphadenopathy",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3046,
+      "end": 3070,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-127086001"
+      ],
+      "id": 197,
+      "meta_anns": {}
+    },
+    "213": {
+      "pretty_name": "Deep Vein Thrombosis",
+      "cui": "C0149871",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "DVT",
+      "detected_name": "dvt",
+      "acc": 0.24943517891516107,
+      "context_similarity": 0.24943517891516107,
+      "start": 3356,
+      "end": 3359,
+      "icd10": [
+        {
+          "chapter": "I82.40",
+          "name": "Acute embolism and thrombosis of unspecified deep veins of lower extremity"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128053003",
+        "S-128057002",
+        "S-155454004",
+        "S-195403006",
+        "S-266328001"
+      ],
+      "id": 213,
+      "meta_anns": {}
+    },
+    "243": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "CHF",
+      "detected_name": "chf",
+      "acc": 0.8780974303653956,
+      "context_similarity": 0.8780974303653956,
+      "start": 3850,
+      "end": 3853,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 243,
+      "meta_anns": {}
+    },
+    "244": {
+      "pretty_name": "Pneumonia",
+      "cui": "C0032285",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pneumonia",
+      "detected_name": "pneumonia",
+      "acc": 0.27447440196077066,
+      "context_similarity": 0.27447440196077066,
+      "start": 3857,
+      "end": 3866,
+      "icd10": [
+        {
+          "chapter": "J18.9",
+          "name": "Pneumonia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155548002",
+        "S-155552002",
+        "S-155558003",
+        "S-233604007",
+        "S-266391003",
+        "S-274103002",
+        "S-60363000"
+      ],
+      "id": 244,
+      "meta_anns": {}
+    },
+    "287": {
+      "pretty_name": "Achalasia",
+      "cui": "C1321756",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "achalasia",
+      "detected_name": "achalasia",
+      "acc": 0.9812985856453879,
+      "context_similarity": 0.9812985856453879,
+      "start": 4680,
+      "end": 4689,
+      "icd10": [
+        {
+          "chapter": "K22.0",
+          "name": "Achalasia of cardia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-48531003"
+      ],
+      "id": 287,
+      "meta_anns": {}
+    },
+    "289": {
+      "pretty_name": "Candidiasis",
+      "cui": "C0006840",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Candida infection",
+      "detected_name": "candida~infection",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4691,
+      "end": 4708,
+      "icd10": [
+        {
+          "chapter": "B37",
+          "name": "Candidiasis"
+        },
+        {
+          "chapter": "B37.9",
+          "name": "Candidiasis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154403005",
+        "S-187005005",
+        "S-187024008",
+        "S-187478002",
+        "S-78048006"
+      ],
+      "id": 289,
+      "meta_anns": {}
+    },
+    "292": {
+      "pretty_name": "",
+      "cui": "C0877119",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "CMV esophagitis",
+      "detected_name": "cmv~esophagitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4713,
+      "end": 4728,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-713045003"
+      ],
+      "id": 292,
+      "meta_anns": {}
+    },
+    "298": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "CHF",
+      "detected_name": "chf",
+      "acc": 0.5107292533353721,
+      "context_similarity": 0.5107292533353721,
+      "start": 4871,
+      "end": 4874,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 298,
+      "meta_anns": {}
+    },
+    "303": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "CHF",
+      "detected_name": "chf",
+      "acc": 0.10006323169760517,
+      "context_similarity": 0.10006323169760517,
+      "start": 4970,
+      "end": 4973,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 303,
+      "meta_anns": {}
+    },
+    "316": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.3361956506903803,
+      "context_similarity": 0.3361956506903803,
+      "start": 5365,
+      "end": 5377,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 316,
+      "meta_anns": {}
+    },
+    "327": {
+      "pretty_name": "Hepatitis C",
+      "cui": "C0019196",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hepatitis C",
+      "detected_name": "hepatitis~c",
+      "acc": 0.18520614652194325,
+      "context_similarity": 0.18520614652194325,
+      "start": 5521,
+      "end": 5532,
+      "icd10": [
+        {
+          "chapter": "B19.20",
+          "name": "Unspecified viral hepatitis C without hepatic coma"
+        },
+        {
+          "chapter": "B19.2",
+          "name": "Unspecified viral hepatitis C"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-123324009",
+        "S-154349000",
+        "S-186634008",
+        "S-186643004",
+        "S-50711007"
+      ],
+      "id": 327,
+      "meta_anns": {}
+    },
+    "335": {
+      "pretty_name": "Deep Vein Thrombosis",
+      "cui": "C0149871",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "DVT",
+      "detected_name": "dvt",
+      "acc": 0.11673221198753526,
+      "context_similarity": 0.11673221198753526,
+      "start": 5690,
+      "end": 5693,
+      "icd10": [
+        {
+          "chapter": "I82.40",
+          "name": "Acute embolism and thrombosis of unspecified deep veins of lower extremity"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128053003",
+        "S-128057002",
+        "S-155454004",
+        "S-195403006",
+        "S-266328001"
+      ],
+      "id": 335,
+      "meta_anns": {}
+    },
+    "352": {
+      "pretty_name": "Pleural effusion disorder",
+      "cui": "C0032227",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pleural effusion",
+      "detected_name": "pleural~effusion",
+      "acc": 0.40247624510763697,
+      "context_similarity": 0.40247624510763697,
+      "start": 6192,
+      "end": 6208,
+      "icd10": [
+        {
+          "chapter": "J90",
+          "name": "Pleural effusion, not elsewhere classified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155606001",
+        "S-155608000",
+        "S-196097001",
+        "S-196101005",
+        "S-266407006",
+        "S-60046008"
+      ],
+      "id": 352,
+      "meta_anns": {}
+    },
+    "355": {
+      "pretty_name": "",
+      "cui": "C0025062",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pneumomediastinum",
+      "detected_name": "pneumomediastinum",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 6259,
+      "end": 6276,
+      "icd10": [
+        {
+          "chapter": "J98.2",
+          "name": "Interstitial emphysema"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155627006",
+        "S-16838000",
+        "S-196144009",
+        "S-266411000",
+        "S-390899006"
+      ],
+      "id": 355,
+      "meta_anns": {}
+    },
+    "356": {
+      "pretty_name": "Pneumothorax",
+      "cui": "C0032326",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pneumothorax",
+      "detected_name": "pneumothorax",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 6280,
+      "end": 6292,
+      "icd10": [
+        {
+          "chapter": "J93",
+          "name": "Pneumothorax"
+        },
+        {
+          "chapter": "J93.9",
+          "name": "Pneumothorax, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155609008",
+        "S-155612006",
+        "S-196106000",
+        "S-36118008"
+      ],
+      "id": 356,
+      "meta_anns": {}
+    },
+    "366": {
+      "pretty_name": "Communicable Diseases",
+      "cui": "C0009450",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ID",
+      "detected_name": "id",
+      "acc": 0.432787678055511,
+      "context_similarity": 0.432787678055511,
+      "start": 6572,
+      "end": 6574,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-189822004",
+        "S-190563008",
+        "S-191415002",
+        "S-266171003",
+        "S-35500006",
+        "S-367443006",
+        "S-40733004"
+      ],
+      "id": 366,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,56 @@
+{
+  "entities": {
+    "12": {
+      "pretty_name": "Lung diseases",
+      "cui": "C0024115",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lung",
+      "detected_name": "lung",
+      "acc": 0.5435239392972241,
+      "context_similarity": 0.5435239392972241,
+      "start": 177,
+      "end": 181,
+      "icd10": [
+        {
+          "chapter": "J98.4",
+          "name": "Other disorders of lung"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196164004",
+        "S-19829001",
+        "S-266374002"
+      ],
+      "id": 12,
+      "meta_anns": {}
+    },
+    "81": {
+      "pretty_name": "",
+      "cui": "C3809910",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "AMRs",
+      "detected_name": "amrs",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2362,
+      "end": 2366,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 81,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

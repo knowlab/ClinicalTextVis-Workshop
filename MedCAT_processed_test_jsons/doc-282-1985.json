@@ -1,0 +1,743 @@
+{
+  "entities": {
+    "1": {
+      "pretty_name": "Bone Cysts, Aneurysmal",
+      "cui": "C0152244",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ABC",
+      "detected_name": "abc",
+      "acc": 0.14965631619943887,
+      "context_similarity": 0.14965631619943887,
+      "start": 24,
+      "end": 27,
+      "icd10": [
+        {
+          "chapter": "M85.5",
+          "name": "Aneurysmal bone cyst"
+        },
+        {
+          "chapter": "M85.50",
+          "name": "Aneurysmal bone cyst, unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-203468000",
+        "S-76000001"
+      ],
+      "id": 1,
+      "meta_anns": {}
+    },
+    "13": {
+      "pretty_name": "Bone Cysts, Aneurysmal",
+      "cui": "C0152244",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ABC",
+      "detected_name": "abc",
+      "acc": 0.17534373428694214,
+      "context_similarity": 0.17534373428694214,
+      "start": 235,
+      "end": 238,
+      "icd10": [
+        {
+          "chapter": "M85.5",
+          "name": "Aneurysmal bone cyst"
+        },
+        {
+          "chapter": "M85.50",
+          "name": "Aneurysmal bone cyst, unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-203468000",
+        "S-76000001"
+      ],
+      "id": 13,
+      "meta_anns": {}
+    },
+    "19": {
+      "pretty_name": "Myopia",
+      "cui": "C0027092",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "near vision",
+      "detected_name": "near~vision",
+      "acc": 0.6695080704772377,
+      "context_similarity": 0.6695080704772377,
+      "start": 489,
+      "end": 500,
+      "icd10": [
+        {
+          "chapter": "H52.1",
+          "name": "Myopia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155133003",
+        "S-57190000"
+      ],
+      "id": 19,
+      "meta_anns": {}
+    },
+    "23": {
+      "pretty_name": "",
+      "cui": "C0004106",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "astigmatism",
+      "detected_name": "astigmatism",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 541,
+      "end": 552,
+      "icd10": [
+        {
+          "chapter": "H52.2",
+          "name": "Astigmatism"
+        },
+        {
+          "chapter": "H52.20",
+          "name": "Unspecified astigmatism"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155134009",
+        "S-193626006",
+        "S-193627002",
+        "S-82649003"
+      ],
+      "id": 23,
+      "meta_anns": {}
+    },
+    "30": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 741,
+      "end": 753,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 30,
+      "meta_anns": {}
+    },
+    "35": {
+      "pretty_name": "Hypercholesterolemia",
+      "cui": "C0020443",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypercholesterolemia",
+      "detected_name": "hypercholesterolemia",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 785,
+      "end": 805,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-13644009",
+        "S-154740003",
+        "S-267500001"
+      ],
+      "id": 35,
+      "meta_anns": {}
+    },
+    "36": {
+      "pretty_name": "Gastroesophageal reflux disease",
+      "cui": "C0017168",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "GERD",
+      "detected_name": "gerd",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 807,
+      "end": 811,
+      "icd10": [
+        {
+          "chapter": "K21",
+          "name": "Gastro-oesophageal reflux disease"
+        },
+        {
+          "chapter": "K21.9",
+          "name": "Gastro-esophageal reflux disease without esophagitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-235595009",
+        "S-266498005",
+        "S-54856001"
+      ],
+      "id": 36,
+      "meta_anns": {}
+    },
+    "39": {
+      "pretty_name": "Keratosis",
+      "cui": "C0022593",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "keratoses",
+      "detected_name": "keratose",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 833,
+      "end": 842,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-254666005"
+      ],
+      "id": 39,
+      "meta_anns": {}
+    },
+    "42": {
+      "pretty_name": "",
+      "cui": "C0343033",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Pityrosporum folliculitis",
+      "detected_name": "pityrosporum~folliculitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 861,
+      "end": 886,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-238434008"
+      ],
+      "id": 42,
+      "meta_anns": {}
+    },
+    "46": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabete",
+      "acc": 0.2632368481827043,
+      "context_similarity": 0.2632368481827043,
+      "start": 926,
+      "end": 934,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 46,
+      "meta_anns": {}
+    },
+    "58": {
+      "pretty_name": "Glaucoma",
+      "cui": "C0017601",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "glaucoma",
+      "detected_name": "glaucoma",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1083,
+      "end": 1091,
+      "icd10": [
+        {
+          "chapter": "H40-H42.9",
+          "name": "Glaucoma"
+        },
+        {
+          "chapter": "H40",
+          "name": "Glaucoma"
+        },
+        {
+          "chapter": "H40.9",
+          "name": "Glaucoma, unspecified"
+        },
+        {
+          "chapter": "H40-H42",
+          "name": "Glaucoma (H40-H42)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155120009",
+        "S-193569008",
+        "S-194631001",
+        "S-23986001"
+      ],
+      "id": 58,
+      "meta_anns": {}
+    },
+    "59": {
+      "pretty_name": "Age related macular degeneration",
+      "cui": "C0242383",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "age-related macular degeneration",
+      "detected_name": "age~related~macular~degeneration",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1093,
+      "end": 1125,
+      "icd10": [
+        {
+          "chapter": "H35.30",
+          "name": "Unspecified macular degeneration"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155112007",
+        "S-18222007",
+        "S-193384000",
+        "S-193385004",
+        "S-267718000",
+        "S-302891003"
+      ],
+      "id": 59,
+      "meta_anns": {}
+    },
+    "81": {
+      "pretty_name": "Myopia",
+      "cui": "C0027092",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Near vision",
+      "detected_name": "near~vision",
+      "acc": 0.21784324115837797,
+      "context_similarity": 0.21784324115837797,
+      "start": 1497,
+      "end": 1508,
+      "icd10": [
+        {
+          "chapter": "H52.1",
+          "name": "Myopia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155133003",
+        "S-57190000"
+      ],
+      "id": 81,
+      "meta_anns": {}
+    },
+    "116": {
+      "pretty_name": "",
+      "cui": "C1260959",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "drusen",
+      "detected_name": "drusen",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2412,
+      "end": 2418,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-123154009",
+        "S-18695008",
+        "S-193390001"
+      ],
+      "id": 116,
+      "meta_anns": {}
+    },
+    "131": {
+      "pretty_name": "",
+      "cui": "C1260959",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "drusen",
+      "detected_name": "drusen",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2792,
+      "end": 2798,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-123154009",
+        "S-18695008",
+        "S-193390001"
+      ],
+      "id": 131,
+      "meta_anns": {}
+    },
+    "133": {
+      "pretty_name": "Age related macular degeneration",
+      "cui": "C0242383",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Age-related macular degeneration",
+      "detected_name": "age~related~macular~degeneration",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2943,
+      "end": 2975,
+      "icd10": [
+        {
+          "chapter": "H35.30",
+          "name": "Unspecified macular degeneration"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155112007",
+        "S-18222007",
+        "S-193384000",
+        "S-193385004",
+        "S-267718000",
+        "S-302891003"
+      ],
+      "id": 133,
+      "meta_anns": {}
+    },
+    "139": {
+      "pretty_name": "",
+      "cui": "C0017614",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Glaucoma suspect",
+      "detected_name": "glaucoma~suspect",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3027,
+      "end": 3043,
+      "icd10": [
+        {
+          "chapter": "H40.0",
+          "name": "Glaucoma suspect"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-232079008",
+        "S-47891005"
+      ],
+      "id": 139,
+      "meta_anns": {}
+    },
+    "146": {
+      "pretty_name": "",
+      "cui": "C0033075",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Presbyopia",
+      "detected_name": "presbyopia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3123,
+      "end": 3133,
+      "icd10": [
+        {
+          "chapter": "H52.4",
+          "name": "Presbyopia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155135005",
+        "S-41256004"
+      ],
+      "id": 146,
+      "meta_anns": {}
+    },
+    "147": {
+      "pretty_name": "",
+      "cui": "C0004106",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "astigmatism",
+      "detected_name": "astigmatism",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3138,
+      "end": 3149,
+      "icd10": [
+        {
+          "chapter": "H52.2",
+          "name": "Astigmatism"
+        },
+        {
+          "chapter": "H52.20",
+          "name": "Unspecified astigmatism"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155134009",
+        "S-193626006",
+        "S-193627002",
+        "S-82649003"
+      ],
+      "id": 147,
+      "meta_anns": {}
+    },
+    "148": {
+      "pretty_name": "Bilateral cataracts",
+      "cui": "C0521707",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cataracts",
+      "detected_name": "cataract",
+      "acc": 0.5362401544317594,
+      "context_similarity": 0.5362401544317594,
+      "start": 3180,
+      "end": 3189,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-193618003",
+        "S-95722004"
+      ],
+      "id": 148,
+      "meta_anns": {}
+    },
+    "153": {
+      "pretty_name": "Age related macular degeneration",
+      "cui": "C0242383",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "age-related macular degeneration",
+      "detected_name": "age~related~macular~degeneration",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3400,
+      "end": 3432,
+      "icd10": [
+        {
+          "chapter": "H35.30",
+          "name": "Unspecified macular degeneration"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155112007",
+        "S-18222007",
+        "S-193384000",
+        "S-193385004",
+        "S-267718000",
+        "S-302891003"
+      ],
+      "id": 153,
+      "meta_anns": {}
+    },
+    "158": {
+      "pretty_name": "Glaucoma",
+      "cui": "C0017601",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "glaucoma",
+      "detected_name": "glaucoma",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3525,
+      "end": 3533,
+      "icd10": [
+        {
+          "chapter": "H40-H42.9",
+          "name": "Glaucoma"
+        },
+        {
+          "chapter": "H40",
+          "name": "Glaucoma"
+        },
+        {
+          "chapter": "H40.9",
+          "name": "Glaucoma, unspecified"
+        },
+        {
+          "chapter": "H40-H42",
+          "name": "Glaucoma (H40-H42)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155120009",
+        "S-193569008",
+        "S-194631001",
+        "S-23986001"
+      ],
+      "id": 158,
+      "meta_anns": {}
+    },
+    "164": {
+      "pretty_name": "Disorder of eye",
+      "cui": "C0015397",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Eye",
+      "detected_name": "eye",
+      "acc": 0.3394098386549783,
+      "context_similarity": 0.3394098386549783,
+      "start": 3742,
+      "end": 3745,
+      "icd10": [
+        {
+          "chapter": "H44",
+          "name": "Disorders of globe"
+        },
+        {
+          "chapter": "H44.9",
+          "name": "Disorder of globe, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-111509007",
+        "S-155101007",
+        "S-155198005",
+        "S-193265001",
+        "S-193266000",
+        "S-193316008",
+        "S-194183009",
+        "S-264555006",
+        "S-366261005",
+        "S-371405004",
+        "S-371409005",
+        "S-79517001"
+      ],
+      "id": 164,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,395 @@
+{
+  "entities": {
+    "13": {
+      "pretty_name": "Pneumonia",
+      "cui": "C0032285",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pneumonia",
+      "detected_name": "pneumonia",
+      "acc": 0.4363173776222823,
+      "context_similarity": 0.4363173776222823,
+      "start": 147,
+      "end": 156,
+      "icd10": [
+        {
+          "chapter": "J18.9",
+          "name": "Pneumonia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155548002",
+        "S-155552002",
+        "S-155558003",
+        "S-233604007",
+        "S-266391003",
+        "S-274103002",
+        "S-60363000"
+      ],
+      "id": 13,
+      "meta_anns": {}
+    },
+    "14": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.6954485000151096,
+      "context_similarity": 0.6954485000151096,
+      "start": 163,
+      "end": 175,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 14,
+      "meta_anns": {}
+    },
+    "15": {
+      "pretty_name": "Macular degeneration",
+      "cui": "C0024437",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "macular degeneration",
+      "detected_name": "macular~degeneration",
+      "acc": 0.8353811449506583,
+      "context_similarity": 0.8353811449506583,
+      "start": 180,
+      "end": 200,
+      "icd10": [
+        {
+          "chapter": "H44",
+          "name": "Disorders of globe"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-302891003",
+        "S-422338006"
+      ],
+      "id": 15,
+      "meta_anns": {}
+    },
+    "38": {
+      "pretty_name": "Pneumonia",
+      "cui": "C0032285",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pneumonia",
+      "detected_name": "pneumonia",
+      "acc": 0.17542339136794466,
+      "context_similarity": 0.17542339136794466,
+      "start": 535,
+      "end": 544,
+      "icd10": [
+        {
+          "chapter": "J18.9",
+          "name": "Pneumonia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155548002",
+        "S-155552002",
+        "S-155558003",
+        "S-233604007",
+        "S-266391003",
+        "S-274103002",
+        "S-60363000"
+      ],
+      "id": 38,
+      "meta_anns": {}
+    },
+    "39": {
+      "pretty_name": "Pleurisy",
+      "cui": "C0032231",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pleurisy",
+      "detected_name": "pleurisy",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 558,
+      "end": 566,
+      "icd10": [
+        {
+          "chapter": "R09.1",
+          "name": "Pleurisy"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196075003",
+        "S-266406002",
+        "S-32203001"
+      ],
+      "id": 39,
+      "meta_anns": {}
+    },
+    "40": {
+      "pretty_name": "Macular degeneration",
+      "cui": "C0024437",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "macular degeneration",
+      "detected_name": "macular~degeneration",
+      "acc": 0.8810788957860052,
+      "context_similarity": 0.8810788957860052,
+      "start": 568,
+      "end": 588,
+      "icd10": [
+        {
+          "chapter": "H44",
+          "name": "Disorders of globe"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-302891003",
+        "S-422338006"
+      ],
+      "id": 40,
+      "meta_anns": {}
+    },
+    "42": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 590,
+      "end": 602,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 42,
+      "meta_anns": {}
+    },
+    "46": {
+      "pretty_name": "Bilateral cataracts",
+      "cui": "C0521707",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "bilateral cataract",
+      "detected_name": "bilateral~cataract",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 660,
+      "end": 678,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-193618003",
+        "S-95722004"
+      ],
+      "id": 46,
+      "meta_anns": {}
+    },
+    "122": {
+      "pretty_name": "Lung diseases",
+      "cui": "C0024115",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lung",
+      "detected_name": "lung",
+      "acc": 0.7462472312432289,
+      "context_similarity": 0.7462472312432289,
+      "start": 2157,
+      "end": 2161,
+      "icd10": [
+        {
+          "chapter": "J98.4",
+          "name": "Other disorders of lung"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196164004",
+        "S-19829001",
+        "S-266374002"
+      ],
+      "id": 122,
+      "meta_anns": {}
+    },
+    "124": {
+      "pretty_name": "Lung consolidation",
+      "cui": "C0521530",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "consolidation",
+      "detected_name": "consolidation",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2208,
+      "end": 2221,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-195917008",
+        "S-95436008"
+      ],
+      "id": 124,
+      "meta_anns": {}
+    },
+    "130": {
+      "pretty_name": "influenza A",
+      "cui": "C2062441",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "influenza A",
+      "detected_name": "influenza~a",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2417,
+      "end": 2428,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 130,
+      "meta_anns": {}
+    },
+    "144": {
+      "pretty_name": "Deep thrombophlebitis",
+      "cui": "C0151950",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "DVT",
+      "detected_name": "dvt",
+      "acc": 0.2532768059948875,
+      "context_similarity": 0.2532768059948875,
+      "start": 2835,
+      "end": 2838,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-16750002"
+      ],
+      "id": 144,
+      "meta_anns": {}
+    },
+    "153": {
+      "pretty_name": "Bronchitis",
+      "cui": "C0006277",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Bronchitis",
+      "detected_name": "bronchitis",
+      "acc": 0.4761457036564678,
+      "context_similarity": 0.4761457036564678,
+      "start": 3129,
+      "end": 3139,
+      "icd10": [
+        {
+          "chapter": "J40",
+          "name": "Bronchitis, not specified as acute or chronic"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155616009",
+        "S-195936003",
+        "S-195940007",
+        "S-266354009",
+        "S-32398004"
+      ],
+      "id": 153,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

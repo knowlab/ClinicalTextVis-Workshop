@@ -1,0 +1,424 @@
+{
+  "entities": {
+    "10": {
+      "pretty_name": "",
+      "cui": "C0003949",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "asbestos",
+      "detected_name": "asbestos",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 197,
+      "end": 205,
+      "icd10": [
+        {
+          "chapter": "J61",
+          "name": "Pneumoconiosis due to asbestos and other mineral fibers"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155589004",
+        "S-196006003",
+        "S-22607003",
+        "S-266400008"
+      ],
+      "id": 10,
+      "meta_anns": {}
+    },
+    "25": {
+      "pretty_name": "Benign Prostatic Hyperplasia",
+      "cui": "C1704272",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Benign prostatic hypertrophy",
+      "detected_name": "benign~prostatic~hypertrophy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 497,
+      "end": 525,
+      "icd10": [
+        {
+          "chapter": "N40",
+          "name": "Benign prostatic hyperplasia"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-266569009",
+        "S-367483003",
+        "S-61059009"
+      ],
+      "id": 25,
+      "meta_anns": {}
+    },
+    "29": {
+      "pretty_name": "Peptic Ulcer",
+      "cui": "C0030920",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Peptic ulcer disease",
+      "detected_name": "peptic~ulcer~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 531,
+      "end": 551,
+      "icd10": [
+        {
+          "chapter": "K27",
+          "name": "Peptic ulcer, site unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13200003",
+        "S-155701001",
+        "S-155710009",
+        "S-196681007",
+        "S-196697002",
+        "S-196704007",
+        "S-196705008",
+        "S-266437002",
+        "S-266501005"
+      ],
+      "id": 29,
+      "meta_anns": {}
+    },
+    "33": {
+      "pretty_name": "Atrial Fibrillation",
+      "cui": "C0004238",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Atrial fibrillation",
+      "detected_name": "atrial~fibrillation",
+      "acc": 0.7698251356039096,
+      "context_similarity": 0.7698251356039096,
+      "start": 557,
+      "end": 576,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155364009",
+        "S-266306001",
+        "S-49436004"
+      ],
+      "id": 33,
+      "meta_anns": {}
+    },
+    "35": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Coronary artery disease",
+      "detected_name": "coronary~artery~disease",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 582,
+      "end": 605,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 35,
+      "meta_anns": {}
+    },
+    "41": {
+      "pretty_name": "Peripheral Vascular Diseases",
+      "cui": "C0085096",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Peripheral vascular disease",
+      "detected_name": "peripheral~vascular~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 702,
+      "end": 729,
+      "icd10": [
+        {
+          "chapter": "I73.9",
+          "name": "Peripheral vascular disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155431008",
+        "S-155433006",
+        "S-195311000",
+        "S-195314008",
+        "S-266320008",
+        "S-266321007",
+        "S-399957001",
+        "S-400047006",
+        "S-91523003"
+      ],
+      "id": 41,
+      "meta_anns": {}
+    },
+    "46": {
+      "pretty_name": "Congestive heart failure",
+      "cui": "C0018802",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Congestive heart failure",
+      "detected_name": "congestive~heart~failure",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 762,
+      "end": 786,
+      "icd10": [
+        {
+          "chapter": "I50.0",
+          "name": "Congestive heart failure"
+        },
+        {
+          "chapter": "I50.9",
+          "name": "Heart failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155375008",
+        "S-195108009",
+        "S-266308000",
+        "S-42343007"
+      ],
+      "id": 46,
+      "meta_anns": {}
+    },
+    "49": {
+      "pretty_name": "",
+      "cui": "C0003949",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Asbestos",
+      "detected_name": "asbestos",
+      "acc": 0.8528185985140635,
+      "context_similarity": 0.8528185985140635,
+      "start": 801,
+      "end": 809,
+      "icd10": [
+        {
+          "chapter": "J61",
+          "name": "Pneumoconiosis due to asbestos and other mineral fibers"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155589004",
+        "S-196006003",
+        "S-22607003",
+        "S-266400008"
+      ],
+      "id": 49,
+      "meta_anns": {}
+    },
+    "119": {
+      "pretty_name": "Pleural effusion disorder",
+      "cui": "C0032227",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pleural effusion",
+      "detected_name": "pleural~effusion",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2198,
+      "end": 2214,
+      "icd10": [
+        {
+          "chapter": "J90",
+          "name": "Pleural effusion, not elsewhere classified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155606001",
+        "S-155608000",
+        "S-196097001",
+        "S-196101005",
+        "S-266407006",
+        "S-60046008"
+      ],
+      "id": 119,
+      "meta_anns": {}
+    },
+    "122": {
+      "pretty_name": "Acute bronchitis",
+      "cui": "C0149514",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Acute bronchitis",
+      "detected_name": "acute~bronchitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2247,
+      "end": 2263,
+      "icd10": [
+        {
+          "chapter": "J20",
+          "name": "Acute bronchitis"
+        },
+        {
+          "chapter": "J20.9",
+          "name": "Acute bronchitis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-10509002",
+        "S-155512004",
+        "S-155515002",
+        "S-195713004",
+        "S-195733000",
+        "S-266380005",
+        "S-35301006"
+      ],
+      "id": 122,
+      "meta_anns": {}
+    },
+    "124": {
+      "pretty_name": "Blood Coagulation Disorders",
+      "cui": "C0005779",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Coagulopathy",
+      "detected_name": "coagulopathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2269,
+      "end": 2281,
+      "icd10": [
+        {
+          "chapter": "D68.9",
+          "name": "Coagulation defect, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-127073005",
+        "S-154815003",
+        "S-191303002",
+        "S-267562007",
+        "S-362970003",
+        "S-64779008"
+      ],
+      "id": 124,
+      "meta_anns": {}
+    },
+    "125": {
+      "pretty_name": "",
+      "cui": "C0003949",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Asbestos",
+      "detected_name": "asbestos",
+      "acc": 0.9200604198421602,
+      "context_similarity": 0.9200604198421602,
+      "start": 2287,
+      "end": 2295,
+      "icd10": [
+        {
+          "chapter": "J61",
+          "name": "Pneumoconiosis due to asbestos and other mineral fibers"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155589004",
+        "S-196006003",
+        "S-22607003",
+        "S-266400008"
+      ],
+      "id": 125,
+      "meta_anns": {}
+    },
+    "129": {
+      "pretty_name": "Pleural effusion disorder",
+      "cui": "C0032227",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pleural effusion",
+      "detected_name": "pleural~effusion",
+      "acc": 0.2924561329069225,
+      "context_similarity": 0.2924561329069225,
+      "start": 2315,
+      "end": 2331,
+      "icd10": [
+        {
+          "chapter": "J90",
+          "name": "Pleural effusion, not elsewhere classified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155606001",
+        "S-155608000",
+        "S-196097001",
+        "S-196101005",
+        "S-266407006",
+        "S-60046008"
+      ],
+      "id": 129,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

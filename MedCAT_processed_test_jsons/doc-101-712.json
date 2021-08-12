@@ -1,0 +1,739 @@
+{
+  "entities": {
+    "14": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 128,
+      "end": 140,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 14,
+      "meta_anns": {}
+    },
+    "15": {
+      "pretty_name": "Kidney Failure, Chronic",
+      "cui": "C0022661",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "end-stage renal disease",
+      "detected_name": "end~stage~renal~disease",
+      "acc": 0.8230339950339075,
+      "context_similarity": 0.8230339950339075,
+      "start": 142,
+      "end": 165,
+      "icd10": [
+        {
+          "chapter": "N18",
+          "name": "Chronic renal failure"
+        },
+        {
+          "chapter": "N18.9",
+          "name": "Chronic renal failure, unspecified"
+        },
+        {
+          "chapter": "N18.0",
+          "name": "End-stage renal disease"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155856009",
+        "S-197654000",
+        "S-197655004",
+        "S-197755007",
+        "S-46177005",
+        "S-90688005"
+      ],
+      "id": 15,
+      "meta_anns": {}
+    },
+    "21": {
+      "pretty_name": "Reflux nephropathy",
+      "cui": "C3495566",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "reflux nephropathy",
+      "detected_name": "reflux~nephropathy",
+      "acc": 0.8589508154761971,
+      "context_similarity": 0.8589508154761971,
+      "start": 179,
+      "end": 197,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-24295008"
+      ],
+      "id": 21,
+      "meta_anns": {}
+    },
+    "28": {
+      "pretty_name": "Immunosuppression",
+      "cui": "C4048329",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "immunosuppression",
+      "detected_name": "immunosuppression",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 306,
+      "end": 323,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 28,
+      "meta_anns": {}
+    },
+    "29": {
+      "pretty_name": "Peripheral Vascular Diseases",
+      "cui": "C0085096",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "peripheral vascular disease",
+      "detected_name": "peripheral~vascular~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 325,
+      "end": 352,
+      "icd10": [
+        {
+          "chapter": "I73.9",
+          "name": "Peripheral vascular disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155431008",
+        "S-155433006",
+        "S-195311000",
+        "S-195314008",
+        "S-266320008",
+        "S-266321007",
+        "S-399957001",
+        "S-400047006",
+        "S-91523003"
+      ],
+      "id": 29,
+      "meta_anns": {}
+    },
+    "34": {
+      "pretty_name": "Ulcer",
+      "cui": "C0041582",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ulcer",
+      "detected_name": "ulcer",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 370,
+      "end": 375,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-255321001",
+        "S-429040005",
+        "S-56208002"
+      ],
+      "id": 34,
+      "meta_anns": {}
+    },
+    "35": {
+      "pretty_name": "Peripheral Neuropathy",
+      "cui": "C0031117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "peripheral neuropathy",
+      "detected_name": "peripheral~neuropathy",
+      "acc": 0.45787743524536295,
+      "context_similarity": 0.45787743524536295,
+      "start": 400,
+      "end": 421,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155064004",
+        "S-155080009",
+        "S-155100008",
+        "S-193088006",
+        "S-193264002",
+        "S-264554005",
+        "S-267706009",
+        "S-302226006",
+        "S-42658009"
+      ],
+      "id": 35,
+      "meta_anns": {}
+    },
+    "63": {
+      "pretty_name": "Paresthesia",
+      "cui": "C0030554",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "paraesthesias",
+      "detected_name": "paraesthesia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 851,
+      "end": 864,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-158228009",
+        "S-206857001",
+        "S-91019004"
+      ],
+      "id": 63,
+      "meta_anns": {}
+    },
+    "65": {
+      "pretty_name": "Neuropathy",
+      "cui": "C0442874",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "neuropathy",
+      "detected_name": "neuropathy",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 880,
+      "end": 890,
+      "icd10": [
+        {
+          "chapter": "G62.9",
+          "name": "Polyneuropathy, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-193167000",
+        "S-264554005",
+        "S-277317008",
+        "S-277878001",
+        "S-386033004",
+        "S-42658009"
+      ],
+      "id": 65,
+      "meta_anns": {}
+    },
+    "84": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease",
+      "detected_name": "disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1481,
+      "end": 1488,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 84,
+      "meta_anns": {}
+    },
+    "85": {
+      "pretty_name": "Spondylosis",
+      "cui": "C0038019",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "spondylosis",
+      "detected_name": "spondylosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1490,
+      "end": 1501,
+      "icd10": [
+        {
+          "chapter": "M47",
+          "name": "Spondylosis"
+        },
+        {
+          "chapter": "M47.9",
+          "name": "Spondylosis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-156622007",
+        "S-156628006",
+        "S-202701004",
+        "S-202704007",
+        "S-267973008",
+        "S-268074002",
+        "S-268075001",
+        "S-8847002"
+      ],
+      "id": 85,
+      "meta_anns": {}
+    },
+    "95": {
+      "pretty_name": "",
+      "cui": "C0042373",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "vascular",
+      "detected_name": "vascular",
+      "acc": 0.17898078182931382,
+      "context_similarity": 0.17898078182931382,
+      "start": 1812,
+      "end": 1820,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-27550009"
+      ],
+      "id": 95,
+      "meta_anns": {}
+    },
+    "98": {
+      "pretty_name": "",
+      "cui": "C0042373",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "vascular disease",
+      "detected_name": "vascular~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1894,
+      "end": 1910,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-27550009"
+      ],
+      "id": 98,
+      "meta_anns": {}
+    },
+    "101": {
+      "pretty_name": "",
+      "cui": "C3864015",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "bilateral trochanteric bursitis",
+      "detected_name": "bilateral~trochanteric~bursitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1971,
+      "end": 2002,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-11873951000119109"
+      ],
+      "id": 101,
+      "meta_anns": {}
+    },
+    "113": {
+      "pretty_name": "Kidney Diseases",
+      "cui": "C0022658",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "renal disease",
+      "detected_name": "renal~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2183,
+      "end": 2196,
+      "icd10": [
+        {
+          "chapter": "N08",
+          "name": "Glomerular disorders in diseases classified elsewhere"
+        },
+        {
+          "chapter": "N28.9",
+          "name": "Disorder of kidney and ureter, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155871008",
+        "S-266612003",
+        "S-266624005",
+        "S-266627003",
+        "S-274108006",
+        "S-90708001"
+      ],
+      "id": 113,
+      "meta_anns": {}
+    },
+    "117": {
+      "pretty_name": "Reflux nephropathy",
+      "cui": "C3495566",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "reflux nephropathy",
+      "detected_name": "reflux~nephropathy",
+      "acc": 0.756496886761968,
+      "context_similarity": 0.756496886761968,
+      "start": 2210,
+      "end": 2228,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-24295008"
+      ],
+      "id": 117,
+      "meta_anns": {}
+    },
+    "121": {
+      "pretty_name": "Urinary tract infection",
+      "cui": "C0042029",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "urinary tract infections",
+      "detected_name": "urinary~tract~infection",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2249,
+      "end": 2273,
+      "icd10": [
+        {
+          "chapter": "N39.0",
+          "name": "Urinary tract infection, site not specified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155896006",
+        "S-155897002",
+        "S-197924008",
+        "S-197930008",
+        "S-266634001",
+        "S-266635000",
+        "S-274110008",
+        "S-68566005"
+      ],
+      "id": 121,
+      "meta_anns": {}
+    },
+    "126": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2377,
+      "end": 2389,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 126,
+      "meta_anns": {}
+    },
+    "127": {
+      "pretty_name": "Peripheral Vascular Diseases",
+      "cui": "C0085096",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Peripheral vascular disease",
+      "detected_name": "peripheral~vascular~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2390,
+      "end": 2417,
+      "icd10": [
+        {
+          "chapter": "I73.9",
+          "name": "Peripheral vascular disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155431008",
+        "S-155433006",
+        "S-195311000",
+        "S-195314008",
+        "S-266320008",
+        "S-266321007",
+        "S-399957001",
+        "S-400047006",
+        "S-91523003"
+      ],
+      "id": 127,
+      "meta_anns": {}
+    },
+    "136": {
+      "pretty_name": "Ulcer",
+      "cui": "C0041582",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ulcer",
+      "detected_name": "ulcer",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2476,
+      "end": 2481,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-255321001",
+        "S-429040005",
+        "S-56208002"
+      ],
+      "id": 136,
+      "meta_anns": {}
+    },
+    "143": {
+      "pretty_name": "",
+      "cui": "C0555972",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "infected toe",
+      "detected_name": "infected~toe",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2549,
+      "end": 2561,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-200732005",
+        "S-200735007",
+        "S-299989006"
+      ],
+      "id": 143,
+      "meta_anns": {}
+    },
+    "146": {
+      "pretty_name": "Peripheral Neuropathy",
+      "cui": "C0031117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Peripheral Neuropathy",
+      "detected_name": "peripheral~neuropathy",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2577,
+      "end": 2598,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-155064004",
+        "S-155080009",
+        "S-155100008",
+        "S-193088006",
+        "S-193264002",
+        "S-264554005",
+        "S-267706009",
+        "S-302226006",
+        "S-42658009"
+      ],
+      "id": 146,
+      "meta_anns": {}
+    },
+    "148": {
+      "pretty_name": "",
+      "cui": "C0581384",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Chronic anemia",
+      "detected_name": "chronic~anemia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2599,
+      "end": 2613,
+      "icd10": [
+        {
+          "chapter": "D53.9",
+          "name": "Nutritional anemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-191268006",
+        "S-291262006",
+        "S-76032001"
+      ],
+      "id": 148,
+      "meta_anns": {}
+    },
+    "154": {
+      "pretty_name": "",
+      "cui": "C0281936",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "partial small bowel obstructions",
+      "detected_name": "partial~small~bowel~obstruction",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2656,
+      "end": 2688,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-429196001"
+      ],
+      "id": 154,
+      "meta_anns": {}
+    },
+    "162": {
+      "pretty_name": "",
+      "cui": "C0155747",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "splenic artery aneurysm",
+      "detected_name": "splenic~artery~aneurysm",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2842,
+      "end": 2865,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-70405009"
+      ],
+      "id": 162,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

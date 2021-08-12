@@ -1,0 +1,471 @@
+{
+  "entities": {
+    "2": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 97,
+      "end": 109,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 2,
+      "meta_anns": {}
+    },
+    "3": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disorder",
+      "detected_name": "disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 131,
+      "end": 139,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 3,
+      "meta_anns": {}
+    },
+    "9": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.7449161562996938,
+      "context_similarity": 0.7449161562996938,
+      "start": 300,
+      "end": 308,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 9,
+      "meta_anns": {}
+    },
+    "10": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabete",
+      "acc": 0.5476044064786247,
+      "context_similarity": 0.5476044064786247,
+      "start": 339,
+      "end": 347,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 10,
+      "meta_anns": {}
+    },
+    "33": {
+      "pretty_name": "Colonic Diseases",
+      "cui": "C0009373",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "colon",
+      "detected_name": "colon",
+      "acc": 0.7276051426578517,
+      "context_similarity": 0.7276051426578517,
+      "start": 1138,
+      "end": 1143,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-128524007"
+      ],
+      "id": 33,
+      "meta_anns": {}
+    },
+    "126": {
+      "pretty_name": "Dental caries",
+      "cui": "C0011334",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "dental caries",
+      "detected_name": "dental~carie",
+      "acc": 0.7521090487483294,
+      "context_similarity": 0.7521090487483294,
+      "start": 3377,
+      "end": 3390,
+      "icd10": [
+        {
+          "chapter": "K02",
+          "name": "Dental caries"
+        },
+        {
+          "chapter": "K02.9",
+          "name": "Dental caries, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155632007",
+        "S-196307002",
+        "S-80967001"
+      ],
+      "id": 126,
+      "meta_anns": {}
+    },
+    "129": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adenopathy",
+      "detected_name": "adenopathy",
+      "acc": 0.8923073121499667,
+      "context_similarity": 0.8923073121499667,
+      "start": 3416,
+      "end": 3426,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 129,
+      "meta_anns": {}
+    },
+    "183": {
+      "pretty_name": "External hemorrhoids",
+      "cui": "C0265040",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "external hemorrhoids",
+      "detected_name": "external~hemorrhoid",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 4229,
+      "end": 4249,
+      "icd10": [
+        {
+          "chapter": "K64.4",
+          "name": "Residual hemorrhoidal skin tags"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-23913003"
+      ],
+      "id": 183,
+      "meta_anns": {}
+    },
+    "202": {
+      "pretty_name": "",
+      "cui": "C0037284",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "skin lesions",
+      "detected_name": "skin~lesion",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4593,
+      "end": 4605,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-156439002",
+        "S-201342000",
+        "S-201344004",
+        "S-95324001"
+      ],
+      "id": 202,
+      "meta_anns": {}
+    },
+    "208": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.37935252081784965,
+      "context_similarity": 0.37935252081784965,
+      "start": 4671,
+      "end": 4683,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 208,
+      "meta_anns": {}
+    },
+    "209": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disorder",
+      "detected_name": "disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 4704,
+      "end": 4712,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 209,
+      "meta_anns": {}
+    },
+    "219": {
+      "pretty_name": "Upper Respiratory Infections",
+      "cui": "C0041912",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Upper respiratory infection",
+      "detected_name": "upper~respiratory~infection",
+      "acc": 0.3707735661562297,
+      "context_similarity": 0.3707735661562297,
+      "start": 4788,
+      "end": 4815,
+      "icd10": [
+        {
+          "chapter": "J06.9",
+          "name": "Acute upper respiratory infection, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155547007",
+        "S-195711002",
+        "S-266338006",
+        "S-54150009"
+      ],
+      "id": 219,
+      "meta_anns": {}
+    },
+    "236": {
+      "pretty_name": "Upper Respiratory Infections",
+      "cui": "C0041912",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "upper respiratory tract infection",
+      "detected_name": "upper~respiratory~tract~infection",
+      "acc": 0.29948888507890026,
+      "context_similarity": 0.29948888507890026,
+      "start": 5117,
+      "end": 5150,
+      "icd10": [
+        {
+          "chapter": "J06.9",
+          "name": "Acute upper respiratory infection, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155547007",
+        "S-195711002",
+        "S-266338006",
+        "S-54150009"
+      ],
+      "id": 236,
+      "meta_anns": {}
+    },
+    "253": {
+      "pretty_name": "Colonic Diseases",
+      "cui": "C0009373",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "colon",
+      "detected_name": "colon",
+      "acc": 0.6892580329882598,
+      "context_similarity": 0.6892580329882598,
+      "start": 5465,
+      "end": 5470,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-128524007"
+      ],
+      "id": 253,
+      "meta_anns": {}
+    },
+    "265": {
+      "pretty_name": "Irritable Bowel Syndrome",
+      "cui": "C0022104",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "irritable bowel syndrome",
+      "detected_name": "irritable~bowel~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 5936,
+      "end": 5960,
+      "icd10": [
+        {
+          "chapter": "K58",
+          "name": "Irritable bowel syndrome"
+        },
+        {
+          "chapter": "K58.9",
+          "name": "Irritable bowel syndrome without diarrhea"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-10743008",
+        "S-155783000",
+        "S-192434000",
+        "S-197124009",
+        "S-266525002"
+      ],
+      "id": 265,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

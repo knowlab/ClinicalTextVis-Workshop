@@ -1,0 +1,379 @@
+{
+  "entities": {
+    "23": {
+      "pretty_name": "",
+      "cui": "C0080151",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "said",
+      "detected_name": "said",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 451,
+      "end": 455,
+      "icd10": [
+        {
+          "chapter": "B34",
+          "name": "Viral infection of unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-66049007"
+      ],
+      "id": 23,
+      "meta_anns": {}
+    },
+    "49": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 962,
+      "end": 974,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 49,
+      "meta_anns": {}
+    },
+    "50": {
+      "pretty_name": "",
+      "cui": "C2919352",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "seasonal asthma",
+      "detected_name": "seasonal~asthma",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 979,
+      "end": 994,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-445427006"
+      ],
+      "id": 50,
+      "meta_anns": {}
+    },
+    "55": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease",
+      "detected_name": "disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1061,
+      "end": 1068,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 55,
+      "meta_anns": {}
+    },
+    "56": {
+      "pretty_name": "Cholecystitis",
+      "cui": "C0008325",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Cholecystitis",
+      "detected_name": "cholecystitis",
+      "acc": 0.8064017138151158,
+      "context_similarity": 0.8064017138151158,
+      "start": 1071,
+      "end": 1084,
+      "icd10": [
+        {
+          "chapter": "K81",
+          "name": "Cholecystitis"
+        },
+        {
+          "chapter": "K81.9",
+          "name": "Cholecystitis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-197414008",
+        "S-76581006"
+      ],
+      "id": 56,
+      "meta_anns": {}
+    },
+    "65": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary artery disease",
+      "detected_name": "coronary~artery~disease",
+      "acc": 0.27237578197609125,
+      "context_similarity": 0.27237578197609125,
+      "start": 1198,
+      "end": 1221,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 65,
+      "meta_anns": {}
+    },
+    "78": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obese",
+      "detected_name": "obese",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1584,
+      "end": 1589,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 78,
+      "meta_anns": {}
+    },
+    "93": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "adenopathy",
+      "detected_name": "adenopathy",
+      "acc": 0.681448993744694,
+      "context_similarity": 0.681448993744694,
+      "start": 2026,
+      "end": 2036,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 93,
+      "meta_anns": {}
+    },
+    "111": {
+      "pretty_name": "Varicosity",
+      "cui": "C0042345",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "varicosities",
+      "detected_name": "varicosity",
+      "acc": 0.9088409210040189,
+      "context_similarity": 0.9088409210040189,
+      "start": 2406,
+      "end": 2418,
+      "icd10": [
+        {
+          "chapter": "I83.90",
+          "name": "Asymptomatic varicose veins of unspecified lower extremity"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128060009",
+        "S-12856003",
+        "S-155468006",
+        "S-155482006",
+        "S-234053000",
+        "S-266331000",
+        "S-276504003",
+        "S-399989005"
+      ],
+      "id": 111,
+      "meta_anns": {}
+    },
+    "141": {
+      "pretty_name": "Appendicitis",
+      "cui": "C0003615",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "acute appendicitis",
+      "detected_name": "acute~appendicitis",
+      "acc": 0.472929561029096,
+      "context_similarity": 0.472929561029096,
+      "start": 2984,
+      "end": 3002,
+      "icd10": [
+        {
+          "chapter": "K37",
+          "name": "Unspecified appendicitis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155728006",
+        "S-155729003",
+        "S-155733005",
+        "S-155736002",
+        "S-196785005",
+        "S-307530000",
+        "S-74400008"
+      ],
+      "id": 141,
+      "meta_anns": {}
+    },
+    "146": {
+      "pretty_name": "Abscess",
+      "cui": "C0000833",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "abscess",
+      "detected_name": "abscess",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3115,
+      "end": 3122,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-128477000",
+        "S-156308003",
+        "S-200694004",
+        "S-267831001",
+        "S-44132006"
+      ],
+      "id": 146,
+      "meta_anns": {}
+    },
+    "148": {
+      "pretty_name": "Pneumoperitoneum",
+      "cui": "C0032320",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pneumoperitoneum",
+      "detected_name": "pneumoperitoneum",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 3136,
+      "end": 3152,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-17204006",
+        "S-182699003",
+        "S-266803002"
+      ],
+      "id": 148,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

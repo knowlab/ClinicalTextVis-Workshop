@@ -1,0 +1,35 @@
+{
+  "entities": {
+    "9": {
+      "pretty_name": "Old myocardial infarction",
+      "cui": "C0155668",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "previous MI",
+      "detected_name": "previous~mi",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 153,
+      "end": 164,
+      "icd10": [
+        {
+          "chapter": "I25.2",
+          "name": "Old myocardial infarction"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155306008",
+        "S-1755008",
+        "S-194827005"
+      ],
+      "id": 9,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

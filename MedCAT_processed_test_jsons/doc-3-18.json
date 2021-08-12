@@ -1,0 +1,839 @@
+{
+  "entities": {
+    "0": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obese",
+      "detected_name": "obese",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 111,
+      "end": 116,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 0,
+      "meta_anns": {}
+    },
+    "6": {
+      "pretty_name": "",
+      "cui": "C0262395",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension, borderline",
+      "detected_name": "hypertension~borderline",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 162,
+      "end": 186,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [],
+      "id": 6,
+      "meta_anns": {}
+    },
+    "8": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.8144183683527582,
+      "context_similarity": 0.8144183683527582,
+      "start": 187,
+      "end": 195,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 8,
+      "meta_anns": {}
+    },
+    "9": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obesity",
+      "detected_name": "obesity",
+      "acc": 0.26094102806534347,
+      "context_similarity": 0.26094102806534347,
+      "start": 201,
+      "end": 208,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 9,
+      "meta_anns": {}
+    },
+    "14": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary heart disease",
+      "detected_name": "coronary~heart~disease",
+      "acc": 0.47738157103478035,
+      "context_similarity": 0.47738157103478035,
+      "start": 238,
+      "end": 260,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 14,
+      "meta_anns": {}
+    },
+    "28": {
+      "pretty_name": "Paroxysmal nocturnal dyspnea",
+      "cui": "C1956415",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "PND",
+      "detected_name": "pnd",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 452,
+      "end": 455,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-139198007",
+        "S-55442000"
+      ],
+      "id": 28,
+      "meta_anns": {}
+    },
+    "29": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary heart disease",
+      "detected_name": "coronary~heart~disease",
+      "acc": 0.21011518182394318,
+      "context_similarity": 0.21011518182394318,
+      "start": 492,
+      "end": 514,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 29,
+      "meta_anns": {}
+    },
+    "35": {
+      "pretty_name": "Myocardial Infarction",
+      "cui": "C0027051",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "MI",
+      "detected_name": "mi",
+      "acc": 0.4985702681287416,
+      "context_similarity": 0.4985702681287416,
+      "start": 583,
+      "end": 585,
+      "icd10": [
+        {
+          "chapter": "I22",
+          "name": "Subsequent ST elevation (STEMI) and non-ST elevation (NSTEMI) myocardial infarction"
+        },
+        {
+          "chapter": "I21",
+          "name": "Acute myocardial infarction"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155304006",
+        "S-194796000",
+        "S-22298006",
+        "S-233824008",
+        "S-266288001",
+        "S-66514008"
+      ],
+      "id": 35,
+      "meta_anns": {}
+    },
+    "36": {
+      "pretty_name": "Cerebrovascular accident",
+      "cui": "C0038454",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "CVA",
+      "detected_name": "cva",
+      "acc": 0.471631916090432,
+      "context_similarity": 0.471631916090432,
+      "start": 590,
+      "end": 593,
+      "icd10": [
+        {
+          "chapter": "I64",
+          "name": "Stroke, not specified as haemorrhage or infarction"
+        },
+        {
+          "chapter": "I63.9",
+          "name": "Cerebral infarction, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155388006",
+        "S-155405006",
+        "S-195208004",
+        "S-230690007",
+        "S-266312006",
+        "S-266315008",
+        "S-270883006",
+        "S-313267000",
+        "S-82797006"
+      ],
+      "id": 36,
+      "meta_anns": {}
+    },
+    "39": {
+      "pretty_name": "Bleeding tendency",
+      "cui": "C1458140",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "bleeding tendencies",
+      "detected_name": "bleeding~tendency",
+      "acc": 0.35457534465515184,
+      "context_similarity": 0.35457534465515184,
+      "start": 632,
+      "end": 651,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-123329004",
+        "S-248250000",
+        "S-267562007",
+        "S-64779008",
+        "S-78596001"
+      ],
+      "id": 39,
+      "meta_anns": {}
+    },
+    "42": {
+      "pretty_name": "Deep Vein Thrombosis",
+      "cui": "C0149871",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "DVT",
+      "detected_name": "dvt",
+      "acc": 0.9125470079652029,
+      "context_similarity": 0.9125470079652029,
+      "start": 668,
+      "end": 671,
+      "icd10": [
+        {
+          "chapter": "I82.40",
+          "name": "Acute embolism and thrombosis of unspecified deep veins of lower extremity"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-128053003",
+        "S-128057002",
+        "S-155454004",
+        "S-195403006",
+        "S-266328001"
+      ],
+      "id": 42,
+      "meta_anns": {}
+    },
+    "44": {
+      "pretty_name": "Pulmonary Embolism",
+      "cui": "C0034065",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pulmonary embolism",
+      "detected_name": "pulmonary~embolism",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 675,
+      "end": 693,
+      "icd10": [
+        {
+          "chapter": "I26",
+          "name": "Pulmonary embolism"
+        },
+        {
+          "chapter": "I26.99",
+          "name": "Other pulmonary embolism without acute cor pulmonale"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155326007",
+        "S-194882001",
+        "S-266292008",
+        "S-59282003"
+      ],
+      "id": 44,
+      "meta_anns": {}
+    },
+    "49": {
+      "pretty_name": "Sleep Disorders",
+      "cui": "C0851578",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "sleep disorder",
+      "detected_name": "sleep~disorder",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 797,
+      "end": 811,
+      "icd10": [
+        {
+          "chapter": "G47",
+          "name": "Sleep disorders"
+        },
+        {
+          "chapter": "G47.9",
+          "name": "Sleep disorder, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154927001",
+        "S-194436004",
+        "S-206757006",
+        "S-268775007",
+        "S-39898005"
+      ],
+      "id": 49,
+      "meta_anns": {}
+    },
+    "77": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obese",
+      "detected_name": "obese",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1388,
+      "end": 1393,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 77,
+      "meta_anns": {}
+    },
+    "88": {
+      "pretty_name": "Diabetes Mellitus",
+      "cui": "C0011849",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes mellitus",
+      "detected_name": "diabetes~mellitus",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1686,
+      "end": 1703,
+      "icd10": [
+        {
+          "chapter": "E10-E14.9",
+          "name": "Diabetes mellitus"
+        },
+        {
+          "chapter": "E14",
+          "name": "Unspecified diabetes mellitus"
+        },
+        {
+          "chapter": "E08-E13",
+          "name": "Diabetes mellitus (E08-E13)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154671004",
+        "S-191044006",
+        "S-267467004",
+        "S-73211009"
+      ],
+      "id": 88,
+      "meta_anns": {}
+    },
+    "121": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary heart disease",
+      "detected_name": "coronary~heart~disease",
+      "acc": 0.8202022515650721,
+      "context_similarity": 0.8202022515650721,
+      "start": 2506,
+      "end": 2528,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 121,
+      "meta_anns": {}
+    },
+    "126": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.5565625090911847,
+      "context_similarity": 0.5565625090911847,
+      "start": 2560,
+      "end": 2568,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 126,
+      "meta_anns": {}
+    },
+    "128": {
+      "pretty_name": "Metabolic Syndrome X",
+      "cui": "C0524620",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "metabolic syndrome",
+      "detected_name": "metabolic~syndrome",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2582,
+      "end": 2600,
+      "icd10": [
+        {
+          "chapter": "E88.81",
+          "name": "Metabolic syndrome"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-190394009",
+        "S-237602007"
+      ],
+      "id": 128,
+      "meta_anns": {}
+    },
+    "130": {
+      "pretty_name": "Obesity",
+      "cui": "C0028754",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "obesity",
+      "detected_name": "obesity",
+      "acc": 0.20999879596948365,
+      "context_similarity": 0.20999879596948365,
+      "start": 2632,
+      "end": 2639,
+      "icd10": [
+        {
+          "chapter": "E66",
+          "name": "Obesity"
+        },
+        {
+          "chapter": "E66.9",
+          "name": "Obesity, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154776002",
+        "S-190963004",
+        "S-414915002",
+        "S-414916001",
+        "S-5476005"
+      ],
+      "id": 130,
+      "meta_anns": {}
+    },
+    "131": {
+      "pretty_name": "Hypertensive disease",
+      "cui": "C0020538",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hypertension",
+      "detected_name": "hypertension",
+      "acc": 0.9739630050409323,
+      "context_similarity": 0.9739630050409323,
+      "start": 2641,
+      "end": 2653,
+      "icd10": [
+        {
+          "chapter": "I10-I15.9",
+          "name": "Hypertensive diseases"
+        },
+        {
+          "chapter": "I10",
+          "name": "Essential (primary) hypertension"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155295004",
+        "S-155302005",
+        "S-194756002",
+        "S-194757006",
+        "S-194760004",
+        "S-194794002",
+        "S-195537001",
+        "S-266287006",
+        "S-38341003"
+      ],
+      "id": 131,
+      "meta_anns": {}
+    },
+    "136": {
+      "pretty_name": "Hyperglycemia",
+      "cui": "C0020456",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hyperglycemia",
+      "detected_name": "hyperglycemia",
+      "acc": 0.4800543788931456,
+      "context_similarity": 0.4800543788931456,
+      "start": 2711,
+      "end": 2724,
+      "icd10": [
+        {
+          "chapter": "R73.9",
+          "name": "Hyperglycaemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-144187006",
+        "S-154719004",
+        "S-207289007",
+        "S-207643008",
+        "S-237598005",
+        "S-270004003",
+        "S-315299009",
+        "S-390730002",
+        "S-80394007"
+      ],
+      "id": 136,
+      "meta_anns": {}
+    },
+    "138": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary heart disease",
+      "detected_name": "coronary~heart~disease",
+      "acc": 0.6147499701409722,
+      "context_similarity": 0.6147499701409722,
+      "start": 2795,
+      "end": 2817,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 138,
+      "meta_anns": {}
+    },
+    "143": {
+      "pretty_name": "Coronary Arteriosclerosis",
+      "cui": "C0010054",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary atherosclerosis",
+      "detected_name": "coronary~atherosclerosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2854,
+      "end": 2878,
+      "icd10": [
+        {
+          "chapter": "I25.1",
+          "name": "Atherosclerotic heart disease"
+        },
+        {
+          "chapter": "I25.10",
+          "name": "Atherosclerotic heart disease of native coronary artery without angina pectoris"
+        },
+        {
+          "chapter": "K76.1",
+          "name": "Chronic passive congestion of liver"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155315001",
+        "S-155316000",
+        "S-194795001",
+        "S-194841001",
+        "S-266231003",
+        "S-266290000",
+        "S-41702007",
+        "S-443502000",
+        "S-53741008"
+      ],
+      "id": 143,
+      "meta_anns": {}
+    },
+    "177": {
+      "pretty_name": "Diabetes",
+      "cui": "C0011847",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "diabetes",
+      "detected_name": "diabetes",
+      "acc": 0.34626074563177084,
+      "context_similarity": 0.34626074563177084,
+      "start": 3936,
+      "end": 3944,
+      "icd10": [
+        {
+          "chapter": "E11",
+          "name": "Type 2 diabetes mellitus"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [],
+      "id": 177,
+      "meta_anns": {}
+    },
+    "180": {
+      "pretty_name": "Atherosclerosis",
+      "cui": "C0004153",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "atherosclerosis",
+      "detected_name": "atherosclerosis",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 4158,
+      "end": 4173,
+      "icd10": [
+        {
+          "chapter": "I70",
+          "name": "Atherosclerosis"
+        },
+        {
+          "chapter": "I25.1",
+          "name": "Atherosclerotic heart disease of native coronary artery"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155382007",
+        "S-155414001",
+        "S-194848007",
+        "S-195251000",
+        "S-266318005",
+        "S-38716007"
+      ],
+      "id": 180,
+      "meta_anns": {}
+    },
+    "181": {
+      "pretty_name": "Coronary Artery Disease",
+      "cui": "C1956346",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "coronary artery disease",
+      "detected_name": "coronary~artery~disease",
+      "acc": 0.5239557232527123,
+      "context_similarity": 0.5239557232527123,
+      "start": 4190,
+      "end": 4213,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-194841001",
+        "S-414024009",
+        "S-41702007",
+        "S-53741008",
+        "S-8957000"
+      ],
+      "id": 181,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

@@ -1,0 +1,495 @@
+{
+  "entities": {
+    "40": {
+      "pretty_name": "Disease",
+      "cui": "C0012634",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "disease",
+      "detected_name": "disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1004,
+      "end": 1011,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-64572001"
+      ],
+      "id": 40,
+      "meta_anns": {}
+    },
+    "52": {
+      "pretty_name": "Hyperlipidemia",
+      "cui": "C0020473",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hyperlipidemia",
+      "detected_name": "hyperlipidemia",
+      "acc": 0.5251842116119251,
+      "context_similarity": 0.5251842116119251,
+      "start": 1301,
+      "end": 1315,
+      "icd10": [
+        {
+          "chapter": "E78.5",
+          "name": "Hyperlipidaemia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154739000",
+        "S-154743001",
+        "S-190782002",
+        "S-267499005",
+        "S-55822004"
+      ],
+      "id": 52,
+      "meta_anns": {}
+    },
+    "53": {
+      "pretty_name": "Thyroid Diseases",
+      "cui": "C0040128",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "thyroid",
+      "detected_name": "thyroid",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1333,
+      "end": 1340,
+      "icd10": [
+        {
+          "chapter": "E00-E07.9",
+          "name": "Disorders of thyroid gland"
+        },
+        {
+          "chapter": "E07.9",
+          "name": "Disorder of thyroid, unspecified"
+        },
+        {
+          "chapter": "E00-E07",
+          "name": "Disorders of thyroid gland (E00-E07)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-14304000",
+        "S-154649009",
+        "S-190232008",
+        "S-190311002",
+        "S-191036006"
+      ],
+      "id": 53,
+      "meta_anns": {}
+    },
+    "57": {
+      "pretty_name": "Asthmatic bronchitis",
+      "cui": "C1319018",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "asthma, bronchitis",
+      "detected_name": "asthma~bronchitis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1370,
+      "end": 1388,
+      "icd10": [
+        {
+          "chapter": "J45.90",
+          "name": "Unspecified asthma"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-195939005",
+        "S-21341004",
+        "S-278517007",
+        "S-405944004"
+      ],
+      "id": 57,
+      "meta_anns": {}
+    },
+    "59": {
+      "pretty_name": "Tuberculosis",
+      "cui": "C0041296",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "TB",
+      "detected_name": "tb",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 1390,
+      "end": 1392,
+      "icd10": [
+        {
+          "chapter": "A15-A19.9",
+          "name": "Tuberculosis"
+        },
+        {
+          "chapter": "A15-A19",
+          "name": "Tuberculosis (A15-A19)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154281007",
+        "S-154292008",
+        "S-186282009",
+        "S-187285000",
+        "S-263912007",
+        "S-371569005",
+        "S-373576009",
+        "S-56717001"
+      ],
+      "id": 59,
+      "meta_anns": {}
+    },
+    "60": {
+      "pretty_name": "Pulmonary Emphysema",
+      "cui": "C0034067",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "emphysema",
+      "detected_name": "emphysema",
+      "acc": 0.9050369200343258,
+      "context_similarity": 0.9050369200343258,
+      "start": 1394,
+      "end": 1403,
+      "icd10": [
+        {
+          "chapter": "J43",
+          "name": "Emphysema"
+        },
+        {
+          "chapter": "J43.9",
+          "name": "Emphysema, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155573002",
+        "S-87433001"
+      ],
+      "id": 60,
+      "meta_anns": {}
+    },
+    "61": {
+      "pretty_name": "Pneumonia",
+      "cui": "C0032285",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "pneumonia",
+      "detected_name": "pneumonia",
+      "acc": 0.7512288325879407,
+      "context_similarity": 0.7512288325879407,
+      "start": 1407,
+      "end": 1416,
+      "icd10": [
+        {
+          "chapter": "J18.9",
+          "name": "Pneumonia, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155548002",
+        "S-155552002",
+        "S-155558003",
+        "S-233604007",
+        "S-266391003",
+        "S-274103002",
+        "S-60363000"
+      ],
+      "id": 61,
+      "meta_anns": {}
+    },
+    "62": {
+      "pretty_name": "Tuberculosis",
+      "cui": "C0041296",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "tuberculosis",
+      "detected_name": "tuberculosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1422,
+      "end": 1434,
+      "icd10": [
+        {
+          "chapter": "A15-A19.9",
+          "name": "Tuberculosis"
+        },
+        {
+          "chapter": "A15-A19",
+          "name": "Tuberculosis (A15-A19)"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-154281007",
+        "S-154292008",
+        "S-186282009",
+        "S-187285000",
+        "S-263912007",
+        "S-371569005",
+        "S-373576009",
+        "S-56717001"
+      ],
+      "id": 62,
+      "meta_anns": {}
+    },
+    "72": {
+      "pretty_name": "Gastritis",
+      "cui": "C0017152",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "gastritis",
+      "detected_name": "gastritis",
+      "acc": 0.7691557576372208,
+      "context_similarity": 0.7691557576372208,
+      "start": 1570,
+      "end": 1579,
+      "icd10": [
+        {
+          "chapter": "K29.7",
+          "name": "Gastritis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155711008",
+        "S-196743006",
+        "S-235653009",
+        "S-266503008",
+        "S-4556007"
+      ],
+      "id": 72,
+      "meta_anns": {}
+    },
+    "73": {
+      "pretty_name": "Ulcer",
+      "cui": "C0041582",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "ulcers",
+      "detected_name": "ulcer",
+      "acc": 0.8476475374533201,
+      "context_similarity": 0.8476475374533201,
+      "start": 1583,
+      "end": 1589,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-255321001",
+        "S-429040005",
+        "S-56208002"
+      ],
+      "id": 73,
+      "meta_anns": {}
+    },
+    "76": {
+      "pretty_name": "Kidney Diseases",
+      "cui": "C0022658",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "kidney disease",
+      "detected_name": "kidney~disease",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 1607,
+      "end": 1621,
+      "icd10": [
+        {
+          "chapter": "N08",
+          "name": "Glomerular disorders in diseases classified elsewhere"
+        },
+        {
+          "chapter": "N28.9",
+          "name": "Disorder of kidney and ureter, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155871008",
+        "S-266612003",
+        "S-266624005",
+        "S-266627003",
+        "S-274108006",
+        "S-90708001"
+      ],
+      "id": 76,
+      "meta_anns": {}
+    },
+    "80": {
+      "pretty_name": "Abscess",
+      "cui": "C0000833",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "abscess",
+      "detected_name": "abscess",
+      "acc": 0.6423007979342826,
+      "context_similarity": 0.6423007979342826,
+      "start": 1741,
+      "end": 1748,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-128477000",
+        "S-156308003",
+        "S-200694004",
+        "S-267831001",
+        "S-44132006"
+      ],
+      "id": 80,
+      "meta_anns": {}
+    },
+    "83": {
+      "pretty_name": "Cyst",
+      "cui": "C0010709",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "cyst",
+      "detected_name": "cyst",
+      "acc": 0.2546440956464306,
+      "context_similarity": 0.2546440956464306,
+      "start": 1807,
+      "end": 1811,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-12494005",
+        "S-133846001",
+        "S-264515009",
+        "S-367643001",
+        "S-441457006"
+      ],
+      "id": 83,
+      "meta_anns": {}
+    },
+    "85": {
+      "pretty_name": "Arthritis",
+      "cui": "C0003864",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "arthritis",
+      "detected_name": "arthritis",
+      "acc": 0.21067240342054572,
+      "context_similarity": 0.21067240342054572,
+      "start": 1898,
+      "end": 1907,
+      "icd10": [
+        {
+          "chapter": "M13.9",
+          "name": "Arthritis, unspecified"
+        },
+        {
+          "chapter": "M19.90",
+          "name": "Unspecified osteoarthritis, unspecified site"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-202059001",
+        "S-363178003",
+        "S-372091005",
+        "S-3723001"
+      ],
+      "id": 85,
+      "meta_anns": {}
+    },
+    "137": {
+      "pretty_name": "Brucellosis",
+      "cui": "C0006309",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "brucellosis",
+      "detected_name": "brucellosis",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3134,
+      "end": 3145,
+      "icd10": [
+        {
+          "chapter": "A23",
+          "name": "Brucellosis"
+        },
+        {
+          "chapter": "A23.9",
+          "name": "Brucellosis, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-111804008",
+        "S-154296006",
+        "S-186310006",
+        "S-187304000",
+        "S-75702008"
+      ],
+      "id": 137,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

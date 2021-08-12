@@ -1,0 +1,82 @@
+{
+  "entities": {
+    "2": {
+      "pretty_name": "Respiratory Failure",
+      "cui": "C1145670",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Respiratory failure",
+      "detected_name": "respiratory~failure",
+      "acc": 0.9713619104618078,
+      "context_similarity": 0.9713619104618078,
+      "start": 52,
+      "end": 71,
+      "icd10": [
+        {
+          "chapter": "J96.9",
+          "name": "Respiratory failure, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-158731006",
+        "S-158734003",
+        "S-196165003",
+        "S-207552005",
+        "S-207555007",
+        "S-409622000",
+        "S-51395007"
+      ],
+      "id": 2,
+      "meta_anns": {}
+    },
+    "9": {
+      "pretty_name": "Intestinal Obstruction",
+      "cui": "C0021843",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "bowel obstruction",
+      "detected_name": "bowel~obstruction",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 201,
+      "end": 218,
+      "icd10": [
+        {
+          "chapter": "K56.60",
+          "name": "Unspecified intestinal obstruction"
+        },
+        {
+          "chapter": "K56.609",
+          "name": "Unspecified intestinal obstruction, unspecified as to partial versus complete obstruction"
+        },
+        {
+          "chapter": "K56.69",
+          "name": "Other intestinal obstruction"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155771002",
+        "S-155777003",
+        "S-197072007",
+        "S-197073002",
+        "S-197074008",
+        "S-197080000",
+        "S-266523009",
+        "S-81060008"
+      ],
+      "id": 9,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}

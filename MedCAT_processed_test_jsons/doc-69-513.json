@@ -1,0 +1,276 @@
+{
+  "entities": {
+    "14": {
+      "pretty_name": "",
+      "cui": "C0242339",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "dyslipidemia",
+      "detected_name": "dyslipidemia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 317,
+      "end": 329,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-370992007"
+      ],
+      "id": 14,
+      "meta_anns": {}
+    },
+    "19": {
+      "pretty_name": "Hemorrhoids",
+      "cui": "C0019112",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hemorrhoids",
+      "detected_name": "hemorrhoid",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 370,
+      "end": 381,
+      "icd10": [
+        {
+          "chapter": "I84",
+          "name": "Haemorrhoids"
+        },
+        {
+          "chapter": "K64",
+          "name": "Hemorrhoids and perianal venous thrombosis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155469003",
+        "S-155477004",
+        "S-195472000",
+        "S-70153002"
+      ],
+      "id": 19,
+      "meta_anns": {}
+    },
+    "24": {
+      "pretty_name": "",
+      "cui": "C0339821",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "concha bullosa",
+      "detected_name": "concha~bullosa",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 480,
+      "end": 494,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-232360002"
+      ],
+      "id": 24,
+      "meta_anns": {}
+    },
+    "49": {
+      "pretty_name": "Chronic Obstructive Airway Disease",
+      "cui": "C0024117",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "COPD",
+      "detected_name": "copd",
+      "acc": 0.573954681636858,
+      "context_similarity": 0.573954681636858,
+      "start": 902,
+      "end": 906,
+      "icd10": [
+        {
+          "chapter": "J44.9",
+          "name": "Chronic obstructive pulmonary disease, unspecified"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-13645005",
+        "S-155565006",
+        "S-155569000",
+        "S-155585005",
+        "S-155617000",
+        "S-195935004",
+        "S-195948000",
+        "S-196003006",
+        "S-413846005"
+      ],
+      "id": 49,
+      "meta_anns": {}
+    },
+    "53": {
+      "pretty_name": "Lung diseases",
+      "cui": "C0024115",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lung",
+      "detected_name": "lung",
+      "acc": 0.28855115234314704,
+      "context_similarity": 0.28855115234314704,
+      "start": 979,
+      "end": 983,
+      "icd10": [
+        {
+          "chapter": "J98.4",
+          "name": "Other disorders of lung"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-196164004",
+        "S-19829001",
+        "S-266374002"
+      ],
+      "id": 53,
+      "meta_anns": {}
+    },
+    "100": {
+      "pretty_name": "Microaneurysm",
+      "cui": "C0333101",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "microaneurysms",
+      "detected_name": "microaneurysm",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 2155,
+      "end": 2169,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-87104008"
+      ],
+      "id": 100,
+      "meta_anns": {}
+    },
+    "105": {
+      "pretty_name": "Lymphadenopathy",
+      "cui": "C0497156",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "lymphadenopathy",
+      "detected_name": "lymphadenopathy",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2209,
+      "end": 2224,
+      "icd10": [
+        {
+          "chapter": "R59",
+          "name": "Enlarged lymph nodes"
+        },
+        {
+          "chapter": "R59.9",
+          "name": "Enlarged lymph nodes, unspecified"
+        },
+        {
+          "chapter": "R59.1",
+          "name": "Generalized enlarged lymph nodes"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-139134006",
+        "S-141342003",
+        "S-158362007",
+        "S-161878009",
+        "S-207034000",
+        "S-269044004",
+        "S-271821001",
+        "S-30746006"
+      ],
+      "id": 105,
+      "meta_anns": {}
+    },
+    "133": {
+      "pretty_name": "Hemorrhoids",
+      "cui": "C0019112",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "hemorrhoids",
+      "detected_name": "hemorrhoid",
+      "acc": 0.99,
+      "context_similarity": 0.99,
+      "start": 2702,
+      "end": 2713,
+      "icd10": [
+        {
+          "chapter": "I84",
+          "name": "Haemorrhoids"
+        },
+        {
+          "chapter": "K64",
+          "name": "Hemorrhoids and perianal venous thrombosis"
+        }
+      ],
+      "ontologies": [],
+      "snomed": [
+        "S-155469003",
+        "S-155477004",
+        "S-195472000",
+        "S-70153002"
+      ],
+      "id": 133,
+      "meta_anns": {}
+    },
+    "146": {
+      "pretty_name": "",
+      "cui": "C0242339",
+      "tuis": [
+        "T047"
+      ],
+      "types": [
+        "Disease or Syndrome"
+      ],
+      "source_value": "Dyslipidemia",
+      "detected_name": "dyslipidemia",
+      "acc": 1.0,
+      "context_similarity": 1.0,
+      "start": 3000,
+      "end": 3012,
+      "icd10": [],
+      "ontologies": [],
+      "snomed": [
+        "S-370992007"
+      ],
+      "id": 146,
+      "meta_anns": {}
+    }
+  },
+  "tokens": []
+}
