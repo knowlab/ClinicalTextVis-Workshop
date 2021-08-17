@@ -2,6 +2,20 @@
 
 import json
 
+
+def read_JSON(filename):
+    '''read JSON files
+    input: filename of JSON file
+    output: the output string, if file not found, return {}'''
+    try:
+        with open(filename) as json_file:
+            json_output = json.load(json_file)
+            #print(json_output_str)
+    except FileNotFoundError:
+        print(filename, 'not found')
+        json_output = '{}'
+    return json_output
+
 def read_JSON_file(filename):
     '''read JSON files
     input: filename of JSON file
