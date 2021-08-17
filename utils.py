@@ -18,7 +18,7 @@ def read_JSON_file(filename):
 
 def get_ICD10_MedCAT(json_output_str):
     '''get the list of ICD10 and their descriptions from the JSON output
-    input: the JSON string of the sequence processed by *SemEHR*
+    input: the JSON string of the sequence processed by *MedCAT*
     output: the list of ICD10, each is a tuple of the code and its description'''
     json_output = json.loads(json_output_str)
     dict_ent = json_output['entities'] if json_output.get('entities', None) != None else [] # list of unique entities matched to the sequence # if there is no mentions detected, then set it as an empty list [].
@@ -30,7 +30,7 @@ def get_ICD10_MedCAT(json_output_str):
     
 def get_umls_MedCAT(json_output_str):
     '''get the list of UMLS, i.e. CUI and preferred terms from the JSON output
-    input: the JSON string of the sequence processed by *SemEHR*
+    input: the JSON string of the sequence processed by *MedCAT*
     output: the list of umls, each is a tuple of CUI and its perferred term'''
     json_output = json.loads(json_output_str)
     dict_ent = json_output['entities'] if json_output.get('entities', None) != None else [] # list of unique entities matched to the sequence # if there is no mentions detected, then set it as an empty list [].
