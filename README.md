@@ -10,6 +10,10 @@ How to start
 Alternatively, if you don't want to use Google Colab, you can clone the repo and work with your favourate IDE. You need to setup the environment yourself and change some code here and there.
 
 Schedule
+
 10:00 - 10:15 Welcome, Introduction and Congratulation
+
 10:15 - 11:15 Coding and Discussion
+
 11:15 - 11:45 Exhibition of our creative work
+
