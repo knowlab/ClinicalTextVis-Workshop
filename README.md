@@ -9,7 +9,7 @@ How to start
 
 Alternatively, if you don't want to use Google Colab, you can clone the repo and work with your favourate IDE. You need to setup the environment yourself and change some code here and there.
 
-Schedule
+Schedule - Tuesday 24 Aug 2021 (UK time zone GMT+1)
 
 10:00 - 10:15 Welcome, Introduction and Congratulation
 
